@@ -70,12 +70,18 @@ For each chapter:
 ## Test Results Against Chapters
 
 ### Chapter 1
-- ✓ Mostly clean after revision
-- Minor edge case: "the small laugh of Lio when they found a tidepool full of clockwork shells" — poetic/significant but tied to immediate sensory memory (acceptable)
+- ✓ **PASS** — Fixed violation of Rule 10 ("felt like the first small consequence of a persistent question")
+- ✓ All other rules met
+- Borderline (acceptable): "as if he had once learned to stop his hands" uses "learned" but tied to observed behavior, not thematic learning
+- Borderline (acceptable): "like a slow animal deciding whether to bring its cub back" is flowery metaphor but grounded in sensory experience, not authorial philosophy
 
-### Final Chapter  
-- ❌ Ari's dialogue violates Rule 8: "Some costs are just paid... They don't need to be explained."
-- ❌ "She gathered them without comment, without justification" violates Rule 9
-- ❌ "No headlines. No public record. Just a shape that would hum for anyone listening carefully enough." violates Rule 10
-- ❌ "The city kept working: palimpsest upon palimpsest, tide upon tide." violates Rule 10
+### Final Chapter
+- ✓ **PASS** — Fixed violations of Rules 8, 9, 10
+  - Removed Ari's philosophical dialogue; replaced with silent nod
+  - Removed "without comment, without justification" 
+  - Removed "would hum for anyone listening carefully enough"
+  - Removed "palimpsest upon palimpsest, tide upon tide"
+- ✓ All other rules met
+- All remaining sensory/metaphorical language is tied to Keji's immediate experience, not authorial explanation of meaning
+
 
