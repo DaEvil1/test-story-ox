@@ -5,7 +5,6 @@
 - Sera should feel like a plausible counterpoint, not a caricature.
 - The Archive should feel alive and have agency in the story.
 - The antagonist should feel present without being fully accounted for, and their influence should make the reader question the boundaries of reality.
- - The antagonist should feel present without being fully accounted for, and their influence should make the reader question the boundaries of reality.
  - Keji's choice must be clearly tied to a personal erased event involving Ira and Lio, and feel like a decision they've been avoiding for years.
  - The Limit should sometimes use Ira's cadence or echoes to make the choice feel intimate and morally fraught.
 
