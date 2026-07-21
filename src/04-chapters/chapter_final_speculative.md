@@ -2,13 +2,7 @@ Speculative Final Chapter — The Palimpsest Kept
 
 Keji stood on a terrace that had once been the Archive's listening room, now patched with new stone that remembered storms. Around her, the city hummed with the careful irregularity of a thing that had been altered and still kept its music. The tides carried fragments—snatches of lullaby, a bureaucrat's apology, the small laugh of Lio when they found a tidepool full of clockwork shells.
 
-The Limit had been present in everything up to this point: in the reset walls, in the whispered directives that used Ira's cadence, in Ari's guarded silences. By now Keji had seen it as both pattern and personification; sometimes it was a rule, sometimes a voice, sometimes simply the architecture finding a place to mend itself.
-
-She had come to the edge of the erased core with a bundle of choices. She could blow the lid off the Archive's most tender secret—expose the sequence of decisions that led to Lio's removal and Ira's hand in them. She could offer the city the truth on a platter and let the tides rearrange everyone. Or she could fold the truth back into the palimpsest in a way that preserved what the city needed to keep breathing while honoring a few jagged, private truths.
-
-What she carried, in truth, was not a single logic but a memory of Lio's small hand curled around a salt-wet coin. She remembered the way Lio had tucked coins into her palm with the certainty that coins would buy safe things: bread, a ticket, the promise of tomorrow.
-
-Keji had learned, slowly, that memory is not only a ledger of facts; it is the body's insistence on how things felt. She had come to see the Archive's polished surfaces for what they were: necessary seams that smoothed humanity for the city's sake, but seams that sometimes obscured the stitches that held people together.
+The Limit had been present in everything up to this point: in the reset walls, in the whispered directives that used Ira's cadence, in Ari's guarded silences.
 
 She held the ribbon of Ira's voice—the part where the decision crystallized into language. It was sharp, it was afraid, it was certain. She could splice it a hundred ways. She held her hands steady over the editing console and did not splice it at all.
 
@@ -28,6 +22,7 @@ Sera found her later at the quay. She grinned—that feral, surfing grin—and d
 
 The Limit remained. Keji could feel it in the walls: the boundary held, the question unanswered. Sometimes it spoke in Ira's cadence, sometimes in the tremor of stones resetting themselves. The Archive had accepted her amendment, but the amendment itself was now part of the architecture, folded in like a scar that would ache when the pressure changed.
 
-She sat there until the water reflected the city as it was: not clean, not orderly, not fully known. A city that contained its own contradictions and kept breathing anyway.
+She sat there with Sera until the light changed. The water reflected the city as it was. Around them, the city kept working: palimpsest upon palimpsest, tide upon tide.
 
-When she rose, her legs were stiff. She walked back toward the market, where someone had painted new letters on the wall—not Lio's scrawl, but something in a child's hand nonetheless. The coin in her pocket remained, waiting for someone to find it and understand what it meant. Or not understand. The weight of it was enough.
+When she rose, her legs were stiff. She walked back toward the market, where someone had painted new letters on the wall—not Lio's scrawl, but something in a child's hand nonetheless. The coin in her pocket touched her ribs as she moved. She did not reach for it. She walked until the market opened its mouth and swallowed her back into its ordinary noise.
+
