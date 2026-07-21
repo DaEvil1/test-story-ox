@@ -4,10 +4,9 @@ Keji Lian learned the Archive like other people learned a language: by listening
 
 On most days she smoothed and stitched, pruning the ragged edges of trauma until a person's life read cleanly on the public surfaces of the city. The Curators called it care. She filed the work, clocked out, and felt something like vertigo when the edited lives reflected back at her from the city's walls—coherent, sensible, emptied of the things that made them human.
 
-Today, a ribbon thrummed under her fingers that refused to settle. When she tugged it, the room rearranged itself—her terminal folded into a shape she'd never programmed, the light pooling at odd angles—an architecture that replied to touch. Keji frowned. The strand displayed a sentence she did not remember writing: SOMETHING WAS LEFT BEHIND.
+Today, a ribbon thrummed under her fingers that refused to settle. When she tugged it, the room rearranged itself—her terminal folded into a shape she'd never programmed, the light pooling at odd angles. The strand displayed a sentence she did not remember writing: SOMETHING WAS LEFT BEHIND.
 
-It wasn't an admission—no, it was a shard, the kind of serrated fragment that could prick open memory like a palm. She replayed the clip. The voice was muffled, compressed, and threaded through a rhythm she almost recognized: the cadence had the same catch as Ira's when he justified a hard choice. Her throat closed.
-
+She replayed the clip. The voice was muffled, compressed, and threaded through a rhythm she almost recognized: the cadence had the same catch as Ira's when he justified a hard choice. Her throat closed.
 She should have cataloged it, handed it to Ari, filed it. Her hands moved before the thought finished. She palmed the ribbon and walked into the market of living walls.
 
 The city is a palimpsest; advertisements flutter above archival script, lovers' names breathe through varnished panels. In the market a wall had been scoured clean—no graffiti, no merchant prayers—and someone had painted a child's scrawl across it with a blunt, stubborn hand. The letters were juvenile and crooked, and for a second Keji tasted Lio's smallness behind them—mischief, a bargain made with a puddle.
@@ -15,8 +14,6 @@ The city is a palimpsest; advertisements flutter above archival script, lovers' 
 A woman selling echo-bottles looked up. "You look like you swallowed an unfinished story," she said. She wrapped a bottle in brown paper and handed it to Keji without asking.
 
 Keji didn't smile. She moved through the Drift with the quietness of someone rewiring a thought. Sera found her at the old quay, where the Archive breathed loudest into the sea. "You came early," Sera said, reclined against a post the architecture had shaped into a chair.
-
-They had opposing styles of listening. Sera let memory swell and spill, a tide that could be walked through. Keji cut and shaped; the result was always smoother lifeforms, less likely to snap.
 
 "There's a limit to how much smoothing preserves anything," Sera said. She cocked her head toward the water. "There are things the Archive can't or won't carry. They call that place The Limit."
 
@@ -26,14 +23,13 @@ At the Curators' hall, Ari's face had the careful exhaustion of someone who make
 
 "Deep layers are sealed for a reason," Ari said. "We protect the many by curating the pain of the few."
 
-Keji tasted the word protect and did not swallow. Her life—her cleanings, her assays, her quiet self—had been built on the assumption that truth could be scheduled and placed behind glass. A ribbon with Ira's cadence challenged that architecture.
+Keji did not swallow. The words sat in her throat.
 
 At home, packets of Lio's handwriting arrived in fragments—postcards, half-practiced signatures on a receipt—things the Archive kept for the family. Keji aligned them the way a conservator aligns torn pages: the curves, the slants, the accidental loops. The child's scrawl on the market wall matched a crooked loop she'd been filing away as an affectionate proof. The loop thrummed against the new shard in her chain.
 
-Late, she sat at the window and listened to the Archive. It pulsed, not as a machine but like a slow animal deciding whether to bring its cub back into the herd. In the silence she heard the cadence again. Ira's voice in fragments—arguing, rationalizing, small mercies offered under great pressure. The Limit was not only a boundary between public and private memory; her hands knew its shape the way a body knows a scar.
+Late, she sat at the window and listened to the Archive. It pulsed, not as a machine but like a slow animal deciding whether to bring its cub back into the herd. In the silence she heard the cadence again. Ira's voice in fragments—arguing, rationalizing, small mercies offered under great pressure.
 
 Her chest was tight. She palmed the ribbon and the tightness didn't break.
-
 The Archive shifted as if answering. A seam opened in the pavement outside her building—subtle, a hairline crack in the palimpsest—and the city let her pass. It did not feel like permission. It felt like the first small consequence of a persistent question.
 
 She walked down toward the tides.
