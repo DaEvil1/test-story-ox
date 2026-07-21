@@ -10,28 +10,24 @@ What she carried, in truth, was not a single logic but a memory of Lio's small h
 
 Keji had learned, slowly, that memory is not only a ledger of facts; it is the body's insistence on how things felt. She had come to see the Archive's polished surfaces for what they were: necessary seams that smoothed humanity for the city's sake, but seams that sometimes obscured the stitches that held people together.
 
-She remembered Ira's face the night decisions were made—sharp, tired, certain. The Archive had obeyed, and Lio had been folded into an arrangement that erased the public fact of their existence. Keji had felt a running away in herself then: a part of her that wanted to catalog and a part that wanted to rip the catalog open until all the pages bled truth.
+She held the ribbon of Ira's voice—the part where the decision crystallized into language. It was sharp, it was afraid, it was certain. She could splice it a hundred ways. She held her hands steady over the editing console and did not splice it at all.
 
-Standing now with the core exposed like a bone, she felt something like compassion for Ira: not absolution, but an understanding of the shape of choices made in a pressure chamber. She also felt reverence for Lio—the small, persistent life that had been counted a cost.
+Instead, she began with Lio's fragments: the coin, worn smooth. The tidepool. The whistle—two fingers in the mouth, the sound like a bird that had learned to question itself. She gathered them without comment, without justification. They lived in the Archive's spine as a residue, the way old dust lives between floorboards. No headlines. No public record. Just a shape that would hum for anyone listening carefully enough.
 
-Her choice, when she made it, was not a binary.
+The public layer took longer. She wrote an administrative correction—guardianship misfiled, apologies issued, a small memorial plaque to be placed in the market. The language was bureaucratic, efficient. It would satisfy the Archive's hunger for orderliness. The city would adjust its architecture accordingly, and most people would not notice the shift.
 
-She crafted an archive fragment—careful, granular, and true in tone—that matched the small, particular facts of Lio's life: the coin, the tidepool, the day Lio learned to whistle with two fingers. She bound it with residues of Ira's voice but left out the directive tone that authorized erasure. She created a residue: a memory that could be discovered by those who knew where to look, one that didn't shout from the rooftops and didn't let the city crumble.
+When her fingers left the console, the terrace shuddered. The buildings around her hummed and settled. A wall that had been wavering for weeks straightened; a drift channel that had been running irregular found its rhythm again.
 
-Then she wrote several public amendments—the kind the Archive accepts—framing a small, plausible administrative error and a restitution clause. She couched the truth in the language of repair rather than indictment. In the public record, Lio's absence would be explained as a misfiled guardianship, to be corrected with apologies and memorials. In the hidden layer she placed the fragment that would, in time, teach a careful reader what had been sacrificed.
+Ari arrived before dawn, moving like someone who had known this was coming. "What did you do?" he asked, but his face wasn't asking. He was simply confirming.
 
-When she finished, the city exhaled in a way she could feel down to her bones. Buildings that had wavered steadied; drift channels rebalanced. Some people would feel a tremor and misattribute it to weather. Others—those who listened to the palimpsest the way Keji did—would find the bright little coin and recognize what it meant.
+"An amendment," Keji said. "Administrative correction."
 
-Ari came later, not with accusation but with an old, tired acceptance. Ira did not come; perhaps Ira had already left the city, or perhaps Ira had been folded into a different archive of choices. Sera grinned like someone who had found a way to surf a new, honest current.
+Ari looked at the console where the edits lived. He looked at the terrace's edge where the Archive's pulse had steadied. When he turned back to Keji, his expression had shifted into something like acceptance. "Some costs are just paid," he said quietly. "They don't need to be explained."
 
-Keji did not claim victory. She had not vindicated a wrong by exposing it loudly; she had not preserved the city's brittle peace by leaving everything unexamined. She had chosen a middle: a palimpsest kept, a memory made discoverable to those who would cherish it. She had given Lio a place to live in the architecture of memory—both hidden and retrievable.
+Sera found her later at the quay. She grinned—that feral, surfing grin—and didn't ask questions. She simply sat next to Keji and watched the tides, which had returned to their proper rhythm.
 
-The Limit did not disappear. It remained a question at the city's edge, sometimes voiced in the cadence of Ira and sometimes in the tremor of a wall resetting itself. That was acceptable. The city needed boundaries. People needed mystery. Keji had only decided that some mysteries would be honored rather than erased.
+The Limit remained. Keji could feel it in the walls: the boundary held, the question unanswered. Sometimes it spoke in Ira's cadence, sometimes in the tremor of stones resetting themselves. The Archive had accepted her amendment, but the amendment itself was now part of the architecture, folded in like a scar that would ache when the pressure changed.
 
-She slid the fragment into the Archive's seam and walked away. The tide rose and, for a moment, the water's reflection showed a city that told its own stories back, muddled and true.
+She sat there until the water reflected the city as it was: not clean, not orderly, not fully known. A city that contained its own contradictions and kept breathing anyway.
 
-Later, perhaps, someone would come and tear open the seam. Perhaps the Archive would one day be incapable of holding contradictions and would reconfigure into a new thing. Keji could not predict that. She had chosen a way to live with uncertainty; she had chosen a way to keep Lio's small, stubborn life folded into the world.
-
-Outside, the market walls still bore faint scrawls. Somewhere in the Drift, an echo-bottle clicked open and played a child's laugh. The city kept working: palimpsest upon palimpsest, tide upon tide.
-
-And Keji, who had once made her life by smoothing jagged stories, learned to carry edges where necessary.
+When she rose, her legs were stiff. She walked back toward the market, where someone had painted new letters on the wall—not Lio's scrawl, but something in a child's hand nonetheless. The coin in her pocket remained, waiting for someone to find it and understand what it meant. Or not understand. The weight of it was enough.

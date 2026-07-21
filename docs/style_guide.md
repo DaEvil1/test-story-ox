@@ -26,3 +26,27 @@
 - **The Limit:** Treat it as a boundary motif and occasional voice—when it appears, prose can tighten or fragment. Use sparingly to preserve ambiguity; let other characters echo its cadence sometimes.
 
 Use motifs consistently but subtly. They should anchor scenes thematically without becoming repetitive or on-the-nose.
+
+## Hard Prose Rules
+
+These are non-negotiable constraints for all prose passages in this project:
+
+1. **No explanations of character choices or internal states.** If Keji decides to investigate, show her investigating. Don't tell the reader why or explain the logic. Let readers infer from action.
+
+2. **Show through action, dialogue, sensory detail, and behavior. Never through authorial commentary.** For example:
+   - ❌ "She felt uncertain about her decision."
+   - ✓ "Her hands trembled when she palmed the ribbon."
+
+3. **Avoid meta-commentary about the story or character's journey.** No lines like "Keji learned that..." or "She came to understand..." The story itself should teach readers; we don't narrate the lesson.
+
+4. **Do not lay out arguments or philosophical conclusions through the narrator's voice.** For example:
+   - ❌ "She did not claim victory. She had chosen a middle path that preserved peace while honoring truth."
+   - ✓ Show her writing the amendment. Show her choosing what to keep hidden and what to reveal. Let readers conclude she chose a middle path.
+
+5. **Avoid "the moral of the story" moments.** No final lines that summarize what the character learned or how they changed. End on immediate, sensory, present-moment details.
+
+6. **Trust the reader.** Trust them to feel the emotion, make the connections, reach the conclusions. Your job is to show the story, not to guide their interpretation.
+
+7. **Prefer present-moment immediacy over reflection or summary.** Stay in the character's sensory experience. Minimize past-tense summary or philosophical retrospective.
+
+8. **When a character is conflicted or uncertain, show it through physical sensation, hesitation, or fractured action—not through explanation.**
