@@ -35,9 +35,24 @@ This test validates adherence to our hard prose principles (see docs/style_guide
    - ❌ "What she carried, in truth, was not a single logic but a memory of Lio's small hand..."
    - ✓ Show her holding Ira's ribbon. Show her gathering Lio's fragments. Let action speak.
 
-8. **Trust the reader; they will reach conclusions:**
-   - ❌ Multiple paragraphs explaining why Keji chose this path or reflecting on its significance.
-   - ✓ Brief scene showing the choice; let readers interpret.
+8. **No dialogue that explicitly states moral or philosophical principles:**
+   - ❌ "Some costs are just paid. They don't need to be explained." (character voicing philosophy rather than showing acceptance through action)
+   - ❌ "Memory is more than facts" (characters explaining the theme)
+   - ✓ Show characters making choices; let their actions reveal what they believe.
+
+9. **No "without [motivation]" constructions that explain why something was done:**
+   - ❌ "She gathered them without comment, without justification." (authorial explanation of her choice)
+   - ❌ "She walked without hesitation, without doubt." (author telling us her state)
+   - ✓ "She gathered them. She set them in the spine." (just the action)
+
+10. **No poetic/metaphorical statements about significance disguised as description:**
+   - ❌ "Just a shape that would hum for anyone listening carefully enough." (explaining the beauty/meaning of the action)
+   - ❌ "The city kept working: palimpsest upon palimpsest, tide upon tide." (poetic summary of significance)
+   - ✓ "She walked back toward the market." (just what happened)
+
+11. **Trust the reader; they will reach conclusions:**
+    - ❌ Multiple paragraphs explaining why Keji chose this path or reflecting on its significance.
+    - ✓ Brief scene showing the choice; let readers interpret.
 
 ## Validation
 
@@ -45,6 +60,22 @@ For each chapter:
 - Scan for "had learned," "came to see," "came to understand," "realized that," "What she carried" — these are authorial explanation masquerading as narrative.
 - Scan for sentences that reflect on meaning or significance (especially at chapter endings).
 - Check for philosophical conclusions presented as description.
+- Scan for dialogue that states moral/philosophical principles instead of showing belief through action.
+- Scan for "without [motivation]" patterns — these are authorial commentary about choice.
+- Scan for poetic statements about significance or beauty — if removed, does the story still work? Then they're probably authorial.
 - Verify all conflicts are enacted through dialogue/behavior, not introspection.
 - Strip out reflection; keep immediate, present-moment action and sensory detail.
 - **Special focus:** Look for passages that could be removed without losing the story—those are usually authorial commentary.
+
+## Test Results Against Chapters
+
+### Chapter 1
+- ✓ Mostly clean after revision
+- Minor edge case: "the small laugh of Lio when they found a tidepool full of clockwork shells" — poetic/significant but tied to immediate sensory memory (acceptable)
+
+### Final Chapter  
+- ❌ Ari's dialogue violates Rule 8: "Some costs are just paid... They don't need to be explained."
+- ❌ "She gathered them without comment, without justification" violates Rule 9
+- ❌ "No headlines. No public record. Just a shape that would hum for anyone listening carefully enough." violates Rule 10
+- ❌ "The city kept working: palimpsest upon palimpsest, tide upon tide." violates Rule 10
+

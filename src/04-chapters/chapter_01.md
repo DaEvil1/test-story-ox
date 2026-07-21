@@ -30,6 +30,6 @@ At home, packets of Lio's handwriting arrived in fragments—postcards, half-pra
 Late, she sat at the window and listened to the Archive. It pulsed, not as a machine but like a slow animal deciding whether to bring its cub back into the herd. In the silence she heard the cadence again. Ira's voice in fragments—arguing, rationalizing, small mercies offered under great pressure.
 
 Her chest was tight. She palmed the ribbon and the tightness didn't break.
-The Archive shifted as if answering. A seam opened in the pavement outside her building—subtle, a hairline crack in the palimpsest—and the city let her pass. It did not feel like permission. It felt like the first small consequence of a persistent question.
+The Archive shifted as if answering. A seam opened in the pavement outside her building—subtle, a hairline crack in the palimpsest—and the city let her pass.
 
 She walked down toward the tides.
