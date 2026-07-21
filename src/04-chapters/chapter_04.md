@@ -1,0 +1,65 @@
+Chapter 4 — The Erased Core
+
+The stair tightened around Keji. It was not a stair so much as a seam the Archive had left between two memories. Her hand trailed along the wall and felt the texture change: one side was old plaster, the other was a film of film. The light came from beneath the stone, pale and uneven.
+
+She counted the steps in her mind. The coin in her pocket tapped once on her thigh with each one. It was a small, inconsistent sound. It kept her in the present.
+
+At the bottom, the air had the smell of rain that had never fallen. A door waited there. It was marked with a layer of varnish over thin script, the kind of varnish the city used when it wanted to make something look finished.
+
+Keji set her palm against the door. The surface shivered and the script rearranged itself under her skin. The first word that formed was NO, written in a hand that trembled just enough to be honest. The second word was FURTHER.
+
+The door did not open. The wall on her left hummed and a pressure settled in her ribs. The Limit was not a voice yet. It was the door refusing her.
+
+She pressed harder. The script blurred. A line slipped through the varnish then vanished. It was a name: LIO. The letters were not public. They were private and splayed, the way a child might have written them on a purse with too much force.
+
+Keji took a breath. The surface was cool. She said the word out loud once and the letter O felt wrong in her mouth.
+
+The door responded with a sound deeper than a murmur. It was a series of taps, like the Archive communicating in a language of old equipment. She traced the taps with her mind. There were three: one for warning, one for limit, one for request.
+
+She folded the glitch in her palm and stepped away from the door. The passage she had come through had already begun to fade. The stone above her head seemed to sigh.
+
+In the chamber beyond the door, the memory held itself in a room of listening surfaces. Keji did not see it first. She heard it. A line of language rose out of the air around her, not through speakers but through her own bones. It was a flat, careful voice speaking to a table of faces she did not see.
+
+"Authorize the reset," the voice said. "Preserve the network. Remove the channel. Keep the public smooth."
+
+The sentence had the precision of a directive. The walls around her vibrated with the rhythms of agreement: the quick paper rustle of bureaucrats, the low assent of concord. Then the voice returned with a second line, quieter and steadier.
+
+"Ira Nash signs. The packet is sealed. The child is not lost. The child becomes a ledger entry."
+
+Keji's breath hitched. The room in her head swelled with the sound of the word ledger. It felt like a knife pulled through something soft.
+
+A second voice pressed against the first. It was not a voice she knew by shape, but by the way it made the air around it shift. It said, 
+
+"No further."
+
+The wall behind her tightened. The chamber pulsed. The Limit did not say much, but when it spoke, the memory system obeyed. The recorded direction on the room's surface snapped sideways. The word AUTHORIZE shattered into AUTHOR and then fell apart.
+
+Keji reached out. Her hand hovered over the line. She could feel the memory's edges. They were ragged, barely held together. A fragment of sentence broke free and floated between her fingers.
+
+It was a child's phrase. She heard it as taste in her mouth, quick and bright: "...if I keep the light, then the dark can go away..."
+
+The voice snapped back into the main track. The chamber's wall made a sound like a lid coming down.
+
+Keji did not move. She let the silence fill the space. Her shoulder pressed against a bracket of stone. She felt the coin in her pocket and the way it warmed with her pulse.
+
+When the room unclenched, she reached for the recorder she had brought. She had expected to take a clean clip. The Archive did not give her that. The recording was jagged—fragments, cross-talk, the sound of a line erasing itself.
+
+She saved what she could. The first item was the directive: AUTHORIZE RESET. PRESERVE NETWORK. REMOVE CHANNEL.
+
+The second item was the name, held like a tremor: LIO.
+
+The third item was the child's line, incomplete and real. 
+
+The recorder light blinked red. There was one more item already on the tape when she played it back: a voice with the catch she knew. It whispered the word necessary and then the memory cut.
+
+Keji closed the recorder. The chamber around her had stopped humming. The door back to the stair had sealed itself with a slow, final sound. The passage did not want her to leave.
+
+She did not push it. She let her hand follow the faint ink beneath the plaster. The ink had been written in a hand that belonged to someone who had been forced to write neat. Her fingers found the seam and the wall shivered. The stair opened.
+
+When she reached the market level, the world seemed brighter than before, not because the sun had changed but because the hidden space had shown her a place the city had tried to keep in shadow. Her palm still held the coin's warmth.
+
+She could have gone back to Ari. She could have gone to Sera. Instead she went to the Drift first. The wall script there had loosened under her fingers. It pulsed more readily than before.
+
+Sera was waiting by a wall that had been half-finished for days. Her palm rested on fresh ink.
+
+"You made it further," she said. There was no surprise in the tone, only the bare fact.
