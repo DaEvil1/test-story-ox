@@ -16,10 +16,8 @@ Keji Lian is a memory specialist in the Archive, a city built around a living re
 ## Act 2: The Hidden Layer
 
 7. Keji moves into the Archive’s hidden strata. The architecture shifts: stairs that become riverbeds, rooms that replay old arguments as if they were weather.
-8. She finds a preserved fragment of the erased event: a public vow, a ritual, an emergency that was wiped clean. The fragment is imperfect, full of gaps and implied fear.
 8. She finds a preserved fragment of the erased event: a public vow, a ritual, an emergency that was wiped clean. The fragment is imperfect, full of gaps and implied fear — and it contains a recorded directive in Ira Nash's voice that seems to authorize or rationalize the erasure.
 9. The Limit's influence appears indirectly: a wall that keeps resetting itself, a piece of data that vanishes when Keji tries to write it down, and other citizens who suddenly remember a rule that never existed.
-10. Keji returns to Ari with the fragment. He insists the old event is dangerous and that some forgetting is part of survival.
 10. Keji returns to Ari with the fragment. He insists the old event is dangerous and that some forgetting is part of survival; when Keji mentions Ira's voice, Ari grows guarded and hints that some people made terrible choices to protect the city.
 11. Sera offers another path: use the Drift to experience the memory as it wants to be felt, not only as a restored record.
 12. Keji struggles with her own archive resisting the probe. Her glitch grows stranger: it now feels like a presence watching her decisions.
@@ -34,5 +32,3 @@ Keji Lian is a memory specialist in the Archive, a city built around a living re
 18. Keji chooses to carry the imperfect self in a way that is faithful to Lio's remembered fragments (the exact method is left for chapter drafting), refusing complete erasure even as she weighs the broader consequences.
 19. The Archive shifts in response, the city stuttering between order and drift.
 20. In the aftermath, Keji accepts that some things are unresolved. She keeps The Limit's nature ambiguous, and the story ends with her deciding how memory will be lived rather than merely edited.
-18. The Archive shifts in response, the city stuttering between order and drift.
-19. In the aftermath, Keji accepts that some things are unresolved. She keeps The Limit's nature ambiguous, and the story ends with her deciding how memory will be lived rather than merely edited.
