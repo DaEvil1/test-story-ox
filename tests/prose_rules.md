@@ -54,6 +54,11 @@ This test validates adherence to our hard prose principles (see docs/style_guide
     - ❌ Multiple paragraphs explaining why Keji chose this path or reflecting on its significance.
     - ✓ Brief scene showing the choice; let readers interpret.
 
+12. **Rare, intentional self-confirmation is permitted when it is the character's own immediate processing:**
+    - ❌ "He saw the door open. That meant the world would end." (author narrating a conclusion)
+    - ✓ "The door opened. He was alive!" (the character spells out their shock to themselves)
+    - Use this sparingly and only when it feels like the character is breathing after a sudden realization.
+
 ## Validation
 
 For each chapter:

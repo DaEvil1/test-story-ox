@@ -50,3 +50,9 @@ These are non-negotiable constraints for all prose passages in this project:
 7. **Prefer present-moment immediacy over reflection or summary.** Stay in the character's sensory experience. Minimize past-tense summary or philosophical retrospective.
 
 8. **When a character is conflicted or uncertain, show it through physical sensation, hesitation, or fractured action—not through explanation.**
+
+9. **Allow extremely rare self-confirmation when it is the character's own shock or confusion.**
+   - Example: "The passer's eyes flickered open. He was alive!"
+   - This is not a narrative summary; it is a tiny, purposeful beat that shows a character spelling out the conclusion to themselves.
+   - Use it only when the moment feels like the character's own breath catching, not when it becomes a substitute for showing emotion.
+
