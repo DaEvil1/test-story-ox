@@ -274,17 +274,230 @@ def check_promise_ledger(path: Path, findings: list) -> None:
                                      f"'{claim}': {len(beats)} delivering beats (min {minimum})"))
 
 
-def check_ledgers(ledgers_dir: Path, findings: list) -> None:
+def load_yaml(path: Path) -> dict:
+    return yaml.safe_load(path.read_text(encoding="utf-8")) or {}
+
+
+def check_tension_ledger(path: Path, findings: list) -> None:
+    data = load_yaml(path)
+    label = path.name
+    scenes = data.get("scenes", [])
+    thr = data.get("thresholds", {})
+    tensions = [s.get("tension") for s in scenes if isinstance(s.get("tension"), (int, float))]
+    if not tensions:
+        findings.append(_finding(label, "TN-00", "empty-ledger", "error", "no tension scores"))
+        return
+    mean = sum(tensions) / len(tensions)
+    stdev = (sum((t - mean) ** 2 for t in tensions) / len(tensions)) ** 0.5
+    min_stdev = thr.get("min_stdev")
+    if min_stdev is not None and stdev < min_stdev:
+        findings.append(_finding(label, "TN-01", "flat-curve", "error",
+                                 f"tension stdev {stdev:.2f} < {min_stdev}"))
+    peak = max(tensions)
+    valley = min(tensions)
+    if thr.get("min_peak") is not None and peak < thr["min_peak"]:
+        findings.append(_finding(label, "TN-02", "no-climax", "error",
+                                 f"peak tension {peak} < {thr['min_peak']}"))
+    if thr.get("min_valley") is not None and valley > thr["min_valley"]:
+        findings.append(_finding(label, "TN-03", "no-release", "error",
+                                 f"valley tension {valley} > {thr['min_valley']}"))
+    max_run = thr.get("max_consecutive_equal")
+    if max_run is not None:
+        run = 1
+        for a, b in zip(tensions, tensions[1:]):
+            run = run + 1 if a == b else 1
+            if run > max_run:
+                findings.append(_finding(label, "TN-04", "plateau", "error",
+                                         f"{run} consecutive scenes at tension {a}"))
+                break
+    feelings = {s.get("feeling") for s in scenes if s.get("feeling")}
+    min_feelings = thr.get("min_distinct_feelings")
+    if min_feelings is not None and len(feelings) < min_feelings:
+        findings.append(_finding(label, "TN-05", "one-note", "error",
+                                 f"{len(feelings)} distinct reader feelings < {min_feelings}: "
+                                 f"{sorted(feelings)}"))
+
+
+def check_questions_ledger(path: Path, findings: list, last_chapter: int) -> None:
+    data = load_yaml(path)
+    label = path.name
+    loops = data.get("loops", [])
+    thr = data.get("thresholds", {})
+    valid_statuses = {"answered", "held-deliberate"}
+    open_by_chapter: dict[int, int] = {}
+    for loop in loops:
+        qid = loop.get("id", "?")
+        status = loop.get("status", "")
+        opened = int(loop.get("opened", 0))
+        closed = loop.get("closed")
+        if status not in valid_statuses:
+            findings.append(_finding(label, "QL-01", "unresolved-loop", "error",
+                                     f"{qid}: status '{status}' not allowed at polish stage"))
+        start = opened
+        end = int(closed) if closed is not None else last_chapter
+        for c in range(start, end + 1):
+            open_by_chapter[c] = open_by_chapter.get(c, 0) + 1
+        if status == "held-deliberate":
+            reminders = sorted(int(r) for r in loop.get("reminders", []))
+            window = thr.get("max_open_chapters_without_reminder")
+            if window is not None:
+                points = [start] + reminders
+                for a, b in zip(points, points[1:]):
+                    if b - a > window:
+                        findings.append(_finding(label, "QL-02", "forgotten-loop", "error",
+                                                 f"{qid}: gap {a}->{b} exceeds {window} without reminder"))
+                if last_chapter - points[-1] > window:
+                    findings.append(_finding(label, "QL-02", "forgotten-loop", "error",
+                                             f"{qid}: no reminder within {window} chapters of end "
+                                             f"(last at {points[-1]})"))
+    max_open = thr.get("max_simultaneously_open")
+    if max_open is not None and open_by_chapter:
+        worst = max(open_by_chapter.values())
+        if worst > max_open:
+            findings.append(_finding(label, "QL-03", "attention-overload", "error",
+                                     f"{worst} loops simultaneously open (max {max_open})"))
+
+
+def check_plantpayoff_ledger(path: Path, findings: list) -> None:
+    data = load_yaml(path)
+    label = path.name
+    for item in data.get("items", []):
+        iid = item.get("id", "?")
+        status = item.get("status", "")
+        payoff = (item.get("payoff") or "").strip()
+        plant = (item.get("plant") or "").strip()
+        if payoff and not plant:
+            findings.append(_finding(label, "PP-01", "orphan-payoff", "error",
+                                     f"{iid}: pays off but was never planted"))
+        if plant and not payoff:
+            if status != "needs-payoff":
+                findings.append(_finding(label, "PP-02", "orphan-plant", "warning",
+                                         f"{iid}: planted but never paid off"))
+            elif status == "needs-payoff":
+                findings.append(_finding(label, "PP-02", "open-plant", "warning",
+                                         f"{iid}: planted (ch{item.get('planted', '?')}), "
+                                         f"payoff pending — known work item"))
+
+
+def check_attachment_ledger(path: Path, findings: list) -> None:
+    data = load_yaml(path)
+    label = path.name
+    for ch in data.get("characters", []):
+        name = ch.get("name", "?")
+        minimum = int(ch.get("min_beats", 0))
+        beats = ch.get("beats") or []
+        if len(beats) < minimum:
+            findings.append(_finding(label, "AT-01", "unattached-character", "error",
+                                     f"{name}: {len(beats)} attachment beats (min {minimum})"))
+            continue
+        types = {b.get("type") for b in beats}
+        if len(types) < 2:
+            findings.append(_finding(label, "AT-02", "one-note-bond", "warning",
+                                     f"{name}: all beats are '{next(iter(types))}'"))
+
+
+def check_worldterms_ledger(path: Path, texts: dict[str, str], findings: list) -> None:
+    import re
+    data = load_yaml(path)
+    label = path.name
+    thr = data.get("thresholds", {})
+    chapter_of = {i + 1: name for i, name in enumerate(sorted(texts.keys()))}
+    ordered = [texts[chapter_of[c]] for c in sorted(chapter_of)]
+    for entry in data.get("terms", []):
+        term = entry.get("term", "")
+        introduced = int(entry.get("introduced", 1))
+        defined = int(entry.get("defined_by_context_in", introduced))
+        needle = term.lower()
+        first_seen = None
+        for idx, text in enumerate(ordered, start=1):
+            hay = text.lower() if needle.islower() and term != "The Limit" else text
+            if term in hay or needle in hay.lower():
+                first_seen = idx
+                break
+        if first_seen is not None and first_seen < introduced:
+            findings.append(_finding(label, "WT-01", "term-drift", "error",
+                                     f"'{term}' first appears in ch{first_seen}, "
+                                     f"ledger says ch{introduced}"))
+        lag = defined - introduced
+        max_lag = thr.get("max_definition_lag")
+        if max_lag is not None and lag > max_lag:
+            findings.append(_finding(label, "WT-02", "late-onboarding", "error",
+                                     f"'{term}': context arrives {lag} chapters after first use"))
+
+
+def check_surprise_ledger(path: Path, findings: list) -> None:
+    data = load_yaml(path)
+    label = path.name
+    turns = data.get("turns", [])
+    thr = data.get("thresholds", {})
+    if not turns:
+        return
+    n = len(turns)
+    confirmed = sum(1 for t in turns if t.get("type") == "confirmed")
+    moved = sum(1 for t in turns if t.get("type") in ("shifted", "subverted"))
+    min_shift = thr.get("min_shift_ratio")
+    if min_shift is not None and moved / n < min_shift:
+        findings.append(_finding(label, "SR-01", "predictable-turns", "error",
+                                 f"{moved}/{n} turns shift or subvert (min ratio {min_shift})"))
+    max_conf = thr.get("max_confirmed_ratio")
+    if max_conf is not None and confirmed / n > max_conf:
+        findings.append(_finding(label, "SR-02", "confirmation-dominance", "error",
+                                 f"{confirmed}/{n} turns pure confirmations (max ratio {max_conf})"))
+    for t in turns:
+        if t.get("type") == "subverted" and not (t.get("seed") or "").strip():
+            findings.append(_finding(label, "SR-03", "unseeded-twist", "error",
+                                     f"ch{t.get('chapter')}: subversion without a seed"))
+
+
+VALID_TRIAGE = {"fixed", "explained-in-text", "embraced-deliberate"}
+
+
+def check_reception_ledger(path: Path, findings: list) -> None:
+    data = load_yaml(path)
+    label = path.name
+    acts = {a.get("act") for a in data.get("act_stakes_legibility", [])}
+    for expected in (1, 2, 3):
+        if expected not in acts:
+            findings.append(_finding(label, "RC-01", "illegible-stakes", "error",
+                                     f"act {expected} has no want/stakes statement"))
+    for breaker in data.get("immersion_breakers", []):
+        triage = breaker.get("triage", "")
+        if triage not in VALID_TRIAGE:
+            findings.append(_finding(label, "RC-02", "untriaged-breaker", "error",
+                                     f"'{breaker.get('issue', '?')[:60]}' triage='{triage}'"))
+    for tp in data.get("title_payoffs", []):
+        if not (tp.get("pays_off_in") or "").strip():
+            findings.append(_finding(label, "RC-03", "loose-title", "warning",
+                                     f"ch{tp.get('chapter')} title has no paying scene"))
+
+
+def check_ledgers(ledgers_dir: Path, findings: list, texts: dict[str, str]) -> None:
     ledger_checks = {
         "scene_ledger.yaml": check_scene_ledger,
         "ambiguity_ledger.yaml": check_ambiguity_ledger,
         "relationship_ledger.yaml": check_relationship_ledger,
         "promise_ledger.yaml": check_promise_ledger,
+        "tension_ledger.yaml": check_tension_ledger,
+        "attachment_ledger.yaml": check_attachment_ledger,
+        "plantpayoff_ledger.yaml": check_plantpayoff_ledger,
+        "surprise_ledger.yaml": check_surprise_ledger,
+        "reception_ledger.yaml": check_reception_ledger,
     }
     for filename, fn in ledger_checks.items():
         path = ledgers_dir / filename
         if path.exists():
             fn(path, findings)
+
+    questions_path = ledgers_dir / "questions_ledger.yaml"
+    if questions_path.exists():
+        scene_data = load_yaml(ledgers_dir / "scene_ledger.yaml") if (ledgers_dir / "scene_ledger.yaml").exists() else {}
+        chapters = [s.get("chapter", 0) for s in scene_data.get("scenes", [])]
+        last_chapter = max(chapters) if chapters else 11
+        check_questions_ledger(questions_path, findings, last_chapter)
+
+    worldterms_path = ledgers_dir / "worldterms_ledger.yaml"
+    if worldterms_path.exists() and texts:
+        check_worldterms_ledger(worldterms_path, texts, findings)
 
 
 def main() -> int:
@@ -325,7 +538,7 @@ def main() -> int:
         texts[label] = text
 
     check_frequency(texts, rules, findings)
-    check_ledgers(args.ledgers_dir, findings)
+    check_ledgers(args.ledgers_dir, findings, texts)
 
     chapter_labels = {s["file"] for s in stats}
     ledger_findings = [f for f in findings if f["file"] not in chapter_labels]

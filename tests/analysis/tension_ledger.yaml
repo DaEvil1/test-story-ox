@@ -1,0 +1,49 @@
+# Tension & Feeling Ledger
+#
+# Per-scene perceived tension (0-10, cold-reader estimate) and the dominant
+# reader feeling. Validated by tools/check_story.py (rules TN-*): the curve
+# must have shape — peaks, valleys, no long plateaus.
+
+scenes:
+  - {id: ch01-s01, tension: 5, feeling: unease}
+  - {id: ch01-s02, tension: 4, feeling: sorrow}
+  - {id: ch01-s03, tension: 5, feeling: dread}
+  - {id: ch01-s04, tension: 6, feeling: dread}
+  - {id: ch01-s05, tension: 6, feeling: resolve}
+  - {id: ch02-s01, tension: 5, feeling: unease}
+  - {id: ch02-s02, tension: 7, feeling: wonder}
+  - {id: ch02-s03, tension: 4, feeling: tenderness}
+  - {id: ch02-s04, tension: 6, feeling: dread}
+  - {id: ch03-s01, tension: 7, feeling: tension}
+  - {id: ch03-s02, tension: 6, feeling: wonder}
+  - {id: ch03-s03, tension: 5, feeling: resolve}
+  - {id: ch04-s01, tension: 7, feeling: dread}
+  - {id: ch04-s02, tension: 9, feeling: horror}
+  - {id: ch04-s03, tension: 6, feeling: urgency}
+  - {id: ch04-s04, tension: 3, feeling: relief}
+  - {id: ch05-s01, tension: 6, feeling: compassion}
+  - {id: ch05-s02, tension: 7, feeling: grief}
+  - {id: ch05-s03, tension: 4, feeling: resolve}
+  - {id: ch06-s01, tension: 5, feeling: curiosity}
+  - {id: ch06-s02, tension: 8, feeling: dread}
+  - {id: ch07-s01, tension: 6, feeling: dread}
+  - {id: ch07-s02, tension: 9, feeling: horror}
+  - {id: ch07-s03, tension: 3, feeling: relief}
+  - {id: ch08-s01, tension: 5, feeling: tenderness}
+  - {id: ch08-s02, tension: 6, feeling: dread}
+  - {id: ch09-s01, tension: 6, feeling: anticipation}
+  - {id: ch09-s02, tension: 7, feeling: tension}
+  - {id: ch09-s03, tension: 9, feeling: pain}
+  - {id: ch10-s01, tension: 5, feeling: grief}
+  - {id: ch10-s02, tension: 7, feeling: awe}
+  - {id: ch10-s03, tension: 4, feeling: grief}
+  - {id: ch11-s01, tension: 6, feeling: resolve}
+  - {id: ch11-s02, tension: 7, feeling: sorrow}
+  - {id: ch11-s03, tension: 3, feeling: warmth}
+
+thresholds:
+  min_stdev: 1.2            # the curve must actually curve
+  min_peak: 8               # at least one scene at/above this
+  min_valley: 3             # at least one scene at/below this (release exists)
+  max_consecutive_equal: 2  # no three-in-a-row at the same level
+  min_distinct_feelings: 6  # the reader must feel more than one thing

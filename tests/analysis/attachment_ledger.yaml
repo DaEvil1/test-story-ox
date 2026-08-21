@@ -1,0 +1,51 @@
+# Attachment Ledger
+#
+# Reasons the reader is given to care about each character BEFORE the story
+# spends them. Beat types: charm | vulnerability | competence | intimacy |
+    # sacrifice | dread-of. Rules AT-*: minimum beat counts scale to the loss
+# the plot demands; beats must vary in type.
+
+characters:
+  - name: Keji
+    min_beats: 4
+    beats:
+      - {type: competence, chapter: 1, note: "conservator's precision with Lio's handwriting"}
+      - {type: vulnerability, chapter: 5, note: "kitchen memory — what being loved used to feel like"}
+      - {type: vulnerability, chapter: 9, note: "the cry 'high and unfamiliar'; bandaged hand"}
+      - {type: charm, chapter: 11, note: "'Made room.' — dry, earned"}
+
+  - name: Lio
+    role: grief engine — the reader must miss them too
+    min_beats: 3
+    beats:
+      - {type: charm, chapter: 1, note: "tidepool whistle, triumphant ('Told you.')"}
+      - {type: intimacy, chapter: 2, note: "coin ceremony — 'one for you, because you lose things'"}
+      - {type: vulnerability, chapter: 4, note: "the child's voice keeping the light against the dark"}
+
+  - name: Ira Nash
+    min_beats: 3
+    beats:
+      - {type: intimacy, chapter: 5, note: "records a message just to catch her sleepy voice; laughs whole-chested"}
+      - {type: tenderness-mark, chapter: 5, note: "lighthouse sketched beside the signature"}
+      - {type: dread-of, chapter: 7, note: "her cadence wearing the Limit — love weaponized into boundary"}
+
+  - name: Ari
+    min_beats: 3
+    beats:
+      - {type: care, chapter: 1, note: "hands folding and refolding when Ira is named"}
+      - {type: vulnerability, chapter: 8, note: "the curator punished by his own worst day; 'never decided if he was right'"}
+      - {type: sacrifice, chapter: 11, note: "surrenders the seal box — done keeping things"}
+
+  - name: Sera
+    min_beats: 3
+    beats:
+      - {type: competence, chapter: 9, note: "knows the shape of the refusal; kneels first"}
+      - {type: philosophy-lived, chapter: 5, note: "the widow who refused the clean edit"}
+      - {type: vulnerability, chapter: 10, note: "the grief edit — six smooth weeks she clawed back from"}
+
+  - name: The Limit
+    role: antagonist — must be dreaded AND tempting
+    min_beats: 2
+    beats:
+      - {type: dread-of, chapter: 9, note: "takes two fingers for the asking"}
+      - {type: temptation, chapter: 10, note: "the burst proves it right — the Curators would fix him"}

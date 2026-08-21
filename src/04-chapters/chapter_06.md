@@ -94,6 +94,8 @@ The wall pulsed again, softer this time. A single sentence appeared in the hidde
 
 "KEEP THE NODE PRIVATE. LET THE PUBLIC SURFACE SPELL OUT WHAT IT MUST."
 
+"The node," Keji said. "That's what the record called the child. A place, not a person."
+
 It was not a command she had been given. It was the last thing the hidden layer was willing to say before it closed.
 
 Sera released her hand. "We take that. We build the private ledger. And then we write the amendment."

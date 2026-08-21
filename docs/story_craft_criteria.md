@@ -156,3 +156,39 @@ Each criterion is written as a testable feature. Scoring anchors:
 40. **Delivering the label's promise** — Whatever the work claims to be
     (its pitch, its genre tag), it delivers the core experience of that
     label at competitive quality.
+
+---
+
+# Part II — The Reading Experience
+
+The text is not the story; the story is what happens in the reader. These
+criteria measure the reading experience directly.
+
+## 12. Reading Experience
+
+41. **Tension curve shape** — Perceived tension, scored per scene, forms a
+    deliberate curve: real peaks, earned valleys for release, no long flat
+    stretches, chapter ends that pull forward.
+42. **Open-loop management** — The reader's working questions are tracked:
+    few enough to hold at once, none forgotten without a reminder beat, every
+    one either answered or *deliberately* held by the end.
+43. **Plant/payoff integrity** — Nothing planted goes unpaid; nothing paid
+    off was never planted. Rereads reveal machinery, not accidents.
+44. **Attachment engineering** — The reader is given reasons to care about
+    each character *before* the story spends them: charm, vulnerability,
+    competence, intimacy beats, scaled to how much loss the plot will demand.
+45. **World-term onboarding** — Invented terms arrive with usable context
+    within a chapter of first appearance; no term is used before it exists.
+46. **Act-stakes legibility** — At every act break a cold reader could state
+    what the protagonist wants and what failure costs.
+47. **Expectation management** — Chapter turns mostly *shift* or *subvert*
+    expectation rather than confirm it; subversions are seeded, not random.
+48. **First-read frictionlessness** — A cold read produces no unproductive
+    stumbles: no typos-as-obstacles, dangling referents, timeline snarls, or
+    "wait, why didn't she just…" holes. Productive confusion (mystery) is
+    exempt.
+49. **Reread yield** — Specific early details gain meaning after the reveals;
+    the second read is a different book.
+50. **Reader judgment pressure** — The text asks the reader to take sides in
+    a live disagreement and makes both sides tempting; the reader notices
+    their own verdict forming.

@@ -1,0 +1,46 @@
+# Reception Ledger
+#
+# Cold-reader bookkeeping: act-stakes legibility, immersion breakers, reader
+# judgment pressure, chapter-title payoffs. Rules RC-*:
+#   RC-01 (error) - an act without a legible want/stakes statement
+#   RC-02 (error) - an immersion breaker left untriaged (triage must be one of:
+#                   fixed | explained-in-text | embraced-deliberate)
+#   RC-03 (warning) - a chapter title whose paying scene is not identified
+
+act_stakes_legibility:
+  - act: 1
+    want: "learn what the glitch in her own archive is"
+    stakes: "the sealed past she has spent years not looking at — Ira, and the morning Lio was gone"
+    legible_at: "ch1 (quay scene: 'Not an accident. Sealed records. Erasure.')"
+  - act: 2
+    want: "recover what was erased, whatever it costs to reach"
+    stakes: "what the city does to those who force its doors — and what she learns about Ira"
+    legible_at: "ch4-ch5 ('I have to know why Ira did it')"
+  - act: 3
+    want: "honor Lio without unmaking the city that holds everyone else's memories"
+    stakes: "her body already paid; Ari's position; The Limit's argument that wildness unmakes people (ch10 burst)"
+    legible_at: "ch10 ('how the choice was held') through ch11"
+
+immersion_breakers:
+  - {chapter: 4, location: "opening descent", issue: "'a film of film' — duplicated word / unclear image",
+     triage: fixed}
+  - {chapter: "9->10", location: "Sera's key vs. sealed door", issue: "key promises re-entry; ch10 shows the door dead",
+     triage: explained-in-text}
+
+reader_judgment_pressure:
+  - {where: "ch5 widow scene", asks: "is curated comfort a lie, or is keeping the cough cruelty?"}
+  - {where: "ch10 burst", asks: "would you fix him? would you want to be fixed?"}
+  - {where: "ch11 amendment", asks: "is administrative room-making honesty or its opposite?"}
+
+title_payoffs:
+  - {chapter: 1, title: "The Fault Line", pays_off_in: "ch01-s01"}
+  - {chapter: 2, title: "The Hidden Layer", pays_off_in: "ch02-s01"}
+  - {chapter: 3, title: "The Limit", pays_off_in: "ch03-s02"}
+  - {chapter: 4, title: "The Erased Core", pays_off_in: "ch04-s02"}
+  - {chapter: 5, title: "The Choice", pays_off_in: "ch05-s01"}
+  - {chapter: 6, title: "The Limit Opened", pays_off_in: "ch06-s02"}
+  - {chapter: 7, title: "The Table of Light", pays_off_in: "ch07-s02"}
+  - {chapter: 8, title: "The Ledger", pays_off_in: "ch08-s01"}
+  - {chapter: 9, title: "The Exposed Node", pays_off_in: "ch09-s02"}
+  - {chapter: 10, title: "The Yes and the No", pays_off_in: "ch10-s03"}
+  - {chapter: 11, title: "The Amendment", pays_off_in: "ch11-s01"}

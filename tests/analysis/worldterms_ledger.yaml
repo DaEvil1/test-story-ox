@@ -1,0 +1,22 @@
+# World-Term Onboarding Ledger
+#
+# Invented terms: the chapter they first appear, and the chapter by which the
+# reader has usable context. Rules WT-*:
+#   WT-01 (error) - term found in text BEFORE its introduced chapter (drift)
+#   WT-02 (error) - definition lag exceeds max_definition_lag
+
+thresholds:
+  max_definition_lag: 3   # chapters between first use and usable context
+
+terms:
+  - {term: "the Archive", introduced: 1, defined_by_context_in: 1}
+  - {term: "the Drift", introduced: 1, defined_by_context_in: 1}
+  - {term: "Curators", introduced: 1, defined_by_context_in: 1}
+  - {term: "glitch", introduced: 2, defined_by_context_in: 2}
+  - {term: "echo-bottle", introduced: 1, defined_by_context_in: 1}
+  - {term: "The Limit", introduced: 1, defined_by_context_in: 3}
+  - {term: "palimpsest", introduced: 1, defined_by_context_in: 1}
+  - {term: "spindle", introduced: 6, defined_by_context_in: 6}
+  - {term: "node", introduced: 5, defined_by_context_in: 6}
+  - {term: "private ledger", introduced: 3, defined_by_context_in: 3}
+  - {term: "grief edit", introduced: 10, defined_by_context_in: 10}

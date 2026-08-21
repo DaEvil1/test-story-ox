@@ -141,7 +141,7 @@ Keji took the first step.
 
 ## Chapter 4 — The Erased Core
 
-The stair narrowed around Keji until it was less stair than seam, a gap the Archive had left between two memories. Her hand trailed along the wall and felt the texture change: one side was old plaster, the other was a film of film. The light came from beneath the stone, pale and uneven.
+The stair narrowed around Keji until it was less stair than seam, a gap the Archive had left between two memories. Her hand trailed along the wall and felt the texture change: one side was old plaster, the other was a film stretched over stone. The light came from beneath the stone, pale and uneven.
 
 She counted the steps in her mind. The coin in her pocket tapped once on her thigh with each one. It was a small, inconsistent sound. It kept her in the present.
 
@@ -398,6 +398,8 @@ Keji pressed the coin in her pocket until the metal warmed. "Then I make the cit
 The wall pulsed again, softer this time. A single sentence appeared in the hidden layer and did not vanish: 
 
 "KEEP THE NODE PRIVATE. LET THE PUBLIC SURFACE SPELL OUT WHAT IT MUST."
+
+"The node," Keji said. "That's what the record called the child. A place, not a person."
 
 It was not a command she had been given. It was the last thing the hidden layer was willing to say before it closed.
 

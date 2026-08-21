@@ -7,15 +7,21 @@
 | chapter_01.md | Chapter 1 — The Fault Line | 645 | PASS |
 | chapter_02.md | Chapter 2 — The Hidden Layer | 864 | PASS |
 | chapter_03.md | Chapter 3 — The Limit | 868 | PASS |
-| chapter_04.md | Chapter 4 — The Erased Core | 1027 | PASS |
+| chapter_04.md | Chapter 4 — The Erased Core | 1028 | PASS |
 | chapter_05.md | Chapter 5 — The Choice | 1215 | PASS |
-| chapter_06.md | Chapter 6 — The Limit Opened | 1196 | PASS |
+| chapter_06.md | Chapter 6 — The Limit Opened | 1212 | PASS |
 | chapter_07.md | Chapter 7 — The Table of Light | 1048 | PASS |
 | chapter_08.md | Chapter 8 — The Ledger | 896 | PASS |
 | chapter_09.md | Chapter 9 — The Exposed Node | 978 | PASS |
 | chapter_10.md | Chapter 10 — The Yes and the No | 486 | PASS |
 | chapter_11.md | Chapter 11 — The Amendment | 786 | PASS |
 
-**Total words:** 10009
+**Total words:** 10026
 
-No findings.
+## Findings
+
+### plantpayoff_ledger.yaml
+
+- **[PP-02 open-plant]** (warning): PP-whistle: planted (ch1), payoff pending — known work item
+- **[PP-02 open-plant]** (warning): PP-maintenance-key: planted (ch9), payoff pending — known work item
+- **[PP-02 open-plant]** (warning): PP-ari-phrase: planted (ch8), payoff pending — known work item

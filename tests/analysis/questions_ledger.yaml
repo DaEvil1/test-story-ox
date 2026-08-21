@@ -1,0 +1,54 @@
+# Open-Loops (Reader Questions) Ledger
+#
+# Questions the text raises in the reader's mind: when opened, when closed or
+# deliberately held, and where long-running loops get reminder beats.
+# Rules QL-*: attention is a budget; loops must be managed.
+
+loops:
+  - id: RQ1
+    question: What is the glitch, and whose voice is in it?
+    opened: 1
+    closed: 4
+    status: answered
+    reminders: [2]
+
+  - id: RQ2
+    question: Why was Lio erased — why did Ira sign?
+    opened: 1
+    status: held-deliberate
+    reminders: [3, 5, 7, 10]
+
+  - id: RQ3
+    question: What is The Limit — person, system, or pattern?
+    opened: 1
+    status: held-deliberate
+    reminders: [3, 6, 7, 9, 10]
+
+  - id: RQ4
+    question: What actually happened to Lio?
+    opened: 1
+    status: held-deliberate
+    reminders: [4, 7]
+
+  - id: RQ5
+    question: What has Ari himself done — did he touch the sealed record?
+    opened: 3
+    status: held-deliberate
+    reminders: [5, 8]
+
+  - id: RQ6
+    question: What does the Archive itself want?
+    opened: 2
+    status: held-deliberate
+    reminders: [4, 6, 10]
+
+  - id: RQ7
+    question: Why does Sera live in the Drift?
+    opened: 5
+    closed: 10
+    status: answered
+    reminders: []
+
+thresholds:
+  max_simultaneously_open: 6
+  max_open_chapters_without_reminder: 5   # a loop open longer than this needs a reminder within the window

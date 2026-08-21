@@ -1,0 +1,23 @@
+# Surprise Ledger (Expectation Management)
+#
+# Per chapter: what the text leads the reader to expect vs. what arrives.
+# type: confirmed | shifted | subverted. Rules SR-*:
+#   - min_shift_ratio: at least this share of turns must shift/subvert
+#   - max_confirmed_ratio: more than this share of confirmations reads as
+#     predictable
+#   - every subversion must reference its seed (the plant that made it fair)
+
+turns:
+  - {chapter: 2, expectation: "the glitch is a malfunction to be repaired", arrival: "it is a record that wants carrying", type: shifted}
+  - {chapter: 3, expectation: "Ari will help her investigate", arrival: "Ari stalls, warns — then yields the signature anyway", type: shifted}
+  - {chapter: 4, expectation: "the erasure was an administrative accident", arrival: "a deliberate directive naming Lio; 'necessary'", type: subverted, seed: "sealed records (ch1), Ari's fear (ch1)"}
+  - {chapter: 5, expectation: "the record will explain itself", arrival: "redaction as the answer: the child assigned to a private ledger", type: shifted}
+  - {chapter: 6, expectation: "the wall will resist everything", arrival: "the hidden layer has a stance of its own and offers terms", type: shifted}
+  - {chapter: 7, expectation: "the Limit is impersonal", arrival: "it speaks in Ira's cadence at the table of light", type: shifted}
+  - {chapter: 9, expectation: "reading the node is free, as before", arrival: "it takes two fingers", type: subverted, seed: "'no further' escalations (ch4, ch7)"}
+  - {chapter: 10, expectation: "the sealed door is the loss", arrival: "the Drift burst shows what the Limit is FOR", type: shifted}
+  - {chapter: 11, expectation: "saving the amendment ends it cleanly", arrival: "the council takes Ari's seals for it", type: subverted, seed: "'someone read the plaque order and drew a line back to my cabinet'"}
+
+thresholds:
+  min_shift_ratio: 0.5      # shifted + subverted over total
+  max_confirmed_ratio: 0.3  # pure confirmations read as predictability

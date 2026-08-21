@@ -1,0 +1,84 @@
+# Plant/Payoff Ledger
+#
+# Chekhov tracking: everything planted must pay off; everything paid off must
+# have been planted. Rules PP-*:
+#   PP-01 (error)   - payoff with no plant
+#   PP-02 (warning) - plant with no payoff yet (status: needs-payoff)
+
+items:
+  - id: PP-coin
+    kind: object
+    plant: "worn coin with a child's lighthouse, hidden in the niche"
+    planted: 2
+    payoff: "anchors contact at the table of light (ch7); pressed mark in her palm (ch9-10); kept at the ending (ch11)"
+    status: paid
+
+  - id: PP-glitch-ribbon
+    kind: object
+    plant: "the ribbon/strip carrying Ira's voice — SOMETHING WAS LEFT BEHIND"
+    planted: 1
+    payoff: "carried as 'the glitch' (ch2, ch4); folded into the recorder's shape (ch7)"
+    status: paid
+
+  - id: PP-whistle
+    kind: motif
+    plant: "Lio's two-finger whistle at the tidepool"
+    planted: 1
+    payoff: ""
+    status: needs-payoff
+
+  - id: PP-clockwork-shells
+    kind: image
+    plant: "clockwork shells ticking under the tidepool's skin"
+    planted: 1
+    payoff: "memory stays open at the quay — 'clockwork shells came back to her' (ch11)"
+    status: paid
+
+  - id: PP-lighthouse-sketch
+    kind: detail
+    plant: "small lighthouse sketched beside Ira's signature"
+    planted: 5
+    payoff: "'a lighthouse sketched beside the signature' — how the choice was held (ch10)"
+    status: paid
+
+  - id: PP-child-line
+    kind: line
+    plant: "'...if I keep the light, then the dark can go away...'"
+    planted: 4
+    payoff: "echoed at the table of light (ch7); carried in the recorder (ch9-10)"
+    status: paid
+
+  - id: PP-spindle
+    kind: object
+    plant: "Ari's glass spindle that reads hidden layers"
+    planted: 6
+    payoff: "cracks against the stone when the node takes Keji's hand (ch9)"
+    status: paid
+
+  - id: PP-maintenance-key
+    kind: object
+    plant: "Sera's maintenance key — 'the wall will let us back in only from the right side'"
+    planted: 9
+    payoff: ""
+    status: needs-payoff   # ch10 shows the door dead; the key's promise is never addressed
+
+  - id: PP-ari-phrase
+    kind: line
+    plant: "'Order is compassion when the archive is fragile' — the punished curator's phrase"
+    planted: 8
+    payoff: ""
+    status: needs-payoff
+
+  - id: PP-no-further
+    kind: refrain
+    plant: "'no further, no further' pattern in the hidden strata"
+    planted: 2
+    payoff: "escalates through doors (ch4, ch7), seals the node in flesh (ch9), becomes final (ch10)"
+    status: paid
+
+  - id: PP-keep-private
+    kind: refrain
+    plant: "hidden layer's stance: KEEP THE NODE PRIVATE"
+    planted: 6
+    payoff: "the memory's own laying-down (ch10); the private ledger retained (ch11)"
+    status: paid
