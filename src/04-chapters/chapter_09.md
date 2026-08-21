@@ -52,38 +52,26 @@ The door behind Keji began to hum. The wall on her left grew colder. She could f
 
 Sera's hand touched her arm. "If the wall closes, the node will seal itself again. Take what you can now."
 
-Keji lowered the spindle into the air. The glass wire hummed. Letters formed over the table's surface, then exploded into splintered fragments. She moved with them, capturing each piece.
+Keji lowered the spindle toward the node's edge—and the room refused. The hidden letters did not splinter into pieces this time. They collapsed all at once, like a fist closing.
 
-The first piece was a directive: AUTHORIZE RESET. PRESERVE NETWORK. REMOVE CHANNEL.
+The recorder already held the shape of what mattered. What it did not hold was her hand.
 
-The second piece was a name: LIO.
+The door slammed its seam shut across her wrist—a bar of cold, total pressure—and wrenched free. Pain went up her arm in a white sheet. She heard herself cry out, high and unfamiliar. The spindle dropped and cracked against the stone.
 
-The third piece was not a sentence, only a child's line. The air in the room tasted like it: "...if I keep the light, then the dark can go away..."
+When she could see again, she was on her knees in the Drift and the wall was solid, smooth, sealed. Its letters had rearranged into a neat line: NO FURTHER.
 
-The room reacted. The wall's pulse sharpened. The door began to close.
+Two fingers of her left hand hung dull at her side. They would not close. The coin had pressed its edge into her palm so hard she could find the mark by touch.
 
-Keji did not let the recorder drop. She held the spindle steady. The light around the glass burned brighter. The hidden line paused, then shifted into a final phrase: "KEEP PRIVATE."
-
-The door closed with a hard click. The wall became solid again.
-
-The chamber's air dropped in temperature. The floor under her boots loosened and then became firm. The recording light was red.
-
-Keji stepped back into the Drift. The opening in the wall sealed almost as soon as she was through. The wall's letters rearranged into a neat line: NO FURTHER.
-
-Her hand shook only slightly. The coin in her pocket pressed into her skin.
-
-Sera did not speak. She watched the seam close and then she reached into her own pocket. She took out a small key on a thin wire—the kind the Archive used to access maintenance panels.
+Sera did not speak. She knelt and pressed Keji's shoulder once, and then she reached into her own pocket. She took out a small key on a thin wire—the kind the Archive used to access maintenance panels.
 
 "This wall will let us back in only from the right side," she said. "The Limit has a shape. We need to follow the shape, not force it."
 
-Keji nodded. The recorder in her hand still hummed with the fragments it had captured. The voice of the room was inside it now, but not as a full record. It was a shape, a cadence, a set of instructions.
+Keji nodded. The recorder lay beside the cracked spindle, still red-lit. The voice of the room was inside it now, but not as a full record—a shape, a cadence, a set of instructions.
 
-The edge had given her the directive and the child's line. It had refused her more. Enough for now.
-
-She pressed the coin against her pocket. Warm metal through the fabric.
+The edge had given her the directive and the child's line. It had refused her more—and taken two fingers for the asking.
 
 "We have the node," she said.
 
 Sera glanced at the wall. "We have the place where it chose."
 
-Keji held the recorder. "Now we decide how to keep it."
+Keji picked up the recorder with her good hand. "Now we decide how to keep it."

@@ -32,6 +32,8 @@ He did not ask for the contents. He simply stood in the doorway and watched the 
 
 "This is one layer beneath the public wall," Ari said. "One step away from the door. It is a place the Archive does not often let us keep."
 
+He stood there a moment longer, looking at the card instead of her. "When I was young here," he said, not quite to her, "a curator opened a sealed layer to prove a point. The city rerouted his street for a year. Every wall he passed showed him his own worst day, at every hour, in full light." He straightened a stack of slips that did not need straightening. "Order is compassion when the archive is fragile. That phrase was his. I have never decided if he was right."
+
 Keji turned the card. The ink had dried. The lines were crisp.
 
 "If someone finds this," she said, "they will know we were here."

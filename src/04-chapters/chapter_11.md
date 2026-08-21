@@ -46,6 +46,10 @@ Ari's fingers moved on the desk. He was not touching the screen. He was counting
 
 Keji pressed the key to save. The screen blinked. The amendment file was stored.
 
+Ari stepped to the shelf behind her and took down his box of seals—the whole box, the senior stamp on top—and set it under his arm.
+
+"The council asked for these an hour ago," he said. "Someone read the plaque order and drew a line back to my cabinet." He rolled the empty drawer shut with his knuckles. "Keep the private ledger well. I am apparently done keeping things."
+
 She closed her eyes. The room did not change. The silence remained.
 
 Ari stepped closer at last. "And you?" he asked quietly. "What do you keep?"
@@ -63,5 +67,17 @@ She stood. "That is enough for now."
 Ari did not argue.
 
 As she left the room, the public halls felt both closer and farther away. The city was still the same city, with its polished walls and its curated memories. But there was now a private place where the line she had found could rest—a ledger entry that the city knew existed but did not need to read.
+
+Before going up, she found Sera at the old quay, where the sound was loudest. Sera looked at the bandaged hand and did not ask.
+
+"So," she said. "Did you break it or mend it?"
+
+"Made room."
+
+Sera grinned her feral grin and bumped her shoulder against Keji's good one. "Crooked holds."
+
+They watched the water without talking for a while, and the watching was enough. The clockwork shells came back to her, ticking under green water, and she let the memory stay open this time.
+
+In the great window by the doors, the sea was coming in, dark and patient, wearing the lamplight into small pieces.
 
 She walked back through the archive with her steps steady. The coin warmed with each footfall.

@@ -4,48 +4,18 @@
 
 | Chapter | Title | Words | Status |
 |---|---|---:|---|
-| chapter_01.md | Chapter 1 — The Fault Line | 567 | PASS |
-| chapter_02.md | Chapter 2 — The Hidden Layer | 809 | PASS |
+| chapter_01.md | Chapter 1 — The Fault Line | 645 | PASS |
+| chapter_02.md | Chapter 2 — The Hidden Layer | 864 | PASS |
 | chapter_03.md | Chapter 3 — The Limit | 868 | PASS |
-| chapter_04.md | Chapter 4 — The Erased Core | 995 | PASS |
-| chapter_05.md | Chapter 5 — The Choice | 1021 | PASS |
+| chapter_04.md | Chapter 4 — The Erased Core | 1027 | PASS |
+| chapter_05.md | Chapter 5 — The Choice | 1215 | PASS |
 | chapter_06.md | Chapter 6 — The Limit Opened | 1196 | PASS |
 | chapter_07.md | Chapter 7 — The Table of Light | 1048 | PASS |
-| chapter_08.md | Chapter 8 — The Ledger | 807 | PASS |
-| chapter_09.md | Chapter 9 — The Exposed Node | 1033 | PASS |
-| chapter_10.md | Chapter 10 — The Yes and the No | 710 | PASS |
-| chapter_11.md | Chapter 11 — The Amendment | 610 | PASS |
+| chapter_08.md | Chapter 8 — The Ledger | 896 | PASS |
+| chapter_09.md | Chapter 9 — The Exposed Node | 978 | PASS |
+| chapter_10.md | Chapter 10 — The Yes and the No | 486 | PASS |
+| chapter_11.md | Chapter 11 — The Amendment | 786 | PASS |
 
-**Total words:** 9664
+**Total words:** 10009
 
-## Findings
-
-### scene_ledger.yaml
-
-- **[SL-01 dead-scene]** (error): ch03-s03: no new info and no value change
-- **[SL-01 dead-scene]** (error): ch04-s04: no new info and no value change
-- **[SL-01 dead-scene]** (error): ch05-s03: no new info and no value change
-- **[SL-01 dead-scene]** (error): ch07-s01: no new info and no value change
-- **[SL-01 dead-scene]** (error): ch07-s03: no new info and no value change
-- **[SL-01 dead-scene]** (error): ch10-s01: no new info and no value change
-- **[SL-01 dead-scene]** (error): ch10-s03: no new info and no value change
-- **[SL-01 dead-scene]** (error): ch11-s03: no new info and no value change
-- **[SL-04 free-conflict]** (error): 0 scenes pay a cost (min 3)
-- **[SL-05 no-permanence]** (error): 0 irreversible costs (min 1)
-- **[SL-06 stakes-never-leave-home]** (error): no scene carries civic-scope stakes
-
-### ambiguity_ledger.yaml
-
-- **[AM-01 thin-ambiguity]** (error): q1 reading 'mercy' has 0 evidence items (min 2)
-- **[AM-01 thin-ambiguity]** (error): q1 reading 'betrayal' has 0 evidence items (min 2)
-
-### relationship_ledger.yaml
-
-- **[RL-01 unwitnessed-character]** (error): Lio: 0 lived scenes (target 2)
-- **[RL-01 unwitnessed-character]** (error): Ira Nash: 0 lived scenes (target 1)
-
-### promise_ledger.yaml
-
-- **[PL-01 broken-promise]** (error): 'mind-bending science fiction': 0 delivering beats (min 2)
-- **[PL-01 broken-promise]** (error): 'theme — reality': 0 delivering beats (min 1)
-- **[PL-01 broken-promise]** (error): 'theme — entropy': 0 delivering beats (min 1)
+No findings.

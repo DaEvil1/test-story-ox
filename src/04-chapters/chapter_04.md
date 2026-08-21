@@ -22,7 +22,9 @@ In the chamber beyond the door, the memory held itself in a room of listening su
 
 "Authorize the reset," the voice said. "Preserve the network. Remove the channel. Keep the public smooth."
 
-The sentence had the precision of a directive. The walls around her vibrated with the rhythms of agreement: the quick paper rustle of bureaucrats, the low assent of concord. Then the voice returned with a second line, quieter and steadier.
+The sentence had the precision of a directive. The walls around her vibrated with the rhythms of agreement: the quick paper rustle of bureaucrats, the low assent of concord. Then, beneath the directive, deeper in the surface, an earlier take surfaced. Ira's voice, younger, frayed at the edges: "There has to be another way to—"
+
+The recording cut there. When it resumed, the voice was the one she knew: flat, careful, decided.
 
 "Ira Nash signs. The packet is sealed. The child is not lost. The child becomes a ledger entry."
 

@@ -9,9 +9,15 @@ characters:
   - name: Lio
     role: the erased child; Keji's charge
     lived_scene_target: 2
-    lived_scenes: []
+    lived_scenes:
+      - chapter: 1
+        scene: "tidepool memory — Lio whistles at clockwork shells and is triumphant ('Told you.')"
+      - chapter: 2
+        scene: "coin-counting memory — Lio places coins with ceremony ('One for the boat... one for you, because you lose things.')"
 
   - name: Ira Nash
     role: Keji's former partner; signed the authorization
     lived_scene_target: 1
-    lived_scenes: []
+    lived_scenes:
+      - chapter: 5
+        scene: "kitchen morning — Ira records a message to catch Keji's sleepy voice and laughs with her whole chest"

@@ -6,7 +6,11 @@ Today, a ribbon thrummed under her fingers that refused to settle. When she tugg
 
 She replayed the clip. The voice was muffled, compressed, and threaded through a rhythm she almost recognized: Ira's cadence. The catch in it. Her throat closed. She should have cataloged it, handed it to Ari. Her hands moved before the thought finished. She palmed the ribbon and walked into the market.
 
-The city is a palimpsest; advertisements flutter above archival script, lovers' names breathe through varnished panels. In the market a wall had been scoured clean—no graffiti, no merchant prayers—and someone had painted a child's scrawl across it with a blunt, stubborn hand. The letters were juvenile and crooked, and for a second Keji tasted Lio's smallness behind them—mischief, a bargain made with a puddle.
+The city is a palimpsest; advertisements flutter above archival script, lovers' names breathe through varnished panels. In the market a wall had been scoured clean—no graffiti, no merchant prayers—and someone had painted a child's scrawl across it with a blunt, stubborn hand. The letters were juvenile and crooked, and for a second Keji tasted Lio's smallness behind them.
+
+The memory came whole, unasked: a tidepool at low light, clockwork shells ticking under the skin of the water, impossible little engines. Lio crouched over it with trousers rolled to the knee. "If I whistle, they'll come up," Lio said, deadly serious. Two fingers in the mouth; the whistle cracked and scattered the birds off the rocks. Keji laughed until her sides hurt, and Lio looked up, seawater dripping from both cuffs, triumphant. "Told you."
+
+The memory folded shut. The market noise came back.
 
 A woman selling echo-bottles looked up. "You look like you swallowed an unfinished story," she said. She wrapped a bottle in brown paper and handed it to Keji without asking.
 

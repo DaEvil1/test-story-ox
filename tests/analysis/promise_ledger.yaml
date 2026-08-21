@@ -8,7 +8,9 @@ promises:
   - claim: mind-bending science fiction
     source: book.yaml genre
     min_beats: 2
-    beats: []
+    beats:
+      - "a burst wall pours decades-gone memory into a citizen, who speaks in another's voice (ch10)"
+      - "the Archive voices the dead — Ira's cadence alive in the walls (ch7)"
 
   - claim: theme — identity (a self made of edited traces)
     source: book.yaml theme
@@ -26,12 +28,16 @@ promises:
   - claim: theme — reality
     source: book.yaml theme
     min_beats: 1
-    beats: []
+    beats:
+      - "a citizen speaks with a dead woman's mouth and asks what year it is (ch10)"
+      - "The Limit stays undecidable between person and pattern; evidence both ways (ch4/ch5 vs ch3/ch6)"
 
   - claim: theme — entropy
     source: book.yaml theme
     min_beats: 1
-    beats: []
+    beats:
+      - "Drift walls bursting their script, loose memory decaying into the streets (ch10)"
+      - "half-erased scripts bleeding ink beneath the public layer (ch2)"
 
   - claim: motif — water & tides
     source: book.yaml motifs

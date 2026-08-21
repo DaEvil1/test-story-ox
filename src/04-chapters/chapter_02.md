@@ -24,7 +24,9 @@ A door in the chamber shifted. The floor drew taut under her feet. The wall on h
 
 Keji stepped back. Her shoulder hit a surface and she found a hidden niche. Inside it, someone had left a small thing: a worn coin, flattened on one side, marked with a child's crude lighthouse. The coin was not in the recorded sound. It was a thing in the room.
 
-She did not know why it was there. She did not know if it belonged to Lio. She put it in her pocket anyway. The metal was warm from the chamber's breath.
+Her thumb moved over the lighthouse and the room went far away for a breath: Lio at the kitchen table, counting coins into Keji's palm with terrible ceremony. "One for the boat," Lio said, placing each one like it might wake. "One for the light. One for you, because you lose things." She had kept that last one longer than the others.
+
+She did not know if this coin belonged to Lio. She put it in her pocket anyway. The metal was warm from the chamber's breath.
 
 As she withdrew, the chamber's wall made a sound behind her. Not a voice. A pressure. The shape of a rule. It kept saying itself in a pattern she almost understood: no further, no further, no further.
 

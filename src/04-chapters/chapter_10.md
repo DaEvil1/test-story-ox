@@ -1,57 +1,31 @@
 Chapter 10 — The Yes and the No
 
-Keji followed the hidden path until the walls stopped pretending to be walls. They became plates of thin light, stacked like pages in a book that did not want to be opened. The air in the room was cooler than the Drift, not because the temperature had changed but because sound had been sucked out of it.
+The seam remembered her. When Keji set her palm to it the next morning, bandaged hand cradled against her coat, it did not pulse and did not form a word. It held, cool and final, like the far side of a stone.
 
-The door at the far end was not a door of wood and hinges. It was a seam in the air, a suggestion shaped by the Archive's memory. Keji put her palm to it, and the seam pulsed in response. A word formed there, simple and blunt: NO.
+"It's done," Sera said behind her. "Whatever's in there stopped listening when it took your hand."
 
-Not a warning, exactly. A boundary.
+Keji pressed once more, without force, mostly to know. The seam gave nothing. The node was sealed to her now the way a grave is sealed: not locked, just finished.
 
-She pressed. The seam yielded a fraction of an inch, and the room beyond showed itself in shivers. The light inside was not white. It was the dull glow of screens in a room where people were too tired to look up.
+They took the long way back up through the Drift, and the Drift was having a bad day. Ahead of them a stretch of wall burst its script—letters peeling off the plaster in a loose shriek—and poured into a man walking past with a basket. He stopped mid-stride. His face went slack. Then he spoke with someone else's mouth: a woman's voice, decades gone, naming streets that had been rebuilt twice since. He wept without knowing why. His basket tipped; fruit rolled into the gutter.
 
-A voice came first, not through speakers but through the room itself. It was a brittle, professional voice reading from a protocol: "Authorize reset. Preserve network. Remove channel."
+Sera knelt beside him, palms out, murmuring nothing in particular until the voice spent itself and he came back to himself, shaking, asking what year it was.
 
-The words had the cadence of procedure. They held a rhythm that made Keji's chest tighten.
+"That's the other door," she said, helping him up. "No curation at all. The Curators would fix him in a minute—and take the voice with it."
 
-Another voice answered, lower, steadier. It did not soften the sentence. It repeated the same shape in its own way: "Necessary."
+Keji watched the man gather his fruit one-handed. Twice he stopped, listening for something that had already left. The Curators would fix him. She believed it. She also believed the woman's voice had been real.
 
-The hidden room shifted. A second line formed beneath the first, not as text but as a movement in the air. It was the motion of paper being placed on a table, a hand smoothing it flat.
+At her rooms, she laid the recorder on the desk and did not play it. She knew what it held: the choice in Ira's cadence, the refusal beneath it, the child's small bright line. And the last pressure of the sealing door—not anger in it, not punishment. More like a hand laying something down. Keep private.
 
-Keji leaned closer. The air there tasted sharp, like cold metal and old ink.
+"It showed you the yes and the no," Sera said at the stair that morning.
 
-The memory did not show a face. It showed a hand, the curve of a child's J drawn too hard on a page. It showed a small lighthouse sketched at the corner of a ledger. The room held those details because they were not public. They were private weight.
+"It showed me how the choice was held," Keji said. "One hand signing. One voice objecting. A lighthouse sketched beside the signature."
 
-A different voice, softer, spoke through the wall—nothing like the protocol voices. It sounded like someone trying to keep a secret from happening to someone else.
+Sera did not add anything.
 
-"If I keep the light, then the dark can go away," it said.
+Keji looked at her. "Why do you live down here? Really."
 
-The phrase settled in Keji's gut. A child's attempt to make sense of what was being hidden.
+Sera turned the maintenance key over in her fingers, watching the light run along the wire. "They fixed me once," she said. "After. A grief edit, they called it. Six weeks of smooth mornings." She pocketed the key. "I came back down the day they let me walk. I wanted the rough parts back. They were his."
 
-The room contracted. The seam behind her pulsed. The air pressed against her. The Archive did not want her there.
+Keji did not ask who.
 
-She pressed her hand harder to the seam. The word NO shifted into another word: FURTHER.
-
-The hidden layer did not open. It gave her one more line instead: "Keep private."
-
-Keji did not reach for the recorder yet. She let the line sit with her. The coin in her pocket warmed.
-
-The door in the air began to close. The floor beneath her boots shifted; the plates of light eased back into their stack. The world of the hidden room receded. The voice saying necessary became a pulse in the wall.
-
-She withdrew her hand. The seam sealed. The room behind it became a quiet blank.
-
-Sera's hand touched her arm on the other side. "It showed you the yes and the no," she said.
-
-Keji nodded. "It did not show me why. It showed me how the choice was held."
-
-Sera looked at the seam and did not add anything.
-
-Keji felt the coin again. The metal was warm, the same warmth it had picked up in the private ledger room.
-
-She had the hidden line now—a piece of the erased core. It had a shape.
-
-She stepped back through the door in the air. The passage to the Drift was narrow and the walls hummed at a lower pitch than before. When she emerged, the market noise felt far away, filtered.
-
-The wall in the Drift had closed. Its seam was neat. The hidden line that had said keep private was with her now, in the palm of her hand and in the recorder tape. The room had given her the erasure, not the reason.
-
-Sera did not ask her what it meant. She only said, "Now we decide what to carry, and how to carry it."
-
-Keji pressed the coin against her thigh and felt it warm. The word private pulsed in her bones.
+The two dull fingers ached in their wrapping. Keji turned the coin in her pocket, warm against her good palm, and felt its edge find the mark it had pressed into her other hand. Outside, far below the window, the tide turned and started coming in.

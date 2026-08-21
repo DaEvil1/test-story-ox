@@ -20,6 +20,8 @@ Sera's grin returned, but it was quiet. "Then it is not a theory. It's a place."
 
 She stood. The Drift was quiet enough that even the low hum of memory felt loud. Keji could hear the city's regular walls beyond, the ones that carried the city's taught stories. The Drift's walls were the ones that did not have a story yet.
 
+Down the passage, a woman sat against a breathing wall with an echo-bottle open in her cupped hands. Her husband's last hours played raw in the air around her—half sentences, a cough, somebody's radio. Sera lowered her voice. "The Curators offered to clean it. Take out the coughing, make him coherent. She refused." The woman's thumb moved over the bottle's seam. "She says the cough is where he still is."
+
 "There are two ways to use this," Sera said. "You can take the line and put it back in the public record. You can let the city know what it erased. Or you can take the part that cannot be public and keep it alive yourself."
 
 Keji's hand tightened around the coin. The metal was warm and slightly damp.
@@ -62,7 +64,7 @@ Ari's jaw worked. He stood, reached into a drawer, and took out a sealed packet.
 
 He slid it across the desk. Keji touched the seal. It came away in her fingers with a faint crack.
 
-Inside were a few pages, heavily redacted. A ribbon of the original record. Ira's signature at the bottom of one document. The word AUTHORIZED circled in a hand that was not her own.
+Inside were a few pages, heavily redacted. A ribbon of the original record. Ira's signature at the bottom of one document, and beside it, faint, a small lighthouse sketched in ink—unhurried strokes, almost tender. It did not fit the rest of the page. The word AUTHORIZED circled in a hand that was not her own.
 
 She read the line that remained visible: 
 
@@ -70,7 +72,11 @@ She read the line that remained visible:
 
 The rest was black.
 
-Keji ran her thumb along the edge of the paper. The room smelled of dust and ink and the pressure of being kept in a drawer.
+Keji ran her thumb along the edge of the paper. Under her fingers the ribbon took her somewhere else for a moment: their kitchen, three years gone, morning light lying in a stripe across the table. Ira was recording a message for her because Keji was half asleep, grinning into the pickup like the device could be caught out. "Say something back," Ira said. "Anything. I want the machine to hear you too." She had said something stupid and dear, and Ira laughed with her whole chest, and the ribbon kept it, all of it, warm as bread.
+
+The ribbon went still. She was in the hall again, holding a redacted page.
+
+The room smelled of dust and ink and the pressure of being kept in a drawer.
 
 She looked at Ari. "Who gave the order to remove the channel?"
 

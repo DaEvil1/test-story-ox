@@ -73,9 +73,9 @@ scenes:
      value_change: yes-but, cost_paid: none, irreversible: false,
      opponent_pressure: limit, stakes_scope: personal}
   - {id: ch03-s03, chapter: 3, title: the stair decision,
-     goal: choose to descend where it is unwilling,
+     goal: choose whether to descend where it is unwilling,
      new_info: [],
-     value_change: flat, cost_paid: none, irreversible: false,
+     value_change: yes-but, cost_paid: none, irreversible: false,
      opponent_pressure: none, stakes_scope: personal}
 
   # Chapter 4
@@ -98,7 +98,7 @@ scenes:
      opponent_pressure: archive, stakes_scope: personal}
   - {id: ch04-s04, chapter: 4, title: return to Sera,
      goal: reach the Drift,
-     new_info: [],
+     new_info: [], kind: transition,
      value_change: flat, cost_paid: none, irreversible: false,
      opponent_pressure: none, stakes_scope: personal}
 
@@ -111,12 +111,13 @@ scenes:
   - {id: ch05-s02, chapter: 5, title: Ari yields the packet,
      goal: see the official record,
      new_info: ["visible line: channel removed, subject assigned to a private ledger",
+                "a small lighthouse sketched beside Ira's signature",
                 "Ari names The Limit as one of the voices in the record"],
      value_change: yes-but, cost_paid: none, irreversible: false,
      opponent_pressure: ari, stakes_scope: personal}
   - {id: ch05-s03, chapter: 5, title: resolve to find missing pieces,
      goal: leave with a direction,
-     new_info: [],
+     new_info: [], kind: transition,
      value_change: flat, cost_paid: none, irreversible: false,
      opponent_pressure: none, stakes_scope: personal}
 
@@ -136,8 +137,8 @@ scenes:
   # Chapter 7
   - {id: ch07-s01, chapter: 7, title: second refusal door,
      goal: pass the marked door,
-     new_info: [],
-     value_change: flat, cost_paid: none, irreversible: false,
+     new_info: ["the refusal escalates in stages: NO forms first, then FURTHER"],
+     value_change: no-and, cost_paid: none, irreversible: false,
      opponent_pressure: limit, stakes_scope: personal}
   - {id: ch07-s02, chapter: 7, title: table of light,
      goal: hear the choice itself,
@@ -147,7 +148,7 @@ scenes:
      opponent_pressure: limit, stakes_scope: personal}
   - {id: ch07-s03, chapter: 7, title: exit resolve,
      goal: climb back up,
-     new_info: [],
+     new_info: [], kind: transition,
      value_change: flat, cost_paid: none, irreversible: false,
      opponent_pressure: none, stakes_scope: personal}
 
@@ -174,27 +175,33 @@ scenes:
      new_info: ["the erasure had internal opposition: a voice argued against it and was overruled"],
      value_change: yes-but, cost_paid: none, irreversible: false,
      opponent_pressure: limit, stakes_scope: personal}
-  - {id: ch09-s03, chapter: 9, title: sealing & escape,
+  - {id: ch09-s03, chapter: 9, title: the sealing & the price,
      goal: get out before the wall closes,
-     new_info: [],
-     value_change: no-and, cost_paid: none, irreversible: false,
+     new_info: ["the Archive extracts a price for forcing the node"],
+     value_change: no-and,
+     cost_paid: "two fingers crushed numb — permanent",
+     irreversible: true,
      opponent_pressure: limit, stakes_scope: personal}
 
   # Chapter 10
-  - {id: ch10-s01, chapter: 10, title: seam says no again,
-     goal: re-enter the core,
-     new_info: [],
-     value_change: flat, cost_paid: none, irreversible: false,
+  - {id: ch10-s01, chapter: 10, title: sealed for good,
+     goal: confirm whether the node can be reopened,
+     new_info: ["the node is permanently sealed to her"],
+     value_change: no-and,
+     cost_paid: "all access to the erased core, forever",
+     irreversible: true,
      opponent_pressure: limit, stakes_scope: personal}
-  - {id: ch10-s02, chapter: 10, title: the yes and the no,
-     goal: understand how the choice was held,
-     new_info: ["keep-private is the memory's own will, not only the Limit's order"],
+  - {id: ch10-s02, chapter: 10, title: the burst in the Drift,
+     goal: get home through the Drift,
+     new_info: ["uncurated memory floods a citizen, who speaks in a decades-gone voice",
+                "wildness harms as well as preserves — the Curators could fix him, at a price"],
+     value_change: no-and, cost_paid: none, irreversible: false,
+     opponent_pressure: archive, stakes_scope: civic}
+  - {id: ch10-s03, chapter: 10, title: how the choice was held,
+     goal: carry the reading home,
+     new_info: ["keep-private felt like the memory laying itself down, not punishment",
+                "both readings of Ira coexist: signing hand and objecting voice"],
      value_change: yes-but, cost_paid: none, irreversible: false,
-     opponent_pressure: limit, stakes_scope: personal}
-  - {id: ch10-s03, chapter: 10, title: aftermath reading,
-     goal: carry it back up,
-     new_info: [],
-     value_change: flat, cost_paid: none, irreversible: false,
      opponent_pressure: none, stakes_scope: personal}
 
   # Chapter 11
@@ -203,14 +210,17 @@ scenes:
      new_info: ["amendment content: guardianship misfiled; memorial plaque; private ledger retained"],
      value_change: yes-but, cost_paid: none, irreversible: false,
      opponent_pressure: none, stakes_scope: personal}
-  - {id: ch11-s02, chapter: 11, title: saving & acceptance,
+  - {id: ch11-s02, chapter: 11, title: saving & the price of acceptance,
      goal: commit the amendment,
-     new_info: ["city will know the ledger exists but not its contents; Ari accepts"],
-     value_change: yes-but, cost_paid: none, irreversible: false,
+     new_info: ["city will know the ledger exists but not its contents; Ari accepts",
+                "the council strips Ari's seals for the plaque order"],
+     value_change: yes-but,
+     cost_paid: "Ari surrenders his senior seal and position",
+     irreversible: true,
      opponent_pressure: ari, stakes_scope: personal}
   - {id: ch11-s03, chapter: 11, title: the kept coin,
      goal: answer what she keeps,
-     new_info: [],
+     new_info: [], kind: transition,
      value_change: flat, cost_paid: none, irreversible: false,
      opponent_pressure: none, stakes_scope: personal}
 
