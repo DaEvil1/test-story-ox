@@ -58,6 +58,22 @@ phrase_rules:
     phrases:
       - the weight of it was enough
 
+  - id: PR-07
+    name: felt-understanding
+    severity: error
+    description: Narrator explaining a character's dim understanding of theme.
+    phrases:
+      - more than she understood
+      - more than he understood
+
+  - id: PR-08
+    name: had-the-feeling
+    severity: error
+    description: Authorial thematic conclusion delivered through the narrator.
+    phrases:
+      - she had the feeling now that
+      - he had the feeling now that
+
 # Regular-expression rules (case-insensitive). scope: line | ending
 regex_rules:
   - id: PR-06
@@ -81,6 +97,56 @@ structural_rules:
     name: duplicate-chapter-title
     severity: error
     description: Two chapter files share the same heading title.
+
+# Repeated-phrase caps. The coin/pocket anchor and "the word X" are
+# intentional refrains; the caps catch drift into tic. Tune thresholds only
+# with a count in hand (see regression protocol in tests/README.md).
+frequency_rules:
+  - id: FQ-01
+    name: pocket-anchor
+    severity: warning
+    phrase: in her pocket
+    max_per_chapter: 2
+    max_total: 14
+
+  - id: FQ-02
+    name: not-x-but-y-frame
+    severity: warning
+    phrase: it was not
+    max_per_chapter: 2
+    max_total: 8
+
+  - id: FQ-03
+    name: warm-metal
+    severity: warning
+    phrase: was warm
+    max_total: 6
+
+  - id: FQ-04
+    name: body-tightens
+    severity: warning
+    phrase: tightened
+    max_per_chapter: 1
+    max_total: 6
+
+  - id: FQ-05
+    name: the-word-refrain
+    severity: warning
+    phrase: the word
+    max_per_chapter: 3
+    max_total: 15
+
+  - id: FQ-06
+    name: word-lands
+    severity: warning
+    phrase: landed
+    max_total: 3
+
+  - id: FQ-07
+    name: as-if-simile
+    severity: warning
+    phrase: as if
+    max_total: 10
 
 settings:
   # Straighten curly quotes before matching so apostrophe style never hides a hit.

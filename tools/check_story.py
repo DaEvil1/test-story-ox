@@ -120,6 +120,47 @@ def title_key(title: str | None) -> str:
     return TITLE_PREFIX_RE.sub("", normalized)
 
 
+def check_frequency(texts: dict[str, str], rules: dict, findings: list) -> None:
+    """Count repeated phrases per chapter and across the corpus."""
+    for rule in rules.get("frequency_rules", []):
+        phrase = rule["phrase"].lower()
+        max_per = rule.get("max_per_chapter")
+        max_total = rule.get("max_total")
+        total = 0
+        for label, text in texts.items():
+            count = normalize(text).lower().count(phrase)
+            if not count:
+                continue
+            total += count
+            if max_per is not None and count > max_per:
+                findings.append(
+                    {
+                        "file": label,
+                        "line": None,
+                        "rule": rule["id"],
+                        "name": rule.get("name", ""),
+                        "severity": rule.get("severity", "warning"),
+                        "match": f"{count}x {phrase!r} in one chapter (max {max_per})",
+                        "context": "...(phrase frequency)...",
+                    }
+                )
+        if max_total is not None and total > max_total:
+            findings.append(
+                {
+                    "file": CORPUS_LABEL,
+                    "line": None,
+                    "rule": rule["id"],
+                    "name": rule.get("name", ""),
+                    "severity": rule.get("severity", "warning"),
+                    "match": f"{total}x {phrase!r} across corpus (max {max_total})",
+                    "context": "...(phrase frequency)...",
+                }
+            )
+
+
+CORPUS_LABEL = "(corpus)"
+
+
 def main() -> int:
     if sys.stdout.encoding and sys.stdout.encoding.lower() not in ("utf-8", "utf8"):
         sys.stdout.reconfigure(encoding="utf-8")
@@ -139,6 +180,7 @@ def main() -> int:
     findings: list[dict] = []
     titles: dict[str, list[str]] = {}
     stats: list[dict] = []
+    texts: dict[str, str] = {}
 
     for path in chapter_files:
         text = path.read_text(encoding="utf-8")
@@ -153,6 +195,9 @@ def main() -> int:
 
         words = len(text.split())
         stats.append({"file": label, "title": title or "(untitled)", "words": words})
+        texts[label] = text
+
+    check_frequency(texts, rules, findings)
 
     dup_rule = next(
         (r for r in rules.get("structural_rules", []) if r.get("name") == "duplicate-chapter-title"),
@@ -200,6 +245,11 @@ def main() -> int:
             loc = f"line {finding['line']}" if finding["line"] else "ending"
             print(f"    [{finding['rule']} {finding['name']}] {loc}: {finding['match']!r}")
             print(f"        {finding['context']}")
+    corpus_findings = by_file.get(CORPUS_LABEL, [])
+    if corpus_findings:
+        print(f"{CORPUS_LABEL}:")
+        for finding in corpus_findings:
+            print(f"    [{finding['rule']} {finding['name']}] {finding['match']}")
     print("-" * 72)
     print(f"Total: {len(errors)} errors, {len(warnings)} warnings")
 
@@ -248,6 +298,14 @@ def write_report(report_path: Path, stats: list[dict], findings: list[dict], tot
                     f"- **[{finding['rule']} {finding['name']}]** ({finding['severity']}) {loc}: "
                     f"`{finding['match']}` — {finding['context']}"
                 )
+            lines.append("")
+        corpus_findings = by_file.get(CORPUS_LABEL, [])
+        if corpus_findings:
+            lines.append(f"### {CORPUS_LABEL}")
+            lines.append("")
+            for finding in corpus_findings:
+                lines.append(f"- **[{finding['rule']} {finding['name']}]** ({finding['severity']}): "
+                             f"`{finding['match']}`")
             lines.append("")
     else:
         lines += ["No findings.", ""]
