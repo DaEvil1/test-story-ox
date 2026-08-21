@@ -18,15 +18,15 @@ The first line was simple:
 
 She did not say why. She did not say who or when. She let the sentence do the work.
 
-Keji's fingers hovered. The word guardianship felt good under her hands. It was not the same as ledger or node. It was a place in the city's vocabulary where a private thing could exist quietly.
+Keji's fingers hovered. The word guardianship felt good under her hands.
 
 She typed the next line: 
 
 "A memorial plaque will be installed in the market to honor a lost ledger entry."
 
-The sentence was exact. It was not sentimental. It was a public patch, a small visible knot in the wall.
+The sentence was exact.
 
-She kept going. She did not mention the hidden room, the child, the word Lio. She did not mention the hidden line that had said keep private. She wrote the amendment as an administrative correction, a way for the city to treat the thing it had quietly closed.
+She kept going. She did not mention the hidden room, the child, the name Lio. She did not mention the hidden line that had said keep private. She wrote the amendment as an administrative correction.
 
 Ari leaned against the doorframe. "You can make the city softer. Or you can make it forget less."
 
@@ -64,4 +64,4 @@ Ari did not argue.
 
 As she left the room, the public halls felt both closer and farther away. The city was still the same city, with its polished walls and its curated memories. But there was now a private place where the line she had found could rest—a ledger entry that the city knew existed but did not need to read.
 
-She walked back through the archive with her steps steady. The coin in her pocket warmed with each footfall.
+She walked back through the archive with her steps steady. The coin warmed with each footfall.

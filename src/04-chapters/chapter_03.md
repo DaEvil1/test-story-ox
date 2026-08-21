@@ -10,8 +10,6 @@ Keji did not answer. She stuck the coin into her pocket and felt its warm edge t
 
 He finally met her eyes. "Some doors are not for us. They close because what lies behind them cuts too deep."
 
-The sentence was not an argument. It was a warning.
-
 She slid the child's looped J toward him. "This was in the wall. The curve matches Lio's hand."
 
 Ari's mouth tightened. His fingers left the seals and drifted over the paper as if counting its weight. "This is a private ledger," he said. "Not for circulation."
@@ -42,7 +40,7 @@ They walked through a passage where the wall script was live. When Keji reached 
 
 "The Limit is not a voice yet," Sera said. "It's the thing the city does when it decides you're asking for too much."
 
-Keji watched a block of script on the wall. It had been smoothed into a bright veneer. She touched it. The surface was warm and pitted. Under her skin the wall seemed to pulse. The word OPEN flashed and then was gone.
+Keji watched a block of script on the wall. It had been smoothed into a bright veneer. She touched it. The surface was warm and pitted. Under her skin the wall seemed to pulse. OPEN flashed and then was gone.
 
 They moved deeper into the Drift. Memory flared around them in small bursts: a child's laugh before it dissolved, a bureaucrat's apology that broke into a rhythmic click, a hallway that smelled of rain when there was no rain.
 
@@ -54,7 +52,7 @@ The Limit was there. She could feel it as pressure along her spine, a refusal in
 
 Sera did not flinch. She held Keji's wrist. "You can follow where it wants to go," she said. "Or you can let it close the doors."
 
-Keji tightened her grip on the coin in her pocket. It was a thing from the same world the wall had been keeping away. She looked at Sera.
+Keji's grip closed around the coin in her pocket. It was a thing from the same world the wall had been keeping away. She looked at Sera.
 
 "I have to go where it is not willing to stay," Keji said.
 

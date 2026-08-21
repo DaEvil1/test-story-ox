@@ -4,81 +4,18 @@
 
 | Chapter | Title | Words | Status |
 |---|---|---:|---|
-| chapter_final_speculative.md | Speculative Final Chapter — The Palimpsest Kept | 421 | FAIL |
 | chapter_01.md | Chapter 1 — The Fault Line | 567 | PASS |
-| chapter_02.md | Chapter 2 — The Hidden Layer | 819 | WARN |
-| chapter_03.md | Chapter 3 — The Limit | 881 | FAIL |
-| chapter_04.md | Chapter 4 — The Erased Core | 1003 | FAIL |
-| chapter_05.md | Chapter 5 — The Choice | 1034 | WARN |
-| chapter_06.md | Chapter 6 — The Limit Opened | 1214 | WARN |
-| chapter_07.md | Chapter 7 — The Limit | 1154 | FAIL |
-| chapter_08.md | Chapter 8 — The Ledger | 860 | FAIL |
-| chapter_09.md | Chapter 9 — The Exposed Node | 1066 | FAIL |
-| chapter_10.md | Chapter 10 — The Erased Core | 768 | FAIL |
-| chapter_11.md | Chapter 11 — The Amendment | 666 | PASS |
+| chapter_02.md | Chapter 2 — The Hidden Layer | 809 | PASS |
+| chapter_03.md | Chapter 3 — The Limit | 868 | PASS |
+| chapter_04.md | Chapter 4 — The Erased Core | 995 | PASS |
+| chapter_05.md | Chapter 5 — The Choice | 1021 | PASS |
+| chapter_06.md | Chapter 6 — The Limit Opened | 1196 | PASS |
+| chapter_07.md | Chapter 7 — The Table of Light | 1048 | PASS |
+| chapter_08.md | Chapter 8 — The Ledger | 807 | PASS |
+| chapter_09.md | Chapter 9 — The Exposed Node | 1033 | PASS |
+| chapter_10.md | Chapter 10 — The Yes and the No | 710 | PASS |
+| chapter_11.md | Chapter 11 — The Amendment | 610 | PASS |
 
-**Total words:** 10453
+**Total words:** 9664
 
-## Findings
-
-### chapter_final_speculative.md
-
-- **[PR-01 authorial-learning]** (error) line 9: `had learned` — Instead, she began with Lio's fragments: the coin, worn smooth. The tidepool. The whistle—two fingers in the mouth, the 
-
-### chapter_02.md
-
-- **[FQ-04 body-tightens]** (warning) ending: `2x 'tightened' in one chapter (max 1)` — ...(phrase frequency)...
-
-### chapter_03.md
-
-- **[FQ-04 body-tightens]** (warning) ending: `2x 'tightened' in one chapter (max 1)` — ...(phrase frequency)...
-- **[ST-01 duplicate-chapter-title]** (error) line 1: `title shared with chapter_07.md` — the limit
-
-### chapter_04.md
-
-- **[FQ-02 not-x-but-y-frame]** (warning) ending: `3x 'it was not' in one chapter (max 2)` — ...(phrase frequency)...
-- **[FQ-04 body-tightens]** (warning) ending: `2x 'tightened' in one chapter (max 1)` — ...(phrase frequency)...
-- **[FQ-05 the-word-refrain]** (warning) ending: `4x 'the word' in one chapter (max 3)` — ...(phrase frequency)...
-- **[ST-01 duplicate-chapter-title]** (error) line 1: `title shared with chapter_10.md` — the erased core
-
-### chapter_05.md
-
-- **[FQ-01 pocket-anchor]** (warning) ending: `3x 'in her pocket' in one chapter (max 2)` — ...(phrase frequency)...
-- **[FQ-04 body-tightens]** (warning) ending: `2x 'tightened' in one chapter (max 1)` — ...(phrase frequency)...
-
-### chapter_06.md
-
-- **[FQ-02 not-x-but-y-frame]** (warning) ending: `3x 'it was not' in one chapter (max 2)` — ...(phrase frequency)...
-
-### chapter_07.md
-
-- **[FQ-02 not-x-but-y-frame]** (warning) ending: `6x 'it was not' in one chapter (max 2)` — ...(phrase frequency)...
-- **[FQ-04 body-tightens]** (warning) ending: `2x 'tightened' in one chapter (max 1)` — ...(phrase frequency)...
-- **[FQ-05 the-word-refrain]** (warning) ending: `7x 'the word' in one chapter (max 3)` — ...(phrase frequency)...
-- **[ST-01 duplicate-chapter-title]** (error) line 1: `title shared with chapter_03.md` — the limit
-
-### chapter_08.md
-
-- **[PR-08 had-the-feeling]** (error) line 61: `she had the feeling now that` — The next step would be to follow the other lines, not on a wall but in the Archive's own hidden records. She had the fee
-- **[PR-08 had-the-feeling]** (error) line 61: `he had the feeling now that` — The next step would be to follow the other lines, not on a wall but in the Archive's own hidden records. She had the fee
-
-### chapter_09.md
-
-- **[PR-07 felt-understanding]** (error) line 81: `more than she understood` — She felt, more than she understood, that the city had built the Limit around the memory with purpose. The edge had given
-- **[FQ-02 not-x-but-y-frame]** (warning) ending: `3x 'it was not' in one chapter (max 2)` — ...(phrase frequency)...
-- **[FQ-04 body-tightens]** (warning) ending: `3x 'tightened' in one chapter (max 1)` — ...(phrase frequency)...
-
-### chapter_10.md
-
-- **[FQ-02 not-x-but-y-frame]** (warning) ending: `3x 'it was not' in one chapter (max 2)` — ...(phrase frequency)...
-- **[ST-01 duplicate-chapter-title]** (error) line 1: `title shared with chapter_04.md` — the erased core
-
-### (corpus)
-
-- **[FQ-01 pocket-anchor]** (warning): `20x 'in her pocket' across corpus (max 14)`
-- **[FQ-02 not-x-but-y-frame]** (warning): `21x 'it was not' across corpus (max 8)`
-- **[FQ-03 warm-metal]** (warning): `7x 'was warm' across corpus (max 6)`
-- **[FQ-04 body-tightens]** (warning): `15x 'tightened' across corpus (max 6)`
-- **[FQ-05 the-word-refrain]** (warning): `29x 'the word' across corpus (max 15)`
-- **[FQ-06 word-lands]** (warning): `4x 'landed' across corpus (max 3)`
-- **[FQ-07 as-if-simile]** (warning): `12x 'as if' across corpus (max 10)`
+No findings.

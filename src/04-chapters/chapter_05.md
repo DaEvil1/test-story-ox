@@ -48,7 +48,7 @@ Keji did not ask him if that was a warning or an admission.
 
 "Ira believed it was necessary," Ari said. "For the many."
 
-Keji's pulse tightened. "So did she lie to you?"
+Keji's pulse jumped. "So did she lie to you?"
 
 Ari's eyes flicked to the recorder. "She made a choice. I am not the one to judge whether it was right. I am the one who keeps the record from unraveling."
 
@@ -78,10 +78,10 @@ Ari did not answer immediately. He laced his fingers together, as if holding som
 
 Keji set the packet back down. Her heart thudded. The coin in her pocket tapped again.
 
-She had the line now. She had the redacted page that said the child would be assigned privately. She had the hidden chamber's memory and the word LIO.
+She had the line now. She had the redacted page that said the child would be assigned privately. She had the hidden chamber's memory and Lio's name.
 
 The next step was not to tell the city. It was to find the missing pieces that had been smoothed away.
 
 She left the hall with the packet in her hand. The city outside had not changed. The noise went on. The walls kept their taught stories.
 
-But in her pocket, the coin pulsed with the same warmth as the memory she'd uncovered. It was a private thing in a public world.
+But the coin pulsed against her thigh, warm as the memory she'd uncovered.

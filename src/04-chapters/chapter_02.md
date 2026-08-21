@@ -14,13 +14,13 @@ The room beyond was a seal. The air there had the taste of sealed paper, damp an
 
 Inside was a chamber of recorded sound, not the clean Archive voice she edited every day, but a tangle of tonalities. There were the quick edits of officials, the snapped rhythm of procedure, and under them, a voice that held itself steady.
 
-The wall itself kept the memory. She pressed her palm flat, and the sound rose in her head without speakers. The first thing she heard was a line of instruction: it was not addressed to her, but it was precise enough to make her spine tighten. The second thing was a name, written not in the voice but in the way the walls flickered: LIO.
+The wall itself kept the memory. She pressed her palm flat, and the sound rose in her head without speakers. The first thing she heard was a line of instruction meant for other ears; it was precise enough to make her spine prickle. The second thing was a name, written not in the voice but in the way the walls flickered: LIO.
 
 The memory did not want to be held. It pulled away when she tried to trace it. The recorded surface flickered, then blacked out in a patch the size of her hand. A sentence broke apart and vanished. Only one fragment remained clear enough to carry into her own recorder: a bureaucratic stamp, the word AUTHORIZE, and a single line of prose that stopped midway.
 
 She reached for the line. It was a declaration of necessity, but not in the way a sentence usually declared. It was a thin, hard strand that felt wrong in her mouth, like dry salt. She set it against the glitch in her palm. The two snapped together with a sensation like ice meeting metal.
 
-A door in the chamber shifted. The floor under her feet tightened. The wall on her left tilted inward, not willingly but because it had been told to. The air changed. The memory's pulse started to drag, as if something had put a hand on the Archive's throat.
+A door in the chamber shifted. The floor drew taut under her feet. The wall on her left tilted inward, not willingly but because it had been told to. The air changed. The memory's pulse started to drag, as if something had put a hand on the Archive's throat.
 
 Keji stepped back. Her shoulder hit a surface and she found a hidden niche. Inside it, someone had left a small thing: a worn coin, flattened on one side, marked with a child's crude lighthouse. The coin was not in the recorded sound. It was a thing in the room.
 
@@ -30,4 +30,4 @@ As she withdrew, the chamber's wall made a sound behind her. Not a voice. A pres
 
 Outside, the hidden staircase had already begun closing to the shape of the lift. The seals on the door tightened. Keji moved her hand along the plaster, following a path of faint ink. The ink led her up, in a slow current, like the tide pulling back.
 
-When she emerged into the stairwell, the market noise was thin and bright. The city above did not know she had been below. She held the glitch and the coin, both heavy in her palm. She did not yet know what they meant.
+When she emerged into the stairwell, the market noise was thin and bright. The city above did not know she had been below. She held the glitch and the coin, both heavy in her palm.

@@ -20,7 +20,7 @@ The private ledger room was quiet enough that the only sound was the slow scribb
 
 She scratched a second line below it: LIO. The name did not belong to the public record. It belonged to the edge of the memory.
 
-The card felt too small for what she was doing. She could have written the whole sentence: I know what you did, Ira. She did not. She kept it sparse. She was making a place, not a speech.
+The card felt too small for what she was doing. She could have written the whole sentence: I know what you did, Ira. She kept it sparse instead.
 
 Ari's silence was louder than usual when he entered the room.
 
@@ -54,10 +54,10 @@ Keji did not disagree. She folded the card and slid it into the box of private s
 
 Ari did not answer. He left the room without sealing the door. The sound of the public hall came back in a thin thread.
 
-Keji sat at the desk. The coin in her pocket pulsed with her pulse. The private ledger box was open. She had a line. She had a place to keep it. She had a taste of the part of the story the city had decided to keep from the public wall.
+Keji sat at the desk. The coin in her pocket pulsed with her pulse. The private ledger box was open. She had a line. She had a place to keep it.
 
 She thought of Ira. She thought of Lio. She thought of the door that had said NO FURTHER.
 
-The next step would be to follow the other lines, not on a wall but in the Archive's own hidden records. She had the feeling now that the city had not only hidden the memory. It had made the hiding into a structure.
+The next step would be to follow the other lines—not on a wall but in the Archive's own hidden records.
 
 She stood. The card was gone into the box. The coin was gone into her pocket. The private ledger room held its quiet.

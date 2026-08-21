@@ -1,22 +1,22 @@
-Chapter 7 — The Limit
+Chapter 7 — The Table of Light
 
 The wall in the Drift had been quiet when Keji first touched it. Now it vibrated under her fingertips, a low thrum that matched the pulse in her ears. The hidden layer had kept its secret, but it did not like being read. It was a thing with weight.
 
-Sera watched the letters turn beneath Keji's hand. The line was thin and reluctant. It spilled out only once before closing on itself. 
+Sera watched the letters turn beneath Keji's hand. The line was thin and reluctant. It spilled out only once before closing on itself.
 
 "...Lio will become a ledger entry. The present will be preserved..."
 
-The word ledger landed in Keji's spine like cold metal.
+The word "ledger" landed in Keji's spine like cold metal.
 
 Sera slid the wire away from the wall. "It will not say more unless you ask it in the right place."
 
 Keji's fingers did not leave the surface. "Then show me the right place."
 
-The Drift's passage tilted. The air cooled. The wall's ink lifted and formed a path. It was not a straight line. It curved toward a door hidden beneath a layer of old script.
+The Drift's passage tilted. The air cooled. The wall's ink lifted and formed a path. It curved toward a door hidden beneath a layer of old script.
 
 The door was marked only by a faint seam. When Keji pressed her palm to it, the surface pulsed and the hidden line changed. A single word appeared, slow and heavy: NO.
 
-The wall itself did not feel like a warning. It felt like a refusal with a shape. The surface under her skin was not smooth. It was a series of ridges, as if the door had been built out of many erased attempts.
+Under her palm the wall was ridged, like a surface built out of many erased attempts.
 
 She pushed once. The door held. A pressure rose behind it—a force that was not in the door, but in the air around it.
 
@@ -26,7 +26,7 @@ Keji pushed again. The door's seam widened a hair. The letters on the wall rearr
 
 Not a sentence yet. Just a pair of words. The message was raw. The door's refusal was a boundary.
 
-Behind the door, a sound began to stir. It was not a recorded voice yet. It was the scrape of a chair, the rustle of paper, the faint exhale of someone in a room that was holding its breath.
+Behind the door, a sound began to stir: the scrape of a chair, the rustle of paper, the faint exhale of someone holding their breath.
 
 Keji did not let the sound distract her. She traced the seam with the edge of her palm, feeling the door's pulse. The pressure behind it shifted. The hidden line changed once more.
 
@@ -58,15 +58,15 @@ Then the room shifted. The faces in the light changed. A new voice came through,
 
 "Lio."
 
-The word landed differently than the others. It was not a directive. It was a name spoken in a way that carried someone with it.
+The name came differently than the others, spoken in a way that carried someone with it.
 
 Keji's throat tightened. The chamber reacted. The floor vibrated. The walls held back a pulse like a tide held by a dam.
 
-Then the voice spoke again. It was not her voice. It was the cadence she had heard before, but clearer. 
+Then the voice spoke again—the cadence she had heard before, but clearer.
 
 "We preserve the network. The channel closes. The child becomes ledger. Necessary."
 
-The memory did not soften the words. It did not justify them. It said them as if the choice had been made and was being put in place.
+The memory did not soften or justify them. It said them as if the choice had been made and was being put in place.
 
 The surface of the table flickered. Another line formed below the first: 
 
@@ -74,13 +74,13 @@ The surface of the table flickered. Another line formed below the first:
 
 The Limit had spoken in a human rhythm. It did not ask. It ordered. The second line was not a plea. It was a boundary.
 
-Keji pressed her palm to the table of light. The air around her tightened. The words on the surface blurred. She could feel the record wanting to close.
+Keji pressed her palm to the table of light. The air around her thickened. The surface blurred. She could feel the record wanting to close.
 
 She reached for the coin in her pocket and set it on the table's edge. The metal touched the surface. The light around it shifted. The coin did not belong to the record, but it made the contact real.
 
 A new fragment rose out of the pulse. It was thinner, younger. It said, "...if I keep the light, then the dark can go away..."
 
-The voice was a whisper of a child's thought. It was not a directive. It was a hope.
+The voice was a whisper of a child's thought.
 
 The room convulsed. The wall on her right bowed inward and then snapped back. The hidden line on the table pulsed with a final message.
 
@@ -96,6 +96,6 @@ Keji put the coin back in her pocket. The metallic edge pressed under her finger
 
 Sera's gaze followed the passage back. "Then the next step is not to open it. It's to decide what we carry."
 
-Keji nodded once. The word private still thrummed in her mind. It felt heavy, not because it was public, but because it was a thing she would have to keep herself.
+Keji nodded once.
 
 When they climbed back into the Drift, the city above looked the same. The noise of the market had not changed. But Keji felt the hidden door inside her, a weight that was not visible to anyone else.

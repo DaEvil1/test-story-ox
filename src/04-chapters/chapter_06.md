@@ -16,7 +16,7 @@ Keji watched the way his thumb flexed around the wire. "Then we use it quietly."
 
 Ari unsealed the packet. The pages inside were mostly blacked out. Only a few fragments were visible: AUTHORIZE RESET. PRESERVE NETWORK. REMOVE CHANNEL. The name LIO appeared in one place, the ink jagged as if it had been written fast.
 
-Ari laid the fragment on the desk. He activated the spindle. The wire hummed once, then pressed against the paper. The air in the hall changed. It was as if the walls had shifted closer.
+Ari laid the fragment on the desk. He activated the spindle. The wire hummed once, then pressed against the paper. The air in the hall changed. The walls felt closer.
 
 "This is the edge of the record," Ari said. "Beyond it, the Archive is more careful. The Limit sits right after this."
 
@@ -26,7 +26,7 @@ Ari slid the spindle along the page. The hidden layer of the document answered w
 
 Ari's hand steadied. "This is what the city keeps from the public wall. It is the part that still remembers how it wanted to be written. It will not stay if you look at it too directly."
 
-Sera was waiting in the Drift when Keji left the hall. The passage there felt warmer, as if the walls were breathing. She held the wire in her hand, the coin in her pocket.
+Sera was waiting in the Drift when Keji left the hall. The passage there felt warmer, as if the walls were breathing. She held the wire in one hand, the coin in the other.
 
 "I have something you need to hear," Keji said.
 
@@ -84,7 +84,7 @@ Keji opened her eyes. She saw the last fragment clearly now: LIO. The letters we
 
 The wall's refusal became louder. It was not words now. It was the pressure in the floor, the slight pull at her boots.
 
-She backed away. The spindle hummed in her hand. Sera’s fingers tightened around the wall.
+She backed away. The spindle hummed in her hand. Sera’s fingers pressed hard against the wall.
 
 "You can save that," Sera whispered. "You can keep the private layer. But if you want it in the public record, you have to make the city feel it."
 
@@ -98,6 +98,6 @@ It was not a command she had been given. It was the last thing the hidden layer 
 
 Sera released her hand. "We take that. We build the private ledger. And then we write the amendment."
 
-Keji nodded. The idea settled in her like a stone finding a pool. She had the direction now. It was not a solution. It was a shape.
+Keji nodded. The idea settled in her like a stone finding a pool.
 
 She left the Drift with the spindle, the coin, and the first piece of the hidden layer that had not dissolved. The city above did not know that a wall had opened and shown her a line of choice. But the line was there, beneath her skin, in the palm of her hand.

@@ -1,6 +1,6 @@
 Chapter 4 — The Erased Core
 
-The stair tightened around Keji. It was not a stair so much as a seam the Archive had left between two memories. Her hand trailed along the wall and felt the texture change: one side was old plaster, the other was a film of film. The light came from beneath the stone, pale and uneven.
+The stair narrowed around Keji until it was less stair than seam, a gap the Archive had left between two memories. Her hand trailed along the wall and felt the texture change: one side was old plaster, the other was a film of film. The light came from beneath the stone, pale and uneven.
 
 She counted the steps in her mind. The coin in her pocket tapped once on her thigh with each one. It was a small, inconsistent sound. It kept her in the present.
 
@@ -8,11 +8,11 @@ At the bottom, the air had the smell of rain that had never fallen. A door waite
 
 Keji set her palm against the door. The surface shivered and the script rearranged itself under her skin. The first word that formed was NO, written in a hand that trembled just enough to be honest. The second word was FURTHER.
 
-The door did not open. The wall on her left hummed and a pressure settled in her ribs. The Limit was not a voice yet. It was the door refusing her.
+The door did not open. The wall on her left hummed and a pressure settled in her ribs. The door refused her the way the Drift wall had, without words.
 
 She pressed harder. The script blurred. A line slipped through the varnish then vanished. It was a name: LIO. The letters were not public. They were private and splayed, the way a child might have written them on a purse with too much force.
 
-Keji took a breath. The surface was cool. She said the word out loud once and the letter O felt wrong in her mouth.
+Keji took a breath. The surface was cool. She said it out loud once and the letter O felt wrong in her mouth.
 
 The door responded with a sound deeper than a murmur. It was a series of taps, like the Archive communicating in a language of old equipment. She traced the taps with her mind. There were three: one for warning, one for limit, one for request.
 
@@ -40,7 +40,7 @@ It was a child's phrase. She heard it as taste in her mouth, quick and bright: "
 
 The voice snapped back into the main track. The chamber's wall made a sound like a lid coming down.
 
-Keji did not move. She let the silence fill the space. Her shoulder pressed against a bracket of stone. She felt the coin in her pocket and the way it warmed with her pulse.
+Keji did not move. She let the silence fill the space. Her shoulder pressed against a bracket of stone. She felt the coin and the way it warmed with her pulse.
 
 When the room unclenched, she reached for the recorder she had brought. She had expected to take a clean clip. The Archive did not give her that. The recording was jagged—fragments, cross-talk, the sound of a line erasing itself.
 
@@ -50,7 +50,7 @@ The second item was the name, held like a tremor: LIO.
 
 The third item was the child's line, incomplete and real. 
 
-The recorder light blinked red. There was one more item already on the tape when she played it back: a voice with the catch she knew. It whispered the word necessary and then the memory cut.
+The recorder light blinked red. There was one more item already on the tape when she played it back: a voice with the catch she knew. It whispered "necessary," and then the memory cut.
 
 Keji closed the recorder. The chamber around her had stopped humming. The door back to the stair had sealed itself with a slow, final sound. The passage did not want her to leave.
 

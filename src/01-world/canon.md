@@ -85,13 +85,20 @@ draft or amend the ledger with a `docs/decisions.log` entry.
 | 9 | The node reached via Sera's key; fragments captured; "NO FURTHER" seals the wall |
 | 10 | The erased core revisited: the choice "shown, not explained"; "keep private" as the memory's own will |
 | 11 | The amendment written and saved; Ari's acceptance; Keji keeps the coin and one private line |
-| Spec. | (Excluded from build) Alternative ending: fragments set in the Archive's spine, public correction, terrace epilogue |
+
+The canonical ending is chapter 11. An earlier speculative ending ("The
+Palimpsest Kept") is archived at `drafts/chapter_final_speculative.md` and is
+not canon.
 
 ## Continuity watchlist
 
-- ch3/ch7 share the title "The Limit"; ch4/ch10 share "The Erased Core" —
-  retitle before final assembly (automation: `ST-01`).
-- ch11 vs. `chapter_final_speculative`: overlapping endings; pick one canon.
-- ch6–ch10 repeat the wall-reading beat; verify against `motif_usage` limits.
+- ~~ch3/ch7 share the title "The Limit"~~ resolved 2026-08-21: ch7 retitled
+  "The Table of Light".
+- ~~ch4/ch10 share the title "The Erased Core"~~ resolved 2026-08-21: ch10
+  retitled "The Yes and the No".
+- ~~ch11 vs. speculative ending overlap~~ resolved 2026-08-21: chapter 11 is
+  canonical; speculative draft archived to `drafts/`.
+- ch6–ch10 repeat the wall-reading beat; trimmed in the 2026-08-21 prose pass
+  (see `docs/decisions.log`); verify against `motif_usage` limits on next read.
 - Ira's gender is never stated in drafts; character docs use "he" (protagonist
   key relationships) — keep pronouns consistent in any revision.

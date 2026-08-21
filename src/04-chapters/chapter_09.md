@@ -28,17 +28,17 @@ Beyond it was a chamber of paused memory. The light there was the only light. It
 
 Keji stepped in. The air smelled of rain and old paper. The floor was not solid; it felt like a film of ink stretched over stone. When she put her foot down, the surface gave just enough to make her feel it. The wall on her right had the texture of a ledger page.
 
-A sound rose from the room. It was a conversation, but not in words at first. It was the sound of a table being cleared, a chair moved, a breath taken. Then a voice spoke. It was not the smooth Archive voice she edited every day. It was closer, rougher, like a person speaking to someone who mattered.
+A sound rose from the room. It was a conversation, but not in words at first. It was the sound of a table being cleared, a chair moved, a breath taken. Then a voice spoke—closer and rougher than the smooth Archive voice she edited every day, like a person speaking to someone who mattered.
 
 "We can preserve the network," a voice said. "We can remove the channel. We can keep the child in a private ledger."
 
-The voice was steady. It was not yet Ira. It was the kind of voice that could have spoken in a boardroom or in a hallway lined with sealed doors.
+The voice was steady—not yet Ira—the kind that could have spoken in a boardroom or a hallway lined with sealed doors.
 
 Another voice answered, softer: "If we do that, the public wall will never know. It will be a wound kept beneath the surface."
 
 The first voice said, "It is necessary."
 
-Keji's throat tightened. The word moved through her like a metal taste.
+Keji's throat closed. The word moved through her like a metal taste.
 
 The light on the walls shifted. Another figure appeared in the memory's glow. It was a line of a child's hand, not a body. A small drawing. A crude lighthouse. The line was quick and bright, the way a child might press a pen too hard.
 
@@ -46,7 +46,7 @@ The room's memory did not show the child clearly. It only showed the hand, the d
 
 The voice in the room said the name aloud. "Lio."
 
-The wall pulsed. The hidden layer tightened like a fist. A second voice, lower, came through. It was not a person; it was a force shaped by policy and pattern. "No further."
+The wall pulsed. The hidden layer clenched like a fist. A second voice, lower, came through. It was not a person; it was a force shaped by policy and pattern. "No further."
 
 The door behind Keji began to hum. The wall on her left grew colder. She could feel the Limit's pressure as a physical weight against her chest.
 
@@ -78,9 +78,9 @@ Sera did not speak. She watched the seam close and then she reached into her own
 
 Keji nodded. The recorder in her hand still hummed with the fragments it had captured. The voice of the room was inside it now, but not as a full record. It was a shape, a cadence, a set of instructions.
 
-She felt, more than she understood, that the city had built the Limit around the memory with purpose. The edge had given her the directive and the child's line. It had refused her more. That was enough for now.
+The edge had given her the directive and the child's line. It had refused her more. Enough for now.
 
-She tapped the coin against her pocket once. The metal was warm.
+She pressed the coin against her pocket. Warm metal through the fabric.
 
 "We have the node," she said.
 

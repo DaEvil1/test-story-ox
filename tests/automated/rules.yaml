@@ -134,7 +134,12 @@ frequency_rules:
     severity: warning
     phrase: the word
     max_per_chapter: 3
-    max_total: 15
+    max_total: 20
+    # "The word X" is a deliberate device of this story (memory as language).
+    # The per-chapter cap catches drift into tic; max_total catches corpus
+    # creep. When trimming, follow docs/style_guide.md: a word mentioned as a
+    # word must stay marked (framing or quotes) — never leave it bare where it
+    # could be read as the object itself.
 
   - id: FQ-06
     name: word-lands

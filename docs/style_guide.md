@@ -14,6 +14,11 @@
 - Prefer active verbs and concrete images
 - Use metaphor sparingly, intentionally, and with resonance
 - Avoid clichés, especially in sci-fi descriptions
+- When a word is mentioned as a word, always mark it: keep the "the word X"
+  framing or put the word in quotes ("whispered 'necessary'"). Bare placement
+  after a speech verb is ambiguous ("she whispered necessary" reads as
+  manner; "Ledger landed in her spine" reads as a physical object). Pronouns
+  ("she said it out loud") are safe when the referent is immediately prior.
 
 ## Structure
 - Keep chapters focused and forward-moving

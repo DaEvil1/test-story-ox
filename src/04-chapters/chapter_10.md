@@ -1,4 +1,4 @@
-Chapter 10 — The Erased Core
+Chapter 10 — The Yes and the No
 
 Keji followed the hidden path until the walls stopped pretending to be walls. They became plates of thin light, stacked like pages in a book that did not want to be opened. The air in the room was cooler than the Drift, not because the temperature had changed but because sound had been sucked out of it.
 
@@ -20,19 +20,17 @@ Keji leaned closer. The air there tasted sharp, like cold metal and old ink.
 
 The memory did not show a face. It showed a hand, the curve of a child's J drawn too hard on a page. It showed a small lighthouse sketched at the corner of a ledger. The room held those details because they were not public. They were private weight.
 
-A different voice, softer, spoke through the wall. It was not the same as the protocol voices. It sounded like someone trying to keep a secret from happening to someone else.
+A different voice, softer, spoke through the wall—nothing like the protocol voices. It sounded like someone trying to keep a secret from happening to someone else.
 
 "If I keep the light, then the dark can go away," it said.
 
-The phrase landed in Keji's gut as a sensation. It was not an explanation. It was a child's attempt to make sense of what was being hidden.
+The phrase settled in Keji's gut. A child's attempt to make sense of what was being hidden.
 
-The room tightened. The seam behind her pulsed. The air pressed against her. The Archive did not want her there.
+The room contracted. The seam behind her pulsed. The air pressed against her. The Archive did not want her there.
 
 She pressed her hand harder to the seam. The word NO shifted into another word: FURTHER.
 
 The hidden layer did not open. It gave her one more line instead: "Keep private."
-
-The phrase was not an instruction from someone else. It was the memory itself choosing how it wanted to survive.
 
 Keji did not reach for the recorder yet. She let the line sit with her. The coin in her pocket warmed.
 
@@ -44,11 +42,11 @@ Sera's hand touched her arm on the other side. "It showed you the yes and the no
 
 Keji nodded. "It did not show me why. It showed me how the choice was held."
 
-Sera looked at the seam. "That is what The Limit is. It is not only the no. It is the space the no creates."
+Sera looked at the seam and did not add anything.
 
-Keji felt the coin in her pocket again. The metal was warm, the same warmth it had picked up in the private ledger room. 
+Keji felt the coin again. The metal was warm, the same warmth it had picked up in the private ledger room.
 
-She had the hidden line now. It was not a solution. It was a piece of the erased core. It had a shape.
+She had the hidden line now—a piece of the erased core. It had a shape.
 
 She stepped back through the door in the air. The passage to the Drift was narrow and the walls hummed at a lower pitch than before. When she emerged, the market noise felt far away, filtered.
 

@@ -33,6 +33,5 @@ chapters:
   - file: src/04-chapters/chapter_09.md
   - file: src/04-chapters/chapter_10.md
   - file: src/04-chapters/chapter_11.md
-  # Overlaps with chapter_11's ending; excluded until a canonical ending is chosen.
-  - file: src/04-chapters/chapter_final_speculative.md
-    include: false
+  # Canonical ending is chapter_11. An earlier speculative ending is archived
+  # at drafts/chapter_final_speculative.md.
