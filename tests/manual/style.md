@@ -9,7 +9,9 @@
 
 ## Prose Adherence (Critical)
 
-See `tests/prose_rules.md` for full checklist. Key reminders:
+The mechanical subset is enforced by `python tools/check_story.py` (rules in
+`tests/automated/rules.yaml`); the full principles are in
+`tests/automated/prose_rules.md`. Key reminders for manual review:
 
 - No explaining character internal states; show through action.
 - No authorial commentary on themes or lessons.

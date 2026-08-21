@@ -1,0 +1,87 @@
+# Automated prose & structure rules
+#
+# Data consumed by tools/check_story.py. Each rule found in a chapter is
+# reported with file, line number, rule id, and matched text.
+#
+# Regression protocol: when a violation is found during editing or review,
+# add its pattern here so it cannot silently reappear. Log substantive rule
+# changes in docs/decisions.log.
+
+version: 1
+spec: tests/automated/prose_rules.md
+
+# Exact phrases (case-insensitive substring match).
+phrase_rules:
+  - id: PR-01
+    name: authorial-learning
+    severity: error
+    description: Narrator states what a character learned or came to understand.
+    phrases:
+      - had learned
+      - learned that
+      - came to see
+      - came to understand
+      - came to realize
+      - came to know
+
+  - id: PR-02
+    name: realized-that
+    severity: error
+    description: Narrator explains a character's realization instead of showing it.
+    phrases:
+      - realized that
+
+  - id: PR-03
+    name: carried-summary
+    severity: error
+    description: 'Summary of internal state via "what she carried" constructions.'
+    phrases:
+      - what she carried
+      - what he carried
+      - what they carried
+
+  - id: PR-04
+    name: without-motivation
+    severity: error
+    description: Authorial explanation of why an action was taken.
+    phrases:
+      - without comment
+      - without justification
+      - without hesitation
+      - without doubt
+      - without explanation
+
+  - id: PR-05
+    name: moral-summary
+    severity: error
+    description: Known moral-of-the-story summary lines.
+    phrases:
+      - the weight of it was enough
+
+# Regular-expression rules (case-insensitive). scope: line | ending
+regex_rules:
+  - id: PR-06
+    name: felt-emotion-label
+    severity: error
+    scope: line
+    description: Narrator labeling an emotional state instead of showing it.
+    pattern: '\b(felt|feels|grew)\s+(uncertain|afraid|scared|guilty|ashamed|anxious|conflicted|torn|hopeful|relieved|lonely|betrayed|angry|sad|happy|proud)\b'
+
+  - id: END-01
+    name: ending-significance
+    severity: warning
+    scope: ending
+    ending_chars: 500
+    description: Chapter ending reflects on meaning/significance instead of landing on sensory immediacy.
+    pattern: '\b(meaning|significance|the moral|the lesson)\b'
+
+# Whole-corpus structural checks (implemented in tools/check_story.py).
+structural_rules:
+  - id: ST-01
+    name: duplicate-chapter-title
+    severity: error
+    description: Two chapter files share the same heading title.
+
+settings:
+  # Straighten curly quotes before matching so apostrophe style never hides a hit.
+  normalize_quotes: true

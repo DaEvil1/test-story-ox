@@ -2,6 +2,10 @@
 
 This test validates adherence to our hard prose principles (see docs/style_guide.md).
 
+The mechanically checkable subset of these rules lives in `rules.yaml` and is
+enforced by `python tools/check_story.py`. Rules 3, 5, 6, 8, 10, 11, and 12
+below require human judgment and are checked during manual review.
+
 ## Rules to Check
 
 1. **No explanations of character choices or internal states:**
@@ -61,32 +65,26 @@ This test validates adherence to our hard prose principles (see docs/style_guide
 
 ## Validation
 
-For each chapter:
+The phrase and pattern scans listed below are automated — see `rules.yaml` for
+the current patterns. Run `python tools/check_story.py` after every drafting
+session; when a violation is found during editing or review, add its pattern
+to `rules.yaml` so it cannot reappear.
+
 - Scan for "had learned," "came to see," "came to understand," "realized that," "What she carried" — these are authorial explanation masquerading as narrative.
-- Scan for sentences that reflect on meaning or significance (especially at chapter endings).
-- Check for philosophical conclusions presented as description.
-- Scan for dialogue that states moral/philosophical principles instead of showing belief through action.
 - Scan for "without [motivation]" patterns — these are authorial commentary about choice.
-- Scan for poetic statements about significance or beauty — if removed, does the story still work? Then they're probably authorial.
-- Verify all conflicts are enacted through dialogue/behavior, not introspection.
-- Strip out reflection; keep immediate, present-moment action and sensory detail.
-- **Special focus:** Look for passages that could be removed without losing the story—those are usually authorial commentary.
 
-## Test Results Against Chapters
+## Manual Review (judgment calls)
 
-### Chapter 1
-- ✓ **PASS** — Fixed violation of Rule 10 ("felt like the first small consequence of a persistent question")
-- ✓ All other rules met
-- Borderline (acceptable): "as if he had once learned to stop his hands" uses "learned" but tied to observed behavior, not thematic learning
-- Borderline (acceptable): "like a slow animal deciding whether to bring its cub back" is flowery metaphor but grounded in sensory experience, not authorial philosophy
+These require a human/AI read, not a pattern match:
 
-### Final Chapter
-- ✓ **PASS** — Fixed violations of Rules 8, 9, 10
-  - Removed Ari's philosophical dialogue; replaced with silent nod
-  - Removed "without comment, without justification" 
-  - Removed "would hum for anyone listening carefully enough"
-  - Removed "palimpsest upon palimpsest, tide upon tide"
-- ✓ All other rules met
-- All remaining sensory/metaphorical language is tied to Keji's immediate experience, not authorial explanation of meaning
+- Sentences that reflect on meaning or significance (especially at chapter endings).
+- Philosophical conclusions presented as description.
+- Dialogue that states moral/philosophical principles instead of showing belief through action.
+- Poetic statements about significance or beauty — if removed, does the story still work? Then they're probably authorial.
+- Conflicts enacted through dialogue/behavior, not introspection.
+- Passages that could be removed without losing the story — those are usually authorial commentary.
+
+Results of manual reviews are recorded in `tests/VALIDATION_REPORT.md`;
+automated results are generated into `tests/STATUS.md`.
 
 
