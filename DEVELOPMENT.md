@@ -47,8 +47,9 @@ This project treats writing as software development with iterative phases and qu
 Requires Python 3.10+ with PyYAML.
 
 ```
-python tools/check_story.py                           # run automated prose/structure checks
+python tools/check_story.py                           # run automated prose/structure/ledger checks
 python tools/check_story.py --report tests/STATUS.md  # regenerate the status file
+python tools/analyze_story.py                         # statistical analysis -> tests/ANALYSIS.md
 python tools/build_manuscript.py                      # assemble output/manuscript.md from book.yaml
 ```
 

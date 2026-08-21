@@ -1,5 +1,7 @@
 # Story Assessment — 2026-08-21
 
+> **Revision 2 scored below (see appended section). Overall moved 5.2 → 6.9.**
+
 Scored against `docs/story_craft_criteria.md` (independent craft rubric).
 Method: full close read of all 11 canonical chapters (post 2026-08-21 prose
 pass), corpus frequency analysis, manual-test cross-reference. Stance: strict;
@@ -107,3 +109,91 @@ all *omissions* (unshown relationships, unpaid costs, unvaried register)
 rather than mistakes, which makes them unusually fixable in revision. As it
 stands it respects its reader and its own rules; it does not yet risk enough
 to break anyone's heart.
+
+---
+
+# Revision 2 — Re-Score (2026-08-21, same rubric, same reviewer)
+
+Method: ledger-driven revision pass (lived memories, cost extraction, civic
+stakes, ambiguity evidence), validated by `tools/check_story.py` (0 errors,
+0 warnings) and measured by `tools/analyze_story.py`. Full re-score below;
+only criteria that moved are listed with evidence.
+
+**Overall: 6.9 / 10** (was 5.2; **+1.7**)
+
+| # | Criterion | Was | Now | What changed |
+|---|---|---|---|---|
+| 2 | Promise | 5 | 6 | Reality/entropy now have on-page beats (Drift burst; dead voice in walls) |
+| 4 | Turning points | 5 | 7 | ch9 injury reversal; ch10 permanence flip; ch11 cost twist — turns are felt |
+| 5 | Escalation / try-fail | 4 | 6 | Costs escalate (free reads → crushed fingers → sealed forever → Ari's career); ch9/ch10 no longer replay ch4's scene value |
+| 6 | Midpoint shift | 5 | 6 | ch9–ch10 shift discovery → consequence |
+| 7 | Scene-level drive | 5 | 7 | Dead scenes cut or converted to transitions; every remaining scene pays |
+| 8 | Pacing variation | 4 | 6 | Burst scene (loud, painful) against the hush; warmth scenes vary register |
+| 9 | Want vs. need | 5 | 6 | "Made room" vs. truth-hunger distinction clearer; still not forced either/or |
+| 11 | Flaw with a price | 5 | 7 | Forcing past refusal costs her body; Ari's enabling costs him his seals |
+| 12 | Relationships dramatized | 4 | 7 | Lio lives on the page twice (tidepool; coin-counting); Ira warm once (kitchen) |
+| 14 | Antagonist mirror | 7 | 8 | The Limit's argument is now demonstrated, not just asserted (burst scene) |
+| 15 | Pressure with consequences | 3 | 7 | Three real extractions: fingers, permanent seal, Ari's position |
+| 19 | Ambiguity as design | 5 | 8 | Mercy reading seeded 3× (earlier take, lighthouse sketch, laying-down pressure); betrayal 3× — reader can genuinely weigh |
+| 22 | Both sides weighted | 4 | 7 | Drift has constituency (the widow, Sera's history) *and* demonstrated danger |
+| 23 | Choice with moral weight | 4 | 6 | Costs exist and land — though Keji's final choice itself remains personally cheap |
+| 26 | Rhythm & register | 5 | 6 | More variation; formulas reduced but not gone |
+| 27 | Image economy | 4 | 5 | wall 98→94, pulse 37→33, seam 17→12 — better, still mannered |
+| 30 | Rules & costs | 6 | 8 | The system now charges visible prices on-page |
+| 31 | Defamiliarization | 6 | 7 | "Grief edit" concretized through Sera's six smooth weeks |
+| 32 | Stakes escalation | 4 | 7 | Civic scope realized on-page; losses irreversible |
+| 33 | Emotional range | 3 | 6 | Joy (tidepool, kitchen, quay), pain (ch9), grief (Sera), humor ("Crooked holds") |
+| 34 | Vulnerability | 5 | 7 | The cry "high and unfamiliar"; the bandaged hand; Sera's confession |
+| 35 | Catharsis | 5 | 7 | Release now earned through paid costs |
+| 37 | Cost acknowledged | 3 | 8 | Three irreversible costs shown, not spoken |
+| 40 | Genre contract | 4 | 6 | Two genuine destabilizing beats; still gentle for the label |
+
+Unchanged: hook (7), central question (8), agency (8), theme enactment (8),
+clarity (8), POV (8), integration (8), inevitable-yet-surprising (8).
+
+## Section averages — before → after
+
+| Section | Was | Now |
+|---|---|---|
+| Foundation | 6.7 | 7.0 |
+| Structure | 4.6 | 6.2 |
+| Character | 5.4 | 6.6 |
+| Antagonist | 5.7 | 7.3 |
+| Mystery | 6.3 | 7.0 |
+| Theme | 5.3 | 7.0 |
+| Prose | 6.4 | 6.8 |
+| World | 6.7 | 7.7 |
+| Emotion | 4.0 | 6.5 |
+| Ending | 6.3 | 7.5 |
+| Genre contract | 4.0 | 6.0 |
+
+## Where the new methods hit
+
+| Tool | Finding | Fix it drove | Score lift |
+|---|---|---|---|
+| `RL-01` relationship ledger | 0 lived scenes for Lio/Ira | ch1 tidepool, ch2 coins, ch5 kitchen | #12: 4→7 |
+| `SL-04/05` cost rules | 0 costs, 0 irreversible | ch9 fingers, ch10 seal, ch11 seals | #15: 3→7, #37: 3→8 |
+| `SL-06` civic stakes | never left home | ch10 Drift burst | #32: 4→7 |
+| `AM-01` ambiguity ledger | 0 evidence either reading | ch4 earlier take, ch5 lighthouse | #19: 5→8 |
+| `PL-01` promise ledger | mind-bending/reality/entropy undelivered | ch10 burst + ch7 cadence beats | #2, #40 |
+| Analyzer: joy/warmth | zero in ch7–11 | quay beat, Sera's history | #33: 3→6 |
+| Analyzer: image density | wall 98, pulse 37 | trims during pass | #27: 4→5 |
+
+## What still holds it back (next lever, if any)
+
+1. **Distinct voices (5)** — Ari/Sera fingerprint similarity 0.62; content
+   differs, music doesn't. Needs line-level dialogue passes.
+2. **Image economy (5)** — "wall" still ~94/10k; the medium justifies some of
+   it, not all. A dedicated variation pass could get under 70.
+3. **Keji's final choice is still personally cheap (23: 6)** — she pays in
+   fingers and access, but the amendment itself passes without backlash to
+   her. One consequence aimed at *her* would close the loop.
+4. **Want vs. need (9: 6)** — never forced to choose between them.
+
+## Honest bottom line, revision 2
+
+The omissions are fixed; what remains is texture work (voices, image
+variation) and one structural nicety. At 6.9 this now reads as deliberate,
+paid-for storytelling: the quietness is a choice with teeth around it, the
+ambiguity is load-bearing, and the ending costs people things. The gap to 8+
+is line craft and the last structural refinement — no longer missing organs.

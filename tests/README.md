@@ -33,7 +33,33 @@ Reviewed by a human (or AI read-through), not pattern-matched:
 
 Manual review results are recorded in `VALIDATION_REPORT.md`.
 
+## `analysis/` — story ledgers and generated metrics
+
+Machine-readable descriptions of the story that the checker validates:
+
+- `scene_ledger.yaml` — per-scene goal / new-info / value-change / cost /
+  stakes; enforces escalation, costs, civic stakes (`SL-*` rules)
+- `ambiguity_ledger.yaml` — evidence for rival readings of open questions;
+  both readings must be rich (`AM-*`)
+- `relationship_ledger.yaml` — lived-presence targets for key characters
+  (`RL-*`)
+- `promise_ledger.yaml` — book claims mapped to delivering beats (`PL-*`)
+
+Plus generated analytics:
+
+- `ANALYSIS.md` — **generated**, do not edit. Word frequency, repeated
+  trigrams, rhythm, dialogue share, voice fingerprints, emotion lexicons,
+  motif density:
+
+```
+python tools/analyze_story.py
+```
+
 ## Generated files
 
 - `STATUS.md` — per-chapter automated results. **Generated — do not edit.**
+- `ANALYSIS.md` — statistical analysis. **Generated — do not edit.**
 - `VALIDATION_REPORT.md` — living record of manual validation and open gaps.
+
+When the story changes materially, update the ledgers in the same session,
+then re-run checker + analyzer before committing.
