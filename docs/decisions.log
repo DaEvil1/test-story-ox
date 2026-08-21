@@ -5,3 +5,8 @@
 - 2026-07-21: Project structure follows software development phases and supports branching experiments.
 - 2026-07-21: Added a subtle antagonist named The Limit, which begins as a peripheral presence and becomes a direct philosophical opposite to Keji's final choice.
 - 2026-07-21: Created a more detailed story outline and a philosophy guide to anchor the writing process.
+- 2026-08-21: Adopted an executable test suite: mechanically checkable prose rules moved to `tests/automated/rules.yaml`, enforced by `tools/check_story.py`; judgment checklists moved to `tests/manual/`. New violations must be added to `rules.yaml` (regression protocol).
+- 2026-08-21: Replaced the monolithic validation report with a generated `tests/STATUS.md` plus a living manual-review record in `tests/VALIDATION_REPORT.md`.
+- 2026-08-21: Added `src/01-world/canon.md` as the continuity ledger; `tests/manual/consistency.md` now checks drafts against it.
+- 2026-08-21: Added `tools/build_manuscript.py` and an ordered chapter list in `book.yaml`; `chapter_final_speculative.md` excluded from the default build pending the ch11/speculative ending decision.
+- 2026-08-21: Automation flagged open issues: duplicate titles (ch3/ch7 "The Limit", ch4/ch10 "The Erased Core") and "had learned" in the speculative ending. Left for story revision, not fixed by tooling.
