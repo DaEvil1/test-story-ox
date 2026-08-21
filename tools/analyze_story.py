@@ -109,6 +109,20 @@ def cosine(a: Counter, b: Counter) -> float:
     return dot / (na * nb) if na and nb else 0.0
 
 
+def pearson(xs: list[float], ys: list[float]) -> float:
+    n = len(xs)
+    mx, my = sum(xs) / n, sum(ys) / n
+    cov = sum((x - mx) * (y - my) for x, y in zip(xs, ys))
+    vx = sum((x - mx) ** 2 for x in xs) ** 0.5
+    vy = sum((y - my) ** 2 for y in ys) ** 0.5
+    return cov / (vx * vy) if vx and vy else 0.0
+
+
+def chapter_num_safe(name: str) -> int:
+    m = re.search(r"(\d+)", name)
+    return int(m.group(1)) if m else 0
+
+
 def main() -> int:
     if sys.stdout.encoding and sys.stdout.encoding.lower() not in ("utf-8", "utf8"):
         sys.stdout.reconfigure(encoding="utf-8")
@@ -289,6 +303,7 @@ def main() -> int:
     out += ["## Emotion lexicon hits", "", "| Category | Corpus | per 10k | ch1 | ch2 | ch3 | ch4 | ch5 | ch6 | ch7 | ch8 | ch9 | ch10 | ch11 |",
             "|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|"]
     empty_categories = []
+    emotion_by_chapter: dict[str, dict[str, int]] = {}
     for category, words in EMOTION_LEXICONS.items():
         row = []
         total = 0
@@ -297,6 +312,7 @@ def main() -> int:
             n = sum(toks.count(w) for w in words)
             total += n
             row.append(n)
+            emotion_by_chapter.setdefault(name, {})[category] = n
         rate = total * 10000 / total_words
         if total == 0:
             empty_categories.append(category)
@@ -320,6 +336,124 @@ def main() -> int:
         n = sum(tokens(corpus).count(w) for w in words)
         out.append(f"| {label} | {n} | {n * 10000 / total_words:.0f} |")
     out.append("")
+
+    # 9. Staleness report — chapter similarity & information density
+    out += ["## Staleness report", ""]
+    names = sorted(texts.keys())
+    vecs = {n: Counter(content_tokens(texts[n])) for n in names}
+    trisets = {}
+    for n in names:
+        toks = tokens(texts[n])
+        trisets[n] = {(toks[i], toks[i + 1], toks[i + 2])
+                      for i in range(len(toks) - 2)}
+
+    def chapter_num(name: str) -> int:
+        m = re.search(r"(\d+)", name)
+        return int(m.group(1)) if m else 0
+
+    cos_pairs = []
+    tri_pairs = []
+    for i in range(len(names)):
+        for j in range(i + 1, len(names)):
+            a, b = names[i], names[j]
+            cos_pairs.append((cosine(vecs[a], vecs[b]), a, b))
+            union = trisets[a] | trisets[b]
+            jac = len(trisets[a] & trisets[b]) / len(union) if union else 0.0
+            tri_pairs.append((jac, a, b))
+
+    out += ["### Lexical similarity (top pairs)", "",
+            "| Pair | Cosine |", "|---|---:|"]
+    for sim, a, b in sorted(cos_pairs, reverse=True)[:5]:
+        marker = " **STALE?**" if sim > 0.70 else ""
+        out.append(f"| ch{chapter_num(a)} ~ ch{chapter_num(b)} | {sim:.2f}{marker} |")
+    out.append("")
+
+    out += ["### Shared-trigram overlap (top pairs)", "",
+            "| Pair | Jaccard |", "|---|---:|"]
+    for jac, a, b in sorted(tri_pairs, reverse=True)[:5]:
+        marker = " **STALE?**" if jac > 0.12 else ""
+        out.append(f"| ch{chapter_num(a)} ~ ch{chapter_num(b)} | {jac:.3f}{marker} |")
+    out.append("")
+
+    # Words per unit of new information (from scene ledger, if present)
+    ledger_path = REPO_ROOT / "tests" / "analysis" / "scene_ledger.yaml"
+    if ledger_path.exists():
+        import yaml
+        ledger = yaml.safe_load(ledger_path.read_text(encoding="utf-8")) or {}
+        info_per_chapter: dict[int, int] = {}
+        for scene in ledger.get("scenes", []):
+            ch = scene.get("chapter")
+            info_per_chapter[ch] = info_per_chapter.get(ch, 0) + len(scene.get("new_info") or [])
+        out += ["### Words per new-information unit", "",
+                "| Chapter | Words | New info | Words/info |", "|---|---:|---:|---:|"]
+        rows = []
+        for n in names:
+            ch = chapter_num(n)
+            infos = info_per_chapter.get(ch, 0)
+            w = len(texts[n].split())
+            ratio = w / infos if infos else None
+            rows.append((ratio if ratio is not None else 9999, ch, w, infos))
+        for ratio, ch, w, infos in sorted(rows, reverse=True):
+            shown = f"{ratio:.0f}" if infos else "—"
+            marker = " **EXPENSIVE**" if infos and ratio > 400 else ""
+            out.append(f"| ch{ch} | {w} | {infos} | {shown}{marker} |")
+        out.append("")
+
+    # Flat chapters (tension never moves inside a chapter)
+    tension_path = REPO_ROOT / "tests" / "analysis" / "tension_ledger.yaml"
+    if tension_path.exists():
+        import yaml
+        tdata = yaml.safe_load(tension_path.read_text(encoding="utf-8")) or {}
+        by_ch: dict[int, list] = {}
+        for s in tdata.get("scenes", []):
+            sid = s.get("id", "")
+            m = re.search(r"ch(\d+)", sid)
+            if m:
+                by_ch.setdefault(int(m.group(1)), []).append(s.get("tension", 0))
+        flat = [ch for ch, ts in sorted(by_ch.items()) if ts and max(ts) - min(ts) <= 1]
+        out += ["### Flat chapters (internal tension spread <= 1)", ""]
+        out += [f"ch{', ch'.join(str(c) for c in flat)}" if flat else "None.", ""]
+
+    # 10. Coupling: tension x emotional breadth (Dread Triangle health)
+    tension_path = REPO_ROOT / "tests" / "analysis" / "tension_ledger.yaml"
+    if tension_path.exists():
+        import yaml
+        tdata = yaml.safe_load(tension_path.read_text(encoding="utf-8")) or {}
+        tens_by_ch: dict[int, list] = {}
+        for s in tdata.get("scenes", []):
+            m = re.search(r"ch(\d+)", s.get("id", ""))
+            if m and isinstance(s.get("tension"), (int, float)):
+                tens_by_ch.setdefault(int(m.group(1)), []).append(s["tension"])
+
+        out += ["## Coupling: tension x emotional breadth", "",
+                "Peak chapters running on <=2 feeling-categories are on plot, not dread.",
+                "",
+                "| Chapter | Avg tension | Emotion cats | Total hits | Note |",
+                "|---|---:|---:|---:|---|"]
+        xs, ys = [], []
+        narrow_peaks = []
+        for ch in sorted(tens_by_ch):
+            name = next((n for n in texts if chapter_num_safe(n) == ch), None)
+            if name is None:
+                continue
+            avg_t = sum(tens_by_ch[ch]) / len(tens_by_ch[ch])
+            cats = emotion_by_chapter.get(name, {})
+            n_cats = sum(1 for v in cats.values() if v > 0)
+            total_hits = sum(cats.values())
+            note = ""
+            if avg_t >= 7 and n_cats <= 2:
+                note = "**NARROW PEAK**"
+                narrow_peaks.append(ch)
+            xs.append(avg_t)
+            ys.append(n_cats)
+            out.append(f"| ch{ch} | {avg_t:.1f} | {n_cats} | {total_hits} | {note} |")
+        out.append("")
+        if len(xs) >= 3:
+            r = pearson(xs, ys)
+            out += [f"Pearson r (avg tension vs emotion categories): **{r:.2f}**", ""]
+            if narrow_peaks:
+                out += [f"Narrow peaks: ch{', ch'.join(str(c) for c in narrow_peaks)} "
+                        "— consider seeding one non-fear feeling inside the spike.", ""]
 
     args.report.write_text("\n".join(out), encoding="utf-8")
     print(f"Analysis written to {args.report.relative_to(REPO_ROOT)}")

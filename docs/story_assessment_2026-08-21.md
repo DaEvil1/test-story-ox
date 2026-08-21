@@ -309,3 +309,32 @@ The realistic ceiling statement stands: 7.1 measured, with every point's
 provenance documented. An 8 would require a cold red-team reader to praise
 specific scenes unprompted — which is exactly what the red-team protocol
 (build pending) exists to test.
+
+---
+
+# Addendum — Coupling Layer (2026-08-21)
+
+Scores are no longer independent. Three additions measure the story as a
+system (`docs/metric_interactions.md` maps the couplings):
+
+1. **Pillar report** (`tests/PILLARS.md`, `tools/pillar_report.py`) — eight
+   criterion systems scored as mean *penalized by internal spread*.
+   **Raw overall 7.10 vs system-adjusted 6.76** — the 0.34 gap is hidden
+   debt, concentrated in **Structure Spine (6.15)** and **Promise Frame
+   (6.30)**, which have now been the two weakest pillars across every
+   snapshot. Trajectory: Consequence Economy climbed 3.30 → 6.95 across four
+   revisions; Structure Spine has not moved since r2.
+2. **Staleness report** (analyzer) — chapter-pair lexical similarity,
+   trigram overlap, words-per-info, flat-chapter detection. First run
+   correctly identified ch6 as the compression candidate (403 words/info,
+   highest lexical rhyme); compressed with removals archived at
+   `drafts/scene_archive_2026-08-21.md`.
+3. **Tension × emotional-breadth coupling** — first run flagged ch9 as a
+   NARROW PEAK (tension 7.3 on only fear+grief). Fixed with one gentle beat
+   inside the spike; correlation moved −0.04 → +0.26 (tension now widens
+   feeling rather than narrowing it).
+
+*Caveat recorded honestly:* pillar trajectories compare snapshots with
+different member coverage (criteria 41–50 joined at r3), so small dips like
+Trust Contract 7.25→7.15 are membership artifacts until a full-history
+re-score is run on all 50.

@@ -1,0 +1,40 @@
+# Pillar definitions: criteria grouped into interacting systems.
+# A pillar score is its mean PENALIZED by internal spread:
+#   adjusted = mean - 0.25 * (max - min)
+# because a system with a starved member is weaker than its average.
+# Coupling notes reference docs/metric_interactions.md.
+
+pillars:
+  - name: Structure Spine
+    members: [4, 5, 6, 7, 20]
+    coupling: "Escalation creates debt; pacing services it (Breath Pair). Reveal timing gates all turns."
+
+  - name: Consequence Economy
+    members: [15, 23, 32, 35, 37]
+    coupling: "Cost trio+ — extraction, weight, escalation, release, acknowledgment as one system."
+
+  - name: Trust Contract
+    members: [18, 19, 42, 43, 49]
+    coupling: "Payoff Triangle + loop budget: fairness, ambiguity, plants, rereads share one bank account."
+
+  - name: Pulse
+    members: [8, 26, 33, 41]
+    coupling: "Tension curve, register, range: the rhythm system. Dread Triangle corner."
+
+  - name: Bond
+    members: [12, 13, 34, 44]
+    coupling: "Attachment, voices, vulnerability: who the reader holds and how clearly they speak."
+
+  - name: World Logic
+    members: [29, 30, 31, 45]
+    coupling: "Integration, rules, defamiliarization, onboarding: the reality that pays for wonder."
+
+  - name: Mind
+    members: [3, 21, 22, 50]
+    coupling: "Question, theme, balance, judgment pressure: what the story argues."
+
+  - name: Promise Frame
+    members: [1, 2, 36, 39, 40]
+    coupling: "Hook, contract, ending craft: first and last impressions as one frame."
+
+penalty_factor: 0.25

@@ -1,0 +1,149 @@
+# Score history snapshots. Each entry: revision label -> {criterion: score}.
+# Only scores actually recorded at that revision are present; the pillar
+# report compares over the intersection of members.
+
+history:
+  r1_initial:
+    date: 2026-08-21
+    note: "first full assessment (40 criteria), before ledger-driven revisions"
+    scores:
+      1: 7
+      2: 5
+      3: 8
+      4: 5
+      5: 4
+      6: 5
+      7: 5
+      8: 4
+      9: 5
+      10: 8
+      11: 5
+      12: 4
+      13: 5
+      14: 7
+      15: 3
+      16: 7
+      17: 7
+      18: 7
+      19: 5
+      20: 6
+      21: 8
+      22: 4
+      23: 4
+      24: 8
+      25: 7
+      26: 5
+      27: 4
+      28: 8
+      29: 8
+      30: 6
+      31: 6
+      32: 4
+      33: 3
+      34: 5
+      35: 5
+      36: 8
+      37: 3
+      38: 7
+      39: 7
+      40: 4
+
+  r2_ledger_pass:
+    date: 2026-08-21
+    note: "after cost/relationship/ambiguity/stakes revision pass"
+    scores:
+      1: 7
+      2: 6
+      3: 8
+      4: 7
+      5: 6
+      6: 6
+      7: 7
+      8: 6
+      9: 6
+      10: 8
+      11: 7
+      12: 7
+      13: 5
+      14: 8
+      15: 7
+      16: 7
+      17: 7
+      18: 7
+      19: 8
+      20: 6
+      21: 8
+      22: 7
+      23: 6
+      24: 8
+      25: 7
+      26: 6
+      27: 5
+      28: 8
+      29: 8
+      30: 8
+      31: 7
+      32: 7
+      33: 6
+      34: 7
+      35: 7
+      36: 8
+      37: 8
+      38: 7
+      39: 7
+      40: 6
+
+  r4_current:
+    date: 2026-08-21
+    note: "after reading-experience punch list + line pass; all 50 criteria"
+    scores:
+      1: 7
+      2: 6
+      3: 8
+      4: 7
+      5: 6
+      6: 6
+      7: 7
+      8: 6
+      9: 7
+      10: 8
+      11: 7
+      12: 7
+      13: 6
+      14: 8
+      15: 7
+      16: 7
+      17: 7
+      18: 7
+      19: 8
+      20: 6
+      21: 8
+      22: 7
+      23: 7
+      24: 8
+      25: 7
+      26: 7
+      27: 6
+      28: 8
+      29: 8
+      30: 8
+      31: 7
+      32: 7
+      33: 7
+      34: 7
+      35: 7
+      36: 8
+      37: 8
+      38: 7
+      39: 7
+      40: 6
+      41: 8
+      42: 7
+      43: 8
+      44: 7
+      45: 7
+      46: 7
+      47: 7
+      48: 7
+      49: 7
+      50: 7

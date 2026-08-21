@@ -34,7 +34,7 @@ Keji pressed the spindle to the wall. The wire sank a hair. The Archive's hidden
 
 "The Limit will notice if it senses too much," Sera said. "It does not like a tool that reads its own handwriting."
 
-The hidden layer glowed faintly under the glass. Letters formed and dissolved. Keji watched the motion. It was like watching water pull back from a shore.
+The hidden layer glowed faintly under the glass. Letters formed and dissolved, like water pulling back from a shore.
 
 A phrase finally held: 
 
@@ -48,13 +48,13 @@ She pushed the spindle deeper. The line shifted. Another fragment appeared, raw 
 
 "...Lio will become a ledger entry. The present will be preserved at the cost of a door closed. It is necessary."
 
-The voice behind the wall was not a voice she could hear. It was the motion of the letters. It carried the cadence of someone making a decision under pressure.
+The letters moved like someone deciding under pressure.
 
-Her fingers pressed flat to the glass. The surface thrummed under them. In the same pulse, another line slid into view and then away:
+Her fingers pressed flat to the glass. In the same pulse, another line slid into view and then away:
 
 "NO FURTHER."
 
-The Limit showed itself as refusal. The wall did not argue. It stopped.
+The plaster did not argue. It stopped.
 
 Sera's hand touched Keji's shoulder. "There is more if you go left. There is a different pressure if you go right. Which one do you want?"
 
@@ -100,4 +100,4 @@ Sera released her hand. "We take that. We build the private ledger. And then we 
 
 Keji nodded. The idea settled in her like a stone finding a pool.
 
-She left the Drift with the spindle, the coin, and the first piece of the hidden layer that had not dissolved. The city above did not know that a wall had opened and shown her a line of choice. But the line was there, beneath her skin, in the palm of her hand.
+She left the Drift with the spindle, the coin, and the first piece of the hidden layer that had not dissolved. The city above did not know a wall had opened. But the line was there, beneath her skin, in the palm of her hand.

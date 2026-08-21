@@ -62,7 +62,7 @@ When she could see again, she was on her knees in the Drift and the wall was sol
 
 Two fingers of her left hand hung dull at her side. They would not close. The coin had pressed its edge into her palm so hard she could find the mark by touch.
 
-Sera did not speak. She knelt and pressed Keji's shoulder once, and then she reached into her own pocket. She took out a small key on a thin wire—the kind the Archive used to access maintenance panels.
+Sera did not speak. She knelt and pressed Keji's shoulder once, and her thumb moved in one slow circle there — the only gentle thing in the room. Then she reached into her own pocket. She took out a small key on a thin wire—the kind the Archive used to access maintenance panels.
 
 "This wall will let us back in only from the right side," she said. "The Limit has a shape. We need to follow the shape, not force it."
 
