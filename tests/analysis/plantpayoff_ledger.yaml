@@ -24,8 +24,8 @@ items:
     kind: motif
     plant: "Lio's two-finger whistle at the tidepool"
     planted: 1
-    payoff: ""
-    status: needs-payoff
+    payoff: "Sera's broken crook of a whistle; Keji answers with the real one across the water (ch11)"
+    status: paid
 
   - id: PP-clockwork-shells
     kind: image
@@ -59,15 +59,15 @@ items:
     kind: object
     plant: "Sera's maintenance key — 'the wall will let us back in only from the right side'"
     planted: 9
-    payoff: ""
-    status: needs-payoff   # ch10 shows the door dead; the key's promise is never addressed
+    payoff: "brought to the sealed seam anyway — pointed at a door that no longer has an inside (ch10)"
+    status: paid
 
   - id: PP-ari-phrase
     kind: line
     plant: "'Order is compassion when the archive is fragile' — the punished curator's phrase"
     planted: 8
-    payoff: ""
-    status: needs-payoff
+    payoff: "'I finally decided.' He did not say what — said on exit, with his seal box under his arm (ch11)"
+    status: paid
 
   - id: PP-no-further
     kind: refrain

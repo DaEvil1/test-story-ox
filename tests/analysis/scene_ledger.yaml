@@ -153,6 +153,11 @@ scenes:
      opponent_pressure: none, stakes_scope: personal}
 
   # Chapter 8
+  - {id: ch08-s00, chapter: 8, title: three ordinary days,
+     goal: make herself ordinary for a while,
+     new_info: [], kind: transition,
+     value_change: yes-but, cost_paid: none, irreversible: false,
+     opponent_pressure: none, stakes_scope: personal}
   - {id: ch08-s01, chapter: 8, title: private ledger room,
      goal: give the fragment a home,
      new_info: ["a private ledger card now exists; Ari knows and tolerates it"],
@@ -205,11 +210,22 @@ scenes:
      opponent_pressure: none, stakes_scope: personal}
 
   # Chapter 11
-  - {id: ch11-s01, chapter: 11, title: writing the amendment,
-     goal: write the correction without confessing,
-     new_info: ["amendment content: guardianship misfiled; memorial plaque; private ledger retained"],
-     value_change: yes-but, cost_paid: none, irreversible: false,
-     opponent_pressure: none, stakes_scope: personal}
+  - id: ch11-s01
+    chapter: 11
+    title: writing the amendment
+    goal: write the correction without confessing
+    new_info: ["amendment content: guardianship misfiled; memorial plaque; private ledger retained"]
+    value_change: yes-but
+    cost_paid: none
+    irreversible: false
+    opponent_pressure: none
+    stakes_scope: personal
+    is_final_choice: true
+    cost_to_protagonist: "her fingers and her access already taken; now Ari's position spent on her amendment"
+    dilemma:
+      option_a: "make the record public — the city feels it; the Limit closes faster (prices on page ch5, ch10 burst)"
+      option_b: "keep it private — a wound kept beneath the surface, alive only in carried form (prices on page ch5, ch10)"
+      prices_on_page: [5, 10]
   - {id: ch11-s02, chapter: 11, title: saving & the price of acceptance,
      goal: commit the amendment,
      new_info: ["city will know the ledger exists but not its contents; Ari accepts",

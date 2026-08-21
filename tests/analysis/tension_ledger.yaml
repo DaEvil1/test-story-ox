@@ -29,6 +29,7 @@ scenes:
   - {id: ch07-s01, tension: 6, feeling: dread}
   - {id: ch07-s02, tension: 9, feeling: horror}
   - {id: ch07-s03, tension: 3, feeling: relief}
+  - {id: ch08-s00, tension: 2, feeling: false-calm}
   - {id: ch08-s01, tension: 5, feeling: tenderness}
   - {id: ch08-s02, tension: 6, feeling: dread}
   - {id: ch09-s01, tension: 6, feeling: anticipation}
@@ -43,7 +44,9 @@ scenes:
 
 thresholds:
   min_stdev: 1.2            # the curve must actually curve
-  min_peak: 8               # at least one scene at/above this
-  min_valley: 3             # at least one scene at/below this (release exists)
+  min_peak: 8               # climax level
+  min_valley: 3             # release level
+  min_peak_count: 2         # more than one true high
+  min_valley_count: 2       # more than one true low
   max_consecutive_equal: 2  # no three-in-a-row at the same level
   min_distinct_feelings: 6  # the reader must feel more than one thing

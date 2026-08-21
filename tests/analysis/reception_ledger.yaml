@@ -17,9 +17,9 @@ act_stakes_legibility:
     stakes: "what the city does to those who force its doors — and what she learns about Ira"
     legible_at: "ch4-ch5 ('I have to know why Ira did it')"
   - act: 3
-    want: "honor Lio without unmaking the city that holds everyone else's memories"
+    want: "carry what fits in one hand — honor Lio without unmaking the city"
     stakes: "her body already paid; Ari's position; The Limit's argument that wildness unmakes people (ch10 burst)"
-    legible_at: "ch10 ('how the choice was held') through ch11"
+    legible_at: "ch9 ('I went down for all of it. This is what fits now.') through ch11"
 
 immersion_breakers:
   - {chapter: 4, location: "opening descent", issue: "'a film of film' — duplicated word / unclear image",

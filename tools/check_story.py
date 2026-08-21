@@ -220,6 +220,20 @@ def check_scene_ledger(path: Path, findings: list) -> None:
         findings.append(_finding(label, "SL-04", "free-conflict",
                                  "error",
                                  f"{len(costs)} scenes pay a cost (min {min_costs})"))
+
+    final_choices = [s for s in scenes if s.get("is_final_choice")]
+    if len(final_choices) > 1:
+        findings.append(_finding(label, "SL-07", "ambiguous-final-choice", "error",
+                                 "more than one scene marked is_final_choice"))
+    for scene in final_choices:
+        sid = scene.get("id", "?")
+        dilemma = scene.get("dilemma") or {}
+        missing = [k for k in ("option_a", "option_b") if not (dilemma.get(k) or "").strip()]
+        prices = dilemma.get("prices_on_page") or []
+        if missing or not prices or not (scene.get("cost_to_protagonist") or "").strip():
+            findings.append(_finding(label, "SL-07", "weightless-choice", "error",
+                                     f"{sid}: final choice lacks both live options with "
+                                     f"on-page prices, and/or a cost to the protagonist"))
     irreversible = [s for s in costs if s.get("irreversible")]
     min_irr = thr.get("min_irreversible_costs", 0)
     if len(irreversible) < min_irr:
@@ -301,6 +315,20 @@ def check_tension_ledger(path: Path, findings: list) -> None:
     if thr.get("min_valley") is not None and valley > thr["min_valley"]:
         findings.append(_finding(label, "TN-03", "no-release", "error",
                                  f"valley tension {valley} > {thr['min_valley']}"))
+    min_peak_count = thr.get("min_peak_count")
+    if min_peak_count is not None:
+        n_peak = sum(1 for t in tensions if t >= thr.get("min_peak", 8))
+        if n_peak < min_peak_count:
+            findings.append(_finding(label, "TN-06", "single-spike", "error",
+                                     f"{n_peak} scenes at/above {thr.get('min_peak')} "
+                                     f"(need {min_peak_count})"))
+    min_valley_count = thr.get("min_valley_count")
+    if min_valley_count is not None:
+        n_valley = sum(1 for t in tensions if t <= thr.get("min_valley", 3))
+        if n_valley < min_valley_count:
+            findings.append(_finding(label, "TN-07", "thin-release", "error",
+                                     f"{n_valley} scenes at/below {thr.get('min_valley')} "
+                                     f"(need {min_valley_count})"))
     max_run = thr.get("max_consecutive_equal")
     if max_run is not None:
         run = 1

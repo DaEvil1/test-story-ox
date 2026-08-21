@@ -16,7 +16,7 @@ turns:
   - {chapter: 7, expectation: "the Limit is impersonal", arrival: "it speaks in Ira's cadence at the table of light", type: shifted}
   - {chapter: 9, expectation: "reading the node is free, as before", arrival: "it takes two fingers", type: subverted, seed: "'no further' escalations (ch4, ch7)"}
   - {chapter: 10, expectation: "the sealed door is the loss", arrival: "the Drift burst shows what the Limit is FOR", type: shifted}
-  - {chapter: 11, expectation: "saving the amendment ends it cleanly", arrival: "the council takes Ari's seals for it", type: subverted, seed: "'someone read the plaque order and drew a line back to my cabinet'"}
+  - {chapter: 11, expectation: "saving the amendment ends it cleanly", arrival: "one breath of relief — then the council's price walks in with Ari's emptied seal box", type: subverted, seed: "the plaque order is public record; 'someone read the plaque order and drew a line back to my cabinet'"}
 
 thresholds:
   min_shift_ratio: 0.5      # shifted + subverted over total

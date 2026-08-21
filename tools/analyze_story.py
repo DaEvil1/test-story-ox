@@ -187,6 +187,39 @@ def main() -> int:
         "",
     ]
 
+    # 3b. Sentence-opener dominance
+    openers = Counter()
+    for s in all_sents:
+        first = tokens(s)
+        if first:
+            openers[first[0]] += 1
+    top_openers = openers.most_common(10)
+    out += ["## Sentence openers (top 10)", "", "| Opener | Count | Share |", "|---|---:|---:|"]
+    for word, n in top_openers:
+        share = n * 100 / max(len(all_sents), 1)
+        marker = " **DOMINANT**" if share > 25 else ""
+        out.append(f"| {word} | {n} | {share:.0f}%{marker} |")
+    out.append("")
+
+    # 3c. Abstract-noun-as-agent constructions
+    ABSTRACT_AGENT_RE = re.compile(
+        r"\b(?:the|its|her|his|their)?\s?"
+        r"(refusal|silence|word|words|idea|memory|pressure|weight|sound|"
+        r"quiet|stillness|truth|sentence|phrase|name|grief|fear)\s+"
+        r"(landed|land|came|rose|sat|settle|settled|settles|pressed|presses|"
+        r"hummed|hums|held|stay|stayed|remained|thrummed|pulsed|tightened|"
+        r"arrived|moved|went|lodge|lodged)\b", re.IGNORECASE)
+    agent_hits = ABSTRACT_AGENT_RE.findall(corpus)
+    out += ["## Abstract-noun-as-agent", "",
+            f"Count: {len(agent_hits)} ({len(agent_hits) * 10000 / total_words:.0f} per 10k)",
+            ""]
+    if agent_hits:
+        combo = Counter(f"{a} {b}".lower() for a, b in agent_hits)
+        out += ["| Construction | Count |", "|---|---:|"]
+        for combo_text, n in combo.most_common(12):
+            out.append(f"| {combo_text} | {n} |")
+        out.append("")
+
     # 4. Dialogue share per chapter
     out += ["## Dialogue share", "", "| Chapter | Dialogue % |", "|---|---:|"]
     for name, text in texts.items():
@@ -212,6 +245,7 @@ def main() -> int:
     # 6. Voice fingerprints (function-word profiles of quoted speech)
     out += ["## Voice fingerprint similarity (quoted speech)", ""]
     profiles: dict[str, Counter] = {}
+    speech_by_speaker: dict[str, list[str]] = {}
     for name, text in texts.items():
         for match in DIALOGUE_RE.finditer(text):
             quote = match.group(0)
@@ -221,6 +255,7 @@ def main() -> int:
             if spk in ("keji", "ari", "sera", "ira"):
                 profiles.setdefault(spk, Counter()).update(
                     t for t in tokens(quote) if t in FUNCTION_WORDS)
+                speech_by_speaker.setdefault(spk, []).append(quote)
     named = {k: v for k, v in profiles.items() if sum(v.values()) >= 20}
     if len(named) >= 2:
         keys = sorted(named)
@@ -233,6 +268,22 @@ def main() -> int:
         out += ["", "(Similarity > 0.85 suggests voices are hard to tell apart.)", ""]
     else:
         out += ["Not enough attributed dialogue for fingerprinting.", ""]
+
+    # 6b. Dialogue music per speaker
+    out += ["## Dialogue music (per speaker)", "",
+            "| Speaker | Lines | Avg words | Questions % | Contractions/line |",
+            "|---|---:|---:|---:|---:|"]
+    for spk in sorted(speech_by_speaker):
+        lines = speech_by_speaker[spk]
+        if len(lines) < 4:
+            continue
+        word_counts = [len(tokens(q)) for q in lines]
+        questions = sum(1 for q in lines if "?" in q)
+        contractions = sum(q.count("'") + q.count("\u2019") for q in lines)
+        avg = sum(word_counts) / len(word_counts)
+        out.append(f"| {spk} | {len(lines)} | {avg:.1f} | {questions * 100 / len(lines):.0f}% | "
+                   f"{contractions / len(lines):.2f} |")
+    out.append("")
 
     # 7. Emotion lexicons
     out += ["## Emotion lexicon hits", "", "| Category | Corpus | per 10k | ch1 | ch2 | ch3 | ch4 | ch5 | ch6 | ch7 | ch8 | ch9 | ch10 | ch11 |",

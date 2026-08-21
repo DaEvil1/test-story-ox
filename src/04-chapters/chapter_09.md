@@ -74,4 +74,4 @@ The edge had given her the directive and the child's line. It had refused her mo
 
 Sera glanced at the wall. "We have the place where it chose."
 
-Keji picked up the recorder with her good hand. "Now we decide how to keep it."
+Keji picked up the recorder with her good hand and looked at the bandaged one. "I went down for all of it," she said. "This is what fits now."

@@ -2,6 +2,8 @@ Chapter 8 — The Ledger
 
 Keji did not tell the public archive what she had found. She did not put the hidden record on a wall or let the city press its weight into it. She held it in a private packet and in the coin in her pocket. The two were different, but both were heavy.
 
+The next three days were ordinary, and she made them ordinary on purpose. Threads smoothed, clips filed, the kettle's small storm each morning. She ate lunch on the editing-hall steps in the sun, like anyone. Twice she caught her hand drifting toward the pocket where the coin sat, and twice she let it come away empty. The city hummed its taught stories around her. She kept hers folded small.
+
 She went to a room beneath the Curators' hall that smelled of old ledger paper and the metal tang of security doors. It was a room she had been in once as a child—once before the Archive learned how to keep secrets from itself.
 
 The doorway there was small. The lock was old-fashioned in a city that had replaced most locks with biometric brushes. She slipped in and shut the door behind her. The sound of the public halls dimmed.

@@ -8,9 +8,7 @@ Ari did not reach for it. He looked at her instead.
 
 She nodded. Her fingers curled around the edge of the packet. It was thin. It resisted.
 
-He stood and moved to a shelf. He took down a small device she had seen once before in a restricted drawer: a spindle of glass with a thin wire coiled inside. The Archive used it to read the hidden layer of a wall without leaving a trace.
-
-"If the Limit is here, it will feel it," he said. "This lets us listen without speaking."
+He stood and moved to a shelf. He took down a small device she had seen once before in a restricted drawer: a spindle of glass with a thin wire coiled inside. The Archive used it to read the hidden layer of a wall without leaving a trace."If the Limit is here, it will feel it," he said. "This lets us listen without speaking."
 
 Keji watched the way his thumb flexed around the wire. "Then we use it quietly."
 
@@ -20,11 +18,11 @@ Ari laid the fragment on the desk. He activated the spindle. The wire hummed onc
 
 "This is the edge of the record," Ari said. "Beyond it, the Archive is more careful. The Limit sits right after this."
 
-Keji swallowed. The word edge made her chest feel narrow.
+She swallowed. The word edge made her chest feel narrow.
 
-Ari slid the spindle along the page. The hidden layer of the document answered with a faint glow. There was a line of script that was not on the visible page. It moved under the glass like a tide. Keji leaned in. The letters were too quick to read.
+Ari slid the spindle along the page. The hidden layer of the document answered with a faint glow. There was a line of script that was not on the visible page. It moved under the glass like a tide. She leaned in. The letters were too quick to read.
 
-Ari's hand steadied. "This is what the city keeps from the public wall. It is the part that still remembers how it wanted to be written. It will not stay if you look at it too directly."
+Ari's hand steadied. "This is what the city keeps from public view. It is the part that still remembers how it wanted to be written. It will not stay if you look at it too directly."
 
 Sera was waiting in the Drift when Keji left the hall. The passage there felt warmer, as if the walls were breathing. She held the wire in one hand, the coin in the other.
 
@@ -42,17 +40,17 @@ A phrase finally held:
 
 "AUTHORIZED. CHANNEL REMOVED. NODE CLEARED."
 
-The words were blunt. The wall around them pulsed with a slow, low force.
+The words were blunt. The plaster around them pulsed with a slow, low force.
 
 Sera held her breath. "Now."
 
-Keji pushed the spindle deeper. The line shifted. Another fragment appeared, raw and personal.
+She pushed the spindle deeper. The line shifted. Another fragment appeared, raw and personal.
 
 "...Lio will become a ledger entry. The present will be preserved at the cost of a door closed. It is necessary."
 
 The voice behind the wall was not a voice she could hear. It was the motion of the letters. It carried the cadence of someone making a decision under pressure.
 
-Keji pressed her fingers to the glass. The wall thrummed against her skin. In the same pulse, another line slid into view and then away:
+Her fingers pressed flat to the glass. The surface thrummed under them. In the same pulse, another line slid into view and then away:
 
 "NO FURTHER."
 
@@ -76,15 +74,15 @@ The resistance in that sentence made Keji's chest tighten. It had the edges of a
 
 Sera moved next to her. "This is where it hurts. This is where they chose to hide it instead of let it burn."
 
-Keji closed her eyes. The wall under her palm changed temperature. For a moment, the phrase shifted into the shape of a hand moving away. Then it stilled.
+She closed her eyes. The plaster under her palm changed temperature. For a moment, the phrase shifted into the shape of a hand moving away. Then it stilled.
 
 The hidden layer beneath the wall was not content to stay hidden. It reached out with fragments: an apology scratched into a line, the shimmer of a child’s laugh, a man's breath held too long.
 
-Keji opened her eyes. She saw the last fragment clearly now: LIO. The letters were not black. They were a pale, pulsing outline.
+She opened her eyes. She saw the last fragment clearly now: LIO. The letters were not black. They were a pale, pulsing outline.
 
 The wall's refusal became louder. It was not words now. It was the pressure in the floor, the slight pull at her boots.
 
-She backed away. The spindle hummed in her hand. Sera’s fingers pressed hard against the wall.
+She backed away. The spindle hummed in her hand. Sera’s fingers pressed hard against the plaster.
 
 "You can save that," Sera whispered. "You can keep the private layer. But if you want it in the public record, you have to make the city feel it."
 

@@ -2,7 +2,7 @@ Chapter 10 — The Yes and the No
 
 The seam remembered her. When Keji set her palm to it the next morning, bandaged hand cradled against her coat, it did not pulse and did not form a word. It held, cool and final, like the far side of a stone.
 
-"It's done," Sera said behind her. "Whatever's in there stopped listening when it took your hand."
+"It's done," Sera said behind her. She had brought the maintenance key anyway; it hung from her fingers, pointed at a door that no longer had an inside. "Whatever's in there stopped listening when it took your hand."
 
 Keji pressed once more, without force, mostly to know. The seam gave nothing. The node was sealed to her now the way a grave is sealed: not locked, just finished.
 

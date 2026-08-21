@@ -14,7 +14,7 @@ Keji's fingers did not leave the surface. "Then show me the right place."
 
 The Drift's passage tilted. The air cooled. The wall's ink lifted and formed a path. It curved toward a door hidden beneath a layer of old script.
 
-The door was marked only by a faint seam. When Keji pressed her palm to it, the surface pulsed and the hidden line changed. A single word appeared, slow and heavy: NO.
+The door was marked only by a faint seam. When her palm met it, the surface pulsed and the hidden line changed. A single word appeared, slow and heavy: NO.
 
 Under her palm the wall was ridged, like a surface built out of many erased attempts.
 
@@ -22,13 +22,13 @@ She pushed once. The door held. A pressure rose behind it—a force that was not
 
 "The Limit is here," Sera murmured. "It resists with the first word."
 
-Keji pushed again. The door's seam widened a hair. The letters on the wall rearranged into a second word: FURTHER.
+She pushed again. The door's seam widened a hair. The letters on the wall rearranged into a second word: FURTHER.
 
 Not a sentence yet. Just a pair of words. The message was raw. The door's refusal was a boundary.
 
 Behind the door, a sound began to stir: the scrape of a chair, the rustle of paper, the faint exhale of someone holding their breath.
 
-Keji did not let the sound distract her. She traced the seam with the edge of her palm, feeling the door's pulse. The pressure behind it shifted. The hidden line changed once more.
+She did not let the sound distract her. She traced the seam with the edge of her palm, feeling the door's pulse. The pressure behind it shifted. The hidden line changed once more.
 
 "...Lio must be carried privately..."
 
@@ -46,11 +46,11 @@ Sera did not argue. She led the way down a passage that narrowed until the air i
 
 At the end of the passage a chamber opened. It was not lit. The light came from beneath the floor, from the recordings themselves. The air there tasted of rain and dust and the sharp edge of paper that had been folded too many times.
 
-In the center of the chamber was a table. Not a physical table, but a surface of paused light. Keji saw faces there only as shifting pattern—no detail, only motion like what she remembered from the Archive's old viewing rooms.
+In the center of the chamber was a table. Not a physical table, but a surface of paused light. Faces moved there only as shifting pattern—no detail, only motion like what she remembered from the Archive's old viewing rooms.
 
 The memory began in fragments. A hand placing a paper on the surface. A voice saying the word AUTHORIZED. Another voice answering with a soft, insistent no.
 
-Keji's breath shortened. The sound was not exactly in the room. It was in her bones, through the floor.
+Her breath shortened. The sound was not exactly in the room. It was in her bones, through the floor.
 
 She leaned closer. The light on the surface formed a line of text that slid past too fast to read. She followed it with her mind. The first clear thing was not a full sentence, only a decision in the shape of a command: "REMOVE CHANNEL."
 
@@ -74,7 +74,7 @@ The surface of the table flickered. Another line formed below the first:
 
 The Limit had spoken in a human rhythm. It did not ask. It ordered. The second line was not a plea. It was a boundary.
 
-Keji pressed her palm to the table of light. The air around her thickened. The surface blurred. She could feel the record wanting to close.
+She pressed her palm to the table of light. The air around her thickened. The surface blurred. She could feel the record wanting to close.
 
 She reached for the coin in her pocket and set it on the table's edge. The metal touched the surface. The light around it shifted. The coin did not belong to the record, but it made the contact real.
 
@@ -98,4 +98,4 @@ Sera's gaze followed the passage back. "Then the next step is not to open it. It
 
 Keji nodded once.
 
-When they climbed back into the Drift, the city above looked the same. The noise of the market had not changed. But Keji felt the hidden door inside her, a weight that was not visible to anyone else.
+When they climbed back into the Drift, the city above looked the same. The noise of the market had not changed. But she felt the hidden door inside her now, a weight that was not visible to anyone else.
