@@ -8,27 +8,23 @@ loops:
   - id: RQ1
     question: What is the glitch, and whose voice is in it?
     opened: 1
-    closed: 4
+    closed: 10
     status: answered
-    reminders: [2]
+    reminders: [2, 5]
 
   - id: RQ2
-    question: Why was Lio erased — why did Ira sign?
+    question: What happened to Lio, and why did Ira sign for it?
     opened: 1
     status: held-deliberate
-    reminders: [3, 5, 7, 10]
+    reminders: [3, 4, 5, 7, 10]
+    # One loop in the reader's mind with two facets (the event; the motive).
+    # Both facets stay deliberately unresolved.
 
   - id: RQ3
     question: What is The Limit — person, system, or pattern?
     opened: 1
     status: held-deliberate
     reminders: [3, 6, 7, 9, 10]
-
-  - id: RQ4
-    question: What actually happened to Lio?
-    opened: 1
-    status: held-deliberate
-    reminders: [4, 7]
 
   - id: RQ5
     question: What has Ari himself done — did he touch the sealed record?
@@ -39,8 +35,12 @@ loops:
   - id: RQ6
     question: What does the Archive itself want?
     opened: 2
-    status: held-deliberate
-    reminders: [4, 6, 10]
+    closed: 10
+    status: answered
+    reminders: [4, 6]
+    # Answered by enforcement behavior: it seals the node, spares the public
+    # surface, takes a hand for forcing — balance and self-preservation, shown
+    # not told (ch9-ch10).
 
   - id: RQ7
     question: Why does Sera live in the Drift?

@@ -4,6 +4,8 @@ Keji did not tell the public archive what she had found. She did not put the hid
 
 The next three days were ordinary, and she made them ordinary on purpose. Threads smoothed, clips filed, the kettle's small storm each morning. She ate lunch on the editing-hall steps in the sun, like anyone. Twice she caught her hand drifting toward the pocket where the coin sat, and twice she let it come away empty. The city hummed its taught stories around her. She kept hers folded small.
 
+On the fourth day she tried the front door. One request, properly filed: provenance review, referenced only by stamp number, no names attached. The reply came back in eleven minutes, polite as a locked gate: RECORD NOT PRESENT IN PUBLIC INDEX. She reshelved the slip, washed her cup, went back to her threads. That evening her terminal greeted her by name when she sat down. It had never done that before.
+
 She went to a room beneath the Curators' hall that smelled of old ledger paper and the metal tang of security doors. It was a room she had been in once as a child—once before the Archive learned how to keep secrets from itself.
 
 The doorway there was small. The lock was old-fashioned in a city that had replaced most locks with biometric brushes. She slipped in and shut the door behind her. The sound of the public halls dimmed.

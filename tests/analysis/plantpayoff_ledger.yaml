@@ -17,7 +17,14 @@ items:
     kind: object
     plant: "the ribbon/strip carrying Ira's voice — SOMETHING WAS LEFT BEHIND"
     planted: 1
-    payoff: "carried as 'the glitch' (ch2, ch4); folded into the recorder's shape (ch7)"
+    payoff: "carried as 'the glitch' (ch2, ch4); folded into the recorder's shape (ch7); played end to end at last — Ira's own hidden recording, cut clean before its meaning (ch10)"
+    status: paid
+
+  - id: PP-left-behind
+    kind: line
+    plant: "'SOMETHING WAS LEFT BEHIND' — the strip's label in the editing room"
+    planted: 1
+    payoff: "Ira's own words in the cut-off message: 'Something was left behind. On purpose.' (ch10)"
     status: paid
 
   - id: PP-whistle

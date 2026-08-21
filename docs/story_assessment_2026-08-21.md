@@ -338,3 +338,42 @@ system (`docs/metric_interactions.md` maps the couplings):
 different member coverage (criteria 41–50 joined at r3), so small dips like
 Trust Contract 7.25→7.15 are membership artifacts until a full-history
 re-score is run on all 50.
+
+---
+
+# Revision 5 — Structure Spine Pass (2026-08-21)
+
+Target: the pillar stuck at 6.15 since r2 (turns #4, escalation #5,
+midpoint #6, scene-drive #7, reveal-timing #20). Three structural additions,
+not edits:
+
+1. **The failed public attempt (ch8)** — one properly-filed request returns
+   RECORD NOT PRESENT IN PUBLIC INDEX, and her terminal greets her by name
+   that evening. A try-fail that *changes strategy* (public is watched →
+   private path confirmed) and properly seeds the ch11 council gasp, which
+   previously sprang from a thin "someone read the plaque order."
+2. **Annotation before force (ch9)** — she reaches to do the one thing a
+   curator is for, and the room refuses *the mark* before it refuses the
+   hand. The injury is now the price of intervening, not of walking.
+3. **The ribbon, played (ch10)** — the story's oldest plant pays its true
+   payoff: the glitch is Ira's own recording, smuggled past the erasure,
+   cut clean mid-sentence ("Something was left behind. On purpose. You'll
+   know it when—"). CH1's label becomes literal; the kitchen memory becomes
+   evidence; the answer was in her pocket through every sealed door.
+
+Systemic effects caught by the suite in real time: extending the glitch
+loop pushed concurrent open questions to 7 (over budget) → RQ6 properly
+closed (the Archive's want is answered by its enforcement behavior) and
+RQ2/RQ4 merged into the single question-cluster readers actually hold.
+
+| Criterion | Was | Now |
+|---|---|---|
+| 4 Turning points | 7 | 8 |
+| 5 Escalation / try-fail | 6 | 7 |
+| 6 Midpoint shift | 6 | 7 |
+| 20 Reveal timing | 6 | 8 |
+
+**Structure Spine: 6.15 → 7.15** · Raw overall **7.10 → 7.20** ·
+System-adjusted **6.76 → 6.88**. Weakest pillars are now Promise Frame
+(6.30: promise #2, genre #40) and the 6-scoring pair Pulse/Bond — for the
+first time, no pillar sits below 6.

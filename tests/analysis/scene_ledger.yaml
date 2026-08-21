@@ -153,11 +153,12 @@ scenes:
      opponent_pressure: none, stakes_scope: personal}
 
   # Chapter 8
-  - {id: ch08-s00, chapter: 8, title: three ordinary days,
-     goal: make herself ordinary for a while,
-     new_info: [], kind: transition,
+  - {id: ch08-s00, chapter: 8, title: three ordinary days & the front door,
+     goal: try the proper channels once, then make herself ordinary,
+     new_info: ["public index denies the record exists",
+                "her terminal greets her by name — the Archive noticed the query"],
      value_change: yes-but, cost_paid: none, irreversible: false,
-     opponent_pressure: none, stakes_scope: personal}
+     opponent_pressure: archive, stakes_scope: personal}
   - {id: ch08-s01, chapter: 8, title: private ledger room,
      goal: give the fragment a home,
      new_info: ["a private ledger card now exists; Ari knows and tolerates it"],
@@ -181,8 +182,9 @@ scenes:
      value_change: yes-but, cost_paid: none, irreversible: false,
      opponent_pressure: limit, stakes_scope: personal}
   - {id: ch09-s03, chapter: 9, title: the sealing & the price,
-     goal: get out before the wall closes,
-     new_info: ["the Archive extracts a price for forcing the node"],
+     goal: annotate the fragment — set a curator's mark of custody,
+     new_info: ["the room refuses her curator's mark before refusing her hand",
+                "the Archive extracts a price for forcing the node"],
      value_change: no-and,
      cost_paid: "two fingers crushed numb — permanent",
      irreversible: true,
@@ -206,6 +208,12 @@ scenes:
      goal: carry the reading home,
      new_info: ["keep-private felt like the memory laying itself down, not punishment",
                 "both readings of Ira coexist: signing hand and objecting voice"],
+     value_change: yes-but, cost_paid: none, irreversible: false,
+     opponent_pressure: none, stakes_scope: personal}
+  - {id: ch10-s04, chapter: 10, title: the ribbon, played,
+     goal: finally listen end to end,
+     new_info: ["the glitch is Ira's own recording, hidden where erasure could not reach",
+                "the message cuts off clean before its meaning"],
      value_change: yes-but, cost_paid: none, irreversible: false,
      opponent_pressure: none, stakes_scope: personal}
 

@@ -517,6 +517,8 @@ Keji did not tell the public archive what she had found. She did not put the hid
 
 The next three days were ordinary, and she made them ordinary on purpose. Threads smoothed, clips filed, the kettle's small storm each morning. She ate lunch on the editing-hall steps in the sun, like anyone. Twice she caught her hand drifting toward the pocket where the coin sat, and twice she let it come away empty. The city hummed its taught stories around her. She kept hers folded small.
 
+On the fourth day she tried the front door. One request, properly filed: provenance review, referenced only by stamp number, no names attached. The reply came back in eleven minutes, polite as a locked gate: RECORD NOT PRESENT IN PUBLIC INDEX. She reshelved the slip, washed her cup, went back to her threads. That evening her terminal greeted her by name when she sat down. It had never done that before.
+
 She went to a room beneath the Curators' hall that smelled of old ledger paper and the metal tang of security doors. It was a room she had been in once as a child—once before the Archive learned how to keep secrets from itself.
 
 The doorway there was small. The lock was old-fashioned in a city that had replaced most locks with biometric brushes. She slipped in and shut the door behind her. The sound of the public halls dimmed.
@@ -634,7 +636,9 @@ The door behind Keji began to hum. The wall on her left grew colder. She could f
 
 Sera's hand touched her arm. "If the wall closes, the node will seal itself again. Take what you can now."
 
-Keji lowered the spindle toward the node's edge—and the room refused. The hidden letters did not splinter into pieces this time. They collapsed all at once, like a fist closing.
+Keji lowered the spindle toward the node's edge and did the one thing a curator is for: reached to annotate, to set a small mark of custody on what she had found.
+
+The room refused the mark first. The hidden letters did not splinter this time; they collapsed all at once, like a fist closing over it.
 
 The recorder already held the shape of what mattered. What it did not hold was her hand.
 
@@ -688,6 +692,18 @@ Keji looked at her. "Why do you live down here? Really."
 Sera turned the maintenance key over in her fingers, watching the light run along the wire. "They fixed me once," she said. "After. A grief edit, they called it. Six weeks of smooth mornings." She pocketed the key. "I came back down the day they let me walk. I wanted the rough parts back. They were his."
 
 Keji did not ask who.
+
+That night, alone, she took out the ribbon.
+
+She had carried it since the editing room and had never once played it end to end. Curators know every way to avoid a clip. She knew hers. She spliced it into the reader and let it run.
+
+Kitchen sounds. A stripe of morning light across a table—you can hear sun if the window is open. Ira laughing, whole-chested. Her own sleep-thick voice saying something stupid and dear. Then, quieter, in the pause where Ira believed the recorder had stopped:
+
+"Something was left behind. On purpose. You'll know it when—"
+
+The ribbon ended there. Not damaged. Ended—cut clean, the way Ira cut sentences when the rest was dangerous.
+
+She sat with it a long time. The message had been in her pocket through every sealed door.
 
 The two dull fingers ached in their wrapping. Keji turned the coin in her pocket, warm against her good palm, and felt its edge find the mark it had pressed into her other hand. Outside, far below the window, the tide turned and started coming in.
 

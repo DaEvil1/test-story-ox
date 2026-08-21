@@ -52,7 +52,9 @@ The door behind Keji began to hum. The wall on her left grew colder. She could f
 
 Sera's hand touched her arm. "If the wall closes, the node will seal itself again. Take what you can now."
 
-Keji lowered the spindle toward the node's edge—and the room refused. The hidden letters did not splinter into pieces this time. They collapsed all at once, like a fist closing.
+Keji lowered the spindle toward the node's edge and did the one thing a curator is for: reached to annotate, to set a small mark of custody on what she had found.
+
+The room refused the mark first. The hidden letters did not splinter this time; they collapsed all at once, like a fist closing over it.
 
 The recorder already held the shape of what mattered. What it did not hold was her hand.
 

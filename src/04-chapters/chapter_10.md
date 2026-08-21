@@ -28,4 +28,16 @@ Sera turned the maintenance key over in her fingers, watching the light run alon
 
 Keji did not ask who.
 
+That night, alone, she took out the ribbon.
+
+She had carried it since the editing room and had never once played it end to end. Curators know every way to avoid a clip. She knew hers. She spliced it into the reader and let it run.
+
+Kitchen sounds. A stripe of morning light across a table—you can hear sun if the window is open. Ira laughing, whole-chested. Her own sleep-thick voice saying something stupid and dear. Then, quieter, in the pause where Ira believed the recorder had stopped:
+
+"Something was left behind. On purpose. You'll know it when—"
+
+The ribbon ended there. Not damaged. Ended—cut clean, the way Ira cut sentences when the rest was dangerous.
+
+She sat with it a long time. The message had been in her pocket through every sealed door.
+
 The two dull fingers ached in their wrapping. Keji turned the coin in her pocket, warm against her good palm, and felt its edge find the mark it had pressed into her other hand. Outside, far below the window, the tide turned and started coming in.
