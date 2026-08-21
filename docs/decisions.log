@@ -10,3 +10,8 @@
 - 2026-08-21: Added `src/01-world/canon.md` as the continuity ledger; `tests/manual/consistency.md` now checks drafts against it.
 - 2026-08-21: Added `tools/build_manuscript.py` and an ordered chapter list in `book.yaml`; `chapter_final_speculative.md` excluded from the default build pending the ch11/speculative ending decision.
 - 2026-08-21: Automation flagged open issues: duplicate titles (ch3/ch7 "The Limit", ch4/ch10 "The Erased Core") and "had learned" in the speculative ending. Left for story revision, not fixed by tooling.
+- 2026-08-21: Iteration pass 1 (story): retitled ch7 "The Table of Light" and ch10 "The Yes and the No"; removed ~20 authorial framing constructions ("not X. It was Y.", significance summaries, narrator explanations of theme) from ch2-ch11; varied repeated body-sensation verbs; trimmed pocket/word-phrase hotspots. Word count 10,453 -> 9,664 (authorial fat removed).
+- 2026-08-21: Chapter 11 declared the canonical ending; speculative ending archived to drafts/chapter_final_speculative.md (not canon, excluded from build).
+- 2026-08-21: Editing convention adopted (docs/style_guide.md, Language): a word mentioned as a word must stay marked ("the word X" framing or quotes); bare placement after speech verbs or as sentence subject is ambiguous and prohibited.
+- 2026-08-21: Frequency caps tuned against counts: "the word" max_total raised 15 -> 20 (deliberate device of the story; per-chapter cap of 3 is the drift guard).
+- 2026-08-21: Manual validation of chapters 2-11 completed and recorded in tests/VALIDATION_REPORT.md. Automated suite: 0 errors, 0 warnings across 11 chapters. Known polish candidate: ch11's closing movement is dry (no tidal echo); see motif_usage.md.
