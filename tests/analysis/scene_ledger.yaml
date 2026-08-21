@@ -1,0 +1,222 @@
+# Scene Ledger
+#
+# One entry per scene. Validated by tools/check_story.py (rules SL-*).
+# Fields:
+#   goal            - what the POV character wants in this scene
+#   new_info        - information the READER gains here for the first time
+#   value_change    - yes-but | no-and | flat  (try-fail semantics)
+#   cost_paid       - what the scene extracts (none if free)
+#   irreversible    - true if a cost/door here can never be undone
+#   opponent_pressure - none | archive | limit | ari | sera | city
+#   stakes_scope    - personal | civic
+
+scenes:
+  # Chapter 1
+  - {id: ch01-s01, chapter: 1, title: editing-room glitch,
+     goal: file the day's work and go home,
+     new_info: ["a glitch carries Ira's cadence", "the strip says SOMETHING WAS LEFT BEHIND"],
+     value_change: no-and, cost_paid: none, irreversible: false,
+     opponent_pressure: archive, stakes_scope: personal}
+  - {id: ch01-s02, chapter: 1, title: market wall scrawl,
+     goal: steady herself in the market,
+     new_info: ["a scoured wall bears Lio's scrawl"],
+     value_change: no-and, cost_paid: none, irreversible: false,
+     opponent_pressure: none, stakes_scope: personal}
+  - {id: ch01-s03, chapter: 1, title: Sera at the quay,
+     goal: keep moving, avoid talking about it,
+     new_info: ["Sera names The Limit", "Keji recalls the erasure was sealed, not accident"],
+     value_change: no-and, cost_paid: none, irreversible: false,
+     opponent_pressure: sera, stakes_scope: personal}
+  - {id: ch01-s04, chapter: 1, title: Ari's warning,
+     goal: report Ira's name indirectly,
+     new_info: ["deep layers are sealed on purpose; Ari justifies it"],
+     value_change: yes-but, cost_paid: none, irreversible: false,
+     opponent_pressure: ari, stakes_scope: personal}
+  - {id: ch01-s05, chapter: 1, title: fragments at home,
+     goal: align Lio's handwriting samples,
+     new_info: ["the market scrawl matches Lio's hand in her files", "a seam opens for her"],
+     value_change: yes-but, cost_paid: none, irreversible: false,
+     opponent_pressure: archive, stakes_scope: personal}
+
+  # Chapter 2
+  - {id: ch02-s01, chapter: 2, title: descent to hidden strata,
+     goal: follow the pulse below the editing hall,
+     new_info: ["hidden strata exist beneath the Archive", "walls down there bleed old ink"],
+     value_change: yes-but, cost_paid: none, irreversible: false,
+     opponent_pressure: archive, stakes_scope: personal}
+  - {id: ch02-s02, chapter: 2, title: wall-ledger room,
+     goal: trace the glitch to its source,
+     new_info: ["a child-hand ledger of names includes LIO", "an AUTHORIZE fragment survives"],
+     value_change: yes-but, cost_paid: none, irreversible: false,
+     opponent_pressure: limit, stakes_scope: personal}
+  - {id: ch02-s03, chapter: 2, title: the niche coin,
+     goal: get out before the chamber closes,
+     new_info: ["a coin with a child's lighthouse lies hidden there"],
+     value_change: yes-but, cost_paid: none, irreversible: false,
+     opponent_pressure: none, stakes_scope: personal}
+  - {id: ch02-s04, chapter: 2, title: withdrawal under refusal,
+     goal: leave with what she found,
+     new_info: ["the pattern 'no further' enforces the space itself"],
+     value_change: no-and, cost_paid: none, irreversible: false,
+     opponent_pressure: limit, stakes_scope: personal}
+
+  # Chapter 3
+  - {id: ch03-s01, chapter: 3, title: Ari confronted with the seal,
+     goal: make Ari confirm what she found,
+     new_info: ["Ira Nash signed the authorization", "a redacted folder exists in Ari's cabinet"],
+     value_change: yes-but, cost_paid: none, irreversible: false,
+     opponent_pressure: ari, stakes_scope: personal}
+  - {id: ch03-s02, chapter: 3, title: Drift walls with Sera,
+     goal: read the unfinished wall safely,
+     new_info: ["AUTHORIZED / NO FURTHER / LIO surfaces in live script",
+                "Sera's framing: The Limit is what the city does when you ask for too much"],
+     value_change: yes-but, cost_paid: none, irreversible: false,
+     opponent_pressure: limit, stakes_scope: personal}
+  - {id: ch03-s03, chapter: 3, title: the stair decision,
+     goal: choose to descend where it is unwilling,
+     new_info: [],
+     value_change: flat, cost_paid: none, irreversible: false,
+     opponent_pressure: none, stakes_scope: personal}
+
+  # Chapter 4
+  - {id: ch04-s01, chapter: 4, title: door that refuses,
+     goal: open the sealed door,
+     new_info: ["the refusal is physical: NO / FURTHER forms under her palm"],
+     value_change: no-and, cost_paid: none, irreversible: false,
+     opponent_pressure: limit, stakes_scope: personal}
+  - {id: ch04-s02, chapter: 4, title: erased core heard,
+     goal: witness what was erased,
+     new_info: ["directive: AUTHORIZE RESET / PRESERVE NETWORK / REMOVE CHANNEL",
+                "the child becomes a ledger entry", "Lio's line: keep the light",
+                "Ira's whisper: necessary"],
+     value_change: no-and, cost_paid: none, irreversible: false,
+     opponent_pressure: limit, stakes_scope: personal}
+  - {id: ch04-s03, chapter: 4, title: recorder capture,
+     goal: save what she heard,
+     new_info: ["recorder holds directive, name, child's line, Ira's whisper"],
+     value_change: yes-but, cost_paid: none, irreversible: false,
+     opponent_pressure: archive, stakes_scope: personal}
+  - {id: ch04-s04, chapter: 4, title: return to Sera,
+     goal: reach the Drift,
+     new_info: [],
+     value_change: flat, cost_paid: none, irreversible: false,
+     opponent_pressure: none, stakes_scope: personal}
+
+  # Chapter 5
+  - {id: ch05-s01, chapter: 5, title: two paths framed,
+     goal: decide what to do with the recording,
+     new_info: ["public exposure vs private keeping, as lived options"],
+     value_change: yes-but, cost_paid: none, irreversible: false,
+     opponent_pressure: sera, stakes_scope: personal}
+  - {id: ch05-s02, chapter: 5, title: Ari yields the packet,
+     goal: see the official record,
+     new_info: ["visible line: channel removed, subject assigned to a private ledger",
+                "Ari names The Limit as one of the voices in the record"],
+     value_change: yes-but, cost_paid: none, irreversible: false,
+     opponent_pressure: ari, stakes_scope: personal}
+  - {id: ch05-s03, chapter: 5, title: resolve to find missing pieces,
+     goal: leave with a direction,
+     new_info: [],
+     value_change: flat, cost_paid: none, irreversible: false,
+     opponent_pressure: none, stakes_scope: personal}
+
+  # Chapter 6
+  - {id: ch06-s01, chapter: 6, title: spindle introduced,
+     goal: read the hidden layer without trace,
+     new_info: ["Ari's spindle reads hidden layers; the edge-of-record concept"],
+     value_change: yes-but, cost_paid: none, irreversible: false,
+     opponent_pressure: ari, stakes_scope: personal}
+  - {id: ch06-s02, chapter: 6, title: hidden layer's stance,
+     goal: push past the visible fragments,
+     new_info: ["hidden layer's position: KEEP THE NODE PRIVATE, spell out only what the public must",
+                "the amendment idea forms"],
+     value_change: yes-but, cost_paid: none, irreversible: false,
+     opponent_pressure: limit, stakes_scope: personal}
+
+  # Chapter 7
+  - {id: ch07-s01, chapter: 7, title: second refusal door,
+     goal: pass the marked door,
+     new_info: [],
+     value_change: flat, cost_paid: none, irreversible: false,
+     opponent_pressure: limit, stakes_scope: personal}
+  - {id: ch07-s02, chapter: 7, title: table of light,
+     goal: hear the choice itself,
+     new_info: ["the choice is voiced in Ira's cadence through the Archive",
+                "KEEP PRIVATE as final message"],
+     value_change: no-and, cost_paid: none, irreversible: false,
+     opponent_pressure: limit, stakes_scope: personal}
+  - {id: ch07-s03, chapter: 7, title: exit resolve,
+     goal: climb back up,
+     new_info: [],
+     value_change: flat, cost_paid: none, irreversible: false,
+     opponent_pressure: none, stakes_scope: personal}
+
+  # Chapter 8
+  - {id: ch08-s01, chapter: 8, title: private ledger room,
+     goal: give the fragment a home,
+     new_info: ["a private ledger card now exists; Ari knows and tolerates it"],
+     value_change: yes-but, cost_paid: none, irreversible: false,
+     opponent_pressure: none, stakes_scope: personal}
+  - {id: ch08-s02, chapter: 8, title: Ari's caution,
+     goal: end the visit on terms,
+     new_info: ["Ari: other lines exist; the Limit will keep asking"],
+     value_change: no-and, cost_paid: none, irreversible: false,
+     opponent_pressure: ari, stakes_scope: personal}
+
+  # Chapter 9
+  - {id: ch09-s01, chapter: 9, title: edge of the node,
+     goal: locate the node behind the rough wall,
+     new_info: ["Sera's maintenance key opens the right side"],
+     value_change: yes-but, cost_paid: none, irreversible: false,
+     opponent_pressure: sera, stakes_scope: personal}
+  - {id: ch09-s02, chapter: 9, title: the argument in the node,
+     goal: capture the node's memory,
+     new_info: ["the erasure had internal opposition: a voice argued against it and was overruled"],
+     value_change: yes-but, cost_paid: none, irreversible: false,
+     opponent_pressure: limit, stakes_scope: personal}
+  - {id: ch09-s03, chapter: 9, title: sealing & escape,
+     goal: get out before the wall closes,
+     new_info: [],
+     value_change: no-and, cost_paid: none, irreversible: false,
+     opponent_pressure: limit, stakes_scope: personal}
+
+  # Chapter 10
+  - {id: ch10-s01, chapter: 10, title: seam says no again,
+     goal: re-enter the core,
+     new_info: [],
+     value_change: flat, cost_paid: none, irreversible: false,
+     opponent_pressure: limit, stakes_scope: personal}
+  - {id: ch10-s02, chapter: 10, title: the yes and the no,
+     goal: understand how the choice was held,
+     new_info: ["keep-private is the memory's own will, not only the Limit's order"],
+     value_change: yes-but, cost_paid: none, irreversible: false,
+     opponent_pressure: limit, stakes_scope: personal}
+  - {id: ch10-s03, chapter: 10, title: aftermath reading,
+     goal: carry it back up,
+     new_info: [],
+     value_change: flat, cost_paid: none, irreversible: false,
+     opponent_pressure: none, stakes_scope: personal}
+
+  # Chapter 11
+  - {id: ch11-s01, chapter: 11, title: writing the amendment,
+     goal: write the correction without confessing,
+     new_info: ["amendment content: guardianship misfiled; memorial plaque; private ledger retained"],
+     value_change: yes-but, cost_paid: none, irreversible: false,
+     opponent_pressure: none, stakes_scope: personal}
+  - {id: ch11-s02, chapter: 11, title: saving & acceptance,
+     goal: commit the amendment,
+     new_info: ["city will know the ledger exists but not its contents; Ari accepts"],
+     value_change: yes-but, cost_paid: none, irreversible: false,
+     opponent_pressure: ari, stakes_scope: personal}
+  - {id: ch11-s03, chapter: 11, title: the kept coin,
+     goal: answer what she keeps,
+     new_info: [],
+     value_change: flat, cost_paid: none, irreversible: false,
+     opponent_pressure: none, stakes_scope: personal}
+
+# Validation thresholds (consumed by check_story.py)
+thresholds:
+  min_costs_total: 3          # scenes with cost_paid != none
+  min_irreversible_costs: 1
+  max_info_overlap: 0.5       # jaccard overlap between any two scenes' new_info
+  require_civic_stakes: true  # at least one scene with stakes_scope: civic

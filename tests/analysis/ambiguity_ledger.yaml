@@ -1,0 +1,40 @@
+# Ambiguity Ledger
+#
+# For each deliberately unresolved question, evidence for rival readings.
+# A reading with fewer than min_evidence items fails the build (rule AM-01):
+# ambiguity must be productive (both readings rich), not evasion.
+
+questions:
+  - id: q1
+    question: Why did Ira authorize the erasure of Lio?
+    resolution: deliberately-unresolved
+    readings:
+      mercy: []
+      betrayal: []
+    min_evidence_per_reading: 2
+
+  - id: q2
+    question: What is The Limit — person, system, or pattern?
+    resolution: deliberately-unresolved
+    readings:
+      person_or_voice:
+        - "speaks in Ira's cadence through the Archive (ch7)"
+        - "whispers 'necessary' with the catch she knows (ch4)"
+        - "Ari: 'There are voices in the record that are not ours. The Limit is one of them.' (ch5)"
+      pattern_or_system:
+        - "'no further' resets walls and seals doors without words (ch2, ch4)"
+        - "Sera: 'It's the thing the city does when it decides you're asking for too much.' (ch3)"
+        - "pressure and temperature shifts obey policy-like rules (ch6, ch9)"
+    min_evidence_per_reading: 2
+
+  - id: q3
+    question: What happened to Lio — dead, erased, or translated into the Archive?
+    resolution: deliberately-unresolved
+    readings:
+      destroyed:
+        - "'The child is not lost. The child becomes a ledger entry.' (ch4)"
+        - "the morning Lio was gone; sealed records (ch1)"
+      preserved_elsewhere:
+        - "the child's line survives intact in the node: 'if I keep the light...' (ch4, ch7)"
+        - "the private ledger keeps the entry; the city knows it exists (ch11)"
+    min_evidence_per_reading: 2

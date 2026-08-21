@@ -18,4 +18,34 @@
 
 **Total words:** 9664
 
-No findings.
+## Findings
+
+### scene_ledger.yaml
+
+- **[SL-01 dead-scene]** (error): ch03-s03: no new info and no value change
+- **[SL-01 dead-scene]** (error): ch04-s04: no new info and no value change
+- **[SL-01 dead-scene]** (error): ch05-s03: no new info and no value change
+- **[SL-01 dead-scene]** (error): ch07-s01: no new info and no value change
+- **[SL-01 dead-scene]** (error): ch07-s03: no new info and no value change
+- **[SL-01 dead-scene]** (error): ch10-s01: no new info and no value change
+- **[SL-01 dead-scene]** (error): ch10-s03: no new info and no value change
+- **[SL-01 dead-scene]** (error): ch11-s03: no new info and no value change
+- **[SL-04 free-conflict]** (error): 0 scenes pay a cost (min 3)
+- **[SL-05 no-permanence]** (error): 0 irreversible costs (min 1)
+- **[SL-06 stakes-never-leave-home]** (error): no scene carries civic-scope stakes
+
+### ambiguity_ledger.yaml
+
+- **[AM-01 thin-ambiguity]** (error): q1 reading 'mercy' has 0 evidence items (min 2)
+- **[AM-01 thin-ambiguity]** (error): q1 reading 'betrayal' has 0 evidence items (min 2)
+
+### relationship_ledger.yaml
+
+- **[RL-01 unwitnessed-character]** (error): Lio: 0 lived scenes (target 2)
+- **[RL-01 unwitnessed-character]** (error): Ira Nash: 0 lived scenes (target 1)
+
+### promise_ledger.yaml
+
+- **[PL-01 broken-promise]** (error): 'mind-bending science fiction': 0 delivering beats (min 2)
+- **[PL-01 broken-promise]** (error): 'theme — reality': 0 delivering beats (min 1)
+- **[PL-01 broken-promise]** (error): 'theme — entropy': 0 delivering beats (min 1)

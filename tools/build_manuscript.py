@@ -29,7 +29,8 @@ def main() -> int:
 
     book = yaml.safe_load(BOOK_YAML.read_text(encoding="utf-8"))
     title = book.get("title", "Untitled")
-    target = int(book.get("target_word_count", 0))
+    floor = int(book.get("target_word_count", 0))
+    ceiling = int(book.get("max_word_count", 0))
 
     parts: list[str] = [f"# {title}", ""]
     total_words = 0
@@ -75,7 +76,17 @@ def main() -> int:
     OUTPUT_PATH.write_text("\n".join(parts).rstrip() + "\n", encoding="utf-8")
 
     print(f"Assembled {included} chapters -> {OUTPUT_PATH.relative_to(REPO_ROOT)}")
-    print(f"Words: {total_words}" + (f" / target {target} ({total_words - target:+d})" if target else ""))
+    band = ""
+    if floor and ceiling:
+        if total_words < floor:
+            band = f" (below floor {floor} by {floor - total_words})"
+        elif ceiling and total_words > ceiling:
+            band = f" (above ceiling {ceiling} by {total_words - ceiling})"
+        else:
+            band = f" (within band {floor}-{ceiling})"
+    elif floor:
+        band = f" / target {floor} ({total_words - floor:+d})"
+    print(f"Words: {total_words}{band}")
     if skipped:
         print("Excluded: " + ", ".join(skipped))
     return 0

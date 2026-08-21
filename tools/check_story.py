@@ -20,6 +20,9 @@ import yaml
 REPO_ROOT = Path(__file__).resolve().parent.parent
 DEFAULT_CHAPTERS_DIR = REPO_ROOT / "src" / "04-chapters"
 DEFAULT_RULES = REPO_ROOT / "tests" / "automated" / "rules.yaml"
+DEFAULT_LEDGERS_DIR = REPO_ROOT / "tests" / "analysis"
+
+CORPUS_LABEL = "(corpus)"
 
 TITLE_RE = re.compile(r"^(Chapter \d+|Speculative Final Chapter|Epilogue)\b[^\n]*", re.IGNORECASE)
 TITLE_PREFIX_RE = re.compile(r"^(chapter \d+|speculative final chapter|epilogue)\b\s*[—–-]*\s*", re.IGNORECASE)
@@ -161,12 +164,136 @@ def check_frequency(texts: dict[str, str], rules: dict, findings: list) -> None:
 CORPUS_LABEL = "(corpus)"
 
 
+def _finding(file: str, rule: str, name: str, severity: str, match: str, context: str = "", line: int | None = None) -> dict:
+    return {
+        "file": file,
+        "line": line,
+        "rule": rule,
+        "name": name,
+        "severity": severity,
+        "match": match,
+        "context": context,
+    }
+
+
+def check_scene_ledger(path: Path, findings: list) -> None:
+    data = yaml.safe_load(path.read_text(encoding="utf-8")) or {}
+    scenes = data.get("scenes", [])
+    thr = data.get("thresholds", {})
+    label = path.name
+
+    for scene in scenes:
+        sid = scene.get("id", "?")
+        info = scene.get("new_info") or []
+        flat = scene.get("value_change") == "flat"
+        if not info and flat and scene.get("kind") != "transition":
+            findings.append(_finding(label, "SL-01", "dead-scene",
+                                     "error",
+                                     f"{sid}: no new info and no value change"))
+
+    ordered = sorted(scenes, key=lambda s: (s.get("chapter", 0), s.get("id", "")))
+    for a, b in zip(ordered, ordered[1:]):
+        if a.get("value_change") == "flat" and b.get("value_change") == "flat":
+            findings.append(_finding(label, "SL-03", "flat-run",
+                                     "warning",
+                                     f"{a.get('id')} -> {b.get('id')}: consecutive flat scenes"))
+
+    max_overlap = thr.get("max_info_overlap", 0.5)
+    for i in range(len(scenes)):
+        for j in range(i + 1, len(scenes)):
+            si, sj = scenes[i], scenes[j]
+            set_i = set(map(str, si.get("new_info") or []))
+            set_j = set(map(str, sj.get("new_info") or []))
+            if not set_i or not set_j:
+                continue
+            union = set_i | set_j
+            overlap = len(set_i & set_j) / len(union)
+            if overlap > max_overlap:
+                findings.append(_finding(label, "SL-02", "repeated-scene-value",
+                                         "error",
+                                         f"{si.get('id')} ~ {sj.get('id')}: "
+                                         f"{overlap:.0%} shared new-info"))
+
+    costs = [s for s in scenes if s.get("cost_paid") not in (None, "none")]
+    min_costs = thr.get("min_costs_total", 0)
+    if len(costs) < min_costs:
+        findings.append(_finding(label, "SL-04", "free-conflict",
+                                 "error",
+                                 f"{len(costs)} scenes pay a cost (min {min_costs})"))
+    irreversible = [s for s in costs if s.get("irreversible")]
+    min_irr = thr.get("min_irreversible_costs", 0)
+    if len(irreversible) < min_irr:
+        findings.append(_finding(label, "SL-05", "no-permanence",
+                                 "error",
+                                 f"{len(irreversible)} irreversible costs (min {min_irr})"))
+    if thr.get("require_civic_stakes") and not any(
+            s.get("stakes_scope") == "civic" for s in scenes):
+        findings.append(_finding(label, "SL-06", "stakes-never-leave-home",
+                                 "error",
+                                 "no scene carries civic-scope stakes"))
+
+
+def check_ambiguity_ledger(path: Path, findings: list) -> None:
+    data = yaml.safe_load(path.read_text(encoding="utf-8")) or {}
+    label = path.name
+    for q in data.get("questions", []):
+        qid = q.get("id", "?")
+        minimum = int(q.get("min_evidence_per_reading", 1))
+        for reading, evidence in (q.get("readings") or {}).items():
+            n = len(evidence or [])
+            if n < minimum:
+                findings.append(_finding(label, "AM-01", "thin-ambiguity",
+                                         "error",
+                                         f"{qid} reading '{reading}' has {n} evidence items "
+                                         f"(min {minimum})"))
+
+
+def check_relationship_ledger(path: Path, findings: list) -> None:
+    data = yaml.safe_load(path.read_text(encoding="utf-8")) or {}
+    label = path.name
+    for ch in data.get("characters", []):
+        name = ch.get("name", "?")
+        target = int(ch.get("lived_scene_target", 0))
+        lived = ch.get("lived_scenes") or []
+        if len(lived) < target:
+            findings.append(_finding(label, "RL-01", "unwitnessed-character",
+                                     "error",
+                                     f"{name}: {len(lived)} lived scenes (target {target})"))
+
+
+def check_promise_ledger(path: Path, findings: list) -> None:
+    data = yaml.safe_load(path.read_text(encoding="utf-8")) or {}
+    label = path.name
+    for p in data.get("promises", []):
+        claim = p.get("claim", "?")
+        minimum = int(p.get("min_beats", 1))
+        beats = p.get("beats") or []
+        if len(beats) < minimum:
+            findings.append(_finding(label, "PL-01", "broken-promise",
+                                     "error",
+                                     f"'{claim}': {len(beats)} delivering beats (min {minimum})"))
+
+
+def check_ledgers(ledgers_dir: Path, findings: list) -> None:
+    ledger_checks = {
+        "scene_ledger.yaml": check_scene_ledger,
+        "ambiguity_ledger.yaml": check_ambiguity_ledger,
+        "relationship_ledger.yaml": check_relationship_ledger,
+        "promise_ledger.yaml": check_promise_ledger,
+    }
+    for filename, fn in ledger_checks.items():
+        path = ledgers_dir / filename
+        if path.exists():
+            fn(path, findings)
+
+
 def main() -> int:
     if sys.stdout.encoding and sys.stdout.encoding.lower() not in ("utf-8", "utf8"):
         sys.stdout.reconfigure(encoding="utf-8")
     parser = argparse.ArgumentParser(description="Run automated story checks.")
     parser.add_argument("--chapters-dir", type=Path, default=DEFAULT_CHAPTERS_DIR)
     parser.add_argument("--rules", type=Path, default=DEFAULT_RULES)
+    parser.add_argument("--ledgers-dir", type=Path, default=DEFAULT_LEDGERS_DIR)
     parser.add_argument("--report", type=Path, help="Write a markdown status report to this path.")
     parser.add_argument("--strict", action="store_true", help="Treat warnings as failures.")
     args = parser.parse_args()
@@ -198,6 +325,10 @@ def main() -> int:
         texts[label] = text
 
     check_frequency(texts, rules, findings)
+    check_ledgers(args.ledgers_dir, findings)
+
+    chapter_labels = {s["file"] for s in stats}
+    ledger_findings = [f for f in findings if f["file"] not in chapter_labels]
 
     dup_rule = next(
         (r for r in rules.get("structural_rules", []) if r.get("name") == "duplicate-chapter-title"),
@@ -250,6 +381,15 @@ def main() -> int:
         print(f"{CORPUS_LABEL}:")
         for finding in corpus_findings:
             print(f"    [{finding['rule']} {finding['name']}] {finding['match']}")
+    if ledger_findings:
+        print("Ledgers:")
+        by_ledger: dict[str, list[dict]] = {}
+        for finding in ledger_findings:
+            by_ledger.setdefault(finding["file"], []).append(finding)
+        for ledger, lfinds in by_ledger.items():
+            print(f"    {ledger}: {len(lfinds)} finding(s)")
+            for finding in lfinds:
+                print(f"        [{finding['rule']} {finding['name']}] {finding['match']}")
     print("-" * 72)
     print(f"Total: {len(errors)} errors, {len(warnings)} warnings")
 
@@ -263,6 +403,7 @@ def main() -> int:
 
 def write_report(report_path: Path, stats: list[dict], findings: list[dict], total_words: int) -> None:
     report_path.parent.mkdir(parents=True, exist_ok=True)
+    chapter_labels = {s["file"] for s in stats}
     by_file: dict[str, list[dict]] = {}
     for finding in findings:
         by_file.setdefault(finding["file"], []).append(finding)
@@ -306,6 +447,17 @@ def write_report(report_path: Path, stats: list[dict], findings: list[dict], tot
             for finding in corpus_findings:
                 lines.append(f"- **[{finding['rule']} {finding['name']}]** ({finding['severity']}): "
                              f"`{finding['match']}`")
+            lines.append("")
+        ledger_by_file: dict[str, list[dict]] = {}
+        for finding in findings:
+            if finding["file"] not in chapter_labels and finding["file"] != CORPUS_LABEL:
+                ledger_by_file.setdefault(finding["file"], []).append(finding)
+        for ledger, lfinds in ledger_by_file.items():
+            lines.append(f"### {ledger}")
+            lines.append("")
+            for finding in lfinds:
+                lines.append(f"- **[{finding['rule']} {finding['name']}]** ({finding['severity']}): "
+                             f"{finding['match']}")
             lines.append("")
     else:
         lines += ["No findings.", ""]

@@ -1,0 +1,58 @@
+# Promise Ledger
+#
+# Every claim the book makes about itself (genre, themes, motifs) mapped to
+# beats that deliver it. A promise with fewer than min_beats delivering scenes
+# fails the build (rule PL-01) — the label is a contract.
+
+promises:
+  - claim: mind-bending science fiction
+    source: book.yaml genre
+    min_beats: 2
+    beats: []
+
+  - claim: theme — identity (a self made of edited traces)
+    source: book.yaml theme
+    min_beats: 1
+    beats:
+      - "Keji's editing work and her avoidance of Ira's memory (ch1)"
+      - "the amendment makes room without confessing — identity administered (ch11)"
+
+  - claim: theme — memory
+    source: book.yaml theme
+    min_beats: 1
+    beats:
+      - "memory as physical material: threads, ribbons, wall-script (ch1-ch10)"
+
+  - claim: theme — reality
+    source: book.yaml theme
+    min_beats: 1
+    beats: []
+
+  - claim: theme — entropy
+    source: book.yaml theme
+    min_beats: 1
+    beats: []
+
+  - claim: motif — water & tides
+    source: book.yaml motifs
+    min_beats: 3
+    beats:
+      - "salt editing room; walk toward the tides (ch1)"
+      - "water-film ceiling; tide pulling back (ch2)"
+      - "letters moving like a tide (ch6); tide held by a dam (ch7)"
+
+  - claim: motif — palimpsest
+    source: book.yaml motifs
+    min_beats: 3
+    beats:
+      - "advertisements over archival script; lovers' names in panels (ch1)"
+      - "half-erased scripts bleeding ink (ch2)"
+      - "varnish over thin script (ch4); raw unfinished wall (ch9)"
+
+  - claim: motif — The Limit
+    source: book.yaml motifs
+    min_beats: 3
+    beats:
+      - "named by Sera as rumor (ch1)"
+      - "felt refusal at doors and walls (ch3, ch4, ch6)"
+      - "direct, in Ira's cadence, at the table of light (ch7)"

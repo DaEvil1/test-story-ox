@@ -1,0 +1,17 @@
+# Relationship Ledger
+#
+# Lived presence test: a character "on the page" means they act, speak, or
+# react within a rendered scene (including a rendered memory scene) — not
+# merely being referenced, quoted in fragment, or present as an artifact.
+# Grief lands in proportion to witnessed relationship (rubric #12, #33).
+
+characters:
+  - name: Lio
+    role: the erased child; Keji's charge
+    lived_scene_target: 2
+    lived_scenes: []
+
+  - name: Ira Nash
+    role: Keji's former partner; signed the authorization
+    lived_scene_target: 1
+    lived_scenes: []
