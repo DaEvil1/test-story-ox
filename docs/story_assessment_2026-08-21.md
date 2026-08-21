@@ -197,3 +197,53 @@ variation) and one structural nicety. At 6.9 this now reads as deliberate,
 paid-for storytelling: the quietness is a choice with teeth around it, the
 ambiguity is load-bearing, and the ending costs people things. The gap to 8+
 is line craft and the last structural refinement — no longer missing organs.
+
+---
+
+# Revision 3 — Reader-Experience Supplement (2026-08-21)
+
+New instruments built this cycle: tension curve, open-loops tracker,
+plant/payoff ledger, attachment ledger, world-term onboarding, surprise
+profile, reception ledger (act-stakes legibility, immersion breakers, reader
+judgment pressure, title payoffs). Criteria 41–50 added to the rubric; all
+ten scored cold below.
+
+**Combined overall (all 50 criteria): 6.8 / 10** — the wider lens exposes
+the plateau honestly: the story-engineering scores rose, and the
+reading-experience layer is where the next points live.
+
+| # | Criterion | Score | Evidence |
+|---|---|---|---|
+| 41 | Tension curve shape | 7 | Real peaks (9s at ch4/7/9), earned valleys (3s), stdev 1.55; but the middle band sits narrow (5–7) — the curve is a ridge, not a mountain range |
+| 42 | Open-loop management | 7 | Six loops, all tracked, all reminded within window, none abandoned; max 6 simultaneous is right at the attention budget — no headroom |
+| 43 | Plant/payoff integrity | 5 | 7 paid, but 3 open plants (whistle, maintenance key, Ari's phrase) and the ledger itself caught the ribbon's weak resolution — machinery visible, some gears missing |
+| 44 | Attachment engineering | 7 | Every major has varied beats pre-spend (Lio×3, Ira×3, Ari×3, Sera×3, Limit dread+temptation); Lio's are memories by premise, which caps the ceiling |
+| 45 | World-term onboarding | 7 | Clean after the checker caught 'node' drifting 4 chapters ungrounded (fixed in ch6); 'grief edit' lands instantly; nothing used before it exists |
+| 46 | Act-stakes legibility | 6 | Acts 1–2 crisp; act 3's want is legible but arrives via ch10's reading — a cold reader could state it a chapter earlier than the text requires |
+| 47 | Expectation management | 6 | 9 tracked turns, 0 pure confirmations, 3 seeded subversions — healthy profile, but only one subversion (ch9's hand) genuinely startles |
+| 48 | First-read frictionlessness | 6 | The audit caught 'a film of film' (fixed); node jargon drift (fixed); remaining friction: ch6–7 wall-reading blur on first read |
+| 49 | Reread yield | 7 | Earlier-take/lighthouse/coin-ceremony all recontextualize hard; 'necessary' gains a second meaning; Sera's key line reads differently after ch10 |
+| 50 | Reader judgment pressure | 7 | The widow and the burst genuinely split a reader; the amendment asks complicity without resolving it — strongest new score |
+
+## Section average: Reading Experience = 6.5
+
+## What the new instruments say the next pass is
+
+1. **Pay the three open plants** (PP-02 warnings): the whistle, the
+   maintenance key, Ari's punished-curator phrase — one beat each, likely in
+   ch10–11. Direct 43: 5→8.
+2. **Widen the middle band** (41): ch5–ch8 tensions sit at 5–7; one scene
+   needs to drop to 2–3 (a false-peace beat) so the ch9 spike hits harder.
+3. **Legibility earlier in act 3** (46): one line before ch10 that states
+   what she now wants *instead of* the truth.
+4. **A second true gasp** (47): the profile is healthy but polite; ch11's
+   council beat could arrive one beat later than expected.
+
+## Honest bottom line, revision 3
+
+The framework now measures the reader, not just the text — and it says:
+structure is paid for, attachment is built, ambiguity is fair, and the
+remaining distance to 8 is concentrated in payoff completeness (43), curve
+breadth (41), and one more genuine jolt (47). These are small, specific,
+buildable moves — the opposite of the vague "make it better" plateau we had
+at 5.2.
