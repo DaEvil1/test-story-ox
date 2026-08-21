@@ -21,3 +21,18 @@ stages:
   - planning
   - implementation
   - polish
+chapters:
+  - file: src/04-chapters/chapter_01.md
+  - file: src/04-chapters/chapter_02.md
+  - file: src/04-chapters/chapter_03.md
+  - file: src/04-chapters/chapter_04.md
+  - file: src/04-chapters/chapter_05.md
+  - file: src/04-chapters/chapter_06.md
+  - file: src/04-chapters/chapter_07.md
+  - file: src/04-chapters/chapter_08.md
+  - file: src/04-chapters/chapter_09.md
+  - file: src/04-chapters/chapter_10.md
+  - file: src/04-chapters/chapter_11.md
+  # Overlaps with chapter_11's ending; excluded until a canonical ending is chosen.
+  - file: src/04-chapters/chapter_final_speculative.md
+    include: false
