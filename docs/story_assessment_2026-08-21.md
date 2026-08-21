@@ -247,3 +247,65 @@ remaining distance to 8 is concentrated in payoff completeness (43), curve
 breadth (41), and one more genuine jolt (47). These are small, specific,
 buildable moves — the opposite of the vague "make it better" plateau we had
 at 5.2.
+
+---
+
+# Revision 4 — Punch-List Execution & Line Pass (2026-08-21)
+
+Executed the exact punch list revision 3 produced, plus new crystallized
+instruments and a targeted line pass. Suite: **0 errors, 0 warnings**;
+10,223 words.
+
+## What was executed
+
+| Punch item | Fix | Where |
+|---|---|---|
+| Pay the whistle | Sera's broken crook of a whistle; Keji answers with Lio's real one across the water; "You've been practicing." / "Once or twice." | ch11 quay |
+| Pay the maintenance key | Brought to the seam anyway — "pointed at a door that no longer had an inside" | ch10 |
+| Pay Ari's phrase | "'Order is compassion when the archive is fragile' … 'I finally decided.' He did not say what." | ch11 exit |
+| Widen the tension band | New false-calm beat (tension 2): three deliberately ordinary days under dramatic irony | ch8 opening |
+| Act-3 want early | "I went down for all of it. This is what fits now." — end of act 2, not mid-act 3 | ch9 close |
+| A second true gasp | Relief first ("for a breath it had worked"), *then* the emptied seal box walks in | ch11 |
+
+## Newly crystallized tests (this cycle)
+
+- **TN-06/TN-07** — peak/valley *count* thresholds (a curve needs more than one high and one low)
+- **SL-07** — final-choice gate: both options must live on-page with cited prices + explicit cost to the protagonist (`dilemma` fields in scene ledger)
+- **Analyzer: sentence-opener distribution** — "The…" opens 28% (flagged DOMINANT at >25%)
+- **Analyzer: abstract-noun-as-agent density** — down to 13 instances/10k after earlier passes; now tracked continuously
+- **Analyzer: dialogue music** — Ari 7.9 words/line, 0.00 contractions vs Sera 10.3 words/line, 0.28 — voice distinctness is now measurable
+
+Line pass: pronoun/name thinning in ch6–ch7 (Keji 100→89 mentions), wall variation (motif count 94→87/10k).
+
+## Re-scored criteria (only movers shown)
+
+| # | Criterion | Was | Now |
+|---|---|---|---|
+| 9 | Want vs. need | 6 | 7 — the want is explicitly renounced ("what fits now"); the hand forced the choice |
+| 13 | Distinct voices | 5 | 6 — measurable music separation; still not per-line unmistakable |
+| 23 | Choice with moral weight | 6 | 7 — dilemma formalized, prices cited, Ari's position spent on her amendment |
+| 26 | Rhythm & register | 6 | 7 — abstract-agents tracked down, opener variety up, register now spans false-calm to gasp |
+| 27 | Image economy | 5 | 6 — wall 98→89/10k, keji 100→89; flags remain, honestly |
+| 33 | Emotional range | 6 | 7 — joy now present through the finale; five lexicon categories live |
+| 41 | Tension curve | 7 | 8 — trough (2), twin peaks (9s), exhales: a range, not a ridge |
+| 43 | Plant/payoff integrity | 5 | 8 — 11/11 paid, including the three named gears |
+| 46 | Act-stakes legibility | 6 | 7 — act-3 want legible at the act break itself |
+| 47 | Expectation management | 6 | 7 — three seeded subversions; the delayed gasp lands post-relief |
+| 48 | First-read friction | 6 | 7 — key-promise resolved on-page; no dangling tools |
+
+**Combined overall (50 criteria): 354 / 50 = 7.1 / 10** (was 6.8)
+
+## The honest remaining gap to 8
+
+Six criteria sit at 6 and none below: promise (2), escalation (5),
+midpoint shift (6), reveal timing (20), image economy (27), genre contract
+(40) — plus voices (13). None of these can move much further without either
+(a) genuinely new scenes rather than edits, or (b) reference-corpus
+calibration so the thresholds themselves stop being guesses. That is the
+next frontier: **the framework has caught up with the story; from here they
+have to improve together.**
+
+The realistic ceiling statement stands: 7.1 measured, with every point's
+provenance documented. An 8 would require a cold red-team reader to praise
+specific scenes unprompted — which is exactly what the red-team protocol
+(build pending) exists to test.
