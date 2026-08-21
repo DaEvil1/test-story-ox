@@ -130,11 +130,16 @@ def main() -> int:
     parser.add_argument("--chapters-dir", type=Path, default=DEFAULT_CHAPTERS_DIR)
     parser.add_argument("--report", type=Path, default=DEFAULT_REPORT)
     args = parser.parse_args()
+    if not args.report.is_absolute():
+        args.report = REPO_ROOT / args.report
 
-    files = sorted(args.chapters_dir.glob("*.md"))
+    files = sorted(
+        f for f in args.chapters_dir.glob("*.md") if f.name.upper() != "README.MD"
+    )
     texts = {f.name: normalize(f.read_text(encoding="utf-8")) for f in files}
     corpus = "\n".join(texts.values())
     total_words = len(corpus.split())
+    is_story_corpus = args.chapters_dir.resolve() == DEFAULT_CHAPTERS_DIR.resolve()
 
     out: list[str] = [
         "# Story Analysis (generated)",
@@ -211,7 +216,7 @@ def main() -> int:
     out += ["## Sentence openers (top 10)", "", "| Opener | Count | Share |", "|---|---:|---:|"]
     for word, n in top_openers:
         share = n * 100 / max(len(all_sents), 1)
-        marker = " **DOMINANT**" if share > 25 else ""
+        marker = " **DOMINANT**" if share > 15 else ""
         out.append(f"| {word} | {n} | {share:.0f}%{marker} |")
     out.append("")
 
@@ -375,9 +380,9 @@ def main() -> int:
         out.append(f"| ch{chapter_num(a)} ~ ch{chapter_num(b)} | {jac:.3f}{marker} |")
     out.append("")
 
-    # Words per unit of new information (from scene ledger, if present)
+    # Words per unit of new information (story corpus only — needs scene ledger)
     ledger_path = REPO_ROOT / "tests" / "analysis" / "scene_ledger.yaml"
-    if ledger_path.exists():
+    if is_story_corpus and ledger_path.exists():
         import yaml
         ledger = yaml.safe_load(ledger_path.read_text(encoding="utf-8")) or {}
         info_per_chapter: dict[int, int] = {}
@@ -399,9 +404,9 @@ def main() -> int:
             out.append(f"| ch{ch} | {w} | {infos} | {shown}{marker} |")
         out.append("")
 
-    # Flat chapters (tension never moves inside a chapter)
+    # Flat chapters (tension never moves inside a chapter) — story corpus only
     tension_path = REPO_ROOT / "tests" / "analysis" / "tension_ledger.yaml"
-    if tension_path.exists():
+    if is_story_corpus and tension_path.exists():
         import yaml
         tdata = yaml.safe_load(tension_path.read_text(encoding="utf-8")) or {}
         by_ch: dict[int, list] = {}
@@ -416,7 +421,7 @@ def main() -> int:
 
     # 10. Coupling: tension x emotional breadth (Dread Triangle health)
     tension_path = REPO_ROOT / "tests" / "analysis" / "tension_ledger.yaml"
-    if tension_path.exists():
+    if is_story_corpus and tension_path.exists():
         import yaml
         tdata = yaml.safe_load(tension_path.read_text(encoding="utf-8")) or {}
         tens_by_ch: dict[int, list] = {}

@@ -12,7 +12,7 @@ terms:
   - {term: "the Archive", introduced: 1, defined_by_context_in: 1}
   - {term: "the Drift", introduced: 1, defined_by_context_in: 1}
   - {term: "Curators", introduced: 1, defined_by_context_in: 1}
-  - {term: "glitch", introduced: 2, defined_by_context_in: 2}
+  - {term: "glitch", introduced: 1, defined_by_context_in: 2}
   - {term: "echo-bottle", introduced: 1, defined_by_context_in: 1}
   - {term: "The Limit", introduced: 1, defined_by_context_in: 3}
   - {term: "palimpsest", introduced: 1, defined_by_context_in: 1}

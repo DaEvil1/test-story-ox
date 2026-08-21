@@ -49,6 +49,13 @@ loops:
     status: answered
     reminders: []
 
+  - id: RQ8
+    question: Are Keji's own memories — the ones we've seen — authentic?
+    opened: 11
+    status: held-deliberate
+    reminders: []
+    # Opened on the final page by design; recolors every flashback on reread.
+
 thresholds:
   max_simultaneously_open: 6
   max_open_chapters_without_reminder: 5   # a loop open longer than this needs a reminder within the window

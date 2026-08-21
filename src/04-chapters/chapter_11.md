@@ -84,6 +84,14 @@ Sera stared at her. "You've been practicing."
 
 They watched the water for a while, and the watching was enough. The clockwork shells came back to her, ticking under green water.
 
+Sera looked out at the sound. "One more thing." Weather-mild. "You're an editor. When did you last read your own archive?"
+
+Keji's good hand went still on the railing.
+
+"Everybody's gets edited some," Sera said. "Yours, by you. His, by him. Mine by nobody, which is its own problem." She hopped down off the piling. "Just asking."
+
+"I know," Keji said.
+
 In the great window by the doors, the sea was coming in, dark and patient, wearing the lamplight into small pieces.
 
 She walked back through the archive with her steps steady. The coin warmed with each footfall.

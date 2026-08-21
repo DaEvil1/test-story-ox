@@ -19,6 +19,7 @@ turns:
   - {chapter: 10, expectation: "the walls hold whatever answers remain", arrival: "the answer was the ribbon in her pocket — Ira's own recording, cut clean on purpose", type: subverted, seed: "SOMETHING WAS LEFT BEHIND (ch1); the kitchen recordings (ch5)"}
   - {chapter: 10, expectation: "the sealed door is the loss", arrival: "the Drift burst shows what the Limit is FOR", type: shifted}
   - {chapter: 11, expectation: "saving the amendment ends it cleanly", arrival: "one breath of relief — then the council's price walks in with Ari's emptied seal box", type: subverted, seed: "the plaque order is public record; 'someone read the plaque order and drew a line back to my cabinet'"}
+  - {chapter: 11, expectation: "her memories are the story's ground truth", arrival: "'When did you last read your own archive?' — left unanswered", type: shifted}
 
 thresholds:
   min_shift_ratio: 0.5      # shifted + subverted over total

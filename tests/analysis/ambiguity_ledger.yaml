@@ -46,3 +46,15 @@ questions:
         - "the child's line survives intact in the node: 'if I keep the light...' (ch4, ch7)"
         - "the private ledger keeps the entry; the city knows it exists (ch11)"
     min_evidence_per_reading: 2
+
+  - id: q4
+    question: Are Keji's remembered scenes (tidepool, kitchen, coin ceremony) authentic?
+    resolution: deliberately-unresolved
+    readings:
+      authentic:
+        - "her body carries physical corroboration: the coin's pressed mark, the bandaged fingers (ch9-ch10)"
+        - "she avoided her own archive for years — the opposite of curating a comfortable self (ch1)"
+      edited:
+        - "Sera: 'Yours, by you' — editors are uniquely positioned to edit themselves (ch11)"
+        - "the glitch lived inside her own archive unnoticed; what else could be living there? (ch1)"
+    min_evidence_per_reading: 2

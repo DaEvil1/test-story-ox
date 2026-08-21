@@ -242,11 +242,11 @@ scenes:
      cost_paid: "Ari surrenders his senior seal and position",
      irreversible: true,
      opponent_pressure: ari, stakes_scope: personal}
-  - {id: ch11-s03, chapter: 11, title: the kept coin,
+  - {id: ch11-s03, chapter: 11, title: the kept coin & the question,
      goal: answer what she keeps,
-     new_info: [], kind: transition,
-     value_change: flat, cost_paid: none, irreversible: false,
-     opponent_pressure: none, stakes_scope: personal}
+     new_info: ["Sera raises the possibility that Keji's own memories are edited"],
+     value_change: no-and, cost_paid: none, irreversible: false,
+     opponent_pressure: sera, stakes_scope: personal}
 
 # Validation thresholds (consumed by check_story.py)
 thresholds:
