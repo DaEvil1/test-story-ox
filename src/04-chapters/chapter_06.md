@@ -8,19 +8,19 @@ Ari did not reach for it. He looked at her instead.
 
 She nodded. Her fingers curled around the edge of the packet. It was thin. It resisted.
 
-He stood and moved to a shelf. He took down a small device she had seen once before in a restricted drawer: a spindle of glass with a thin wire coiled inside. The Archive used it to read the hidden layer of a wall without leaving a trace."If the Limit is here, it will feel it," he said. "This lets us listen without speaking."
+He stood and moved to a shelf. From a restricted drawer he took the spindle she had seen once before: glass, with a thin wire coiled inside—a tool for reading a wall's hidden layer without leaving a trace.
+
+"If the Limit is here, it will feel it," he said. "This lets us listen without speaking."
 
 Keji watched the way his thumb flexed around the wire. "Then we use it quietly."
 
-Ari unsealed the packet. The pages inside were mostly blacked out. Only a few fragments were visible: AUTHORIZE RESET. PRESERVE NETWORK. REMOVE CHANNEL. The name LIO appeared in one place, the ink jagged as if it had been written fast.
-
-Ari laid the fragment on the desk. He activated the spindle. The wire hummed once, then pressed against the paper. The air in the hall changed. The walls felt closer.
+Ari unsealed the packet—pages mostly blacked out, only fragments visible: AUTHORIZE RESET. PRESERVE NETWORK. REMOVE CHANNEL. Lio's name jagged in one place, written fast. He laid the fragment on the desk and activated the spindle; the wire hummed once against the paper, and around them the air changed, walls drawing closer.
 
 "This is the edge of the record," Ari said. "Beyond it, the Archive is more careful. The Limit sits right after this."
 
 She swallowed. The word edge made her chest feel narrow.
 
-Ari slid the spindle along the page. The hidden layer of the document answered with a faint glow. There was a line of script that was not on the visible page. It moved under the glass like a tide. She leaned in. The letters were too quick to read.
+Ari slid the spindle along the page. The document's hidden layer answered with a faint glow—a line of script that was not on the visible page, moving under the glass like a tide. She leaned in. Letters moved too quick to read.
 
 Ari's hand steadied. "This is what the city keeps from public view. It is the part that still remembers how it wanted to be written. It will not stay if you look at it too directly."
 

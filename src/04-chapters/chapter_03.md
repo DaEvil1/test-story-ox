@@ -20,7 +20,7 @@ Ari's breath came out slow. "Because the public layer must remain stable. The hi
 
 He pushed back his chair. He stood, then hesitated. "There is a sequence. Authorization. A date. A signature. The document is old. It has been sealed for years. If you are going to touch it, do it quietly." He did not say he had once touched it himself.
 
-He turned away and walked to a cabinet. The drawer opened with the sound of hinges that had been oiling themselves for decades. He took out a folder with a name she knew and a timestamp she did not. He did not let her see the pages, only the edge of the paper when he slid it back.
+He turned away and walked to a cabinet. A drawer opened on hinges that had been quietly oiling themselves for decades. He took out a folder with a name she knew and a timestamp she did not. He did not let her see the pages, only the edge of the paper when he slid it back.
 
 "Ira Nash signed the authorization," Ari said. "The rest is redacted."
 

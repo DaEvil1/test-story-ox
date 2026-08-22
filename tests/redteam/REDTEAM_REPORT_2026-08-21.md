@@ -107,3 +107,66 @@ Pillars: Structure 7 · Consequence 8 · Trust 8 · Pulse 7 · Bond 8 · World 7
 | ch6 first-third slowness | P6 | Banked — next compression pass target |
 
 No criterion score changes this round; findings banked with quantified targets already documented in `docs/reference_calibration.md`.
+
+---
+
+# Round 3 — Full Eight-Persona Read (2026-08-21, post line-pass)
+
+State read: ch6 compressed, ch7 opening tightened, opener fusions across
+ch2/3/4/5/7/8 (288→238 "The"-openers, 28%→24%), stdev 6.2→6.5. New question
+set: *biggest improvements since your last read* (P1–P3), *greatest
+strengths* (P4–P7), and for all: **what are you most missing?** Findings
+recorded only — no changes made from this round.
+
+## P1 — Skeptical Literary Critic · 6.9
+
+- **Biggest improvement:** "ch7 used to announce itself; now it just begins. The fused sentences in the descent chapters breathe."
+- **Still best:** ribbon reveal; Ari's exit.
+- **Most missing:** one passage that risks being beautiful rather than correct — "I could not underline a single sentence twice. Airtight is not a compliment." And Ira remains a cadence, never a person; the grief outruns the ghost.
+
+## P2 — Genre Purist · 6.8
+
+- **Biggest improvement:** the surveillance seed and failed public channel — "the world now has procedures, which means it can take things away."
+- **Still best:** burst scene; injury economics.
+- **Most missing:** the Archive's **payoff**. I see what editing costs, never what it gives — no scene where curation is shown working as mercy or art. Without that, the Curators argue a case with no exhibits. Also: The Limit's ontology gets no new evidence after ch10.
+
+## P3 — Grief Reader · 7.5
+
+- **Biggest improvement:** "The coin comes home. That one-line fix made the ending land twice as hard."
+- **Still best:** coin ceremony; quay whistle.
+- **Most missing:** Lio's body. I know what Lio said and drew; I don't know Lio's weight, smell, the feel of carrying them. And Keji never once breaks — fifty thousand small managed griefs, zero unmanaged ones.
+
+## P4 — Line Editor · 7.1
+
+- **Greatest strength:** chapter endings are now rhythmically reliable; dialogue tags invisible throughout.
+- **Improvement seen:** fusion pass measurably varied the descent chapters.
+- **Most missing:** a single sentence per chapter that trusts itself past thirty words — variance is rising but no sentence yet runs long on purpose. And late-book walls never do anything sensorially NEW; pulse/hum recycle.
+
+## P5 — Continuity Auditor · 7.6
+
+- **Greatest strength:** the coin-evidence chain and injury continuity are now airtight end to end.
+- **Most missing:** geography. Hall, Drift, market, quay have no fixed relations — walking times feel invented. And Keji's ordinary caseload: one routine client would date-stamp her competence against the exceptional case.
+
+## P6 — Impatient Skimmer · 6.7
+
+- **Biggest improvement:** ch6's slow lane is gone; ch7 enters at speed now.
+- **Still best:** every chapter ends on a pull; the burst scene grabs like a thriller beat.
+- **Most missing:** a clock. Nothing anywhere ticks — no deadline, no appointment, no countdown; stakes never learn urgency. And one mid-story action beat that isn't wall-mediated.
+
+## P7 — Representation Reader · 7.5
+
+- **Greatest strength:** Sera — costs, philosophy, and no one's helper. Queer reading available, unlabeled, respected.
+- **Most missing:** a woman inside an institution — every curator/council seat reads male-coded; care labor carries the whole female cast. And Keji has no desires outside the quest: no friend who isn't useful, no pleasure that isn't memory.
+
+## P8 — Read-Aloud Reader (new) · 7.2
+
+- **Reads well aloud:** the ribbon transcript ("Kitchen sounds. A stripe of morning light…") is the best breath-pattern in the book; chapter endings give the voice somewhere to land.
+- **Trips:** doubled definite articles in adjacent sentences ("The wall… The door…") still cluster audibly in ch4/ch7 despite the fusion pass; a few em-dash pairs per page force mid-breath reversals.
+- **Most missing:** one long read-aloud sentence worth running out of breath for.
+
+## Cross-round observation
+
+Every persona's "most missing" is an **absence**, not a flaw: wonder,
+bodies, breaks, clocks, geography, risked sentences, women in institutions.
+Nothing needs removing. Everything named needs adding — which is consistent
+with the story's entire revision history (omission-class failures only).

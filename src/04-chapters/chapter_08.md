@@ -8,7 +8,7 @@ On the fourth day she tried the front door. One request, properly filed: provena
 
 She went to a room beneath the Curators' hall that smelled of old ledger paper and the metal tang of security doors. It was a room she had been in once as a child—once before the Archive learned how to keep secrets from itself.
 
-The doorway there was small. The lock was old-fashioned in a city that had replaced most locks with biometric brushes. She slipped in and shut the door behind her. The sound of the public halls dimmed.
+The doorway there was small. Its lock was old-fashioned in a city that had replaced most locks with biometric brushes. She slipped in and shut the door behind her, and the sound of the public halls dimmed to a thread.
 
 Ari had left a lamp on. Its light was soft. The desk was empty except for a stack of paper and a narrow box of sealed slips. Keji opened the box carefully. Inside were cards that the Archive used for private ledgers: a line of text, a record of touch, and a small seal from the hand that had written it.
 

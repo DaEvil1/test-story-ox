@@ -2,15 +2,15 @@ Chapter 4 — The Erased Core
 
 The stair narrowed around Keji until it was less stair than seam, a gap the Archive had left between two memories. Her hand trailed along the wall and felt the texture change: one side was old plaster, the other was a film stretched over stone. The light came from beneath the stone, pale and uneven.
 
-She counted the steps in her mind. The coin in her pocket tapped once on her thigh with each one. It was a small, inconsistent sound. It kept her in the present.
+She counted the steps in her mind, the coin in her pocket tapping once on her thigh with each one—a small, inconsistent sound that kept her in the present.
 
 At the bottom, the air had the smell of rain that had never fallen. A door waited there. It was marked with a layer of varnish over thin script, the kind of varnish the city used when it wanted to make something look finished.
 
-Keji set her palm against the door. The surface shivered and the script rearranged itself under her skin. The first word that formed was NO, written in a hand that trembled just enough to be honest. The second word was FURTHER.
+Keji set her palm against the door. Under her skin the surface shivered, script rearranging itself. NO formed first, written in a hand that trembled just enough to be honest. Then FURTHER.
 
-The door did not open. The wall on her left hummed, and something heavy leaned against her lungs until breathing took planning. The door refused her the way the Drift wall had, without words.
+The door did not open; the wall on her left hummed, and something heavy leaned against her lungs until breathing took planning. The door refused her the way the Drift wall had, without words.
 
-She pressed harder. The script blurred. A line slipped through the varnish then vanished. It was a name: LIO. The letters were not public. They were private and splayed, the way a child might have written them on a purse with too much force.
+She pressed harder, and script blurred—a line slipping through the varnish then vanishing. A name: LIO. The letters were not public. They were private and splayed, the way a child might have written them on a purse with too much force.
 
 Keji took a breath. The surface was cool. She said it out loud once and the letter O felt wrong in her mouth.
 
@@ -34,7 +34,7 @@ A second voice pressed against the first. It was not a voice she knew by shape, 
 
 "No further."
 
-The wall behind her tightened. The chamber pulsed. The Limit did not say much, but when it spoke, the memory system obeyed. The recorded direction on the room's surface snapped sideways. The word AUTHORIZE shattered into AUTHOR and then fell apart.
+The wall behind her tightened. The chamber pulsed. The Limit did not say much, but when it spoke, the memory system obeyed: the recorded direction on the room's surface snapped sideways, and the word AUTHORIZE shattered into AUTHOR, then fell apart.
 
 Keji reached out. Her hand hovered over the line. She could feel the memory's edges. They were ragged, barely held together. A fragment of sentence broke free and floated between her fingers.
 
@@ -54,7 +54,7 @@ The third item was the child's line, incomplete and real.
 
 The recorder light blinked red. There was one more item already on the tape when she played it back: a voice with the catch she knew. It whispered "necessary," and then the memory cut.
 
-Keji closed the recorder. The chamber around her had stopped humming. The door back to the stair had sealed itself with a slow, final sound. The passage did not want her to leave.
+Keji closed the recorder. Around her the chamber had stopped humming; the door back to the stair sealed itself with a slow, final sound—it did not want her to leave.
 
 She did not push it. She let her hand follow the faint ink beneath the plaster. The ink had been written in a hand that belonged to someone who had been forced to write neat. Her fingers found the seam and the wall shivered. The stair opened.
 

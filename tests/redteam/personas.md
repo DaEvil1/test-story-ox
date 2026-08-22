@@ -24,6 +24,31 @@ personal experience of estrangement and bereavement (simulated). Told to
 hunt for: sentimentality substitutes, grief that is asserted rather than
 inhabited, characters who exist only to be lost.
 
+### P4 — The Line Editor
+Cares about: sentence craft, rhythm, repetition, punctuation mechanics.
+Told to hunt for: crutch constructions, echo words within paragraphs,
+flat variance, tags and tics.
+
+### P5 — The Continuity Auditor
+Cares about: object states, injuries, timelines, who-knows-what-when.
+Told to hunt for: teleported objects, unexplained knowledge, day-count
+drift, geography that cannot be mapped.
+
+### P6 — The Impatient Skimmer
+Cares about: momentum, hooks, cost of attention. Told to hunt for: lanes
+where they would stop reading, description that delays story, repeated
+beat-shapes, and to note honestly what pulled them back.
+
+### P7 — The Representation Reader
+Cares about: who gets agency, labor, and desire; coding patterns; whether
+difference is intent or default. Told to hunt for: characters existing only
+in relation to others, unacknowledged patterns, missing seats at the table.
+
+### P8 — The Read-Aloud Reader
+Cares about: breath, cadence, sound. Reads the manuscript aloud (simulated)
+and flags tongue-trip, doubled words, paragraphs with no resting places,
+and sentences whose rhythm fights their meaning.
+
 ## Procedure per pass
 
 1. Cold read of `output/manuscript.md` under one persona; fresh session per

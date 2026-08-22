@@ -34,7 +34,7 @@ She stood and stepped away from the wall. "I have to know why Ira did it," she s
 
 Sera nodded. "Then we go find the missing pieces. We don't need to tell the city yet. We need to know what the city tried to hide."
 
-They left the Drift together. The passageway pulsed under their boots as they walked. Outside, a vendor was painting a public announcement on a wall. The bright letters did not move.
+They left the Drift together, the passageway pulsing under their boots. Outside, a vendor was painting a public announcement on a wall. The bright letters did not move.
 
 In the Curators' hall, Ari's door was open. The room smelled of old paper and something newer—the sound of fresh seals being broken.
 
@@ -58,7 +58,7 @@ Keji looked at him. There was a gap between what he said and what his fingers we
 
 "Then let me know the record," she said.
 
-Ari's jaw worked. He stood, reached into a drawer, and took out a sealed packet. The seal was old and brittle. It had the same stamp she had seen in the hidden chamber.
+Ari's jaw worked. He stood, reached into a drawer, and took out a sealed packet, its seal old and brittle, stamped like the one she had seen in the hidden chamber.
 
 "This is what remains outside the public wall," he said. "It is not the whole thing. It is the part the city will let me show you."
 
@@ -88,6 +88,6 @@ She had the line now. She had the redacted page that said the child would be ass
 
 The next step was not to tell the city. It was to find the missing pieces that had been smoothed away.
 
-She left the hall with the packet in her hand. The city outside had not changed. The noise went on. The walls kept their taught stories.
+She left the hall with the packet in her hand. Outside, the city had not changed; noise went on, walls kept their taught stories.
 
 But the coin pulsed against her thigh, warm as the memory she'd uncovered.

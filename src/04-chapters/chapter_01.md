@@ -10,7 +10,7 @@ Advertisements flutter above archival script in the market; lovers' names breath
 
 The memory came whole, unasked: a tidepool at low light, clockwork shells ticking under the skin of the water, impossible little engines. Lio crouched over it with trousers rolled to the knee. "If I whistle, they'll come up," Lio said, deadly serious. Two fingers in the mouth; the whistle cracked and scattered the birds off the rocks. Keji laughed until her sides hurt, and Lio looked up, seawater dripping from both cuffs, triumphant. "Told you."
 
-The memory folded shut. The market noise came back.
+The memory folded shut. Market noise came back.
 
 A woman selling echo-bottles looked up. "You look like you swallowed an unfinished story," she said. She wrapped a bottle in brown paper and handed it to Keji without asking.
 
