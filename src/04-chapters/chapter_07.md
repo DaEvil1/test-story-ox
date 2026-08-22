@@ -1,8 +1,8 @@
 Chapter 7 — The Table of Light
 
-The wall in the Drift had been quiet when Keji first touched it. Now it vibrated under her fingertips, a low thrum that matched the pulse in her ears. The hidden layer had kept its secret, but it did not like being read. It was a thing with weight.
+The wall in the Drift had been quiet when Keji first touched it. Now it thrummed under her fingertips like a thing with weight, and it did not like being read.
 
-Sera watched the letters turn beneath Keji's hand. The line was thin and reluctant. It spilled out only once before closing on itself.
+Sera watched the letters turn beneath her hand. The line was thin and reluctant, spilling out only once before closing on itself.
 
 "...Lio will become a ledger entry. The present will be preserved..."
 

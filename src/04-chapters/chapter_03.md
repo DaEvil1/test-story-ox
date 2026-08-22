@@ -24,9 +24,9 @@ He turned away and walked to a cabinet. The drawer opened with the sound of hing
 
 "Ira Nash signed the authorization," Ari said. "The rest is redacted."
 
-The name lodged in her chest. The hidden space between the sound of his words and the texture of the paper felt colder.
+The name caught under her ribs. The hidden space between the sound of his words and the texture of the paper felt colder.
 
-She left the hall with the coin in her pocket and the weight of the redacted pages at the back of her eyes. Outside, the market walls glowed. A street vendor shouted about a new excavation in the public archive. People moved with the easy certainty of those whose memories were arranged for them.
+She left the hall with the glitch back in her sleeve, the coin in her pocket, and the weight of the redacted pages at the back of her eyes. Outside, the market walls glowed. A street vendor shouted about a new excavation in the public archive. People moved with the easy certainty of those whose memories were arranged for them.
 
 Sera met her at the edge of the Drift, where the stone had been worn by hands and names. She leaned against a wall that breathed slow. "You found something," she said.
 

@@ -46,7 +46,7 @@ Ari's fingers moved on the desk. He was not touching the screen. He was counting
 
 Keji pressed the key to save. The screen blinked. The amendment file was stored.
 
-She sat back. The room held its quiet, and for a breath it had worked—the city would adjust its margin, and nothing in it would break.
+She sat back. The room kept its quiet, and for a breath it had worked—the city would adjust its margin, and nothing in it would break.
 
 When she opened her eyes, Ari was back from the hall. He set his box of seals on the desk in front of her. Lighter now. She could hear there was almost nothing in it.
 
@@ -62,7 +62,7 @@ Keji slid the coin from her pocket and set it on the desk beside the seals. The 
 
 Ari studied the coin, then the screen. "Then the city will have its correction. The hidden thing will have its place."
 
-She stood. "That is enough for now."
+She stood. "That is enough for now." The coin went back into her pocket, warm from the desk.
 
 At the door he stopped, the box under his arm. "Order is compassion when the archive is fragile," he said, the way you set down something carried a long time. "I finally decided." He did not say what he had decided.
 

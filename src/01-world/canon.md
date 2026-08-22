@@ -100,5 +100,11 @@ not canon.
   canonical; speculative draft archived to `drafts/`.
 - ch6–ch10 repeat the wall-reading beat; trimmed in the 2026-08-21 prose pass
   (see `docs/decisions.log`); verify against `motif_usage` limits on next read.
-- Ira's gender is never stated in drafts; character docs use "he" (protagonist
-  key relationships) — keep pronouns consistent in any revision.
+- ~~Ira's gender is never stated in drafts; character docs use "he" (protagonist
+  key relationships) — keep pronouns consistent in any revision.~~ Closed
+  2026-08-21: verified both docs and manuscript are pronoun-neutral for Ira
+  and Lio; keep it that way.
+- Gender pattern (P7 red-team, recorded as intentional): institutions are
+  male-coded (Ari, the Council); memory-work and care are female-coded (Keji,
+  Sera, the widow, the water-seller). Preserve or consciously break this in
+  revision — never let it drift in as default.

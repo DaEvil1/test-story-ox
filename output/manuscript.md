@@ -102,9 +102,9 @@ He turned away and walked to a cabinet. The drawer opened with the sound of hing
 
 "Ira Nash signed the authorization," Ari said. "The rest is redacted."
 
-The name lodged in her chest. The hidden space between the sound of his words and the texture of the paper felt colder.
+The name caught under her ribs. The hidden space between the sound of his words and the texture of the paper felt colder.
 
-She left the hall with the coin in her pocket and the weight of the redacted pages at the back of her eyes. Outside, the market walls glowed. A street vendor shouted about a new excavation in the public archive. People moved with the easy certainty of those whose memories were arranged for them.
+She left the hall with the glitch back in her sleeve, the coin in her pocket, and the weight of the redacted pages at the back of her eyes. Outside, the market walls glowed. A street vendor shouted about a new excavation in the public archive. People moved with the easy certainty of those whose memories were arranged for them.
 
 Sera met her at the edge of the Drift, where the stone had been worn by hands and names. She leaned against a wall that breathed slow. "You found something," she said.
 
@@ -149,7 +149,7 @@ At the bottom, the air had the smell of rain that had never fallen. A door waite
 
 Keji set her palm against the door. The surface shivered and the script rearranged itself under her skin. The first word that formed was NO, written in a hand that trembled just enough to be honest. The second word was FURTHER.
 
-The door did not open. The wall on her left hummed and a pressure settled in her ribs. The door refused her the way the Drift wall had, without words.
+The door did not open. The wall on her left hummed, and something heavy leaned against her lungs until breathing took planning. The door refused her the way the Drift wall had, without words.
 
 She pressed harder. The script blurred. A line slipped through the varnish then vanished. It was a name: LIO. The letters were not public. They were private and splayed, the way a child might have written them on a purse with too much force.
 
@@ -410,9 +410,9 @@ She left the Drift with the spindle, the coin, and the first piece of the hidden
 
 ## Chapter 7 — The Table of Light
 
-The wall in the Drift had been quiet when Keji first touched it. Now it vibrated under her fingertips, a low thrum that matched the pulse in her ears. The hidden layer had kept its secret, but it did not like being read. It was a thing with weight.
+The wall in the Drift had been quiet when Keji first touched it. Now it thrummed under her fingertips like a thing with weight, and it did not like being read.
 
-Sera watched the letters turn beneath Keji's hand. The line was thin and reluctant. It spilled out only once before closing on itself.
+Sera watched the letters turn beneath her hand. The line was thin and reluctant, spilling out only once before closing on itself.
 
 "...Lio will become a ledger entry. The present will be preserved..."
 
@@ -673,7 +673,7 @@ Keji pressed once more, without force, mostly to know. The seam gave nothing. Th
 
 They took the long way back up through the Drift, and the Drift was having a bad day. Ahead of them a stretch of wall burst its script—letters peeling off the plaster in a loose shriek—and poured into a man walking past with a basket. He stopped mid-stride. His face went slack. Then he spoke with someone else's mouth: a woman's voice, decades gone, naming streets that had been rebuilt twice since. He wept without knowing why. His basket tipped; fruit rolled into the gutter.
 
-Sera knelt beside him, palms out, murmuring nothing in particular until the voice spent itself and he came back to himself, shaking, asking what year it was.
+Sera knelt beside him, palms out, murmuring nothing in particular until the voice spent itself and he came back to himself, shaking, asking what year it was. Strange, Keji thought, how gently it let him go.
 
 "That's the other door," she said, helping him up. "No curation at all. The Curators would fix him in a minute—and take the voice with it."
 
@@ -756,7 +756,7 @@ Ari's fingers moved on the desk. He was not touching the screen. He was counting
 
 Keji pressed the key to save. The screen blinked. The amendment file was stored.
 
-She sat back. The room held its quiet, and for a breath it had worked—the city would adjust its margin, and nothing in it would break.
+She sat back. The room kept its quiet, and for a breath it had worked—the city would adjust its margin, and nothing in it would break.
 
 When she opened her eyes, Ari was back from the hall. He set his box of seals on the desk in front of her. Lighter now. She could hear there was almost nothing in it.
 
@@ -772,7 +772,7 @@ Keji slid the coin from her pocket and set it on the desk beside the seals. The 
 
 Ari studied the coin, then the screen. "Then the city will have its correction. The hidden thing will have its place."
 
-She stood. "That is enough for now."
+She stood. "That is enough for now." The coin went back into her pocket, warm from the desk.
 
 At the door he stopped, the box under his arm. "Order is compassion when the archive is fragile," he said, the way you set down something carried a long time. "I finally decided." He did not say what he had decided.
 

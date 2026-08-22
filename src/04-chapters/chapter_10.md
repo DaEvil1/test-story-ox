@@ -8,7 +8,7 @@ Keji pressed once more, without force, mostly to know. The seam gave nothing. Th
 
 They took the long way back up through the Drift, and the Drift was having a bad day. Ahead of them a stretch of wall burst its script—letters peeling off the plaster in a loose shriek—and poured into a man walking past with a basket. He stopped mid-stride. His face went slack. Then he spoke with someone else's mouth: a woman's voice, decades gone, naming streets that had been rebuilt twice since. He wept without knowing why. His basket tipped; fruit rolled into the gutter.
 
-Sera knelt beside him, palms out, murmuring nothing in particular until the voice spent itself and he came back to himself, shaking, asking what year it was.
+Sera knelt beside him, palms out, murmuring nothing in particular until the voice spent itself and he came back to himself, shaking, asking what year it was. Strange, Keji thought, how gently it let him go.
 
 "That's the other door," she said, helping him up. "No curation at all. The Curators would fix him in a minute—and take the voice with it."
 

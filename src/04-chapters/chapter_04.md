@@ -8,7 +8,7 @@ At the bottom, the air had the smell of rain that had never fallen. A door waite
 
 Keji set her palm against the door. The surface shivered and the script rearranged itself under her skin. The first word that formed was NO, written in a hand that trembled just enough to be honest. The second word was FURTHER.
 
-The door did not open. The wall on her left hummed and a pressure settled in her ribs. The door refused her the way the Drift wall had, without words.
+The door did not open. The wall on her left hummed, and something heavy leaned against her lungs until breathing took planning. The door refused her the way the Drift wall had, without words.
 
 She pressed harder. The script blurred. A line slipped through the varnish then vanished. It was a name: LIO. The letters were not public. They were private and splayed, the way a child might have written them on a purse with too much force.
 
