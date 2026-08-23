@@ -30,6 +30,6 @@ She did not know if this coin belonged to Lio. She put it in her pocket anyway. 
 
 As she withdrew, the chamber's wall made a sound behind her. Not a voice. A pressure. The shape of a rule. It kept saying itself in a pattern she almost understood: no further, no further, no further.
 
-Outside, the hidden staircase had already begun closing to the shape of the lift. The seals on the door tightened. Keji moved her hand along the plaster, following a path of faint ink. The ink led her up, in a slow current, like the tide pulling back.
+Outside, the hidden staircase had already begun closing to the shape of the lift. Seals tightened on the door behind her. Keji moved her hand along the plaster, following a path of faint ink. The ink led her up, in a slow current, like the tide pulling back.
 
 When she emerged into the stairwell, the market noise was thin and bright. The city above did not know she had been below. She held the glitch and the coin, both heavy in her palm.

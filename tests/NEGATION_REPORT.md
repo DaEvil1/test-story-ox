@@ -80,7 +80,7 @@
   - > Keji did not disagree.  >>  She folded the card and slid it into the box of private slips.
 - **[WEAK]** chapter_08.md:67 (single negation then same-subject affirmative)
   - > Ari did not answer.  >>  He left the room without sealing the door.
-- **[WEAK]** chapter_09.md:65 (single negation then same-subject affirmative)
+- **[WEAK]** chapter_09.md:67 (single negation then same-subject affirmative)
   - > Sera did not speak.  >>  She knelt and pressed Keji's shoulder once, and her thumb moved in one slow circle there — the only gentle thing in the room.
 - **[WEAK]** chapter_10.md:21 (single negation then same-subject affirmative)
   - > Sera did not add anything.  >>  Keji looked at her.

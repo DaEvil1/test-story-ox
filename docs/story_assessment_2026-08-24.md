@@ -1,5 +1,8 @@
 # Story Assessment v2 — 2026-08-24
 
+> Updated same day after the stakes & line-pass revision (see final section).
+> Current: **raw 7.36 / system-adjusted ~7.1**.
+
 Full re-score against `docs/story_craft_criteria.md` (50 criteria). Supersedes
 `story_assessment_2026-08-21.md` as the current-state record; that file
 remains as the revision history (r1–r7).
@@ -81,3 +84,29 @@ no story text changed since; tooling only).
 The honest statement is unchanged in kind since r4: the framework has caught
 up with the story. Remaining gains are execution-quality, measurable but not
 automatable — exactly what the red-team panel exists to pressure-test.
+
+---
+
+# Same-day revision — Stakes & Line Pass (2026-08-24, later)
+
+Implemented the assessment's own recommendations plus a stakes deepening:
+
+**Stakes/sacrifice additions**
+- **The ribbon itself is sacrificed (ch11):** the original clip — Ira's
+  laugh — goes into the sealed private ledger box, reachable by authorized
+  hands and no longer by hers. She keeps the copy and the coin; she loses
+  the artifact. Keji's final choice now costs something irreplaceable (#23 → 8).
+- **Unmanaged rage (ch9):** her fist cracks against the sealed wall before
+  she chooses it — "and the wall took it without a mark, which was worse."
+  The one register swing Pulse needed (#33 → 8).
+- **City-cost echo:** the scoured wall still waits for its plaque.
+
+**Line-pass results (measured)**
+- "The"-openers: 24% → **22%** (238→226; target <20% stands)
+- Abstract-of frames: 15.7 → **10.2/10k** (target ≤8 stands)
+- Sentence stdev: 6.7 → **6.8**
+
+**Score movements:** #23 → 8, #33 → 8. All others unchanged.
+**Raw overall 7.32 → 7.36 · system-adjusted ~7.1.**
+
+Red-team main thoughts consolidated in `docs/redteam_thoughts.md`.

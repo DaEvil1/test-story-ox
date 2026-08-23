@@ -16,11 +16,11 @@ On the fourth day she tried the front door. One request, properly filed: provena
 
 She went to a room beneath the Curators' hall that smelled of old ledger paper and the metal tang of security doors. It was a room she had been in once as a child—once before the Archive learned how to keep secrets from itself.
 
-The doorway there was small. Its lock was old-fashioned in a city that had replaced most locks with biometric brushes. She slipped in and shut the door behind her, and the sound of the public halls dimmed to a thread.
+The doorway there was small. Its lock was old-fashioned in a city that had replaced most locks with biometric brushes. She slipped in and shut the door behind her, and public-hall noise dimmed to a thread.
 
-Ari had left a lamp on. Its light was soft. The desk was empty except for a stack of paper and a narrow box of sealed slips. Keji opened the box carefully. Inside were cards that the Archive used for private ledgers: a line of text, a record of touch, and a small seal from the hand that had written it.
+Inside, a stack of paper and a narrow box of sealed slips sat on an empty desk; Ari had left a lamp on, its light soft. Keji opened the box carefully. Inside were cards that the Archive used for private ledgers: a line of text, a record of touch, and a small seal from the hand that had written it.
 
-She pulled one card out. The paper was thick and faintly warm. She set the recorder on the desk and pressed play. The hidden line from the Drift played into the room: AUTHORIZE RESET. PRESERVE NETWORK. REMOVE CHANNEL.
+She pulled one card out—thick, faintly warm paper. She set the recorder on the desk and pressed play. From the Drift, the hidden line played into the room: AUTHORIZE RESET. PRESERVE NETWORK. REMOVE CHANNEL.
 
 She wrote the line onto the card with a pen that did not belong to the public hall. Her hand moved slowly. The words nearly resisted being written.
 

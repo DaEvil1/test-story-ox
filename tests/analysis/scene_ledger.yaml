@@ -243,9 +243,10 @@ scenes:
   - {id: ch11-s02, chapter: 11, title: saving & the price of acceptance,
      goal: commit the amendment,
      new_info: ["city will know the ledger exists but not its contents; Ari accepts",
-                "the council strips Ari's seals for the plaque order"],
+                "the council strips Ari's seals for the plaque order",
+                "the original ribbon is sealed into the Archive's keeping"],
      value_change: yes-but,
-     cost_paid: "Ari surrenders his senior seal and position",
+     cost_paid: "Ari surrenders his senior seal and position; Keji gives up the ribbon itself",
      irreversible: true,
      opponent_pressure: ari, stakes_scope: personal}
   - {id: ch11-s03, chapter: 11, title: the kept coin & the question,

@@ -14,7 +14,7 @@ Keji's fingers did not leave the surface. "Then show me the right place."
 
 The Drift's passage tilted. The air cooled; ink lifted off the wall and formed a path. It curved toward a door hidden beneath a layer of old script.
 
-The door was marked only by a faint seam. When her palm met it, the surface pulsed and the hidden line changed. A single word appeared, slow and heavy: NO.
+Only a faint seam marked the door. When her palm met it, the surface pulsed and the hidden line changed. A single word appeared, slow and heavy: NO.
 
 Under her palm the wall was ridged, like a surface built out of many erased attempts.
 
@@ -38,7 +38,7 @@ Sera's hand came to Keji's shoulder. "It is not asking for permission. It is tel
 
 She stepped back, knee hitting the wall, and the stone carried a cold tremor as if it had been charged.
 
-She reached into her pocket and found the coin. The metal warmed to her skin. The word private sat in her mind with the weight of the coin.
+She reached into her pocket and found the coin, metal warming to her skin. Private sat in her mind, heavy as the metal itself.
 
 "Then we go to the room itself," she said.
 
@@ -52,9 +52,9 @@ The memory began in fragments. A hand placing a paper on the surface. A voice sa
 
 Her breath shortened. The sound was not exactly in the room. It was in her bones, through the floor.
 
-She leaned closer. The light on the surface formed a line of text that slid past too fast to read. She followed it with her mind. The first clear thing was not a full sentence, only a decision in the shape of a command: "REMOVE CHANNEL."
+She leaned closer. The light on the surface formed a line of text that slid past too fast to read. She followed it with her mind. The first clear thing was not a full sentence, only a decision dressed as a command: "REMOVE CHANNEL."
 
-Then the room shifted. The faces in the light changed. A new voice came through, steadier. It said the name 
+In the light, the faces changed. A new voice came through, steadier. It said the name 
 
 "Lio."
 

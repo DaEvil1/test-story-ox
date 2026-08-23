@@ -1,6 +1,6 @@
 Chapter 4 — The Erased Core
 
-The stair narrowed around Keji until it was less stair than seam, a gap the Archive had left between two memories. Her hand trailed along the wall and felt the texture change: one side was old plaster, the other was a film stretched over stone. The light came from beneath the stone, pale and uneven.
+The stair narrowed around Keji until it was less stair than seam, a gap the Archive had left between two memories. Her hand trailed along the wall and felt the texture change: one side was old plaster, the other was a film stretched over stone. Light came up from beneath the stone, pale and uneven.
 
 She counted the steps in her mind, the coin in her pocket tapping once on her thigh with each one—a small, inconsistent sound that kept her in the present.
 
@@ -14,7 +14,7 @@ She pressed harder, and script blurred—a line slipping through the varnish the
 
 Keji took a breath. The surface was cool. She said it out loud once and the letter O felt wrong in her mouth.
 
-The door responded with a sound deeper than a murmur. It was a series of taps, like the Archive communicating in a language of old equipment. She traced the taps with her mind. There were three: one for warning, one for limit, one for request.
+Then a sound deeper than a murmur answered the door. It was a series of taps, like the Archive communicating in a language of old equipment. She traced the taps with her mind. There were three: one for warning, one for limit, one for request.
 
 She folded the glitch in her palm and stepped away from the door. The passage she had come through had already begun to fade. The stone above her head seemed to sigh.
 
@@ -22,7 +22,7 @@ In the chamber beyond the door, the memory held itself in a room of listening su
 
 "Authorize the reset," the voice said. "Preserve the network. Remove the channel. Keep the public smooth."
 
-The sentence had the precision of a directive. The walls around her vibrated with the rhythms of agreement: the quick paper rustle of bureaucrats, the low assent of concord. Then, beneath the directive, deeper in the surface, an earlier take surfaced. Ira's voice, younger, frayed at the edges: "There has to be another way to—"
+The sentence had the precision of a directive. Around her, walls vibrated with the rhythms of agreement: the quick paper rustle of bureaucrats, the low assent of concord. Then, beneath the directive, deeper in the surface, an earlier take surfaced. Ira's voice, younger, frayed at the edges: "There has to be another way to—"
 
 The recording cut there. When it resumed, the voice was the one she knew: flat, careful, decided.
 

@@ -16,7 +16,7 @@ Keji eased the spindle along the wall. The light under the glass pulsed. A new l
 
 She did not move too fast. The wall resisted quick hands. She let the letters settle under the glass and followed them with her eyes.
 
-A door opened in the wall ahead. It had no handle, only a seam and a faint hum. The air through it was colder.
+A door opened in the wall ahead—no handle, only a seam and a faint hum, colder air through it.
 
 Sera leaned closer. "That's the node itself. The Limit doesn't like that door opened."
 
@@ -24,7 +24,7 @@ Keji pressed her palm to the seam. It shivered. The hidden letters spilled one m
 
 The door slid open a finger-width.
 
-Beyond it was a chamber of paused memory. The light there was the only light. It came from surfaces that had been waiting.
+Beyond it was a chamber of paused memory, lit only by surfaces that had been waiting.
 
 Keji stepped in. The air smelled of rain and old paper. The floor was not solid; it felt like a film of ink stretched over stone. When she put her foot down, the surface gave just enough to make her feel it. The wall on her right had the texture of a ledger page.
 
@@ -48,7 +48,7 @@ The voice in the room said the name aloud. "Lio."
 
 The wall pulsed. The hidden layer clenched like a fist. A second voice, lower, came through. It was not a person; it was a force shaped by policy and pattern. "No further."
 
-The door behind Keji began to hum. The wall on her left grew colder. She could feel the Limit's pressure as a physical weight against her chest.
+The door behind Keji began to hum; on her left the wall grew colder. She could feel the Limit's pressure as a physical weight against her chest.
 
 Sera's hand touched her arm. "If the wall closes, the node will seal itself again. Take what you can now."
 
@@ -56,11 +56,13 @@ Keji lowered the spindle toward the node's edge and did the one thing a curator 
 
 The room refused the mark first. The hidden letters did not splinter this time; they collapsed all at once, like a fist closing over it.
 
-The recorder already held the shape of what mattered. What it did not hold was her hand.
+The recorder already held what mattered. What it did not hold was her hand.
 
 The door slammed its seam shut across her wrist—a bar of cold, total pressure—and wrenched free. Pain went up her arm in a white sheet. She heard herself cry out, high and unfamiliar. The spindle dropped and cracked against the stone.
 
 When she could see again, she was on her knees in the Drift and the wall was solid, smooth, sealed. Its letters had rearranged into a neat line: NO FURTHER.
+
+Her good fist swung before she chose it—knuckles cracking against sealed plaster, once, twice—and the wall took it without a mark, which was worse.
 
 Two fingers of her left hand hung dull at her side. They would not close. The coin had pressed its edge into her palm so hard she could find the mark by touch.
 

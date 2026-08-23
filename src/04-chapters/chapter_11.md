@@ -1,6 +1,6 @@
 Chapter 11 — The Amendment
 
-The archive room was quiet, but not empty. The stillness there had the weight of sleeping stone. Keji stood at a desk and let the silence settle around her. The recorded fragments were in the recorder on the desk; the coin was in her pocket. Plaque orders went to the council at the morning bell—hers had gone with the dawn batch. Whatever the council meant to do about it, it would do today, or sit on it for a full turn.
+The archive room was quiet, but not empty. The stillness there weighed like sleeping stone. Keji stood at a desk and let the silence settle around her. The recorded fragments were in the recorder on the desk; the coin was in her pocket. Plaque orders went to the council at the morning bell—hers had gone with the dawn batch. Whatever the council meant to do about it, it would do today, or sit on it for a full turn.
 
 Ari watched her from the doorway. He did not come closer.
 
@@ -66,7 +66,9 @@ She stood. "That is enough for now." The coin went back into her pocket, warm fr
 
 At the door he stopped, the box under his arm. "Order is compassion when the archive is fragile," he said, the way you set down something carried a long time. "I finally decided." He did not say what he had decided.
 
-As she left the room, the public halls felt both closer and farther away. The city was still the same city, with its polished walls and its curated memories. But there was now a private place where the line she had found could rest—a ledger entry that the city knew existed but did not need to read.
+As she left the room she stopped at the private ledger room, one floor down. The ribbon went into the box beside the card—the original, the whole laugh of it—sealed where authorized hands could reach it and hers could not. She stood there a moment with her hand flat on the closed lid. Then she went up into the noise of the halls.
+
+The city outside had not changed. Somewhere behind her, the scoured wall waited for its plaque.
 
 Before going up, she found Sera at the old quay, where the sound was loudest. Sera looked at the bandaged hand and did not ask.
 
