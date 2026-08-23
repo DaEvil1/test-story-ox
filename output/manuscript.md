@@ -65,7 +65,7 @@ A door in the chamber shifted. The floor drew taut under her feet. On her left a
 
 Keji stepped back. Her shoulder hit a surface and she found a hidden niche. Inside it, someone had left a small thing: a worn coin, flattened on one side, marked with a child's crude lighthouse. The coin was not in the recorded sound. It was a thing in the room.
 
-Her thumb moved over the lighthouse and the room went far away for a breath: Lio at the kitchen table, counting coins into Keji's palm with terrible ceremony. "One for the boat," Lio said, placing each one like it might wake. "One for the light. One for you, because you lose things." She had kept that last one longer than the others.
+Her thumb moved over the lighthouse and the room went far away for a breath: Lio at the kitchen table, counting coins into Keji's palm with terrible ceremony. "One for the boat," Lio said, placing each one like it might wake. "One for the light. One for you, because you lose things." She had kept that last one longer than the others. And after the tidepools there had been the climb home—Lio asleep against her shoulder, salt-smelling hair stuck to Keji's cheek, an arm hooked around her neck, heavier than any sleeping child had a right to be.
 
 She did not know if this coin belonged to Lio. She put it in her pocket anyway. The metal was warm from the chamber's breath.
 
@@ -517,6 +517,14 @@ Keji did not tell the public archive what she had found. She did not put the hid
 
 The next three days were ordinary, and she made them ordinary on purpose. Threads smoothed, clips filed, the kettle's small storm each morning. She ate lunch on the editing-hall steps in the sun, like anyone. Twice she caught her hand drifting toward the pocket where the coin sat, and twice she let it come away empty. The city hummed its taught stories around her. She kept hers folded small.
 
+On the second day the queue brought her a routine case, and she took it like a glass of water. A ferryman, seventy, who slept in the berth his wife had died in two winters back. He asked for one thing only: the last night gone—the sounds, the waiting, the wrong-shaped silence—and the good years left whole. It was the kind of edit they taught apprentices on, and almost nobody did well.
+
+She worked it the way she had been taught and the way she had taught others: found the night's thread, followed it down to the knot where fear had tied itself to the sound of breathing, and untied only that. The wedding on the jetty stayed, and the argument about the tiller, and the way his wife had pronounced harbor with the round vowels of her home islands. She stitched the edges clean, ran her thumb along the seam, and handed the thread back.
+
+He laughed when it settled—an old man in a public chair, surprised by his own mouth. He thanked her twice and called her little in the island way, and went out into the market carrying his own weather.
+
+Eleven minutes, all of it. She filed the thread and reached for the next name, and her hands were steady, and she looked at them a moment too long.
+
 On the fourth day she tried the front door. One request, properly filed: provenance review, referenced only by stamp number, no names attached. The reply came back in eleven minutes, polite as a locked gate: RECORD NOT PRESENT IN PUBLIC INDEX. She reshelved the slip, washed her cup, went back to her threads. That evening her terminal greeted her by name when she sat down. It had never done that before.
 
 She went to a room beneath the Curators' hall that smelled of old ledger paper and the metal tang of security doors. It was a room she had been in once as a child—once before the Archive learned how to keep secrets from itself.
@@ -671,7 +679,7 @@ The seam remembered her. When Keji set her palm to it the next morning, bandaged
 
 Keji pressed once more, without force, mostly to know. The seam gave nothing. The node was sealed to her now the way a grave is sealed: not locked, just finished.
 
-They took the long way back up through the Drift, and the Drift was having a bad day. Ahead of them a stretch of wall burst its script—letters peeling off the plaster in a loose shriek—and poured into a man walking past with a basket. He stopped mid-stride. His face went slack. Then he spoke with someone else's mouth: a woman's voice, decades gone, naming streets that had been rebuilt twice since. He wept without knowing why. His basket tipped; fruit rolled into the gutter.
+They took the long way back—two bridges, half the fish-market—up through the Drift, and the Drift was having a bad day. Ahead of them a stretch of wall burst its script—letters peeling off the plaster in a loose shriek—and poured into a man walking past with a basket. He stopped mid-stride. His face went slack. Then he spoke with someone else's mouth: a woman's voice, decades gone, naming streets that had been rebuilt twice since. He wept without knowing why. His basket tipped; fruit rolled into the gutter.
 
 Sera knelt beside him, palms out, murmuring nothing in particular until the voice spent itself and he came back to himself, shaking, asking what year it was. Strange, Keji thought, how gently it let him go.
 
@@ -703,14 +711,16 @@ Kitchen sounds. A stripe of morning light across a table—you can hear sun if t
 
 The ribbon ended there. Not damaged. Ended—cut clean, the way Ira cut sentences when the rest was dangerous.
 
-She sat with it a long time. The message had been in her pocket through every sealed door.
+She sat with it a long time. Somewhere in that sitting her hands wound the ribbon around her fingers—once, twice, tighter than good, the caps of her nails going white. She did not remember deciding to. She unwound it slowly, the way you ease a knot you cannot afford to lose, then put her hands flat on the table until they were hers again.
+
+The message had been in her pocket through every sealed door.
 
 The two dull fingers ached in their wrapping. Keji turned the coin in her pocket, warm against her good palm, and felt its edge find the mark it had pressed into her other hand. Outside, far below the window, the tide turned and started coming in.
 
 
 ## Chapter 11 — The Amendment
 
-The archive room was quiet, but not empty. The stillness there had the weight of sleeping stone. Keji stood at a desk and let the silence settle around her. The recorded fragments were in the recorder on the desk; the coin was in her pocket.
+The archive room was quiet, but not empty. The stillness there had the weight of sleeping stone. Keji stood at a desk and let the silence settle around her. The recorded fragments were in the recorder on the desk; the coin was in her pocket. Plaque orders went to the council at the morning bell—hers had gone with the dawn batch. Whatever the council meant to do about it, it would do today, or sit on it for a full turn.
 
 Ari watched her from the doorway. He did not come closer.
 
@@ -760,7 +770,7 @@ She sat back. The room kept its quiet, and for a breath it had worked—the city
 
 When she opened her eyes, Ari was back from the hall. He set his box of seals on the desk in front of her. Lighter now. She could hear there was almost nothing in it.
 
-"The council asked for these while you were saving your amendment," he said. "Someone read the plaque order and drew a line back to my cabinet." He looked at the near-empty box without touching it. "Keep the private ledger well. I am apparently done keeping things."
+"The council's senior curator brought these down herself while you were saving your amendment," he said. "Someone read the plaque order and drew a line back to my cabinet." He looked at the near-empty box without touching it. "Keep the private ledger well. I am apparently done keeping things."
 
 Keji's throat worked once. She did not reach for the box.
 
@@ -802,6 +812,6 @@ Keji's good hand went still on the railing.
 
 "I know," Keji said.
 
-In the great window by the doors, the sea was coming in, dark and patient, wearing the lamplight into small pieces.
+In the great window by the doors, the sea was coming in, dark and patient, wearing the lamplight into small pieces the way it had worn at the city's edges since before anyone's oldest memory of it.
 
 She walked back through the archive with her steps steady. The coin warmed with each footfall.

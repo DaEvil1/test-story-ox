@@ -6,7 +6,7 @@ The seam remembered her. When Keji set her palm to it the next morning, bandaged
 
 Keji pressed once more, without force, mostly to know. The seam gave nothing. The node was sealed to her now the way a grave is sealed: not locked, just finished.
 
-They took the long way back up through the Drift, and the Drift was having a bad day. Ahead of them a stretch of wall burst its script—letters peeling off the plaster in a loose shriek—and poured into a man walking past with a basket. He stopped mid-stride. His face went slack. Then he spoke with someone else's mouth: a woman's voice, decades gone, naming streets that had been rebuilt twice since. He wept without knowing why. His basket tipped; fruit rolled into the gutter.
+They took the long way back—two bridges, half the fish-market—up through the Drift, and the Drift was having a bad day. Ahead of them a stretch of wall burst its script—letters peeling off the plaster in a loose shriek—and poured into a man walking past with a basket. He stopped mid-stride. His face went slack. Then he spoke with someone else's mouth: a woman's voice, decades gone, naming streets that had been rebuilt twice since. He wept without knowing why. His basket tipped; fruit rolled into the gutter.
 
 Sera knelt beside him, palms out, murmuring nothing in particular until the voice spent itself and he came back to himself, shaking, asking what year it was. Strange, Keji thought, how gently it let him go.
 
@@ -38,6 +38,8 @@ Kitchen sounds. A stripe of morning light across a table—you can hear sun if t
 
 The ribbon ended there. Not damaged. Ended—cut clean, the way Ira cut sentences when the rest was dangerous.
 
-She sat with it a long time. The message had been in her pocket through every sealed door.
+She sat with it a long time. Somewhere in that sitting her hands wound the ribbon around her fingers—once, twice, tighter than good, the caps of her nails going white. She did not remember deciding to. She unwound it slowly, the way you ease a knot you cannot afford to lose, then put her hands flat on the table until they were hers again.
+
+The message had been in her pocket through every sealed door.
 
 The two dull fingers ached in their wrapping. Keji turned the coin in her pocket, warm against her good palm, and felt its edge find the mark it had pressed into her other hand. Outside, far below the window, the tide turned and started coming in.

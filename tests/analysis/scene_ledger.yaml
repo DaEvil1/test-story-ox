@@ -159,6 +159,12 @@ scenes:
                 "her terminal greets her by name — the Archive noticed the query"],
      value_change: yes-but, cost_paid: none, irreversible: false,
      opponent_pressure: archive, stakes_scope: personal}
+  - {id: ch08-s00b, chapter: 8, title: the ferryman's night,
+     goal: take one ordinary case like it was ordinary,
+     new_info: ["curation as craft that helps — a good edit takes cleanly in eleven minutes",
+                "the seam only an editor sees: her own steady hands"],
+     value_change: yes-but, cost_paid: none, irreversible: false,
+     opponent_pressure: none, stakes_scope: personal}
   - {id: ch08-s01, chapter: 8, title: private ledger room,
      goal: give the fragment a home,
      new_info: ["a private ledger card now exists; Ari knows and tolerates it"],

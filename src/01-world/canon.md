@@ -45,6 +45,24 @@ draft or amend the ledger with a `docs/decisions.log` entry.
 - The erased core / node chambers (ch4, ch7, ch9, ch10 — paused-memory rooms,
   table of light)
 
+### Geography (fixed 2026-08-21)
+
+Rough relations, kept loose but consistent: the editing hall sits at the
+boundary of the market and the public archive levels; the market slopes down
+to the old quay (short walk); the Drift wraps the quay district on the ocean
+side — two bridges and half the fish-market from the editing hall (ch10);
+the hidden strata open beneath the editing hall's stairwell (ch2); the
+private ledger room is one level beneath the Curators' hall; the erased core
+lies deepest, reachable only via the Drift's unfinished walls. Walking time
+market→quay: minutes. Hall→Drift edge: a quarter hour, unhurried.
+
+### Civic procedure (fixed 2026-08-21)
+
+Plaque orders and amendments go to the Council of Curators at the morning
+bell; the council either acts same-day or holds items for a full turn
+(ch11). The council's senior curator — female, name unstated — enforces
+personally when it matters (ch11 seal retrieval).
+
 ## Objects
 
 - Ribbon of Ira's voice (ch1) — the moment the decision crystallized
@@ -105,6 +123,8 @@ not canon.
   2026-08-21: verified both docs and manuscript are pronoun-neutral for Ira
   and Lio; keep it that way.
 - Gender pattern (P7 red-team, recorded as intentional): institutions are
-  male-coded (Ari, the Council); memory-work and care are female-coded (Keji,
-  Sera, the widow, the water-seller). Preserve or consciously break this in
-  revision — never let it drift in as default.
+  male-coded (Ari, the Council) EXCEPT the council's senior curator, female,
+  who appears on-page in ch11 — a deliberate first crack in that pattern.
+  Memory-work and care are female-coded (Keji, Sera, the widow, the
+  water-seller). Preserve or consciously break this in revision — never let
+  it drift in as default.

@@ -1,6 +1,6 @@
 Chapter 11 — The Amendment
 
-The archive room was quiet, but not empty. The stillness there had the weight of sleeping stone. Keji stood at a desk and let the silence settle around her. The recorded fragments were in the recorder on the desk; the coin was in her pocket.
+The archive room was quiet, but not empty. The stillness there had the weight of sleeping stone. Keji stood at a desk and let the silence settle around her. The recorded fragments were in the recorder on the desk; the coin was in her pocket. Plaque orders went to the council at the morning bell—hers had gone with the dawn batch. Whatever the council meant to do about it, it would do today, or sit on it for a full turn.
 
 Ari watched her from the doorway. He did not come closer.
 
@@ -50,7 +50,7 @@ She sat back. The room kept its quiet, and for a breath it had worked—the city
 
 When she opened her eyes, Ari was back from the hall. He set his box of seals on the desk in front of her. Lighter now. She could hear there was almost nothing in it.
 
-"The council asked for these while you were saving your amendment," he said. "Someone read the plaque order and drew a line back to my cabinet." He looked at the near-empty box without touching it. "Keep the private ledger well. I am apparently done keeping things."
+"The council's senior curator brought these down herself while you were saving your amendment," he said. "Someone read the plaque order and drew a line back to my cabinet." He looked at the near-empty box without touching it. "Keep the private ledger well. I am apparently done keeping things."
 
 Keji's throat worked once. She did not reach for the box.
 
@@ -92,6 +92,6 @@ Keji's good hand went still on the railing.
 
 "I know," Keji said.
 
-In the great window by the doors, the sea was coming in, dark and patient, wearing the lamplight into small pieces.
+In the great window by the doors, the sea was coming in, dark and patient, wearing the lamplight into small pieces the way it had worn at the city's edges since before anyone's oldest memory of it.
 
 She walked back through the archive with her steps steady. The coin warmed with each footfall.

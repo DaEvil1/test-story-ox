@@ -377,3 +377,38 @@ RQ2/RQ4 merged into the single question-cluster readers actually hold.
 System-adjusted **6.76 → 6.88**. Weakest pillars are now Promise Frame
 (6.30: promise #2, genre #40) and the 6-scoring pair Pulse/Bond — for the
 first time, no pillar sits below 6.
+
+---
+
+# Revision 7 — Direction Packages Implemented (2026-08-21)
+
+From the red-team synthesis, packages A/B/C/D/F + E were chosen and built:
+
+- **A "The Curator's Art" (ch8)** — the ferryman edit: curation shown as
+  craft and mercy, eleven minutes, done well; lands on Keji studying her own
+  steady hands. Answers M1/M8; gives both-sides its exhibit.
+- **B "Lio carried" (ch2)** — asleep against her shoulder after the
+  tidepools, salt hair, heavier than any sleeping child had a right to be.
+  Answers M2.
+- **C "The break" (ch10)** — she winds the ribbon around her fingers tighter
+  than good without deciding to. Unmanaged grief, in character. Answers M3.
+- **D clock + geography (ch10/ch11/canon)** — morning-bell council
+  procedure, two bridges half the fish-market, canon geography paragraph.
+  Answers M5.
+- **F senior curator (ch11)** — "brought these down herself." First woman
+  with institutional power; first crack in the gender pattern, deliberate.
+  Answers M7.
+- **E risked sentences** woven through A/ch11; stdev 6.5 → 6.7.
+
+Red-team round 4 corroborated all of it (full panel, report §Round 4).
+
+| Criterion | Was | Now |
+|---|---|---|
+| #12 Relationships dramatized | 7 | 8 |
+| #22 Both sides weighted | 7 | 8 |
+| #31 Defamiliarization | 7 | 8 |
+| #34 Vulnerability | 7 | 8 |
+
+**Raw overall 7.24 → 7.32 · System-adjusted 6.96 → 7.06** — the coupling
+layer's penalty gap narrowed to 0.26 as Bond and Consequence pillars
+strengthened. Pipeline formalized in `docs/pipeline.md`.

@@ -170,3 +170,92 @@ Every persona's "most missing" is an **absence**, not a flaw: wonder,
 bodies, breaks, clocks, geography, risked sentences, women in institutions.
 Nothing needs removing. Everything named needs adding — which is consistent
 with the story's entire revision history (omission-class failures only).
+
+---
+
+# Round 4 — Full Panel After Packages A/B/C/D/F+E (2026-08-21)
+
+State read: ferryman scene (ch8), Lio-carried memory (ch2), the break at the
+ribbon (ch10), morning-bell clock + senior curator (ch11), transit geography,
+two risked long sentences. 10,820 words. Same question set: improvements /
+most missing / scores.
+
+## P1 — Skeptical Literary Critic · 7.2
+
+- **Improvement:** "The ferryman scene is the first time the prose spends
+  its savings. 'Harbor with the round vowels of her home islands' — that's
+  an underline-twice sentence."
+- **Most missing now:** still wants one full page of abandon; notes the
+  break at the ribbon is "correctly small" but wants to know if Keji is
+  *capable* of a larger one.
+- **Scores shift:** Pulse 6→7.
+
+## P2 — Genre Purist · 7.3
+
+- **Improvement:** "Exhibit A exists. The Curators finally have a case — and
+  Keji looking at her own steady hands afterward keeps it honest."
+- **Most missing now:** The Limit ontology still stalls post-ch10 (unchanged
+  verdict); would trade a chapter for one hard ontological test.
+- **Scores shift:** Consequence 7→8, Promise 7 stays.
+
+## P3 — Grief Reader · 7.9
+
+- **Improvement:** "You gave him weight. 'Heavier than any sleeping child had
+  a right to be' — I had to put it down. And she winds the ribbon until the
+  nails go white: that's the truest grief in the book because it isn't
+  dignified."
+- **Most missing now:** Ari's interiority remains sealed; accepts it as
+  design but names it every round.
+- **Scores shift:** Bond 8→9? No — holds 8, "because Lio still leaves before
+  I learn what Lio wanted."
+
+## P4 — Line Editor · 7.4
+
+- **Improvement:** stdev climb is audible; the ferryman list-sentence ("The
+  wedding on the jetty stayed, and the argument about the tiller…") runs
+  beautifully.
+- **Most missing:** "The"-opener share still 24%; em-dash pairs up again.
+- **Scores shift:** none.
+
+## P5 — Continuity Auditor · 7.8
+
+- **Improvement:** clock and geography hold under audit — morning bell,
+  two bridges, half the fish-market all reconcile.
+- **Most missing:** the ferryman never recurs (fine), but the dawn-batch
+  council procedure should stay consistent if a sequel ever exists.
+- **Scores shift:** World Logic 8 confirmed.
+
+## P6 — Impatient Skimmer · 6.9
+
+- **Improvement:** "ch8 has a reason to be quiet now — I'd have skimmed it
+  before; the ferryman made me read."
+- **Most missing:** unchanged: no ticking since the bell (accepted as tone),
+  and ch5 remains the longest lane.
+- **Scores shift:** Structure 6→7.
+
+## P7 — Representation Reader · 7.8
+
+- **Improvement:** "A woman came for the seals herself. One sentence, and
+  the institution cracked open exactly as the watchlist asked."
+- **Most missing:** Keji's off-quest life (still nothing); notes the
+  ferryman receives care without being pathologized — good.
+- **Scores shift:** Bond 8 confirmed.
+
+## P8 — Read-Aloud Reader · 7.5
+
+- **Improvement:** "Two sentences now exist that I'd read aloud for pleasure:
+  the harbor vowels, and the sea wearing lamplight 'since before anyone's
+  oldest memory of it.'"
+- **Most missing:** breath-trip clusters persist in ch4's chamber sequence.
+- **Scores shift:** Pulse 7 confirmed.
+
+## Round-4 score adoptions
+
+| Criterion | Was | Now | Evidence |
+|---|---|---|---|
+| #12 Relationships dramatized | 7 | 8 | Lio gains a body; P3's core gap answered |
+| #22 Both sides weighted | 7 | 8 | The Curator case now has exhibits (ferryman) |
+| #31 Defamiliarization | 7 | 8 | Editing-as-care reframes the familiar |
+| #34 Vulnerability | 7 | 8 | The ribbon-wind: unmanaged, undignified, true |
+
+(#33 held at 7 pending lexicon ratio ≥0.70 — currently 0.68.)

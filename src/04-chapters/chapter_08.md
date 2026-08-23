@@ -4,6 +4,14 @@ Keji did not tell the public archive what she had found. She did not put the hid
 
 The next three days were ordinary, and she made them ordinary on purpose. Threads smoothed, clips filed, the kettle's small storm each morning. She ate lunch on the editing-hall steps in the sun, like anyone. Twice she caught her hand drifting toward the pocket where the coin sat, and twice she let it come away empty. The city hummed its taught stories around her. She kept hers folded small.
 
+On the second day the queue brought her a routine case, and she took it like a glass of water. A ferryman, seventy, who slept in the berth his wife had died in two winters back. He asked for one thing only: the last night gone—the sounds, the waiting, the wrong-shaped silence—and the good years left whole. It was the kind of edit they taught apprentices on, and almost nobody did well.
+
+She worked it the way she had been taught and the way she had taught others: found the night's thread, followed it down to the knot where fear had tied itself to the sound of breathing, and untied only that. The wedding on the jetty stayed, and the argument about the tiller, and the way his wife had pronounced harbor with the round vowels of her home islands. She stitched the edges clean, ran her thumb along the seam, and handed the thread back.
+
+He laughed when it settled—an old man in a public chair, surprised by his own mouth. He thanked her twice and called her little in the island way, and went out into the market carrying his own weather.
+
+Eleven minutes, all of it. She filed the thread and reached for the next name, and her hands were steady, and she looked at them a moment too long.
+
 On the fourth day she tried the front door. One request, properly filed: provenance review, referenced only by stamp number, no names attached. The reply came back in eleven minutes, polite as a locked gate: RECORD NOT PRESENT IN PUBLIC INDEX. She reshelved the slip, washed her cup, went back to her threads. That evening her terminal greeted her by name when she sat down. It had never done that before.
 
 She went to a room beneath the Curators' hall that smelled of old ledger paper and the metal tang of security doors. It was a room she had been in once as a child—once before the Archive learned how to keep secrets from itself.
