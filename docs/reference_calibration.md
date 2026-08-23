@@ -43,3 +43,13 @@ translations (Metamorphosis) add their own cadence. Bands are directional
 evidence for revision targeting, not pass/fail gates — hard rules stay in
 `tests/automated/rules.yaml` and `tests/analysis/*.yaml` only where the
 coupling map justifies them.
+
+## Modern point (added 2026-08-21)
+
+Cory Doctorow's *Little Brother* excerpt (2008, CC, length-matched) anchors
+the modern end: dialogue 33% of text (ours 16%), em-dashes 73/10k (ours 58),
+fragments 5%, sentence stdev 15.8, all five emotion categories within a
+narrow band (4.0–11.2/10k). Takeaways: our dialogue share sits at the very
+bottom of the PD band AND far under the modern point; our fear/grief run
+roughly double the modern rates while joy is at parity — the "managed
+melancholy" fingerprint, now measured against both centuries.

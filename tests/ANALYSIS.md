@@ -169,6 +169,23 @@ Count: 11 (10 per 10k)
 | palimpsest-layer | 39 | 36 |
 | limit | 20 | 18 |
 
+### Motif co-occurrence (paragraph level)
+
+| Pair | Together | % of rarer family |
+|---|---:|---:|
+| coin + warm | 12 | 75% **FUSED** |
+| wall + hum | 11 | 73% **FUSED** |
+| wall + palimpsest-layer | 17 | 55% |
+| wall + ink | 8 | 53% |
+| wall + pulse | 13 | 42% |
+| wall + seam | 5 | 38% |
+| pulse + seam | 3 | 23% |
+| ink + palimpsest-layer | 3 | 20% |
+| wall + coin | 7 | 19% |
+| pulse + warm | 3 | 19% |
+
+(*FUSED* = the pair appears together more than 60% of the rarer term's paragraphs — two labels, one image.)
+
 ## Staleness report
 
 ### Lexical similarity (top pairs)

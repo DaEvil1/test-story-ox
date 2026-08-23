@@ -327,7 +327,7 @@ def main() -> int:
     if empty_categories:
         out += [f"**Zero-hit categories:** {', '.join(empty_categories)}", ""]
 
-    # 8. Motif tracker
+    # 8. Motif tracker + co-occurrence
     motif_words = {
         "wall": ["wall", "walls"], "pulse": ["pulse", "pulsed", "pulsing", "pulses"],
         "hum": ["hum", "hums", "hummed", "humming"], "coin": ["coin"],
@@ -341,6 +341,37 @@ def main() -> int:
         n = sum(tokens(corpus).count(w) for w in words)
         out.append(f"| {label} | {n} | {n * 10000 / total_words:.0f} |")
     out.append("")
+
+    # 8b. Motif co-occurrence (paragraph-level): catches image-family monotony —
+    # pairs that ALWAYS appear together are one image, not two.
+    fam_totals = {k: 0 for k in motif_words}
+    cooc = {k: Counter() for k in motif_words}
+    for para in re.split(r"\n\s*\n", corpus):
+        para_toks = tokens(para)
+        present = [k for k, ws in motif_words.items() if any(para_toks.count(w) for w in ws)]
+        for k in present:
+            fam_totals[k] += 1
+            for other in present:
+                if other != k:
+                    cooc[k][other] += 1
+    pairs = []
+    seen = set()
+    for k in motif_words:
+        for other, n in cooc[k].items():
+            key = tuple(sorted((k, other)))
+            if key in seen:
+                continue
+            seen.add(key)
+            denom = max(min(fam_totals[k], fam_totals[other]), 1)
+            pairs.append((n / denom, n, k, other))
+    pairs.sort(reverse=True)
+    out += ["### Motif co-occurrence (paragraph level)", "",
+            "| Pair | Together | % of rarer family |", "|---|---:|---:|"]
+    for ratio, n, a, b in pairs[:10]:
+        marker = " **FUSED**" if ratio > 0.6 else ""
+        out.append(f"| {a} + {b} | {n} | {ratio * 100:.0f}%{marker} |")
+    out += ["", "(*FUSED* = the pair appears together more than 60% of the rarer term's "
+            "paragraphs — two labels, one image.)", ""]
 
     # 9. Staleness report — chapter similarity & information density
     out += ["## Staleness report", ""]
