@@ -13,10 +13,12 @@ requires a `decisions.log` entry.
                                ▼
    ┌──────────────────── QUANTITATIVE GATE ─────────────────────┐
    │ 1. python tools/check_story.py --report tests/STATUS.md    │
-   │    prose rules · frequency caps · structure · ledgers      │
+   │    prose rules · frequency caps · negation-contrast ·      │
+   │    structure · ledgers                                     │
    │ 2. python tools/analyze_story.py        -> tests/ANALYSIS.md│
-   │    rhythm · openers · abstract-agents · staleness ·        │
-   │    dialogue music · emotion lexicons · couplings           │
+   │    rhythm · openers · abstract-agents · AI-signature panel·│
+   │    staleness · dialogue music · emotion · couplings ·      │
+   │    motif co-occurrence                                     │
    │ 3. Fix or triage every error. Warnings need a home         │
    │    (fix now, ledger as known-work, or documented accept).  │
    └──────────────────┬─────────────────────────────────────────┘
@@ -56,6 +58,22 @@ requires a `decisions.log` entry.
 | Full rubric re-score | After any red-team round whose findings were implemented |
 | History snapshot | With every rubric re-score (`scores_history.yaml`) |
 | Synthesis doc | Whenever red-team output should choose a direction (not before) |
+| Dated artifacts | Assessment and red-team reports are versioned by date (`story_assessment_YYYY-MM-DD.md`, `REDTEAM_REPORT_YYYY-MM-DD.md`); older versions are history, never overwritten |
+
+## Red-team panel (9 personas, `tests/redteam/personas.md`)
+
+P1 critic · P2 genre purist · P3 grief reader · P4 line editor ·
+P5 continuity auditor · P6 impatient skimmer · P7 representation reader ·
+P8 read-aloud reader · **P9 AI-pattern hunter** (quantifies LLM-typical
+signatures and proposes detection rules; adopted proposals enter the
+analyzer's AI-signature panel and then `rules.yaml` via regression protocol).
+
+## Negation-contrast governance (adopted 2026-08-24)
+
+- NC-01 (STRONG/MEDIUM frames): checker warning.
+- NC-02 (WEAK frames): style fingerprint, capped at 5% of a chapter's
+  sentences, floor 3 — e.g., an 80-sentence chapter allows ~4.
+- Standalone evaluator: `python tools/detect_negation_contrast.py`.
 
 ## Score governance
 

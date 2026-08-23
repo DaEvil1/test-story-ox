@@ -239,6 +239,31 @@ def main() -> int:
             out.append(f"| {combo_text} | {n} |")
         out.append("")
 
+    # 3d. AI-signature panel (proposed by P9 red-team persona, 2026-08-24)
+    triads = re.findall(r"\b\w[\w'-]*(?:,\s+[\w'-]+)+,\s+and\s+[\w'-]+", corpus)
+    of_frames = re.findall(r"\bthe (?:weight|shape|sound|feel|sense) of\b", corpus, re.IGNORECASE)
+    not_just = re.findall(r"\bnot just\b|\bnot merely\b", corpus, re.IGNORECASE)
+    participle_openers = [s for s in all_sents if re.match(r"^[A-Z]\w+ing\b", s)]
+    sig_rows = [
+        ("Triadic lists (\"x, y, and z\")", len(triads), 8),
+        ("Abstract \"the X of\" frames", len(of_frames), 8),
+        ("\"not just / not merely\"", len(not_just), 4),
+        ("Participial sentence openers", len(participle_openers), 6),
+    ]
+    out += ["## AI-signature panel", "", "| Pattern | Count | per 10k | Flag(>thr) |",
+            "|---|---:|---:|---|"]
+    flagged_sig = []
+    for label, n, thr in sig_rows:
+        rate = n * 10000 / total_words
+        mark = "**FLAG**" if rate > thr else "ok"
+        if rate > thr:
+            flagged_sig.append(label)
+        out.append(f"| {label} | {n} | {rate:.1f} | {mark} |")
+    out.append("")
+    if flagged_sig:
+        out += [f"**Flagged:** {', '.join(flagged_sig)} — consider rule adoption "
+                "(regression protocol applies).", ""]
+
     # 4. Dialogue share per chapter
     out += ["## Dialogue share", "", "| Chapter | Dialogue % |", "|---|---:|"]
     for name, text in texts.items():

@@ -49,6 +49,15 @@ Cares about: breath, cadence, sound. Reads the manuscript aloud (simulated)
 and flags tongue-trip, doubled words, paragraphs with no resting places,
 and sentences whose rhythm fights their meaning.
 
+### P9 — The AI-Pattern Hunter (added 2026-08-24)
+Cares about: LLM-typical prose signatures — negation-contrast frames,
+triadic lists, abstract "the X of" frames, symmetrical sentence pairs,
+participial openers, over-smooth parallelism. Method: hunt for patterns,
+**quantify prevalence**, and propose concrete detection rules (regex or
+statistical thresholds) for any pattern that runs above canon rates.
+Proposals go to the AI-signature panel in the analyzer; adopted ones enter
+`rules.yaml` via the regression protocol.
+
 ## Procedure per pass
 
 1. Cold read of `output/manuscript.md` under one persona; fresh session per

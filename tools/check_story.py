@@ -17,6 +17,9 @@ from pathlib import Path
 
 import yaml
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import patterns_negation
+
 REPO_ROOT = Path(__file__).resolve().parent.parent
 DEFAULT_CHAPTERS_DIR = REPO_ROOT / "src" / "04-chapters"
 DEFAULT_RULES = REPO_ROOT / "tests" / "automated" / "rules.yaml"
@@ -499,6 +502,31 @@ def check_reception_ledger(path: Path, findings: list) -> None:
                                      f"ch{tp.get('chapter')} title has no paying scene"))
 
 
+def check_negation_contrast(texts: dict[str, str], findings: list) -> None:
+    """Adopted 2026-08-24: STRONG/MEDIUM negation-contrast frames warn;
+    WEAK is a style fingerprint capped at 5% of the chapter's sentences
+    (floor 3). See tools/patterns_negation.py."""
+    for label, text in texts.items():
+        raw = patterns_negation.normalize(text)
+        sent_count = len([s for s in patterns_negation.SENT_RE.finditer(raw)])
+        weak_cap = max(patterns_negation.WEAK_FLOOR,
+                       round(sent_count * patterns_negation.WEAK_RATE))
+        weak = 0
+        for f in patterns_negation.find(raw):
+            if f["severity"] in ("STRONG", "MEDIUM"):
+                findings.append(_finding(label, "NC-01", "negation-contrast-frame",
+                                         "warning",
+                                         f"line {f['line']} ({f['reason']})",
+                                         context=f["text"][:120]))
+            else:
+                weak += 1
+        if weak > weak_cap:
+            findings.append(_finding(label, "NC-02", "weak-negation-over-cap",
+                                     "warning",
+                                     f"{weak} WEAK frames (cap {weak_cap} = 5% of "
+                                     f"{sent_count} sentences, floor {patterns_negation.WEAK_FLOOR})"))
+
+
 def check_ledgers(ledgers_dir: Path, findings: list, texts: dict[str, str]) -> None:
     ledger_checks = {
         "scene_ledger.yaml": check_scene_ledger,
@@ -566,6 +594,7 @@ def main() -> int:
         texts[label] = text
 
     check_frequency(texts, rules, findings)
+    check_negation_contrast(texts, findings)
     check_ledgers(args.ledgers_dir, findings, texts)
 
     chapter_labels = {s["file"] for s in stats}

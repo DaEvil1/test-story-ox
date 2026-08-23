@@ -94,6 +94,17 @@ Count: 11 (10 per 10k)
 | word moved | 1 |
 | silence settle | 1 |
 
+## AI-signature panel
+
+| Pattern | Count | per 10k | Flag(>thr) |
+|---|---:|---:|---|
+| Triadic lists ("x, y, and z") | 1 | 0.9 | ok |
+| Abstract "the X of" frames | 17 | 15.7 | **FLAG** |
+| "not just / not merely" | 2 | 1.8 | ok |
+| Participial sentence openers | 0 | 0.0 | ok |
+
+**Flagged:** Abstract "the X of" frames — consider rule adoption (regression protocol applies).
+
 ## Dialogue share
 
 | Chapter | Dialogue % |
