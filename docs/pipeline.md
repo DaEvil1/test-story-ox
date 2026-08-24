@@ -75,6 +75,105 @@ analyzer's AI-signature panel and then `rules.yaml` via regression protocol).
   sentences, floor 3 — e.g., an 80-sentence chapter allows ~4.
 - Standalone evaluator: `python tools/detect_negation_contrast.py`.
 
+---
+
+# Experiment Lifecycle (adopted 2026-08-25)
+
+The framework's known asymmetry: it is excellent at **verification**
+("is version N defective?") and had no machinery for **search** ("does a
+radically better version exist?"). This section adds search while keeping
+`main` sacred.
+
+## Principles
+
+- **main = the currently believed story.** Not a workspace.
+- Experiments are alternate universes: local branches `exp/<type>/<slug>` in
+  git worktrees (`../test-story-ox-exp-<slug>`) so canon cannot be mutated
+  accidentally.
+- During **PROBE**, experiments are exempt from story-ledger QA, canon,
+  word-band, and coherence. Contradictions are *proposals*, not defects, and
+  get one exploratory session before continuity may kill them.
+- Curiosity is a legitimate trigger with **no ROI requirement**. Stuckness
+  signals (score plateau across cycles, many consecutive line-level edits,
+  recurring red-team complaints, repeated repair of one region, shrinking
+  edit spans) are observations that *suggest* exploration, never rules.
+- Failed experiments are free. Sometimes the job is not improving the book;
+  it is finding out whether another book is hiding inside it.
+
+## Operators
+
+| Operator | Meaning |
+|---|---|
+| dive | Follow one associative thread much too far (depth-first) |
+| fork | Try multiple solutions to a known problem |
+| rewrite | Recreate a scene/chapter from scratch, without looking at existing prose |
+| veto | Let character/world logic reject planned events (withhold the planned outcome from the writing context) |
+| mutation | Change one load-bearing fact; write until consequences reveal meaning |
+| zero-base | Assume a major existing choice never existed; would any version dominate? |
+| wild | Something interesting, no justification required yet |
+
+## Commands
+
+```
+python tools/experiment.py start <dive|fork|rewrite|veto|mutation|zero-base|wild> <slug> [--scope ...] [--trigger curiosity|stuck|creative-itch] [--question "..."]
+python tools/experiment.py status
+python tools/experiment.py stage <slug> <probe|incubate|candidate>
+python tools/experiment.py close <slug> <accept|reject|harvest|defer> [--found "..."] [--reason "..."]
+python tools/experiment.py list --all
+```
+
+- **ACCEPT**: squash-merge into main (one clean mainline commit).
+- **REJECT**: tag and tear down.
+- **HARVEST**: experiment failed but discovered something → append findings
+  to `drafts/discovery_buffer.md` (un-scored, no justification needed),
+  then tag and tear down.
+- **DEFER**: interesting but unresolved; tag preserves everything.
+- Every close creates tag `experiment/<id>/<slug>` — the evolutionary fossil
+  record. Tags are pushed; live branches stay local.
+
+## Stages
+
+1. **PROBE** — cheap (~1k words). Is there life here?
+2. **INCUBATE** — follow consequences: if ch6 really happened this way, what
+   happens to ch7–8? The consequences may be the discovery.
+3. **CANDIDATE** — now the full machinery applies: build, speculative-canon
+   update, reader simulation, red team, blind comparison vs main.
+
+## Blind comparison (epistemic firewall)
+
+Nontrivial revisions and CANDIDATEs go to **3 fresh judge contexts**:
+manuscripts anonymized as A/B with randomized order and randomized file
+assignment; judges know neither which is main nor why the branch exists.
+Two questions: *Which is better now?* and *Which creates the more promising
+road ahead?* Majority-preference for OLD reverts the change.
+
+## Epistemic modes
+
+| Mode | Knows | Never knows |
+|---|---|---|
+| Author | everything: canon, intent, ledgers, history | — |
+| Reader | only chapters read so far, in order | outline, intent, later chapters |
+| Critic | manuscript, no authorial intent docs | what it's supposed to mean |
+| Judge | anonymized candidates only | provenance, effort, preference |
+| Integrator | judgments + project context | raw candidate identities |
+
+Still one model — but no single context poisons another. Knowing what
+something is *supposed* to mean makes it impossible to test whether the text
+actually communicates it; cold readers must infer.
+
+## Character veto & planned-vs-actual
+
+When a veto/dive produces a different outcome than planned, record both in
+the scene ledger entry (`planned_outcome`, `actual_outcome`) and log
+downstream material invalidated. Git makes recklessness nearly free; use it.
+
+## Consequence discipline
+
+After canonizing a discovery: implement the **unavoidable** consequences; be
+selective with merely **interesting** ones (retrofit-everything reads as
+theme park). Distinguish intentional plants from harvested plants — existing
+details that acquire meaning retroactively are first-class wins.
+
 ## Score governance
 
 - `scores_current.yaml` mirrors the assessment doc — update both together.
