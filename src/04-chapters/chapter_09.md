@@ -12,9 +12,9 @@ She pressed the spindle against the surface. The wire sank a hair, and the hidde
 
 Sera's hand tightened on her shoulder. "There. That's the node. The record is close."
 
-Keji eased the spindle along the wall. The light under the glass pulsed. A new line formed, jagged and quick: LIO. Then it broke.
+Keji eased the spindle along the wall; under the glass the light pulsed, and a new line formed, jagged and quick: LIO. Then it broke.
 
-She did not move too fast. The wall resisted quick hands. She let the letters settle under the glass and followed them with her eyes.
+She did not move too fast; walls resist quick hands. She let the letters settle under the glass, following them with her eyes.
 
 A door opened in the wall ahead—no handle, only a seam and a faint hum, colder air through it.
 
@@ -26,7 +26,7 @@ The door slid open a finger-width.
 
 Beyond it was a chamber of paused memory, lit only by surfaces that had been waiting.
 
-Keji stepped in. The air smelled of rain and old paper. The floor was not solid; it felt like a film of ink stretched over stone. When she put her foot down, the surface gave just enough to make her feel it. The wall on her right had the texture of a ledger page.
+Keji stepped in: rain and old paper. The floor was not solid; it felt like a film of ink stretched over stone. When she put her foot down, the surface gave just enough to make her feel it. On her right a wall wore the texture of a ledger page.
 
 A sound rose from the room. It was a conversation, but not in words at first. It was the sound of a table being cleared, a chair moved, a breath taken. Then a voice spoke—closer and rougher than the smooth Archive voice she edited every day, like a person speaking to someone who mattered.
 
@@ -42,7 +42,7 @@ Keji's throat closed. The word moved through her like a metal taste.
 
 The light on the walls shifted. Another figure appeared in the memory's glow. It was a line of a child's hand, not a body. A small drawing. A crude lighthouse. The line was quick and bright, the way a child might press a pen too hard.
 
-The room's memory did not show the child clearly. It only showed the hand, the drawing, the way the paper had been folded. Keji saw the small oval of a child's thumbprint left in the ink.
+The room's memory never showed the child clearly—it showed the hand, the drawing, the way the paper had been folded. Keji saw the small oval of a child's thumbprint left in the ink.
 
 The voice in the room said the name aloud. "Lio."
 
@@ -70,9 +70,9 @@ Sera did not speak. She knelt and pressed Keji's shoulder once, and her thumb mo
 
 "This wall will let us back in only from the right side," she said. "The Limit has a shape. We need to follow the shape, not force it."
 
-Keji nodded. The recorder lay beside the cracked spindle, still red-lit. The voice of the room was inside it now, but not as a full record—a shape, a cadence, a set of instructions.
+Keji nodded. Beside the cracked spindle lay the recorder, still red-lit. The voice of the room was inside it now, but not as a full record—a shape, a cadence, a set of instructions.
 
-The edge had given her the directive and the child's line. It had refused her more—and taken two fingers for the asking.
+The edge had given her the directive and the child's line—it had refused her more, and taken two fingers for the asking.
 
 "We have the node," she said.
 

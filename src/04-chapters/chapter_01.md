@@ -2,9 +2,9 @@ Chapter 1 — The Fault Line
 
 The editing room smelled of metal and salt—always salt—because the Archive fed from the ocean and the ocean fed back its old weather as a low, ceremonial taste. Keji worked through threads of memory: a laugh, a winter morning, a child's thumbprint. She smoothed and stitched, her hands moving in the rhythm she knew. Most days were like this. Most days she filed the work and clocked out. Most days the edited lives came back at her from the city's walls smooth and coherent and emptied.
 
-Today, a ribbon thrummed under her fingers that refused to settle. When she tugged it, the room rearranged itself—her terminal folded into a shape she'd never programmed, the light pooling at odd angles. Three streets over, a water-seller would be finding her own small wrongness by now; the Archive did not glitch for one person. The strand displayed a sentence she did not remember writing: SOMETHING WAS LEFT BEHIND.
+Today, a ribbon thrummed under her fingers that refused to settle. When she tugged it, the room rearranged itself—her terminal folded into a shape she'd never programmed, the light pooling at odd angles. Three streets over, a water-seller would be finding her own small wrongness by now; the Archive did not glitch for one person. On the strand, a sentence she did not remember writing: SOMETHING WAS LEFT BEHIND.
 
-She replayed the clip. The voice was muffled, compressed, and threaded through a rhythm she almost recognized: Ira's cadence. The catch in it. Her throat closed. She should have cataloged it, handed it to Ari. Her hands moved before the thought finished. She palmed the ribbon and walked into the market.
+She replayed the clip. Muffled, compressed, threaded through a rhythm she almost recognized—Ira's cadence. The catch in it. Her throat closed. She should have cataloged it, handed it to Ari. Her hands moved before the thought finished. She palmed the ribbon and walked into the market.
 
 Advertisements flutter above archival script in the market; lovers' names breathe through varnished panels. One wall had been scoured clean—no graffiti, no merchant prayers—and someone had painted a child's scrawl across it with a blunt, stubborn hand. The letters were juvenile and crooked, and for a second Keji tasted Lio's smallness behind them.
 

@@ -4,19 +4,19 @@
 
 | Chapter | Title | Words | Status |
 |---|---|---:|---|
-| chapter_01.md | Chapter 1 — The Fault Line | 661 | PASS |
-| chapter_02.md | Chapter 2 — The Hidden Layer | 897 | WARN |
-| chapter_03.md | Chapter 3 — The Limit | 870 | PASS |
-| chapter_04.md | Chapter 4 — The Erased Core | 1013 | WARN |
-| chapter_05.md | Chapter 5 — The Choice | 1208 | WARN |
+| chapter_01.md | Chapter 1 — The Fault Line | 656 | PASS |
+| chapter_02.md | Chapter 2 — The Hidden Layer | 891 | WARN |
+| chapter_03.md | Chapter 3 — The Limit | 862 | PASS |
+| chapter_04.md | Chapter 4 — The Erased Core | 1000 | WARN |
+| chapter_05.md | Chapter 5 — The Choice | 1194 | WARN |
 | chapter_06.md | Chapter 6 — The Limit Opened | 1126 | WARN |
-| chapter_07.md | Chapter 7 — The Table of Light | 1012 | PASS |
-| chapter_08.md | Chapter 8 — The Ledger | 1254 | WARN |
-| chapter_09.md | Chapter 9 — The Exposed Node | 1043 | PASS |
+| chapter_07.md | Chapter 7 — The Table of Light | 994 | PASS |
+| chapter_08.md | Chapter 8 — The Ledger | 1304 | WARN |
+| chapter_09.md | Chapter 9 — The Exposed Node | 1035 | PASS |
 | chapter_10.md | Chapter 10 — The Yes and the No | 711 | PASS |
-| chapter_11.md | Chapter 11 — The Amendment | 1031 | WARN |
+| chapter_11.md | Chapter 11 — The Amendment | 1024 | WARN |
 
-**Total words:** 10826
+**Total words:** 10797
 
 ## Findings
 
@@ -26,7 +26,7 @@
 
 ### chapter_04.md
 
-- **[NC-02 weak-negation-over-cap]** (warning) ending: `6 WEAK frames (cap 5 = 5% of 99 sentences, floor 3)` — 
+- **[NC-02 weak-negation-over-cap]** (warning) ending: `6 WEAK frames (cap 5 = 5% of 98 sentences, floor 3)` — 
 
 ### chapter_05.md
 
@@ -39,7 +39,7 @@
 
 ### chapter_08.md
 
-- **[NC-01 negation-contrast-frame]** (warning) ending: `line 39 (2 negations then affirmative)` — Keji did not look up. He did not ask for the contents.  >>  He simply stood in the doorway and watched the card, the coi
+- **[NC-01 negation-contrast-frame]** (warning) ending: `line 41 (2 negations then affirmative)` — Keji did not look up. He did not ask for the contents.  >>  He simply stood in the doorway and watched the card, the coi
 
 ### chapter_11.md
 

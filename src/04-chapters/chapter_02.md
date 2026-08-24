@@ -28,7 +28,7 @@ Her thumb moved over the lighthouse and the room went far away for a breath: Lio
 
 She did not know if this coin belonged to Lio. She put it in her pocket anyway. The metal was warm from the chamber's breath.
 
-As she withdrew, the chamber's wall made a sound behind her. Not a voice. A pressure. The shape of a rule. It kept saying itself in a pattern she almost understood: no further, no further, no further.
+As she withdrew, the chamber's wall made a sound behind her. Not a voice. A pressure—a rule saying itself in a pattern she almost understood: no further, no further, no further.
 
 Outside, the hidden staircase had already begun closing to the shape of the lift. Seals tightened on the door behind her. Keji moved her hand along the plaster, following a path of faint ink. The ink led her up, in a slow current, like the tide pulling back.
 

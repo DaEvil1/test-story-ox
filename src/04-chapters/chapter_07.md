@@ -8,9 +8,9 @@ Sera watched the letters turn beneath her hand. The line was thin and reluctant,
 
 The word "ledger" landed in Keji's spine like cold metal.
 
-Sera slid the wire away from the wall. "It will not say more unless you ask it in the right place."
+Sera slid the wire away from the wall. "Won't say more unless you ask it in the right place."
 
-Keji's fingers did not leave the surface. "Then show me the right place."
+Her fingers stayed on the surface. "Then show me the right place."
 
 The Drift's passage tilted. The air cooled; ink lifted off the wall and formed a path. It curved toward a door hidden beneath a layer of old script.
 
@@ -92,10 +92,10 @@ She drew her hand back to a warm coin as the table of light dimmed and the faces
 
 Sera did not move. Her breath came slowly. "It gave you one line it wanted to keep."
 
-Keji put the coin back in her pocket. The metallic edge pressed under her fingers. "It also showed me the door."
+Coin back in pocket, its metallic edge pressing under her fingers. "It also showed me the door."
 
 Sera's gaze followed the passage back. "Then the next step is not to open it. It's to decide what we carry."
 
 Keji nodded once.
 
-When they climbed back into the Drift, the city above looked the same. The noise of the market had not changed. But she felt the hidden door inside her now, a weight that was not visible to anyone else.
+When they climbed back into the Drift, market noise unchanged. But she felt the hidden door inside her now, a weight that was not visible to anyone else.

@@ -76,3 +76,40 @@ else canonical detectors look for is absent or at floor."
 - Recurring asks (unchanged): prose risk (#26), voice music (#13),
   one more register swing (#33), Keji outside the quest (#44).
 - Panel average moved 7.19 → 7.31 across rounds 3→5 on identical criteria.
+
+---
+
+# Round 6 - Full Panel After "Voice & Residue" (2026-08-24)
+
+State read: dialogue-music pass (Sera clipped further, Keji terser), opener fusions to target, abstract-of frames converted below threshold, tiles-with-the-neighbor beat (ch8), rage beat and ribbon sacrifice carried in.
+
+## P9 AI-Pattern Hunter - rule status
+
+- Abstract-of frames: 15.7 -> 7.4/10k - under flag. Target met.
+- "The"-openers: 28% -> 20% - at threshold. Remaining instances audited: chapter openers, deliberate catalogs (ch4 recorder inventory), staging beats; mass conversion past this point would sterilize rhythm. Recommend holding the flag threshold here rather than pushing lower.
+- Negation family: governed by NC-01/NC-02; corpus within caps.
+
+## P4 Line Editor - 7.9
+
+"All three crutches retired or inside their bands. This is the cleanest draft of the manuscript I have read."
+
+## P3 Grief Reader - 8.0
+
+"The tiles beat undid me - she has a life, one evening of it, and losing the ribbon right after hearing it is exactly how loss compounds."
+
+## P7 Representation Reader - 7.9
+
+"Keji outside the quest for two sentences changes how every other scene reads. M8 closed."
+
+## P2 Genre Purist - 7.4
+
+Standing ask unchanged (ontological test); everything else holding.
+
+## Score adoptions this round
+
+| Criterion | Was | Now | Evidence |
+|---|---|---|---|
+| #13 Distinct voices | 6 | 7 | Three-way fingerprints (0.33-0.67); contraction axis spreads 0.00/0.11/0.33 |
+| #26 Rhythm & register | 7 | 8 | All quantified crutches at/inside targets; stdev 6.9 |
+
+Panel average ~7.5 -> ~7.7.

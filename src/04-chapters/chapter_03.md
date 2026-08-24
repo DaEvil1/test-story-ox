@@ -24,7 +24,7 @@ He turned away and walked to a cabinet. A drawer opened on hinges that had been 
 
 "Ira Nash signed the authorization," Ari said. "The rest is redacted."
 
-The name caught under her ribs. The hidden space between the sound of his words and the texture of the paper felt colder.
+The name caught under her ribs. Between his words and the paper's texture, something had gone cold.
 
 She left the hall with the glitch back in her sleeve, the coin in her pocket, and the redacted pages riding at the back of her eyes. Outside, the market walls glowed. A street vendor shouted about a new excavation in the public archive. People moved with the easy certainty of those whose memories were arranged for them.
 
@@ -32,7 +32,7 @@ Sera met her at the edge of the Drift, where the stone had been worn by hands an
 
 Keji tapped the pocket with her thumb. "A seal. A child’s loop. A voice."
 
-Sera's grin went flat for a moment. "Good. It's not enough to have a suspicion. It's something to touch."
+Sera's grin went flat for a moment. "Good. A suspicion's nothing. Something you can touch—that's a thing."
 
 They walked through a passage where the wall script was live. When Keji reached out to trace a line, the ink dimmed under her finger. The letters rearranged themselves into a pattern that was not quite a word.
 

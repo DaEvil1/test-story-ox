@@ -3,9 +3,9 @@
 # docs/story_craft_criteria.md.
 
 meta:
-  revision: 8
+  revision: 9
   date: 2026-08-21
-  overall_raw: 7.36
+  overall_raw: 7.40
 
 scores:
   1: 7
@@ -20,7 +20,7 @@ scores:
   10: 8
   11: 7
   12: 8
-  13: 6
+  13: 7
   14: 8
   15: 7
   16: 7
@@ -33,7 +33,7 @@ scores:
   23: 8
   24: 8
   25: 7
-  26: 7
+  26: 8
   27: 6
   28: 8
   29: 8

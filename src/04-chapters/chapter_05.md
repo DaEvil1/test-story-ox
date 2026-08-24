@@ -22,7 +22,7 @@ She stood. The Drift was quiet enough that even the low hum of memory felt loud.
 
 Down the passage, a woman sat against a breathing wall with an echo-bottle open in her cupped hands. Her husband's last hours played raw in the air around her—half sentences, a cough, somebody's radio. Sera lowered her voice. "The Curators offered to clean it. Take out the coughing, make him coherent. She refused." The woman's thumb moved over the bottle's seam. "She says the cough is where he still is."
 
-"There are two ways to use this," Sera said. "You can take the line and put it back in the public record. You can let the city know what it erased. Or you can take the part that cannot be public and keep it alive yourself."
+"There are two ways to use this," Sera said. "Take the line back to the public record—let the city know what it erased. Or take the part that can't be public and keep it alive yourself."
 
 Keji's hand tightened around the coin. The metal was warm and slightly damp.
 
@@ -36,11 +36,11 @@ Sera nodded. "Then we go find the missing pieces. We don't need to tell the city
 
 They left the Drift together, the passageway pulsing under their boots. Outside, a vendor was painting a public announcement on a wall. The bright letters did not move.
 
-In the Curators' hall, Ari's door was open. The room smelled of old paper and something newer—the sound of fresh seals being broken.
+In the Curators' hall, Ari's door was open. The room smelled of old paper and something newer—fresh seals cracking somewhere out of sight.
 
 He looked up when they entered. His face was still. "You went where I told you not to," he said.
 
-Keji set the recorder on his desk and let the line play once. Ari's fingers moved on the wood. The room shifted around the sound as if the furniture were listening.
+Keji set the recorder on his desk and let the line play once. Ari's fingers moved on the wood. Around the sound the room shifted, furniture listening.
 
 When the recording finished, Ari's hands had not moved. He did not say anything for a long moment.
 

@@ -1,7 +1,7 @@
 # Story Assessment v2 — 2026-08-24
 
-> Updated same day after the stakes & line-pass revision (see final section).
-> Current: **raw 7.36 / system-adjusted ~7.1**.
+> Updated twice same day. Current: **raw 7.40 / system-adjusted 7.21**
+> (final section: "Voice & Residue" round).
 
 Full re-score against `docs/story_craft_criteria.md` (50 criteria). Supersedes
 `story_assessment_2026-08-21.md` as the current-state record; that file
@@ -110,3 +110,17 @@ Implemented the assessment's own recommendations plus a stakes deepening:
 **Raw overall 7.32 → 7.36 · system-adjusted ~7.1.**
 
 Red-team main thoughts consolidated in `docs/redteam_thoughts.md`.
+
+---
+
+# Same-day revision 2 - Voice & Residue (2026-08-24, final)
+
+- Dialogue-music pass: Sera clipped/contracted further, Keji terser, Ari's formality kept as anchor. Measured: three-way voice fingerprints now computable (ari-keji 0.33, ari-sera 0.67, keji-sera 0.49); contraction axis spreads 0.00 / 0.11 / 0.33.
+- "The"-openers: 22% -> 20% (target met; remaining instances audited and judged load-bearing).
+- Abstract-of frames: 10.2 -> 7.4/10k (target <=8 met; flag cleared).
+- M8 (Keji outside the quest): tiles-with-the-neighbor beat, ch8 ordinary days.
+- stdev 6.9.
+
+Score movements: #13 -> 7, #26 -> 8. Raw overall 7.36 -> 7.40; system-adjusted 7.11 -> 7.21.
+
+Remaining known frontier: image economy (#27, 6 - fused pairs), pacing variation (#8, 6), want-vs-need (#9, 7), and the standing genre question of a harder ontological test (#40). All documented; none blocking.

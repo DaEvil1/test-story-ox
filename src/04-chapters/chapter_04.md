@@ -46,13 +46,13 @@ Keji did not move. She let the silence fill the space. Her shoulder pressed agai
 
 When the room unclenched, she reached for the recorder she had brought. She had expected to take a clean clip. The Archive did not give her that. The recording was jagged—fragments, cross-talk, the sound of a line erasing itself.
 
-She saved what she could. The first item was the directive: AUTHORIZE RESET. PRESERVE NETWORK. REMOVE CHANNEL.
+She saved what she could: the directive—AUTHORIZE RESET. PRESERVE NETWORK. REMOVE CHANNEL.
 
-The second item was the name, held like a tremor: LIO.
+Second, the name, held like a tremor: LIO.
 
-The third item was the child's line, incomplete and real. 
+Third, the child's line, incomplete and real.
 
-The recorder light blinked red. There was one more item already on the tape when she played it back: a voice with the catch she knew. It whispered "necessary," and then the memory cut.
+Recorder light blinking red. One more item was already on the tape when she played it back: a voice with the catch she knew. It whispered "necessary," and then the memory cut.
 
 Keji closed the recorder. Around her the chamber had stopped humming; the door back to the stair sealed itself with a slow, final sound—it did not want her to leave.
 

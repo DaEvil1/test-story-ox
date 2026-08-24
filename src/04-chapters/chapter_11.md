@@ -6,7 +6,7 @@ Ari watched her from the doorway. He did not come closer.
 
 "If you write anything here," he said, "you are not only changing a sentence. You are changing the city that reads it."
 
-Keji nodded. She placed the recorder by the lamp. The red light glowed faintly. The hidden line was inside it now, but not as a full sentence. It was a shape.
+Keji nodded. She placed the recorder by the lamp, red light glowing faintly. Inside it the hidden line lived—not as a full sentence. It was a shape.
 
 She opened a new document. The screen was matte and soft, the way the Archive made its surfaces when it wanted a choice to feel like a page.
 
@@ -44,7 +44,7 @@ Ari's fingers moved on the desk. He was not touching the screen. He was counting
 
 "If you save this," he said, "the city will adjust the margin. It will know there is a private ledger. It will not know the contents."
 
-Keji pressed the key to save. The screen blinked. The amendment file was stored.
+Keji pressed the key to save. The screen blinked; amendment stored.
 
 She sat back. The room kept its quiet, and for a breath it had worked—the city would adjust its margin, and nothing in it would break.
 
