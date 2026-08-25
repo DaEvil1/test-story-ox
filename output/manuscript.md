@@ -788,7 +788,7 @@ Keji slid the coin from her pocket and set it on the desk beside the seals. Lamp
 
 Ari studied the coin, then the screen. "Then the city will have its correction. The hidden thing will have its place."
 
-She stood. "That is enough for now." The coin went back into her pocket, warm from the lamp.
+She stood. The coin went back into her pocket, warm from the lamp. Enough.
 
 At the door he stopped, the box under his arm. "Order is compassion when the archive is fragile," he said, the way you set down something carried a long time. "I finally decided." He did not say what he had decided.
 

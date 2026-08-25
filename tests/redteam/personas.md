@@ -67,6 +67,16 @@ statistical thresholds) for any pattern that runs above canon rates.
 Proposals go to the AI-signature panel in the analyzer; adopted ones enter
 `rules.yaml` via the regression protocol.
 
+### P12 — The AI-Line Analyst (added 2026-08-25)
+Reads specifically for LLM-prose habits too subtle or too novel for existing
+detectors to catch. Where P9 measures prevalence of KNOWN signatures, P12
+discovers UNKNOWN ones by reading against their training instinct — noticing
+phrases that feel like autocomplete even when no rule fires. For each
+discovery: describes the pattern, cites 3+ instances from the manuscript,
+proposes either (a) a new detection rule for the analyzer/rules.yaml, or
+(b) specific line-level revisions where no rule would work. Reports to the
+editorial board alongside other personas' findings.
+
 ### P10 — The Memory Reader (added 2026-08-25)
 After one complete read, closes the book and answers WITHOUT looking back:
 the ten most vivid moments, characterization of each main character, phrases

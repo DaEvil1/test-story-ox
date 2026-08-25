@@ -14,8 +14,8 @@
 | chapter_08.md | Chapter 8 — The Ledger | 1430 | PASS |
 | chapter_09.md | Chapter 9 — The Exposed Node | 1009 | PASS |
 | chapter_10.md | Chapter 10 — The Yes and the No | 694 | PASS |
-| chapter_11.md | Chapter 11 — The Amendment | 1054 | PASS |
+| chapter_11.md | Chapter 11 — The Amendment | 1050 | PASS |
 
-**Total words:** 10990
+**Total words:** 10986
 
 No findings.
