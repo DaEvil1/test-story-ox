@@ -214,6 +214,24 @@ Anonymized A/B, randomized assignment, judges never know which side is the
 revision or how much work it cost. The rubric stays a diagnostic dashboard;
 pairwise preference is the fitness signal for individual changes.
 
+## Zero-based audit (adopted 2026-08-25)
+
+Run periodically — always before any "content-complete" declaration, and
+after any round where red-team findings become purely omission-class.
+
+Prompt: *assume the manuscript is a sophisticated but fundamentally mistaken
+solution to the premise.* Then:
+
+1. List the five most load-bearing creative decisions.
+2. For each, describe — seriously, in prose — the story in which that
+   decision never existed.
+3. Verdict per decision: KEEP (no dominant alternative found) or ESCALATE
+   (an alternative plausibly dominates → open an `exp/zero-base` branch).
+
+This is architectural review, not criticism. Refactoring assumes the design;
+the audit asks whether the design should exist. Results are dated files in
+`docs/zero_base_audit_*.md`; any harvested seeds go to the discovery buffer.
+
 ## Consequence discipline
 
 After canonizing a discovery: implement the **unavoidable** consequences; be

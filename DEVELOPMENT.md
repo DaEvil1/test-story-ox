@@ -51,6 +51,13 @@ python tools/check_story.py                           # run automated prose/stru
 python tools/check_story.py --report tests/STATUS.md  # regenerate the status file
 python tools/analyze_story.py                         # statistical analysis -> tests/ANALYSIS.md
 python tools/build_manuscript.py                      # assemble output/manuscript.md from book.yaml
+python tools/detect_negation_contrast.py              # standalone negation-frame evaluator
+python tools/extract_dialogue.py                      # dialogue flow -> tests/DIALOGUE.md
+python tools/cut_candidates.py                        # cut/compression safety ranking
+python tools/reader_diff.py                           # prediction-error assembly -> tests/PREDICTION_DIFF.md
+python tools/pillar_report.py                         # pillar scores -> tests/PILLARS.md
+python tools/pairwise.py                              # blind OLD/NEW revision judging
+python tools/experiment.py                            # experiment lifecycle (see docs/pipeline.md)
 ```
 
 Workflow rules of thumb:
