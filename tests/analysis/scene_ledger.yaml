@@ -226,19 +226,21 @@ scenes:
   # Chapter 11
   - id: ch11-s01
     chapter: 11
-    title: writing the amendment
+    title: the veto & dual filing
     goal: write the correction without confessing
-    new_info: ["amendment content: guardianship misfiled; memorial plaque; private ledger retained"]
+    new_info: ["Keji refuses 'misfiled' and publicly names Lio Nash",
+               "plaque order engraves the child's own unattributed words on public stone",
+               "cold correction retained: guardianship misfiled; private ledger retained"]
     value_change: yes-but
     cost_paid: none
     irreversible: false
-    opponent_pressure: none
+    opponent_pressure: ari
     stakes_scope: personal
     is_final_choice: true
-    cost_to_protagonist: "her fingers and her access already taken; now Ari's position spent on her amendment"
+    cost_to_protagonist: "her fingers and her access already taken; now her name-for-Lio enters the public index beside Ari's surrendered seals"
     dilemma:
-      option_a: "make the record public — the city feels it; the Limit closes faster (prices on page ch5, ch10 burst)"
-      option_b: "keep it private — a wound kept beneath the surface, alive only in carried form (prices on page ch5, ch10)"
+      option_a: "make the record public - the city feels it; the Limit closes faster (prices on page ch5, ch10 burst)"
+      option_b: "keep it private - a wound kept beneath the surface, alive only in carried form (prices on page ch5, ch10)"
       prices_on_page: [5, 10]
   - {id: ch11-s02, chapter: 11, title: saving & the price of acceptance,
      goal: commit the amendment,

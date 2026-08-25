@@ -724,57 +724,55 @@ The two dull fingers ached in their wrapping. Keji turned the coin in her pocket
 
 ## Chapter 11 — The Amendment
 
-The archive room was quiet, but not empty. The stillness there weighed like sleeping stone. Keji stood at a desk and let the silence settle around her. The recorded fragments were in the recorder on the desk; the coin was in her pocket. Plaque orders went to the council at the morning bell—hers had gone with the dawn batch. Whatever the council meant to do about it, it would do today, or sit on it for a full turn.
+Plaque orders went to the council at the morning bell—hers had gone with the dawn batch, unsigned, unsaved, still just four attempts of nothing sitting in a document she had not opened. Whatever the council meant to do about her, it would do today, or sit on it for a full turn.
+
+The archive room was quiet, but not empty. The stillness there weighed like sleeping stone. Keji stood at a desk and let the silence settle around her. The recorded fragments were in the recorder on the desk; the coin was in her pocket.
 
 Ari watched her from the doorway. He did not come closer.
 
 "If you write anything here," he said, "you are not only changing a sentence. You are changing the city that reads it."
 
-Keji nodded. She placed the recorder by the lamp, red light glowing faintly. Inside it the hidden line lived—not as a full sentence. It was a shape.
+She nodded and opened a new document. The screen went matte under her hands, soft as a page—the way the Archive made its surfaces when it wanted a choice to feel inevitable.
 
-She opened a new document. The screen was matte and soft, the way the Archive made its surfaces when it wanted a choice to feel like a page.
+The first line took four attempts.
 
-She did not write about what had happened. She wrote about what she wanted to make room for.
+"Authorized correction: guardianship record misfiled." She read it back. Clean. Bureaucratic. Exactly the sentence she had built on the stairwell while her fingers throbbed, exactly the sentence Ari would nod at—a sentence whose whole virtue was that nobody would feel it.
 
-The first line was simple: 
+She deleted it.
 
-"Authorized correction: guardianship record misfiled."
+She had spent the night listening to Ira laugh with her whole chest inside a recording Ira hid in the walls on purpose. Whatever else the morning asked, it did not ask her to begin lying in small, respectable type.
 
-She did not say why. She did not say who or when. She let the sentence do the work.
+So she wrote, small and unfileable, on the line meant for the correction:
 
-Keji's fingers hovered. The word guardianship felt good under her hands.
+"Lio Nash was here."
 
-She typed the next line: 
+There was no form for a person who had become a ledger entry and then a name again. The screen held it anyway, matte and patient, like a wall deciding.
 
-"A memorial plaque will be installed in the market to honor a lost ledger entry."
+Ari crossed the room fast. "That name enters the public index. Every Curator in the city reads it by noon—"
 
-The sentence was exact.
+"Then they can come ask me who Lio Nash was." Her good hand stayed flat on the desk. "I'm done writing sentences nobody feels. That was the trade I made for these fingers. Not this."
 
-She kept going. She did not mention the hidden room, the child, the name Lio. She did not mention the hidden line that had said keep private. She wrote the amendment as an administrative correction.
+He looked at the bandage, then at the screen, and whatever he saw there ended the argument about the name.
 
-Ari leaned against the doorframe. "You can make the city softer. Or you can make it forget less."
+She kept the machinery anyway. A second document, colder: the correction reduced to what the city could carry without cracking—guardianship misfiled, private ledger retained, access restricted to authorized curators. And beneath the plaque order, where the engraver's instruction belonged, she typed the child's own line instead of an epitaph:
 
-Keji did not look at him. Her eyes were on the screen. "I am making room for a private place."
+"if i keep the light, then the dark can go away"
 
-He chuckled, low. "That is the first honest sentence in a long time."
+No attribution. No explanation. Strangers would call it decoration. Anyone who had ever heard Lio talk would hear it forever.
 
-She added one more line: 
+She saved both. The screen blinked twice; amendment stored; plaque order queued behind the bell that had already rung.
 
-"The Archive retains a private ledger entry for internal review, accessible only to authorized curators."
+Ari read the engraving instruction upside down across the desk and went very still.
 
-The phrase felt sharp. It was the only admission of the hidden layer she would allow in the public amendment.
+"You put the child's voice on public stone."
 
-Ari's fingers moved on the desk. He was not touching the screen. He was counting the gaps between the paper stacks.
+"I put it where the stone can't be scoured without everyone asking why."
 
-"If you save this," he said, "the city will adjust the margin. It will know there is a private ledger. It will not know the contents."
+He stood there a moment longer. Then he left—to file his protest, or to stand near it while someone else filed it for him.
 
-Keji pressed the key to save. The screen blinked; amendment stored.
+When he came back, he carried his box of seals. Lighter now. She could hear there was almost nothing in it.
 
-She sat back. The room kept its quiet, and for a breath it had worked—the city would adjust its margin, and nothing in it would break.
-
-When she opened her eyes, Ari was back from the hall. He set his box of seals on the desk in front of her. Lighter now. She could hear there was almost nothing in it.
-
-"The council's senior curator brought these down herself while you were saving your amendment," he said. "Someone read the plaque order and drew a line back to my cabinet." He looked at the near-empty box without touching it. "Keep the private ledger well. I am apparently done keeping things."
+"The council's senior curator brought these down herself," he said. "Someone read the plaque order and drew a line back to my cabinet." He set the box down without looking at it. "Keep the private ledger well. I am apparently done keeping things."
 
 Keji's throat worked once. She did not reach for the box.
 
@@ -786,27 +784,21 @@ Keji slid the coin from her pocket and set it on the desk beside the seals. Lamp
 
 Ari studied the coin, then the screen. "Then the city will have its correction. The hidden thing will have its place."
 
-She stood. "That is enough for now." The coin went back into her pocket, warm from the desk.
+She stood. "That is enough for now." The coin went back into her pocket, warm from the lamp.
 
 At the door he stopped, the box under his arm. "Order is compassion when the archive is fragile," he said, the way you set down something carried a long time. "I finally decided." He did not say what he had decided.
 
-As she left the room she stopped at the private ledger room, one floor down. The ribbon went into the box beside the card—the original, the whole laugh of it—sealed where authorized hands could reach it and hers could not. She stood there a moment with her hand flat on the closed lid. Then she went up into the noise of the halls.
+As she left the room she stopped at the private ledger room, one floor down. The ribbon went into the box beside the card—the original, the whole laugh of it—sealed where authorized hands could reach it and hers could not. Her hand stayed flat on the closed lid a moment. Then she went up into the noise of the halls.
 
-The city outside had not changed. Somewhere behind her, the scoured wall waited for its plaque.
-
-Before going up, she found Sera at the old quay, where the sound was loudest. Sera looked at the bandaged hand and did not ask.
+Before going out, she found Sera at the old quay, where the sound was loudest. Sera looked at the bandaged hand and did not ask.
 
 "So," she said. "Did you break it or mend it?"
 
 "Made room."
 
-Sera grinned her feral grin and bumped her shoulder against Keji's good one. "Crooked holds."
+Sera grinned her feral grin and bumped her shoulder against Keji's good one. "Crooked holds." Then, quieter, reading the paper Keji handed her: the engraving proof. She read the child's line twice. "On public stone."
 
-Then, because it was Sera: two fingers in her mouth, a broken crook of a whistle that scattered sparrows off the pilings. Keji laughed—once, surprised by it—and answered with the real one. Two fingers, clean and sharp, out across the water. The gulls lifted, wheeled, came about.
-
-Sera stared at her. "You've been practicing."
-
-"Once or twice." A thousand mornings, a small teacher counting birds off the seawall. She kept that open too.
+"Where it can't be scoured without everyone asking why."
 
 They watched the water for a while, and the watching was enough. The clockwork shells came back to her, ticking under green water.
 
@@ -820,4 +812,4 @@ Keji's good hand went still on the railing.
 
 In the great window by the doors, the sea was coming in, dark and patient, wearing the lamplight into small pieces the way it had worn at the city's edges since before anyone's oldest memory of it.
 
-She walked back through the archive with her steps steady. The coin warmed with each footfall.
+She walked back through the archive with her steps steady. The coin warmed with each footfall, and somewhere behind her, on a wall that could not be scoured without questions, Lio Nash's name waited for the city to read it aloud.

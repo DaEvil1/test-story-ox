@@ -56,12 +56,18 @@ private ledger room is one level beneath the Curators' hall; the erased core
 lies deepest, reachable only via the Drift's unfinished walls. Walking time
 market→quay: minutes. Hall→Drift edge: a quarter hour, unhurried.
 
-### Civic procedure (fixed 2026-08-21)
+### Civic procedure (fixed 2026-08-21; updated by exp/veto/ch11-ending)
 
 Plaque orders and amendments go to the Council of Curators at the morning
 bell; the council either acts same-day or holds items for a full turn
 (ch11). The council's senior curator — female, name unstated — enforces
 personally when it matters (ch11 seal retrieval).
+
+Post-veto additions: Keji's public filing names Lio Nash openly ("Lio Nash
+was here"), and the plaque order engraves the child's own line — "if i keep
+the light, then the dark can go away" — unattributed, on stone that cannot
+be scoured without questions. The council reacted same-day by stripping
+Ari's seals.
 
 ## Objects
 
