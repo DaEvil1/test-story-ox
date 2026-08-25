@@ -38,8 +38,6 @@ from pathlib import Path
 import yaml
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
-GIT_DIR = REPO_ROOT / ".git"
-META_PATH = GIT_DIR / "experiments" / "experiments.yaml"
 BUFFER_PATH = REPO_ROOT / "drafts" / "discovery_buffer.md"
 OUTCOMES = ("accept", "reject", "harvest", "defer")
 STAGES = ("probe", "incubate", "candidate")
@@ -53,15 +51,26 @@ def git(*args, cwd=REPO_ROOT, check=True):
     return result.stdout.strip()
 
 
+def meta_path() -> Path:
+    """Shared metadata lives under the MAIN .git (works from any worktree)."""
+    d = Path(git("rev-parse", "--git-common-dir")).resolve()
+    return d / "experiments" / "experiments.yaml"
+
+
+META_PATH = None  # resolved lazily via meta_path()
+
+
 def load_meta() -> dict:
-    if META_PATH.exists():
-        return yaml.safe_load(META_PATH.read_text(encoding="utf-8")) or {"experiments": []}
+    p = meta_path()
+    if p.exists():
+        return yaml.safe_load(p.read_text(encoding="utf-8")) or {"experiments": []}
     return {"experiments": []}
 
 
 def save_meta(meta: dict) -> None:
-    META_PATH.parent.mkdir(parents=True, exist_ok=True)
-    META_PATH.write_text(yaml.safe_dump(meta, sort_keys=False, allow_unicode=True), encoding="utf-8")
+    p = meta_path()
+    p.parent.mkdir(parents=True, exist_ok=True)
+    p.write_text(yaml.safe_dump(meta, sort_keys=False, allow_unicode=True), encoding="utf-8")
 
 
 def get_exp(meta: dict, slug: str, require_active: bool = False):
@@ -174,9 +183,12 @@ def _teardown(e: dict):
 
 def _tag(e: dict, suffix: str = ""):
     tag = f"experiment/{e['id']}/{e['slug']}{suffix}"
-    git("tag", "-a", tag, e["branch"],
-        "-m", f"experiment {e['id']} type={e['type']} trigger={e['trigger']} "
-              f"question: {e.get('question', '')}")
+    r = subprocess.run(["git", "rev-parse", "-q", "--verify", tag],
+                       cwd=REPO_ROOT, capture_output=True, text=True)
+    if r.returncode != 0:
+        git("tag", "-a", tag, e["branch"],
+            "-m", f"experiment {e['id']} type={e['type']} trigger={e['trigger']} "
+                  f"question: {e.get('question', '')}")
     return tag
 
 

@@ -21,3 +21,11 @@ Review asks whether two truth-smuggling acts double the underline or enrich it.
 Also flagged as probe-prose to scrutinize next polish: "I'm done writing sentences
 nobody feels. That's the trade I made for these fingers." - lucid dialogue; consider
 whether the second sentence over-explains the first.
+
+## 2026-08-25 — harvested from [20260825-006] ira-alive (mutation)
+question: What if Ira never left - only disappeared into the uncurated city?
+- asking-the-wall reaches people, not just walls: a long-distance device for the world
+- seed: Ira in self-chosen exile among the uncurated - sequel space
+
+## 2026-08-25 — harvested from [20260825-006] ira-alive (mutation)
+question: What if Ira never left - only disappeared into the uncurated city?
