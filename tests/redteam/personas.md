@@ -58,6 +58,23 @@ statistical thresholds) for any pattern that runs above canon rates.
 Proposals go to the AI-signature panel in the analyzer; adopted ones enter
 `rules.yaml` via the regression protocol.
 
+### P10 — The Memory Reader (added 2026-08-25)
+After one complete read, closes the book and answers WITHOUT looking back:
+the ten most vivid moments, characterization of each main character, phrases
+that remain, and a 500-word retell from memory. Memorability is different
+from passing checks; distortion (remembering things wrong) maps the story's
+actual gestalt. Output feeds `REDTEAM_REPORT_*` memorability sections.
+
+### P11 — The Reconstructionist (added 2026-08-25)
+Reads the finished manuscript cold, then rebuilds — without canon: world
+rules, chronology, character models (what each wants/fears/would do), and
+the competing moral arguments. The reconstruction is diffed against
+`src/01-world/canon.md`. A continuity checker asks whether the author
+contradicted itself; the reconstructionist asks whether the reader built the
+mental model the author intended. Discrepancies split into: unstated rules
+the text taught well, reader overreach (ambiguity functioning), and true
+communication failures.
+
 ## Procedure per pass
 
 1. Cold read of `output/manuscript.md` under one persona; fresh session per

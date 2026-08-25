@@ -167,6 +167,25 @@ When a veto/dive produces a different outcome than planned, record both in
 the scene ledger entry (`planned_outcome`, `actual_outcome`) and log
 downstream material invalidated. Git makes recklessness nearly free; use it.
 
+## Reader simulation — frozen reader-state ledger (adopted 2026-08-25)
+
+`tests/reader_state/after_chNN.yaml`: after writing (or revising) chapter N,
+a fresh context reading ONLY chapters 1..N fills the naive-reader schema
+(beliefs, trust, wants, theories of Ira/Limit, held questions, explicit
+predictions, confusions, foreshadowing suspicions, fuzzy details) and
+freezes it. Snapshots are never edited retroactively.
+
+`python tools/reader_diff.py` assembles each boundary's predictions beside
+the next chapter's registered new-info; hit/miss/surprised calls feed the
+surprise ledger (#47). Systematic misses are structural facts about the text.
+
+Two standing personas consume the manuscript side: **P10 Memory Reader**
+(closes the book; recalls vivid moments, characters, phrases, retells from
+memory — memorability and distortion analysis) and **P11 Reconstructionist**
+(rebuilds world rules/chronology/character models/moral arguments without
+canon, then diffs against `src/01-world/canon.md`; discrepancies classify as
+well-taught implicit rules, functioning ambiguity, or true failures).
+
 ## Consequence discipline
 
 After canonizing a discovery: implement the **unavoidable** consequences; be
