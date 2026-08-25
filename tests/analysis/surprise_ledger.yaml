@@ -21,6 +21,7 @@ turns:
   - {chapter: 11, expectation: "saving the amendment ends it cleanly", arrival: "one breath of relief — then the council's price walks in with Ari's emptied seal box", type: subverted, seed: "the plaque order is public record; 'someone read the plaque order and drew a line back to my cabinet'"}
   - {chapter: 11, expectation: "her memories are the story's ground truth", arrival: "'When did you last read your own archive?' — left unanswered", type: shifted}
 
+  - {chapter: 11, expectation: "the quiet amendment passes without consequence", arrival: "she publicly names Lio Nash and engraves the child's words on stone; the council takes Ari's seals same-day", type: subverted, seed: "morning-bell procedure (ch11), Ari warning that writing changes the city"}
 thresholds:
   min_shift_ratio: 0.5      # shifted + subverted over total
   max_confirmed_ratio: 0.3  # pure confirmations read as predictability
