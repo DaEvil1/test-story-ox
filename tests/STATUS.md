@@ -17,7 +17,11 @@
 | chapter_11.md | Chapter 11 — The Amendment | 1061 | PASS |
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 **Total words:** 11010
+=======
+**Total words:** 10997
+>>>>>>> exp/fork/senior-curator
 =======
 **Total words:** 10997
 >>>>>>> exp/fork/senior-curator
