@@ -20,7 +20,7 @@ At the edge where the Drift becomes the market, Sera stopped walking.
 
 "Because of him?"
 
-"Because of all of them." Sera turned toward the market without looking back. "Don't call me unless the building is falling down."
+"Because of all of them." Sera turned toward the market without looking back. "Don't call me unless the building is falling down." She said it like a door closing, and then stood there with her hand on the frame for three more seconds because even doors hesitate.
 
 At her rooms, she laid the recorder on the desk and did not play it. She knew what it held: the choice in Ira's cadence, the refusal beneath it, the child's small bright line. And the last pressure of the sealing door—not anger in it, not punishment. More like a hand laying something down. Keep private.
 
@@ -46,7 +46,7 @@ Kitchen sounds. A stripe of morning light across a table—you can hear sun if t
 
 The ribbon ended there. Not damaged. Ended—cut clean, the way Ira cut sentences when the rest was dangerous.
 
-She sat with it a long time.
+She sat with it a long time. At some point she made a sound — not a word, not a cry, just the sound of someone setting down something they had carried too far.
 
 On the fifth pass through the tape she heard something she'd missed. Beneath the institutional voice and the softer objector, a third sound: rhythmic, mechanical. Stamping. A seal being pressed onto paper over and over, faster than one signature should take.
 

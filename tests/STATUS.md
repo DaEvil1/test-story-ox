@@ -11,11 +11,11 @@
 | chapter_05.md | Chapter 5 — The Choice | 1201 | PASS |
 | chapter_06.md | Chapter 6 — The Limit Opened | 1144 | PASS |
 | chapter_07.md | Chapter 7 — The Table of Light | 1024 | PASS |
-| chapter_08.md | Chapter 8 — The Ledger | 1719 | PASS |
+| chapter_08.md | Chapter 8 — The Ledger | 1725 | PASS |
 | chapter_09.md | Chapter 9 — The Exposed Node | 1010 | PASS |
-| chapter_10.md | Chapter 10 — The Yes and the No | 845 | PASS |
+| chapter_10.md | Chapter 10 — The Yes and the No | 897 | PASS |
 | chapter_11.md | Chapter 11 — The Amendment | 1066 | PASS |
 
-**Total words:** 11612
+**Total words:** 11670
 
 No findings.

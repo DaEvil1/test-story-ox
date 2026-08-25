@@ -585,7 +585,9 @@ He did not ask for the contents. He simply stood in the doorway and watched the 
 
 "This is one layer beneath the public wall," Ari said. "One step away from the door. It is a place the Archive does not often let us keep."
 
-He stood there a moment longer, looking at the card instead of her. "When I was young here," he said, not quite to her, "a curator opened a sealed layer to prove a point. The city rerouted his street for a year. Every wall he passed showed him his own worst day, at every hour, in full light." He straightened a stack of slips that did not need straightening. "Order is compassion when the archive is fragile. That phrase was his. I have never decided if he was right. He looked at the card again. "Sera stood where you're standing yesterday," he said. "She wanted to know if the room smelled like courage or like fear.""
+He stood there a moment longer, looking at the card instead of her. "When I was young here," he said, not quite to her, "a curator opened a sealed layer to prove a point. The city rerouted his street for a year. Every wall he passed showed him his own worst day, at every hour, in full light." He straightened a stack of slips that did not need straightening. "Order is compassion when the archive is fragile. That phrase was his. I have never decided if he was right.
+
+The lamp buzzed once and stopped. He looked at the card again. "Sera stood where you're standing yesterday," he said. "She wanted to know if the room smelled like courage or like fear.""
 
 Keji turned the card. The ink had dried. The lines were crisp.
 
@@ -723,7 +725,7 @@ At the edge where the Drift becomes the market, Sera stopped walking.
 
 "Because of him?"
 
-"Because of all of them." Sera turned toward the market without looking back. "Don't call me unless the building is falling down."
+"Because of all of them." Sera turned toward the market without looking back. "Don't call me unless the building is falling down." She said it like a door closing, and then stood there with her hand on the frame for three more seconds because even doors hesitate.
 
 At her rooms, she laid the recorder on the desk and did not play it. She knew what it held: the choice in Ira's cadence, the refusal beneath it, the child's small bright line. And the last pressure of the sealing door—not anger in it, not punishment. More like a hand laying something down. Keep private.
 
@@ -749,7 +751,7 @@ Kitchen sounds. A stripe of morning light across a table—you can hear sun if t
 
 The ribbon ended there. Not damaged. Ended—cut clean, the way Ira cut sentences when the rest was dangerous.
 
-She sat with it a long time.
+She sat with it a long time. At some point she made a sound — not a word, not a cry, just the sound of someone setting down something they had carried too far.
 
 On the fifth pass through the tape she heard something she'd missed. Beneath the institutional voice and the softer objector, a third sound: rhythmic, mechanical. Stamping. A seal being pressed onto paper over and over, faster than one signature should take.
 
