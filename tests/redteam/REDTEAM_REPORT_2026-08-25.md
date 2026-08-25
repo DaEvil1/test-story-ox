@@ -166,3 +166,24 @@ State read: four experiments landed (deaf-wall integration, widow-first ch5, Ser
 | C5 rereader | 8.5 | "Deaf-wall lore recuts ch1 completely. Second read confirmed superior." |
 
 **COUNCIL_SCORE: 8.3** (prior 8.0)
+
+---
+
+# Round 10 - Full Panel After Cycle 2 (2026-08-25)
+
+State read: three cycle-2 experiments landed (ch2 voice, senior-curator agency, tide-gift child shoe). 11,054 words.
+
+## Panel holistic scores (experience, 1-10)
+
+| Persona | Score | One-line |
+|---|---|---|
+| P1 critic | 7.5 | "Remember to eat is doing more work than any line of dialogue in most novels." |
+| P2 purist | 7.4 | "The world is starting to exist independently of the plot. That is either very good or a distraction; I have not decided." |
+| P3 grief | 8.2 | "The child shoe on the stones. Neither of them reached for it. That is where this book lives." |
+| P4 lines | 8.0 | "The voice addition in ch2 is invisible until you notice it was missing - which is exactly right." |
+| P5 continuity | 7.9 | "Madam Oyelaran reads twice - once as policy once as a mother - and that dual reading is consistent with everything we know about institutional power here." |
+| P6 skimmer | 7.1 | "ch5 opens faster now; still the longest lane but no longer the slowest." |
+| P7 representation | 8.0 | "A named Black woman (Oyelaran) with institutional authority who makes a judgment call rather than following procedure - that matters." |
+| P8 aloud | 7.7 | "'Remember to eat' in an unrecognized language, patient as wallpaper - I want to say that sentence out loud just to feel how it sits." |
+
+**REDTEAM_PANEL_SCORE: 7.7** (unchanged from prior round)

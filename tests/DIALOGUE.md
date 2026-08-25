@@ -15,6 +15,7 @@
 
 ## Chapter 02
 
+- **?:** "remember to eat"
 - **Lio:** "One for the boat,"
 - **Lio:** "One for the light. One for you, because you lose things."
 
@@ -207,15 +208,14 @@
 - **?:** "if i keep the light, then the dark can go away"
 - **?:** "You put the child's voice on public stone."
 - **?:** "I put it where the stone can't be scoured without everyone asking why."
-- **he:** "The council's senior curator brought these down herself,"
-- **he:** "Someone read the plaque order and drew a line back to my cabinet."
-- **?:** "Keep the private ledger well. I am apparently done keeping things."
+- **he:** "Madam Oyelaran brought these down herself while you were saving your amendment,"
+- **he:** "She read the plaque order twice—once as policy, once as a mother, I think. Then she asked for my seals."
+- **she:** "Keep the private ledger well. She let me keep that much."
 - **he:** "And you?"
 - **he:** "What do you keep?"
 - **she:** "I keep this,"
 - **she:** "And one private line."
 - **she:** "Then the city will have its correction. The hidden thing will have its place."
-- **?:** "That is enough for now."
 - **he:** "Order is compassion when the archive is fragile,"
 - **he:** "I finally decided."
 - **she:** "So,"

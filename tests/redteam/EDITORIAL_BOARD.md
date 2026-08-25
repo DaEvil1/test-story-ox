@@ -39,3 +39,27 @@ author reviews each item and responds: accept / adapt / discard-with-reason.
 After any pass that changes ≥2 chapters, or before content-complete
 declaration. Not every cycle — the board is for deliberation, not routine
 verification (that's the quantitative gate's job).
+
+## Experiment planning sessions
+
+At the start of a full run, the board convenes to suggest 3 experiments.
+Each suggestion names: operator, scope, question, and which member proposed
+it (and why). Author selects 3 (or adjusts). Selected experiments enter the
+lifecycle normally.
+
+Before each experiment closes, the presenting member reviews the result and
+reports to the board: did it answer the question? Was the yield worth the
+divergence? Any surprises?
+
+After all experiments and the consolidation run, the board reconvenes for a
+post-mortem: what changed, what was gained, what lessons go into
+`docs/experiment_lessons.md`.
+
+## Lessons learned file
+
+`docs/experiment_lessons.md` accumulates one entry per completed
+experiment cycle. Each entry: what was tried, what worked, what didn't,
+what surprised the board, what rule or instinct was updated as a result.
+Members interpret entries through their own lens — P4 cares about craft
+implications, P6 about pacing, etc. The file grows over time and becomes
+institutional memory that future sessions draw from.

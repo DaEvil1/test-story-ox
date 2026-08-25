@@ -14,22 +14,8 @@
 | chapter_08.md | Chapter 8 — The Ledger | 1430 | PASS |
 | chapter_09.md | Chapter 9 — The Exposed Node | 1009 | PASS |
 | chapter_10.md | Chapter 10 — The Yes and the No | 694 | PASS |
-<<<<<<< HEAD
-| chapter_11.md | Chapter 11 — The Amendment | 1061 | PASS |
+| chapter_11.md | Chapter 11 — The Amendment | 1094 | PASS |
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-**Total words:** 11010
-=======
-**Total words:** 10997
->>>>>>> exp/fork/senior-curator
-=======
-**Total words:** 10997
->>>>>>> exp/fork/senior-curator
-=======
-| chapter_11.md | Chapter 11 — The Amendment | 1083 | PASS |
-
-**Total words:** 11019
->>>>>>> exp/wild/tide-gift
+**Total words:** 11054
 
 No findings.

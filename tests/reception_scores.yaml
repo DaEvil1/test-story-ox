@@ -58,3 +58,29 @@ sessions:
       Panel +0.1, Council +0.3 after four-experiment run. Largest movement:
       C3 bookclub (+0.5) - the public naming gave the club its sharpest
       argument yet. C2 remains the ceiling-holdout (ontology ask deferred).
+
+  - date: 2026-08-25 (post-cycle-2)
+    revision: r11 text
+    redteam_panel:
+      P1: 7.5
+      P2: 7.4
+      P3: 8.2
+      P4: 8.0
+      P5: 7.9
+      P6: 7.1
+      P7: 8.0
+      P8: 7.7
+      score: 7.7
+    council:
+      C1_literary: 8.0
+      C2_specfic: 7.5
+      C3_bookclub: 8.5
+      C4_grief: 9.0
+      C5_rereader: 8.5
+      C6_texture: 8.5
+      score: 8.3
+    notes: >
+      Council holds at 8.3 with individual shifts upward (C2/C3/C5 all up).
+      Panel holds at 7.7. The gap between adversarial and audience reception
+      remains ~0.6, consistent with the book being better than its flaws
+      rather than free of them.

@@ -55,7 +55,7 @@ She moved forward. What passed for lights was only old memory glowing through pl
 
 The room beyond was a seal. The air there had the taste of sealed paper, damp and sharp. Her fingers brushed the threshold. The walls responded, a low vibration like a held breath. Keji put the glitch against the door and felt it pulse back.
 
-Inside was a chamber of recorded sound, not the clean Archive voice she edited every day, but a tangle of tonalities. There were the quick edits of officials, the snapped rhythm of procedure, and under them, a voice that held itself steady.
+Inside was a chamber of recorded sound, not the clean Archive voice she edited every day, but a tangle of tonalities. Somewhere in the walls an old message played on loop—a woman saying “remember to eat” in a language Keji didn’t recognize, patient as wallpaper. There were the quick edits of officials, the snapped rhythm of procedure, and under them, a voice that held itself steady.
 
 The wall itself kept the memory. She pressed her palm flat, and the sound rose in her head without speakers. The first thing she heard was a line of instruction meant for other ears; it was precise enough to make her spine prickle. The second thing was a name, written not in the voice but in the way the walls flickered: LIO.
 
@@ -776,7 +776,7 @@ He stood there a moment longer. Then he left—to file his protest, or to stand 
 
 When he came back, he carried his box of seals. Lighter now. She could hear there was almost nothing in it.
 
-"The council's senior curator brought these down herself," he said. "Someone read the plaque order and drew a line back to my cabinet." He set the box down without looking at it. "Keep the private ledger well. I am apparently done keeping things."
+"Madam Oyelaran brought these down herself while you were saving your amendment," he said. "She read the plaque order twice—once as policy, once as a mother, I think. Then she asked for my seals." He set the box down without looking at it. "Keep the private ledger well. She let me keep that much."
 
 Keji's throat worked once. She did not reach for the box.
 
@@ -804,7 +804,7 @@ Sera grinned her feral grin and bumped her shoulder against Keji's good one. "Cr
 
 "Where it can't be scoured without everyone asking why."
 
-They watched the water for a while, and the watching was enough. The clockwork shells came back to her, ticking under green water.
+They watched the water for a while, and the watching was enough. The clockwork shells came back to her, ticking under green water. At some point the tide left a child's shoe on the stones between their feet—salt-stiff, laces still tied. Neither of them reached for it. After a while the next wave took it back.
 
 Sera looked out at the sound. "One more thing." Weather-mild. "You're an editor. When did you last read your own archive?"
 

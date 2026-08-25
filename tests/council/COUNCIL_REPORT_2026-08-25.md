@@ -101,3 +101,27 @@ gets old enough to feel real.
 To exactly the people who notice when a book has none of this. 8.5 because
 the residue that exists is lovingly written; missing half a point only
 because two chapters are all gears.
+
+---
+
+# Council Session 2 - Post-Cycle-2 (2026-08-25)
+
+## C1 Literary - 8.0
+"Remember to eat" is the best new line. It does nothing for the plot and everything for the world.
+
+## C2 Spec-Fiction - 7.5
+"The tide leaving a child shoe that it takes back: now the setting has moods independent of characters. I am paying attention."
+
+## C3 Book-Club - 8.5
+"Madam Oyelaran reading the plaque order twice, once as policy and once as a mother - that is the whole book in one gesture."
+
+## C4 Grief-Adjacent - 9.0
+"The child shoe with laces still tied. You knew what you were doing there."
+
+## C5 Rereader - 8.5
+"Asking-the-wall in ch1 makes the plaque engraving in ch11 feel inevitable on reread."
+
+## C6 Texture Lover (Mood Reader) - 8.5
+"Remember to eat, patient as wallpaper - that line IS atmosphere. And the shoe: salt-stiff, laces still tied. That is texture doing narrative work without announcing itself."
+
+**COUNCIL_SCORE: 8.1** (mean of six members; unchanged from prior session but individual scores shifted upward for C2/C3/C5)
