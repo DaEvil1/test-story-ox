@@ -89,3 +89,9 @@ items:
     planted: 6
     payoff: "the memory's own laying-down (ch10); the private ledger retained (ch11)"
     status: paid
+
+  - id: PP-wall-game
+    kind: motif
+    plant: "children pressing questions into wall-cracks before the tide (ch1)"
+    payoff: "final image - a child presses a new question while Lio's name waits on unscourable stone above (ch11)"
+    status: paid

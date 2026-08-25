@@ -165,6 +165,12 @@ scenes:
                 "the seam only an editor sees: her own steady hands"],
      value_change: yes-but, cost_paid: none, irreversible: false,
      opponent_pressure: none, stakes_scope: personal}
+  - {id: ch08-s00c, chapter: 8, title: Sera crosses,
+     goal: see the room where the true thing is kept,
+     new_info: ["Sera walks into the Curators' hall and logs herself",
+                "the terminal records TWO VISITORS - surveillance surface doubles"],
+     value_change: yes-but, cost_paid: none, irreversible: false,
+     opponent_pressure: archive, stakes_scope: personal}
   - {id: ch08-s01, chapter: 8, title: private ledger room,
      goal: give the fragment a home,
      new_info: ["a private ledger card now exists; Ari knows and tolerates it"],

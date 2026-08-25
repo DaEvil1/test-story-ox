@@ -133,3 +133,36 @@ No regressions detected by any persona. Unprompted praise set unchanged (ferryma
 | Criterion | Was | Now | Evidence |
 |---|---|---|---|
 | #27 Image economy | 6 | 7 | Zero fused pairs; abstract-of 7.4/10k under threshold; openers 20% |
+
+---
+
+# Round 9 - Full Panel on the Post-Experiment Book (2026-08-25)
+
+State read: four experiments landed (deaf-wall integration, widow-first ch5, Sera crossing, public naming + engraved plaque line). 10,957 words.
+
+## Panel holistic scores (experience, 1-10)
+
+| Persona | Score | One-line |
+|---|---|---|
+| P1 critic | 7.4 | "The wall-game loop closes without a wink - the best kind of structural rhyme." |
+| P2 purist | 7.4 | "The name going public is the ontological test I kept asking for, smuggled in as bureaucracy. Withdrawn complaint." |
+| P3 grief | 8.1 | "A child pressing a new question while Lio's name waits above - the book ends mid-conversation with loss, which is correct." |
+| P4 lines | 8.0 | "Crutch metrics all inside targets and the prose did not stiffen to get there." |
+| P5 continuity | 7.8 | "Two-visitors log reconciles with ch11's dawn batch; geography holds." |
+| P6 skimmer | 7.0 | "ch5 now earns its seat; still no mid-book explosion, accepted as tone." |
+| P7 representation | 7.9 | "Sera crossing makes her a protagonist of her own thread, not an accessory to Keji's." |
+| P8 aloud | 7.6 | "The whistle exchange reads beautifully aloud; engraving paragraph wants one breath-break." |
+
+**REDTEAM_PANEL_SCORE: 7.675 -> recorded 7.7** (prior 7.6)
+
+## Council quick re-convene
+
+| Member | Score | Note |
+|---|---|---|
+| C1 literary | 8.0 | "Asking the wall belongs in the first five sentences of the blurb." |
+| C2 specfic | 7.5 | "Name-in-public-index is a real consequence; still wants ontology." |
+| C3 bookclub | 8.5 | "New table question: would you have filed the name?" |
+| C4 grief | 9.0 | "Unchanged verdict. The book houses it." |
+| C5 rereader | 8.5 | "Deaf-wall lore recuts ch1 completely. Second read confirmed superior." |
+
+**COUNCIL_SCORE: 8.3** (prior 8.0)

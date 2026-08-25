@@ -14,8 +14,8 @@
 | ch04-s01 door that refuses | 4 | scene | 4 | 1 | no | 7 |
 | ch04-s03 recorder capture | 4 | scene | 4 | 1 | no | 6 |
 | ch07-s01 second refusal door | 7 | scene | 4 | 1 | no | 6 |
-| ch08-s01 private ledger room | 8 | scene | 4 | 1 | no | 5 |
-| ch08-s02 Ari's caution | 8 | scene | 4 | 1 | no | 6 |
+| ch03-s01 Ari confronted with the seal | 3 | scene | 5 | 2 | no | 7 |
+| ch03-s02 Drift walls with Sera | 3 | scene | 5 | 2 | no | 6 |
 
 ## Compression lens (chapters by words-per-info)
 
@@ -28,7 +28,7 @@
 | ch5 | 1168 | 4 | 292 |
 | ch6 | 1125 | 3 | 375 |
 | ch7 | 992 | 3 | 330 |
-| ch8 | 1430 | 6 | 238 |
+| ch8 | 1430 | 8 | 178 |
 | ch9 | 1035 | 4 | 258 |
 | ch10 | 711 | 7 | 101 |
 | ch11 | 1055 | 7 | 150 |

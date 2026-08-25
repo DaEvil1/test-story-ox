@@ -33,3 +33,27 @@ sessions:
       First joint convening. Council > panel by 0.4: target audiences rate
       reach higher than adversarial critics rate defect-freedom. C2 vs C4/C5
       divergence on the ending = designed tension functioning.
+
+  - date: 2026-08-25 (post-experiment run)
+    revision: r11 text
+    redteam_panel:
+      P1: 7.4
+      P2: 7.4
+      P3: 8.1
+      P4: 8.0
+      P5: 7.8
+      P6: 7.0
+      P7: 7.9
+      P8: 7.6
+      score: 7.7
+    council:
+      C1_literary: 8.0
+      C2_specfic: 7.5
+      C3_bookclub: 8.5
+      C4_grief: 9.0
+      C5_rereader: 8.5
+      score: 8.3
+    notes: >
+      Panel +0.1, Council +0.3 after four-experiment run. Largest movement:
+      C3 bookclub (+0.5) - the public naming gave the club its sharpest
+      argument yet. C2 remains the ceiling-holdout (ontology ask deferred).

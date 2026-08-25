@@ -42,6 +42,7 @@ characters:
       - {type: competence, chapter: 9, note: "knows the shape of the refusal; kneels first"}
       - {type: philosophy-lived, chapter: 5, note: "the widow who refused the clean edit"}
       - {type: vulnerability, chapter: 10, note: "the grief edit — six smooth weeks she clawed back from"}
+      - {type: courage, chapter: 8, note: "walks into the Curators' hall bare-wristed and logs herself"}
 
   - name: The Limit
     role: antagonist — must be dreaded AND tempting

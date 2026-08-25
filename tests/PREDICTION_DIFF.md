@@ -94,6 +94,8 @@ registered new information. Mark each prediction **hit**, **miss**, or
 - her terminal greets her by name — the Archive noticed the query
 - curation as craft that helps — a good edit takes cleanly in eleven minutes
 - the seam only an editor sees: her own steady hands
+- Sera walks into the Curators' hall and logs herself
+- the terminal records TWO VISITORS - surveillance surface doubles
 - a private ledger card now exists; Ari knows and tolerates it
 - Ari: other lines exist; the Limit will keep asking
 
