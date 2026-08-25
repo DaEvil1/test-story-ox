@@ -1,8 +1,10 @@
 Chapter 5 — The Choice
 
-The wall in the Drift was not the same wall that had resisted her. It had become a scrape of raw memory, exposed where the city had not yet covered it. Keji leaned against it and felt the ink pulse under her palm.
+Down in the Drift, a woman sat against a breathing wall with an echo-bottle open in her cupped hands. Her husband's last hours played raw around her: half sentences, a cough, somebody's radio. She had refused the Curators' offer to clean it. "The cough is where he still is," she said—to no one, to everyone.
 
-Sera watched her. "What did you bring back?"
+Sera brought Keji to her before anything else.
+
+"This is what keeping looks like," Sera said quietly. Then she nodded at the recorder in Keji's hand. "Now show me what you carried out of there."
 
 Keji put the recorder on the wall between them. The red light blinked. The first line played in her ears again, precise and thin: AUTHORIZE RESET. PRESERVE NETWORK. REMOVE CHANNEL.
 
@@ -19,8 +21,6 @@ Keji's thumb pressed into the coin in her pocket. "The name is there. The hand i
 Sera's grin returned, but it was quiet. "Then it is not a theory. It's a place."
 
 She stood. The Drift was quiet enough that even the low hum of memory felt loud. Keji could hear the city's regular walls beyond, the ones that carried the city's taught stories. The Drift's walls were the ones that did not have a story yet.
-
-Down the passage, a woman sat against a breathing wall with an echo-bottle open in her cupped hands. Her husband's last hours played raw in the air around her—half sentences, a cough, somebody's radio. Sera lowered her voice. "The Curators offered to clean it. Take out the coughing, make him coherent. She refused." The woman's thumb moved over the bottle's seam. "She says the cough is where he still is."
 
 "There are two ways to use this," Sera said. "Take the line back to the public record—let the city know what it erased. Or take the part that can't be public and keep it alive yourself."
 
