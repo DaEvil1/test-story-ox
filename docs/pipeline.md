@@ -76,18 +76,44 @@ assignment is random. Broad style passes (many small edits across chapters)
 require representative-chapter OLD/NEW comparisons before landing —
 "metrics improved" and "writing improved" are different claims.
 
-## Cadence
+## Gates vs advisories
 
-| Event | Trigger |
-|---|---|
-| Checker + analyzer | Every drafting session |
-| Ledger updates | Same session as any story change |
-| Build | Before every commit |
-| Red-team round | After any pass that adds/changes ≥1 scene, or before milestones |
-| Full rubric re-score | After any red-team round whose findings were implemented |
-| History snapshot | With every rubric re-score (`scores_history.yaml`) |
-| Synthesis doc | Whenever red-team output should choose a direction (not before) |
-| Dated artifacts | Assessment and red-team reports are versioned by date (`story_assessment_YYYY-MM-DD.md`, `REDTEAM_REPORT_YYYY-MM-DD.md`); older versions are history, never overwritten |
+| Step | Type | Blocking? |
+|---|---|---|
+| Checker (0 errors required) | **GATE** | Yes — errors block merge |
+| Analyzer | Advisory | Descriptive only |
+| Ledger sync | **GATE** | Must be current before build |
+| Build | **GATE** | Band check |
+| **Character board** | **GATE** | Must convene if any major character's scenes changed. OBJECTIONS near-binding. |
+| **Editorial board** | **GATE** | Must convene before content-complete or after ≥2 scene-level changes |
+| Red-team round | Advisory | Required for full runs, not micro-passes |
+| Council session | Advisory | After major passes only |
+| Rubric re-score | Advisory | After red-team round with implemented findings |
+
+**A GATE that isn't run is a process failure**, same as a checker error.
+Advisories that are skipped require a decisions.log entry explaining why.
+
+## Pre-run checklist
+
+Before starting any experiment batch or revision pass:
+
+- [ ] Creative pulse completed (what does the story want?)
+- [ ] Discovery buffer reviewed for harvestable seeds
+- [ ] Character board convened if queued GAPs exist
+- [ ] Experiment queue reviewed (any seeds ready to become branches?)
+
+## Post-run checklist
+
+After completing any revision pass or experiment batch:
+
+- [ ] Checker clean (0 errors)
+- [ ] All ledgers synced
+- [ ] STATUS.md regenerated
+- [ ] ANALYSIS.md regenerated
+- [ ] Manuscript rebuilt
+- [ ] Character board convened if major characters' scenes changed
+- [ ] Editorial board convened if ≥2 scenes changed
+- [ ] decisions.log updated
 
 ## Red-team panel (9 personas, `tests/redteam/personas.md`)
 
