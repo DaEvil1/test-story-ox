@@ -318,6 +318,13 @@ mode. What follows are phenomena to OBSERVE, not rules to enforce:
   never becomes canon?
 - **Consolidation sanding**: do polish passes quietly remove exactly the
   strangeness experiments introduce?
+- **Texture starvation**: the framework rewards connection (plant/payoff,
+  integration, reread yield) and has no metric for unconnected life.
+  Countermeasure in place: `status: texture` items in the plant/payoff
+  ledger are protected locals — exempt from orphan warnings, reviewed at
+  zero-based audits to confirm they still feel alive rather than decorative.
+  Rule of thumb: every chapter should contain at least one detail that pays
+  off nowhere.
 - **Neighborhood drift**: track each experiment's `distance` field (low /
   medium / high / very-high). Twenty near-excursions are less search than a
   mix of near and distant ones. After ~20 experiments, analyze the log:

@@ -390,7 +390,7 @@ def check_questions_ledger(path: Path, findings: list, last_chapter: int) -> Non
 
 
 def check_plantpayoff_ledger(path: Path, findings: list) -> None:
-    data = load_yaml(path)
+    data = yaml.safe_load(path.read_text(encoding="utf-8")) or {}
     label = path.name
     for item in data.get("items", []):
         iid = item.get("id", "?")
@@ -401,6 +401,10 @@ def check_plantpayoff_ledger(path: Path, findings: list) -> None:
             findings.append(_finding(label, "PP-01", "orphan-payoff", "error",
                                      f"{iid}: pays off but was never planted"))
         if plant and not payoff:
+            if status == "texture":
+                # Protected local: a detail deliberately left unconnected.
+                # Life isn't setup. Listed, not warned.
+                continue
             if status != "needs-payoff":
                 findings.append(_finding(label, "PP-02", "orphan-plant", "warning",
                                          f"{iid}: planted but never paid off"))

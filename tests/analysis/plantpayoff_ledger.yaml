@@ -5,7 +5,36 @@
 #   PP-01 (error)   - payoff with no plant
 #   PP-02 (warning) - plant with no payoff yet (status: needs-payoff)
 
+# Texture-only details (status: texture)
+#
+# Deliberately unconnected residents. They pay off NOWHERE, and that is the
+# point: life isn't setup. The checker exempts status:texture from orphan
+# warnings (PP-02) — these are PROTECTED LOCALS, not work items. If one of
+# them later acquires meaning, promote it to a full item; do not hunt for
+# payoffs proactively.
+
 items:
+  - id: TX-water-seller
+    kind: texture
+    plant: "echo-bottle vendor: 'You look like you swallowed an unfinished story' — wraps a bottle and hands it over unasked"
+    planted: 1
+    payoff: ""
+    status: texture
+
+  - id: TX-excavation-vendor
+    kind: texture
+    plant: "street vendor shouting about a new excavation in the public archive"
+    planted: 3
+    payoff: ""
+    status: texture
+
+  - id: TX-harbor-vowels
+    kind: texture
+    plant: "the ferryman's dead wife pronounced 'harbor' with the round vowels of her home islands"
+    planted: 8
+    payoff: ""
+    status: texture
+
   - id: PP-coin
     kind: object
     plant: "worn coin with a child's lighthouse, hidden in the niche"

@@ -60,3 +60,44 @@ of their asks lives in `docs/integrator_triage_2026-08-25.md`.
 Divergence note: C2 (7) vs C4/C5 (8–9) disagree about whether the ending's
 quietness is restraint or evasion — precisely the designed tension
 (coexistence vs resolution). The disagreement is the book working.
+
+---
+
+# C6 Texture Lover - first session (added 2026-08-25, post-experiment text)
+
+## Score: 8.5
+
+## "This book is about..."
+
+"A city that erodes its own memory professionally, told through the people
+who smuggle small true things past it."
+
+## Texture inventory verdict (co-curated with the TX register)
+
+**Alive (keep, protect):**
+- The echo-bottle vendor - "You look like you swallowed an unfinished
+  story" - and she wraps a bottle and hands it over UNASKED. Best texture in
+  the book. Never explained. Perfect.
+- "somebody's radio" inside the dead husband's echo. Three words and I live
+  on that street.
+- Harbor vowels from an island we never visit.
+- Ari counting gaps between paper stacks instead of touching anything.
+- The kettle's small storm.
+
+**The asking-the-wall integration passed my one test:** the girl pressing a
+folded scrap into a crack is mundane - a child playing - not a narrator
+announcing folklore. And the closing echo (a new question, waiting for the
+water) means the practice outlives the plot. That's how invented culture
+gets old enough to feel real.
+
+**Thin spots (machinery without residue):**
+- ch6-ch7 chamber sequences: plates, pitch, light - all function, no
+  residue. These rooms have never hosted anyone's ordinary life.
+- ch10 burst aftermath is strong but brief; the fruit man could own one
+  more useless detail (what he was carrying BESIDES fruit).
+
+## Would I recommend?
+
+To exactly the people who notice when a book has none of this. 8.5 because
+the residue that exists is lovingly written; missing half a point only
+because two chapters are all gears.

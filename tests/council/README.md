@@ -29,6 +29,16 @@ compounding, undignified moments)?
 Finishes, then immediately starts over. Measures second-read yield: what
 changed meaning, what was planted, whether the book got bigger.
 
+### C6 — The Texture Lover (added 2026-08-25)
+Reads for the small, unconnected, apparently useless things: the shop no
+one explains, the gesture with no consequence, the detail that goes nowhere
+gracefully. Distrusts books where everything connects — "a real city has at
+least one shop they never tell you about." Special duty: co-curates the
+plant/payoff ledger's `status: texture` locals each session, ruling on
+whether each still feels ALIVE versus inserted-trivia, and flags chapters
+that are all machinery and no residue. Scores partly on texture quality and
+density — well-written waste earns points; thin decoration loses them.
+
 ## Session protocol
 
 Each member reads `output/manuscript.md` cold (no ledgers, no intent docs)
