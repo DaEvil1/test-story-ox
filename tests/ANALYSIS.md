@@ -11,7 +11,7 @@ Chapters: 11   Words: 11054
 | keji | 86 | 78 **HIGH** |
 | wall | 70 | 63 **HIGH** |
 | line | 60 | 54 |
-| hand | 52 | 47 |
+| hand | 51 | 46 |
 | sera | 51 | 46 |
 | voice | 39 | 35 |
 | door | 39 | 35 |
@@ -60,13 +60,13 @@ Flagged (>60/10k): keji, wall
 
 - Sentences: 992  mean length 11.1  stdev 7.3
 - Fragments (<=3 words): 103 (10%)
-- Em-dashes: 94 (85 per 10k)
+- Em-dashes: 95 (86 per 10k)
 
 ## Sentence openers (top 10)
 
 | Opener | Count | Share |
 |---|---:|---:|
-| the | 196 | 20% **DOMINANT** |
+| the | 197 | 20% **DOMINANT** |
 | she | 135 | 14% |
 | it | 68 | 7% |
 | a | 39 | 4% |
@@ -233,7 +233,7 @@ Airless-flagged chapters: none
 | ch5 ~ ch8 | 0.031 |
 | ch5 ~ ch6 | 0.021 |
 | ch3 ~ ch5 | 0.021 |
-| ch2 ~ ch4 | 0.021 |
+| ch6 ~ ch9 | 0.021 |
 
 ### Words per new-information unit
 
@@ -242,11 +242,11 @@ Airless-flagged chapters: none
 | ch6 | 1144 | 3 | 381 |
 | ch7 | 1009 | 3 | 336 |
 | ch5 | 1168 | 4 | 292 |
-| ch9 | 1009 | 4 | 252 |
+| ch9 | 1010 | 4 | 252 |
 | ch3 | 870 | 4 | 218 |
 | ch8 | 1430 | 8 | 179 |
 | ch4 | 991 | 6 | 165 |
-| ch11 | 1094 | 7 | 156 |
+| ch11 | 1093 | 7 | 156 |
 | ch2 | 925 | 6 | 154 |
 | ch10 | 694 | 7 | 99 |
 | ch1 | 720 | 8 | 90 |
