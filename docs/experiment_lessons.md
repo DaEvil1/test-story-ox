@@ -1,8 +1,12 @@
 # Experiment Lessons Learned
 
 Growing file: one entry per experiment cycle. Board members interpret
-entries through their own lens. Drawn from at planning sessions and
-post-mortems to avoid repeating mistakes and to compound discoveries.
+entries through their own lens.
+
+**EPISTEMIC STATUS:** All entries below are PROVISIONAL HYPOTHESES derived
+from a single manuscript in a single genre. They describe patterns observed
+so far, not universal laws. Each carries a confidence level and would be
+falsified by counter-evidence. Do not treat as commandments.
 
 ---
 
@@ -25,6 +29,19 @@ post-mortems to avoid repeating mistakes and to compound discoveries.
 ### P4 (craft): "The wall-game integration passed my one test — mundane behavior, not announced folklore. But watch it: two data points can become a pattern."
 ### P3 (emotional): "Sera crossing gave her agency that costs something. More of this."
 ### P6 (momentum): "ch5 widow-first opening improved entry speed measurably."
+
+---
+
+## Provisional hypotheses extracted from cycles 1-2
+
+| # | Hypothesis | Confidence | Would be falsified by |
+|---|---|---|---|
+| H1 | Mundane enacted culture outperforms explanatory lore for worldbuilding | Medium | An explanatory passage beating an enacted alternative in blind judging |
+| H2 | Character-veto generates consequences that feel both surprising and inevitable | Medium-high | A veto branch producing consequences that feel arbitrary or forced |
+| H3 | HARVEST from failed experiments produces better texture than direct insertion | Medium | A harvested detail feeling inserted rather than discovered |
+| H4 | Executable alternatives beat verbal alternatives for structural decisions | High (single data point: zero-base audit vs veto branch) | A verbal audit discovering an option that a subsequent executable probe confirms as inferior |
+| H5 | Obedience to institutional refusal can be more thematically powerful than rebellion against it | Medium-low | Blind judges consistently preferring force/confrontation over witness/restraint |
+
 
 
 ## Cycle 2 — 2026-08-25 (ch02-voice, senior-curator, tide-gift)

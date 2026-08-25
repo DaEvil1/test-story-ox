@@ -4,6 +4,27 @@ The rubric measures defect absence. This file tracks **presence of quality**:
 specific passages, moments, and structural choices that make the book better
 than it was. Updated each cycle. Not scored — described.
 
+> **WARNING:** This is an observer's history, not an author's instructions.
+> The patterns below describe what HAS worked, not what MUST be done.
+> If future improvements don't fit these categories, that's more
+> interesting than confirmation.
+
+---
+
+## Things that got better which do NOT fit our current theory
+
+(This section exists to prevent the narrative from becoming self-confirming.)
+
+- *(empty — will be filled when an improvement doesn't match the pattern)*
+
+## Things these successful changes may have made worse
+
+- **Motif capture risk**: the wall-game, the coin, and the lighthouse now
+  all connect to multiple plot beats each. Integration pressure may have
+  reduced the number of genuinely unexplained details.
+- **Em-dash density increased** from 68 to 86/10k across recent additions,
+  approaching the upper end of the canon band (73).
+
 ---
 
 ## What is better now than at the first assessment (r1 → current)

@@ -1,7 +1,12 @@
 # Development Workflow
 
-This project treats writing as software development with iterative phases and quality checks.
+> **Initial project bootstrap workflow.** For active writing/revision,
+> `docs/pipeline.md` is authoritative. This document describes how the
+> project was originally structured; the pipeline has since evolved into
+> a creative search system (see docs/pipeline.md "Experiment Lifecycle").
 
+This project treats writing as software development with iterative phases
+and quality checks.
 ## Phases
 
 The project runs as a **creative search system**, not a linear plan: every

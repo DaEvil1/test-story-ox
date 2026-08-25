@@ -11,6 +11,13 @@ requires a `decisions.log` entry.
                 │  ORIENT / CREATIVE PULSE   │
                 │  What does the story want  │
                 │  right now?                │
+                │                            │
+                │  ⚠ Happens BEFORE reading   │
+                │  experiment queue, lessons,│
+                │  craft narrative, scores,  │
+                │  or discovery buffer.      │
+                │  Instinct requires         │
+                │  uncontaminated input.     │
                 └──────────┬─────────────────┘
                            │
           CONTINUE / POLISH│         │ EXPLORE (curiosity or stuck)
@@ -78,20 +85,35 @@ require representative-chapter OLD/NEW comparisons before landing —
 
 ## Gates vs advisories
 
-| Step | Type | Blocking? |
-|---|---|---|
-| Checker (0 errors required) | **GATE** | Yes — errors block merge |
-| Analyzer | Advisory | Descriptive only |
-| Ledger sync | **GATE** | Must be current before build |
-| Build | **GATE** | Band check |
-| **Character board** | **GATE** | Must convene if any major character's scenes changed. OBJECTIONS near-binding. |
-| **Editorial board** | **GATE** | Must convene before content-complete or after ≥2 scene-level changes |
-| Red-team round | Advisory | Required for full runs, not micro-passes |
-| Council session | Advisory | After major passes only |
-| Rubric re-score | Advisory | After red-team round with implemented findings |
+Three classes of pipeline step, with different authority:
 
-**A GATE that isn't run is a process failure**, same as a checker error.
-Advisories that are skipped require a decisions.log entry explaining why.
+**Mechanical gates** — a factual condition must be true. Cannot be waived.
+- Checker (0 errors required)
+- Ledger sync (must be current)
+- Build (band check)
+
+**Procedural gates** — a process must have occurred. The session happens; its findings are advisory.
+- Character board convened (if major characters' scenes changed)
+- Editorial board convened (before content-complete or ≥2 scene changes)
+- Red-team round (after significant passes)
+
+**Subjective findings** — never gates themselves. They produce testimony, hypotheses and experiment proposals. The author decides what takes power.
+
+A procedural gate that isn't run is a process failure. But a procedural
+gate's *findings* are testimony to be weighed, not commands to be obeyed.
+This prevents "Character Board is mandatory" from mutating into
+"Character Board is authoritative."
+
+## Advisories (non-blocking but expected for full runs)
+
+| Step | Trigger |
+|---|---|
+| Analyzer | Every drafting session |
+| Red-team round | After any pass that adds/changes ≥1 scene |
+| Council session | After major passes only |
+| Rubric re-score | After red-team round with implemented findings |
+| Pillar report | With every rubric re-score |
+| Reader diff | When reader-state snapshots exist |
 
 ## Pre-run checklist
 
@@ -173,7 +195,7 @@ radically better version exist?"). This section adds search while keeping
 python tools/experiment.py start <dive|fork|rewrite|veto|mutation|zero-base|wild> <slug> [--scope ...] [--trigger curiosity|stuck|creative-itch] [--question "..."]
 python tools/experiment.py status
 python tools/experiment.py stage <slug> <probe|incubate|candidate>
-python tools/experiment.py close <slug> <accept|reject|harvest|defer> [--found "..."] [--reason "..."]
+python tools/experiment.py close <slug> <accept|reject|harvest|defer> [--found "..."] [--reason "..."] [--distance low|medium|high|very-high]
 python tools/experiment.py list --all
 ```
 
@@ -183,8 +205,13 @@ python tools/experiment.py list --all
   to `drafts/discovery_buffer.md` (un-scored, no justification needed),
   then tag and tear down.
 - **DEFER**: interesting but unresolved; tag preserves everything.
-- Every close creates tag `experiment/<id>/<slug>` — the evolutionary fossil
-  record. Tags are pushed; live branches stay local.
+- Every close records `--distance` (creative distance traveled) and creates
+  tag `experiment/<id>/<slug>` — the evolutionary fossil record.
+  Tags are pushed; live branches stay local.
+- Every PROBE counts toward experiment statistics, not just candidates.
+  Track: operator + trigger + proposer + distance + furthest stage +
+  outcome + judge margin. This prevents survivorship bias in acceptance
+  rate analysis.
 
 ## Stages
 

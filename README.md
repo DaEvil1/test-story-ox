@@ -1,5 +1,9 @@
 # test-story
 
+> **Initial project bootstrap description.** For active writing/revision,
+> `docs/pipeline.md` is authoritative. The process has evolved significantly
+> since this overview was written.
+
 A software-style AI fiction project exploring a mind-bending sci-fi story with modern prose and poetic color.
 
 ## Project Goals
