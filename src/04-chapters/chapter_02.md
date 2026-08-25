@@ -12,7 +12,7 @@ She moved forward. What passed for lights was only old memory glowing through pl
 
 The room beyond was a seal. The air there had the taste of sealed paper, damp and sharp. Her fingers brushed the threshold. The walls responded, a low vibration like a held breath. Keji put the glitch against the door and felt it pulse back.
 
-Inside was a chamber of recorded sound, not the clean Archive voice she edited every day, but a tangle of tonalities. There were the quick edits of officials, the snapped rhythm of procedure, and under them, a voice that held itself steady.
+Inside was a chamber of recorded sound, not the clean Archive voice she edited every day, but a tangle of tonalities. Somewhere in the walls an old message played on loop—a woman saying “remember to eat” in a language Keji didn’t recognize, patient as wallpaper. There were the quick edits of officials, the snapped rhythm of procedure, and under them, a voice that held itself steady.
 
 The wall itself kept the memory. She pressed her palm flat, and the sound rose in her head without speakers. The first thing she heard was a line of instruction meant for other ears; it was precise enough to make her spine prickle. The second thing was a name, written not in the voice but in the way the walls flickered: LIO.
 

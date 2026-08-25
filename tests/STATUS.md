@@ -5,7 +5,7 @@
 | Chapter | Title | Words | Status |
 |---|---|---:|---|
 | chapter_01.md | Chapter 1 — The Fault Line | 720 | PASS |
-| chapter_02.md | Chapter 2 — The Hidden Layer | 901 | PASS |
+| chapter_02.md | Chapter 2 — The Hidden Layer | 925 | PASS |
 | chapter_03.md | Chapter 3 — The Limit | 870 | PASS |
 | chapter_04.md | Chapter 4 — The Erased Core | 991 | PASS |
 | chapter_05.md | Chapter 5 — The Choice | 1168 | PASS |
@@ -16,6 +16,6 @@
 | chapter_10.md | Chapter 10 — The Yes and the No | 694 | PASS |
 | chapter_11.md | Chapter 11 — The Amendment | 1050 | PASS |
 
-**Total words:** 10986
+**Total words:** 11010
 
 No findings.
