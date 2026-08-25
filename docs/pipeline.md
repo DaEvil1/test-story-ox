@@ -117,8 +117,8 @@ radically better version exist?"). This section adds search while keeping
 
 - **main = the currently believed story.** Not a workspace.
 - Experiments are alternate universes: local branches `exp/<type>/<slug>` in
-  git worktrees (`../test-story-ox-exp-<slug>`) so canon cannot be mutated
-  accidentally.
+  git worktrees under `.experiments/` (inside the repo root, gitignored) so
+  canon cannot be mutated accidentally and no out-of-workspace access occurs.
 - During **PROBE**, experiments are exempt from story-ledger QA, canon,
   word-band, and coherence. Contradictions are *proposals*, not defects, and
   get one exploratory session before continuity may kill them.

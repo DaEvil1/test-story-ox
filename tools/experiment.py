@@ -108,7 +108,7 @@ def cmd_start(args):
     meta = load_meta()
     slug = sanitize(args.slug)
     branch = f"exp/{args.type}/{slug}"
-    worktree = REPO_ROOT.parent / f"test-story-ox-exp-{slug}"
+    worktree = REPO_ROOT / ".experiments" / f"exp-{slug}"
     if any(e["slug"] == slug and e.get("active") for e in meta["experiments"]):
         print(f"'{slug}' already exists and is active.", file=sys.stderr)
         sys.exit(1)
