@@ -229,6 +229,8 @@ def cmd_close(args):
     e["outcome"] = args.outcome
     e["closed"] = str(date.today())
     e["tag"] = tag
+    if args.distance:
+        e["distance"] = args.distance
     if args.found:
         e["discovered"] = args.found
     if args.reason:
@@ -282,6 +284,10 @@ def main() -> int:
     c.add_argument("outcome", choices=OUTCOMES)
     c.add_argument("--found", action="append", help="discovered item (repeatable)")
     c.add_argument("--reason", default="")
+    c.add_argument("--distance", default="",
+                   help="creative distance traveled: low | medium | high | very-high "
+                        "(qualitative by design - how far from the incumbent's "
+                        "assumptions did this excursion reach?)")
     c.set_defaults(fn=cmd_close)
 
     l = sub.add_parser("list")

@@ -298,6 +298,35 @@ selective with merely **interesting** ones (retrofit-everything reads as
 theme park). Distinguish intentional plants from harvested plants — existing
 details that acquire meaning retroactively are first-class wins.
 
+## Long-run observation register (adopted 2026-08-25)
+
+The framework is **feature-complete for sustained empirical use**.
+Infrastructure freeze unless repeated execution reveals a concrete failure
+mode. What follows are phenomena to OBSERVE, not rules to enforce:
+
+- **Motif capture**: discoveries getting promoted until they become the
+  thematic operating system. The machinery rewards reread yield,
+  plant/payoff, and integration — five independent incentives to braid.
+  Watch whether new finds stay weird or get promoted everywhere.
+- **Operator bias**: does one operator dominate choices or acceptance rates?
+  (`veto` may legitimately run hot — it uniquely pairs surprise with
+  causality; nerf only if "characters have minds of their own" becomes a
+  fetish rather than a measured pattern.)
+- **Judge novelty-bias**: do blind judges systematically prefer the newer
+  branch? Counterbalanced ballots exist partly to detect this.
+- **Discovery-buffer decay**: does HARVEST accumulate seductive junk that
+  never becomes canon?
+- **Consolidation sanding**: do polish passes quietly remove exactly the
+  strangeness experiments introduce?
+- **Neighborhood drift**: track each experiment's `distance` field (low /
+  medium / high / very-high). Twenty near-excursions are less search than a
+  mix of near and distant ones. After ~20 experiments, analyze the log:
+  operator distribution, outcome rates, trigger patterns, harvest-to-canon
+  rate, regression-causing accepts.
+
+Status language: the framework is not "complete." It is *feature-complete
+for sustained empirical use.*
+
 ## Score governance
 
 - `scores_current.yaml` mirrors the assessment doc — update both together.
