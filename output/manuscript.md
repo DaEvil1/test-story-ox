@@ -717,6 +717,14 @@ Sera knelt beside him, palms out, murmuring nothing in particular until the voic
 
 Keji watched the man gather his fruit one-handed. Twice he stopped, listening for something that had already left. The Curators would fix him. She believed it. She also believed the woman's voice had been real.
 
+At the edge where the Drift becomes the market, Sera stopped walking.
+
+"I need to go away for a while." She unclipped the maintenance key from her belt, looked at it, put it back. "Three weeks. Maybe four. I need to walk until the walls stop talking to me."
+
+"Because of him?"
+
+"Because of all of them." Sera turned toward the market without looking back. "Don't call me unless the building is falling down."
+
 At her rooms, she laid the recorder on the desk and did not play it. She knew what it held: the choice in Ira's cadence, the refusal beneath it, the child's small bright line. And the last pressure of the sealing door—not anger in it, not punishment. More like a hand laying something down. Keep private.
 
 "It showed you the yes and the no," Sera said at the stair that morning.
@@ -741,7 +749,12 @@ Kitchen sounds. A stripe of morning light across a table—you can hear sun if t
 
 The ribbon ended there. Not damaged. Ended—cut clean, the way Ira cut sentences when the rest was dangerous.
 
-She sat with it a long time. Somewhere in that sitting her hands wound the ribbon around her fingers—once, twice, tighter than good, the caps of her nails going white. She did not remember deciding to. She unwound it slowly, the way you ease a knot you cannot afford to lose, then put her hands flat on the table until they were hers again.
+She sat with it a long time.
+
+On the fifth pass through the tape she heard something she'd missed. Beneath the institutional voice and the softer objector, a third sound: rhythmic, mechanical. Stamping. A seal being pressed onto paper over and over, faster than one signature should take.
+
+The edit hadn't been an exception. The grammar was practiced. Pre-stamped seals, rehearsed phrasing, a template filled in and filed. This had been procedure.
+ Somewhere in that sitting her hands wound the ribbon around her fingers—once, twice, tighter than good, the caps of her nails going white. She did not remember deciding to. She unwound it slowly, the way you ease a knot you cannot afford to lose, then put her hands flat on the table until they were hers again.
 
 The reader slid sideways off the desk edge. She let it fall.
 
@@ -820,25 +833,13 @@ At the door he stopped, the box under his arm. "Order is compassion when the arc
 
 As she left the room she stopped at the private ledger room, one floor down. The ribbon went into the box beside the card—the original, the whole laugh of it—sealed where authorized hands could reach it and hers could not. Her hand stayed flat on the closed lid a moment. Then she went up into the noise of the halls.
 
-Before going out, she found Sera at the old quay, where the sound was loudest. Sera looked at her hands and did not ask.
+The old quay was empty. Sera was still walking somewhere past the fish-market with walls talking to her on every side, and the absence had a shape — a space at the railing where she would have been leaning, a silence where "Crooked holds" would have gone.
 
-"So," she said. "Did you break it or mend it?"
+Keji put two fingers in her mouth anyway. The whistle cracked across the water and came back thinner than Lio's version, thinner than it should be, but hers. The gulls lifted, wheeled, came about.
 
-"Made room."
+Nobody said "You've been practicing." Nobody bumped her shoulder.
 
-Sera grinned her feral grin and bumped her shoulder against Keji's good one. "Crooked holds." Then, quieter, reading the paper Keji handed her: the engraving proof. She read the child's line twice. "On public stone."
-
-"Where it can't be scoured without everyone asking why."
-
-They watched the water for a while, and the watching was enough. The clockwork shells came back to her, ticking under green water. At some point the tide left a child's shoe on the stones between their feet—salt-stiff, laces still tied. Neither of them reached for it. After a while the next wave took it back.
-
-Sera looked out at the sound. "One more thing." Weather-mild. "You're an editor. When did you last read your own archive?"
-
-Keji's hand went still on the railing.
-
-"Everybody's gets edited some," Sera said. "Yours, by you. His, by him. Mine by nobody, which is its own problem." She hopped down off the piling. "Just asking."
-
-"I know," Keji said.
+She watched the water alone. The clockwork shells came back to her, ticking under green water. Sera's voice from somewhere behind her own memories: "When did you last read your own archive?" She didn't have an answer she liked better than the wind.
 
 In the great window by the doors, the sea was coming in, dark and patient, wearing the lamplight into small pieces the way it had worn at the city's edges since before anyone's oldest memory of it.
 

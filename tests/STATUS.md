@@ -13,9 +13,9 @@
 | chapter_07.md | Chapter 7 — The Table of Light | 1024 | PASS |
 | chapter_08.md | Chapter 8 — The Ledger | 1719 | PASS |
 | chapter_09.md | Chapter 9 — The Exposed Node | 1010 | PASS |
-| chapter_10.md | Chapter 10 — The Yes and the No | 780 | PASS |
-| chapter_11.md | Chapter 11 — The Amendment | 1129 | PASS |
+| chapter_10.md | Chapter 10 — The Yes and the No | 845 | PASS |
+| chapter_11.md | Chapter 11 — The Amendment | 1066 | PASS |
 
-**Total words:** 11610
+**Total words:** 11612
 
 No findings.

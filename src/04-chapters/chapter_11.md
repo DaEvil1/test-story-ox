@@ -68,25 +68,13 @@ At the door he stopped, the box under his arm. "Order is compassion when the arc
 
 As she left the room she stopped at the private ledger room, one floor down. The ribbon went into the box beside the card—the original, the whole laugh of it—sealed where authorized hands could reach it and hers could not. Her hand stayed flat on the closed lid a moment. Then she went up into the noise of the halls.
 
-Before going out, she found Sera at the old quay, where the sound was loudest. Sera looked at her hands and did not ask.
+The old quay was empty. Sera was still walking somewhere past the fish-market with walls talking to her on every side, and the absence had a shape — a space at the railing where she would have been leaning, a silence where "Crooked holds" would have gone.
 
-"So," she said. "Did you break it or mend it?"
+Keji put two fingers in her mouth anyway. The whistle cracked across the water and came back thinner than Lio's version, thinner than it should be, but hers. The gulls lifted, wheeled, came about.
 
-"Made room."
+Nobody said "You've been practicing." Nobody bumped her shoulder.
 
-Sera grinned her feral grin and bumped her shoulder against Keji's good one. "Crooked holds." Then, quieter, reading the paper Keji handed her: the engraving proof. She read the child's line twice. "On public stone."
-
-"Where it can't be scoured without everyone asking why."
-
-They watched the water for a while, and the watching was enough. The clockwork shells came back to her, ticking under green water. At some point the tide left a child's shoe on the stones between their feet—salt-stiff, laces still tied. Neither of them reached for it. After a while the next wave took it back.
-
-Sera looked out at the sound. "One more thing." Weather-mild. "You're an editor. When did you last read your own archive?"
-
-Keji's hand went still on the railing.
-
-"Everybody's gets edited some," Sera said. "Yours, by you. His, by him. Mine by nobody, which is its own problem." She hopped down off the piling. "Just asking."
-
-"I know," Keji said.
+She watched the water alone. The clockwork shells came back to her, ticking under green water. Sera's voice from somewhere behind her own memories: "When did you last read your own archive?" She didn't have an answer she liked better than the wind.
 
 In the great window by the doors, the sea was coming in, dark and patient, wearing the lamplight into small pieces the way it had worn at the city's edges since before anyone's oldest memory of it.
 

@@ -46,7 +46,12 @@ Kitchen sounds. A stripe of morning light across a table—you can hear sun if t
 
 The ribbon ended there. Not damaged. Ended—cut clean, the way Ira cut sentences when the rest was dangerous.
 
-She sat with it a long time. Somewhere in that sitting her hands wound the ribbon around her fingers—once, twice, tighter than good, the caps of her nails going white. She did not remember deciding to. She unwound it slowly, the way you ease a knot you cannot afford to lose, then put her hands flat on the table until they were hers again.
+She sat with it a long time.
+
+On the fifth pass through the tape she heard something she'd missed. Beneath the institutional voice and the softer objector, a third sound: rhythmic, mechanical. Stamping. A seal being pressed onto paper over and over, faster than one signature should take.
+
+The edit hadn't been an exception. The grammar was practiced. Pre-stamped seals, rehearsed phrasing, a template filled in and filed. This had been procedure.
+ Somewhere in that sitting her hands wound the ribbon around her fingers—once, twice, tighter than good, the caps of her nails going white. She did not remember deciding to. She unwound it slowly, the way you ease a knot you cannot afford to lose, then put her hands flat on the table until they were hers again.
 
 The reader slid sideways off the desk edge. She let it fall.
 

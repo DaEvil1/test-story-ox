@@ -94,6 +94,8 @@ registered new information. Mark each prediction **hit**, **miss**, or
 - her terminal greets her by name — the Archive noticed the query
 - curation as craft that helps — a good edit takes cleanly in eleven minutes
 - the seam only an editor sees: her own steady hands
+- her own edit log reveals forty-one entries of willing participation in erasure
+- the hands don't care what they hold — only how to smooth
 - Sera walks into the Curators' hall and logs herself
 - the terminal records TWO VISITORS - surveillance surface doubles
 - a private ledger card now exists; Ari knows and tolerates it
