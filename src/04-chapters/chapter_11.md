@@ -76,7 +76,7 @@ Sera grinned her feral grin and bumped her shoulder against Keji's good one. "Cr
 
 "Where it can't be scoured without everyone asking why."
 
-They watched the water for a while, and the watching was enough. The clockwork shells came back to her, ticking under green water.
+They watched the water for a while, and the watching was enough. The clockwork shells came back to her, ticking under green water. At some point the tide left a child's shoe on the stones between their feet—salt-stiff, laces still tied. Neither of them reached for it. After a while the next wave took it back.
 
 Sera looked out at the sound. "One more thing." Weather-mild. "You're an editor. When did you last read your own archive?"
 
