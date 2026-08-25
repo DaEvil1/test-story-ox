@@ -11,7 +11,7 @@
 | chapter_05.md | Chapter 5 — The Choice | 1194 | WARN |
 | chapter_06.md | Chapter 6 — The Limit Opened | 1126 | WARN |
 | chapter_07.md | Chapter 7 — The Table of Light | 994 | PASS |
-| chapter_08.md | Chapter 8 — The Ledger | 1304 | WARN |
+| chapter_08.md | Chapter 8 — The Ledger | 1304 | PASS |
 | chapter_09.md | Chapter 9 — The Exposed Node | 1035 | PASS |
 | chapter_10.md | Chapter 10 — The Yes and the No | 711 | PASS |
 | chapter_11.md | Chapter 11 — The Amendment | 1024 | WARN |
@@ -37,11 +37,6 @@
 - **[NC-01 negation-contrast-frame]** (warning) ending: `line 3 (negation then contrast-marked sentence)` — Ari did not reach for it.
 - **[NC-01 negation-contrast-frame]** (warning) ending: `line 29 (negation then contrast-marked sentence)` — Sera did not ask to see the packet.
 
-### chapter_08.md
-
-- **[NC-01 negation-contrast-frame]** (warning) ending: `line 41 (2 negations then affirmative)` — Keji did not look up. He did not ask for the contents.  >>  He simply stood in the doorway and watched the card, the coi
-
 ### chapter_11.md
 
-- **[NC-01 negation-contrast-frame]** (warning) ending: `line 17 (2 negations then affirmative)` — She did not say why. She did not say who or when.  >>  She let the sentence do the work.
 - **[NC-01 negation-contrast-frame]** (warning) ending: `line 29 (2 negations then affirmative)` — She did not mention the hidden room, the child, the name Lio. She did not mention the hidden line that had said keep pri

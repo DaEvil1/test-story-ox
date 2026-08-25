@@ -186,6 +186,34 @@ memory — memorability and distortion analysis) and **P11 Reconstructionist**
 canon, then diffs against `src/01-world/canon.md`; discrepancies classify as
 well-taught implicit rules, functioning ambiguity, or true failures).
 
+## Intentional violations & pairwise revision judging (adopted 2026-08-25)
+
+**Regression constraints, not style laws.** A rule may be violated when
+there is a positive case on file: `tests/intentional_violations.yaml`
+(rule + file + matching pattern + justification). The checker suppresses
+covered findings and reports them under "Intentional violations honored."
+Rules:
+- Warning-level rules may be overridden freely.
+- Error-level rules additionally require a `docs/decisions.log` reference.
+- Justifications are re-read at every zero-based audit; stale ones die.
+The test is not "did we find a loophole" but "does obeying the rule here
+produce a weaker sentence?" If yes, the violation is protected.
+
+**Pairwise revision judging.** Revision is not monotonically positive —
+editing often produces *cleaner but worse*. For any nontrivial revision:
+
+```
+python tools/pairwise.py start --chapter <file> --base HEAD~N
+#   send tests/pairwise/<id>/A.md and B.md to 3 fresh judge contexts
+python tools/pairwise.py record <id> J1 B "reason"
+python tools/pairwise.py tally <id>     # majority-OLD -> revert
+python tools/pairwise.py clean <id>
+```
+
+Anonymized A/B, randomized assignment, judges never know which side is the
+revision or how much work it cost. The rubric stays a diagnostic dashboard;
+pairwise preference is the fitness signal for individual changes.
+
 ## Consequence discipline
 
 After canonizing a discovery: implement the **unavoidable** consequences; be

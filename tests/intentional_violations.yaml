@@ -1,0 +1,45 @@
+# Intentional Violation Registry
+#
+# A rule may be violated when there is a positive case: the system states
+# why this construction normally fails, why it succeeds HERE, and confirms
+# that obeying the rule produces a weaker sentence.
+#
+# This makes the distinction between:
+#   regression constraint  — "don't ACCIDENTALLY do this"
+#   style law              — "never do this"
+# We have the former. We do not have the latter.
+#
+# Matching: a checker finding is suppressed as *intentional* when its rule id
+# and file match an entry AND the finding's text/context contains `pattern`
+# (case-insensitive).
+#
+# Rules:
+# - Warning-level rules may be overridden freely.
+# - ERROR-level rules (e.g., ST-01) additionally REQUIRE a `logged:` field
+#   referencing a docs/decisions.log entry — structural rules protect other
+#   systems and need the heavier signature.
+# - Entries are reviewed at every zero-based audit; stale justifications die.
+
+violations:
+  - id: IV-001
+    rule: NC-01
+    file: chapter_11.md
+    pattern: "she did not say why"
+    justification: >
+      The double negation enacts the scene's whole mechanism: an amendment
+      whose power comes from what it refuses to state. "She let the sentence
+      do the work" lands BECAUSE two refusals cleared space for it. Rewriting
+      to affirmative phrasing ("She said only what she wanted to make room
+      for") explains the restraint and kills it. The frame is the meaning.
+    added: 2026-08-25
+
+  - id: IV-002
+    rule: NC-01
+    file: chapter_08.md
+    pattern: "keji did not look up"
+    justification: >
+      Double containment beat: Keji does not look up, Ari does not ask — two
+      people cooperating in not-knowing, rendered as parallel refusal. The
+      affirmative rewrite ("Ari stood in the doorway and watched") loses the
+      cooperation; the silence IS the event.
+    added: 2026-08-25

@@ -527,6 +527,40 @@ def check_negation_contrast(texts: dict[str, str], findings: list) -> None:
                                      f"{sent_count} sentences, floor {patterns_negation.WEAK_FLOOR})"))
 
 
+def load_intentional(path: Path) -> list:
+    if not path.exists():
+        return []
+    data = yaml.safe_load(path.read_text(encoding="utf-8")) or {}
+    return data.get("violations", [])
+
+
+def apply_intentional(findings: list, registry: list):
+    """Suppress findings covered by the intentional-violation registry.
+    Returns (suppressed_findings, kept_findings). Matching: rule id + file +
+    pattern substring in match/context text (case-insensitive)."""
+    if not registry:
+        return [], findings
+    kept = []
+    suppressed = []
+    for f in findings:
+        hit = False
+        for v in registry:
+            if v.get("rule") != f["rule"]:
+                continue
+            if v.get("file") not in (f["file"], "(any)"):
+                continue
+            pat = str(v.get("pattern", "")).lower()
+            hay = (str(f.get("match", "")) + " " + str(f.get("context", ""))).lower()
+            if pat and pat in hay:
+                hit = True
+                break
+        if hit:
+            suppressed.append(f)
+        else:
+            kept.append(f)
+    return suppressed, kept
+
+
 def check_ledgers(ledgers_dir: Path, findings: list, texts: dict[str, str]) -> None:
     ledger_checks = {
         "scene_ledger.yaml": check_scene_ledger,
@@ -597,6 +631,9 @@ def main() -> int:
     check_negation_contrast(texts, findings)
     check_ledgers(args.ledgers_dir, findings, texts)
 
+    registry_path = REPO_ROOT / "tests" / "intentional_violations.yaml"
+    intentional, findings = apply_intentional(findings, load_intentional(registry_path))
+
     chapter_labels = {s["file"] for s in stats}
     ledger_findings = [f for f in findings if f["file"] not in chapter_labels]
 
@@ -660,8 +697,13 @@ def main() -> int:
             print(f"    {ledger}: {len(lfinds)} finding(s)")
             for finding in lfinds:
                 print(f"        [{finding['rule']} {finding['name']}] {finding['match']}")
+    if intentional:
+        print(f"Intentional violations honored ({len(intentional)}):")
+        for finding in intentional:
+            print(f"    [{finding['rule']}] {finding['file']} — registry override")
     print("-" * 72)
-    print(f"Total: {len(errors)} errors, {len(warnings)} warnings")
+    print(f"Total: {len(errors)} errors, {len(warnings)} warnings, "
+          f"{len(intentional)} intentional")
 
     if args.report:
         write_report(args.report, stats, findings, total_words)
