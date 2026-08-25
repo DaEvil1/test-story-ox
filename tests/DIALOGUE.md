@@ -54,14 +54,14 @@
 
 ## Chapter 05
 
-- **?:** "What did you bring back?"
+- **she:** "The cough is where he still is,"
+- **she:** "This is what keeping looks like,"
+- **Sera:** "Now show me what you carried out of there."
 - **?:** "So this is the thing. The door is a brick wall. The Limit is a hand on the wall."
 - **?:** "Ira signed it. The child is named in the record. The rest is broken."
 - **Sera:** "Do you think the child is Lio?"
 - **Sera:** "The name is there. The hand is there. The voice is there."
 - **?:** "Then it is not a theory. It's a place."
-- **?:** "The Curators offered to clean it. Take out the coughing, make him coherent. She refused."
-- **Sera:** "She says the cough is where he still is."
 - **Sera:** "There are two ways to use this,"
 - **Sera:** "Take the line back to the public record—let the city know what it erased. Or take the part that can't be public and keep it alive yourself."
 - **Sera:** "If you make it public,"
@@ -136,13 +136,16 @@
 
 ## Chapter 08
 
+- **?:** "Tell him the cough is where he still is"
 - **he:** "You made a private ledger,"
 - **he:** "Yes."
 - **Ari:** "This is one layer beneath the public wall,"
 - **Ari:** "One step away from the door. It is a place the Archive does not often let us keep."
 - **he:** "When I was young here,"
 - **he:** "a curator opened a sealed layer to prove a point. The city rerouted his street for a year. Every wall he passed showed him his own worst day, at every hour, in full light."
-- **?:** "Order is compassion when the archive is fragile. That phrase was his. I have never decided if he was right."
+- **he:** "Order is compassion when the archive is fragile. That phrase was his. I have never decided if he was right. He looked at the card again. "
+- **he:** " he said. "
+- **he:** ""
 - **she:** "If someone finds this,"
 - **she:** "they will know we were here."
 - **she:** "They will know a trace remains. They will not know the whole shape."
@@ -194,14 +197,14 @@
 - **he:** "If you write anything here,"
 - **he:** "you are not only changing a sentence. You are changing the city that reads it."
 - **?:** "Authorized correction: guardianship record misfiled."
-- **?:** "A memorial plaque will be installed in the market to honor a lost ledger entry."
-- **?:** "You can make the city softer. Or you can make it forget less."
-- **?:** "I am making room for a private place."
-- **She:** "That is the first honest sentence in a long time."
-- **She:** "The Archive retains a private ledger entry for internal review, accessible only to authorized curators."
-- **he:** "If you save this,"
-- **he:** "the city will adjust the margin. It will know there is a private ledger. It will not know the contents."
-- **he:** "The council's senior curator brought these down herself while you were saving your amendment,"
+- **?:** "Lio Nash was here."
+- **?:** "That name enters the public index. Every Curator in the city reads it by noon—"
+- **?:** "Then they can come ask me who Lio Nash was."
+- **?:** "I'm done writing sentences nobody feels. That was the trade I made for these fingers. Not this."
+- **?:** "if i keep the light, then the dark can go away"
+- **?:** "You put the child's voice on public stone."
+- **?:** "I put it where the stone can't be scoured without everyone asking why."
+- **he:** "The council's senior curator brought these down herself,"
 - **he:** "Someone read the plaque order and drew a line back to my cabinet."
 - **?:** "Keep the private ledger well. I am apparently done keeping things."
 - **he:** "And you?"
@@ -216,8 +219,8 @@
 - **she:** "Did you break it or mend it?"
 - **she:** "Made room."
 - **?:** "Crooked holds."
-- **?:** "You've been practicing."
-- **?:** "Once or twice."
+- **?:** "On public stone."
+- **?:** "Where it can't be scoured without everyone asking why."
 - **?:** "One more thing."
 - **?:** "You're an editor. When did you last read your own archive?"
 - **Sera:** "Everybody's gets edited some,"
@@ -226,4 +229,4 @@
 - **Keji:** "I know,"
 
 ---
-**Total lines:** 190
+**Total lines:** 193

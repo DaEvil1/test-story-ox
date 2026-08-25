@@ -131,7 +131,9 @@ registered new information. Mark each prediction **hit**, **miss**, or
 - Ari is implicated in helping and will be exposed to risk
 
 **ch11 registered:**
-- amendment content: guardianship misfiled; memorial plaque; private ledger retained
+- Keji refuses 'misfiled' and publicly names Lio Nash
+- plaque order engraves the child's own unattributed words on public stone
+- cold correction retained: guardianship misfiled; private ledger retained
 - city will know the ledger exists but not its contents; Ari accepts
 - the council strips Ari's seals for the plaque order
 - the original ribbon is sealed into the Archive's keeping

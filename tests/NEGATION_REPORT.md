@@ -2,12 +2,8 @@
 
 <!-- tools/detect_negation_contrast.py v2 — not part of the checker yet. -->
 
-- **[STRONG]** chapter_08.md:41 (2 negations then affirmative)
+- **[STRONG]** chapter_08.md:43 (2 negations then affirmative)
   - > Keji did not look up. He did not ask for the contents.  >>  He simply stood in the doorway and watched the card, the coin, the lamp.
-- **[STRONG]** chapter_11.md:17 (2 negations then affirmative)
-  - > She did not say why. She did not say who or when.  >>  She let the sentence do the work.
-- **[STRONG]** chapter_11.md:29 (2 negations then affirmative)
-  - > She did not mention the hidden room, the child, the name Lio. She did not mention the hidden line that had said keep private.  >>  She wrote the amendment as an administrative correction.
 - **[MEDIUM]** chapter_02.md:27 (negation then contrast-marked sentence)
   - > She did not know if this coin belonged to Lio.
 - **[WEAK]** chapter_02.md:3 (single negation then same-subject affirmative)
@@ -66,9 +62,9 @@
   - > It did not ask.  >>  It ordered.
 - **[WEAK]** chapter_08.md:3 (single negation then same-subject affirmative)
   - > She did not put the hidden record on a wall or let the city press its weight into it.  >>  She held it in a private packet and in the coin in her pocket.
-- **[WEAK]** chapter_08.md:65 (single negation then same-subject affirmative)
+- **[WEAK]** chapter_08.md:67 (single negation then same-subject affirmative)
   - > Keji did not disagree.  >>  She folded the card and slid it into the box of private slips.
-- **[WEAK]** chapter_08.md:69 (single negation then same-subject affirmative)
+- **[WEAK]** chapter_08.md:71 (single negation then same-subject affirmative)
   - > Ari did not answer.  >>  He left the room without sealing the door.
 - **[WEAK]** chapter_09.md:15 (single negation then same-subject affirmative)
   - > She did not move too fast; walls resist quick hands.  >>  She let the letters settle under the glass, following them with her eyes.
@@ -78,11 +74,9 @@
   - > Sera did not add anything.  >>  Keji looked at her.
 - **[WEAK]** chapter_10.md:41 (single negation then same-subject affirmative)
   - > She did not remember deciding to.  >>  She unwound it slowly, the way you ease a knot you cannot afford to lose, then put her hands flat on the table until they were hers again.
-- **[WEAK]** chapter_11.md:5 (single negation then same-subject affirmative)
+- **[WEAK]** chapter_11.md:7 (single negation then same-subject affirmative)
   - > He did not come closer.  >>  "If you write anything here," he said, "you are not only changing a sentence.
-- **[WEAK]** chapter_11.md:11 (single negation then same-subject affirmative)
-  - > She did not write about what had happened.  >>  She wrote about what she wanted to make room for.
-- **[WEAK]** chapter_11.md:43 (single negation then same-subject affirmative)
-  - > He was not touching the screen.  >>  He was counting the gaps between the paper stacks.
-- **[WEAK]** chapter_11.md:55 (single negation then same-subject affirmative)
+- **[WEAK]** chapter_11.md:29 (single negation then same-subject affirmative)
+  - > Not this."  >>  He looked at the bandage, then at the screen, and whatever he saw there ended the argument about the name.
+- **[WEAK]** chapter_11.md:53 (single negation then same-subject affirmative)
   - > She did not reach for the box.  >>  he asked quietly.

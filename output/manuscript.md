@@ -10,6 +10,8 @@ She replayed the clip. Muffled, compressed, threaded through a rhythm she almost
 
 Advertisements flutter above archival script in the market; lovers' names breathe through varnished panels. One wall had been scoured clean—no graffiti, no merchant prayers—and someone had painted a child's scrawl across it with a blunt, stubborn hand. The letters were juvenile and crooked, and for a second Keji tasted Lio's smallness behind them.
 
+Two doors down, a girl was pressing a folded scrap into a wall-crack, sealing it with her palm—asking the wall, the children called it—and Keji stepped around her without thinking, the way everyone did.
+
 The memory came whole, unasked: a tidepool at low light, clockwork shells ticking under the skin of the water, impossible little engines. Lio crouched over it with trousers rolled to the knee. "If I whistle, they'll come up," Lio said, deadly serious. Two fingers in the mouth; the whistle cracked and scattered the birds off the rocks. Keji laughed until her sides hurt, and Lio looked up, seawater dripping from both cuffs, triumphant. "Told you."
 
 The memory folded shut. Market noise came back.
@@ -210,9 +212,11 @@ Sera was waiting by a wall that had been half-finished for days. Her palm rested
 
 ## Chapter 5 — The Choice
 
-The wall in the Drift was not the same wall that had resisted her. It had become a scrape of raw memory, exposed where the city had not yet covered it. Keji leaned against it and felt the ink pulse under her palm.
+Down in the Drift, a woman sat against a breathing wall with an echo-bottle open in her cupped hands. Her husband's last hours played raw around her: half sentences, a cough, somebody's radio. She had refused the Curators' offer to clean it. "The cough is where he still is," she said—to no one, to everyone.
 
-Sera watched her. "What did you bring back?"
+Sera brought Keji to her before anything else.
+
+"This is what keeping looks like," Sera said quietly. Then she nodded at the recorder in Keji's hand. "Now show me what you carried out of there."
 
 Keji put the recorder on the wall between them. The red light blinked. The first line played in her ears again, precise and thin: AUTHORIZE RESET. PRESERVE NETWORK. REMOVE CHANNEL.
 
@@ -229,8 +233,6 @@ Keji's thumb pressed into the coin in her pocket. "The name is there. The hand i
 Sera's grin returned, but it was quiet. "Then it is not a theory. It's a place."
 
 She stood. The Drift was quiet enough that even the low hum of memory felt loud. Keji could hear the city's regular walls beyond, the ones that carried the city's taught stories. The Drift's walls were the ones that did not have a story yet.
-
-Down the passage, a woman sat against a breathing wall with an echo-bottle open in her cupped hands. Her husband's last hours played raw in the air around her—half sentences, a cough, somebody's radio. Sera lowered her voice. "The Curators offered to clean it. Take out the coughing, make him coherent. She refused." The woman's thumb moved over the bottle's seam. "She says the cough is where he still is."
 
 "There are two ways to use this," Sera said. "Take the line back to the public record—let the city know what it erased. Or take the part that can't be public and keep it alive yourself."
 
@@ -527,7 +529,9 @@ He laughed when it settled—an old man in a public chair, surprised by his own 
 
 Eleven minutes, all of it. She filed the thread and reached for the next name, and her hands were steady, and she looked at them a moment too long.
 
-On the fourth day she tried the front door. One request, properly filed: provenance review, referenced only by stamp number, no names attached. The reply came back in eleven minutes, polite as a locked gate: RECORD NOT PRESENT IN PUBLIC INDEX. She reshelved the slip, washed her cup, went back to her threads. That evening her terminal greeted her by name when she sat down. It had never done that before.
+On the third morning, Sera vanished. The story reached the editing hall by lunch, wearing desk-clerk gossip for clothes: the Drift woman had walked into the Curators' hall, asked for Ari by name, told the desk — “Tell him the cough is where he still is” — and installed herself on the marble bench to wait. Whatever passed between them upstairs, nobody managed to overhear. But Sera came back out through the market holding her sleeves like they belonged to somebody else.
+
+On the fourth day she tried the front door. One request, properly filed: provenance review, referenced only by stamp number, no names attached. The reply came back in eleven minutes, polite as a locked gate: RECORD NOT PRESENT IN PUBLIC INDEX. She reshelved the slip, washed her cup, went back to her threads. That evening her terminal greeted her by name when she sat down—and below her name, logged that same morning, a second line: SERA — CURATORS' HALL — ELEVEN MINUTES. It had never done that before.
 
 She went to a room beneath the Curators' hall that smelled of old ledger paper and the metal tang of security doors. It was a room she had been in once as a child—once before the Archive learned how to keep secrets from itself.
 
@@ -559,7 +563,7 @@ He did not ask for the contents. He simply stood in the doorway and watched the 
 
 "This is one layer beneath the public wall," Ari said. "One step away from the door. It is a place the Archive does not often let us keep."
 
-He stood there a moment longer, looking at the card instead of her. "When I was young here," he said, not quite to her, "a curator opened a sealed layer to prove a point. The city rerouted his street for a year. Every wall he passed showed him his own worst day, at every hour, in full light." He straightened a stack of slips that did not need straightening. "Order is compassion when the archive is fragile. That phrase was his. I have never decided if he was right."
+He stood there a moment longer, looking at the card instead of her. "When I was young here," he said, not quite to her, "a curator opened a sealed layer to prove a point. The city rerouted his street for a year. Every wall he passed showed him his own worst day, at every hour, in full light." He straightened a stack of slips that did not need straightening. "Order is compassion when the archive is fragile. That phrase was his. I have never decided if he was right. He looked at the card again. "Sera stood where you're standing yesterday," he said. "She wanted to know if the room smelled like courage or like fear.""
 
 Keji turned the card. The ink had dried. The lines were crisp.
 
@@ -812,4 +816,4 @@ Keji's good hand went still on the railing.
 
 In the great window by the doors, the sea was coming in, dark and patient, wearing the lamplight into small pieces the way it had worn at the city's edges since before anyone's oldest memory of it.
 
-She walked back through the archive with her steps steady. The coin warmed with each footfall, and somewhere behind her, on a wall that could not be scoured without questions, Lio Nash's name waited for the city to read it aloud.
+She walked back through the archive with her steps steady. The coin warmed with each footfall, and somewhere behind her, on a wall that could not be scoured without questions, Lio Nash's name waited for the city to read it aloud. Somewhere a child was pressing a new question into a crack, waiting for the water.
