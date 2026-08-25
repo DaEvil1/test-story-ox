@@ -29,3 +29,6 @@ question: What if Ira never left - only disappeared into the uncurated city?
 
 ## 2026-08-25 — harvested from [20260825-006] ira-alive (mutation)
 question: What if Ira never left - only disappeared into the uncurated city?
+
+## 2026-08-25 - ending-gestures fork resolved
+BOTH (name + engraved line) won across three lenses; incumbent confirmed. VOICE-ONLY variant contained one usable aphorism-adjacent line, discarded with the variant.

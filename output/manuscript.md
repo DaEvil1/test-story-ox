@@ -30,7 +30,7 @@ At the Curators' hall, Ari looked up slowly. When she said Ira's name, his hands
 
 Keji did not swallow. The words sat in her throat.
 
-At home, packets of Lio's handwriting arrived in fragments—postcards, half-practiced signatures on a receipt—things the Archive kept for the family. Keji aligned them the way a conservator aligns torn pages: the curves, the slants, the accidental loops. The child's scrawl on the market wall matched a crooked loop in her files. The same loop. The same hand.
+At home, packets of Lio's handwriting arrived in fragments—postcards, half-practiced signatures on a receipt—things the Archive kept for the family. Keji aligned them the way a conservator aligns torn pages: the curves, the slants, the accidental loops. The child's scrawl on the market wall matched a crooked loop in her files. The same loop. The same hand. Her own signature from that winter had drifted too — the K closing looser than her hand remembered making it. Signatures do that. She filed the thought with the rest.
 
 Late, she sat at the window and listened to the Archive. It pulsed. She felt it in the floor, in her ribs. In the silence, Ira's voice: the cadence, the catch. Small mercies offered under pressure.
 
@@ -67,7 +67,7 @@ A door in the chamber shifted. The floor drew taut under her feet. On her left a
 
 Keji stepped back. Her shoulder hit a surface and she found a hidden niche. Inside it, someone had left a small thing: a worn coin, flattened on one side, marked with a child's crude lighthouse. The coin was not in the recorded sound. It was a thing in the room.
 
-Her thumb moved over the lighthouse and the room went far away for a breath: Lio at the kitchen table, counting coins into Keji's palm with terrible ceremony. "One for the boat," Lio said, placing each one like it might wake. "One for the light. One for you, because you lose things." She had kept that last one longer than the others. And after the tidepools there had been the climb home—Lio asleep against her shoulder, salt-smelling hair stuck to Keji's cheek, an arm hooked around her neck, heavier than any sleeping child had a right to be.
+Her thumb moved over the lighthouse and the room went far away for a breath: Lio at the kitchen table, counting coins into Keji's palm with terrible ceremony. "One for the boat," Lio said, placing each one like it might wake. "One for the light. One for you, because you lose things." She had kept that last one longer than the others. Longer, she was almost sure, than the rules of memory allowed. And after the tidepools there had been the climb home—Lio asleep against her shoulder, salt-smelling hair stuck to Keji's cheek, an arm hooked around her neck, heavier than any sleeping child had a right to be.
 
 She did not know if this coin belonged to Lio. She put it in her pocket anyway. The metal was warm from the chamber's breath.
 
@@ -335,7 +335,7 @@ Sera was waiting in the Drift when Keji left the hall. The passage there felt wa
 
 "I have something you need to hear," Keji said.
 
-Sera took her word and led the way to a place where the wall was unfinished, where the public script had not yet sealed the memory. The surface there was matte and rough. It resisted the city’s polish.
+Sera took her word and led the way to a place where the wall was unfinished, where the public script had not yet sealed the memory. The surface there was matte and rough. It resisted the city’s polish. On the silt-line at its foot sat a clay cup with hardened resin at the lip—somebody's drink, abandoned mid-shift.
 
 Keji pressed the spindle to the wall. The wire sank a hair. The Archive's hidden layer answered with a sound like a damp cloth being pulled across stone.
 
@@ -456,7 +456,7 @@ She reached into her pocket and closed her hand around the coin. Private sat in 
 
 Sera did not argue. She led the way down a passage that narrowed until the air itself felt thicker, walls layered with old recorder plates, each humming at its own pitch, the low notes reverberating in Keji's chest.
 
-At the end of the passage a chamber opened, unlit—what light there was came up from beneath the floor, from the recordings themselves. The air tasted of rain and dust and the sharp edge of paper that had been folded too many times.
+At the end of the passage a chamber opened, unlit—what light there was came up from beneath the floor, from the recordings themselves. The air tasted of rain and dust and the sharp edge of paper that had been folded too many times. Near the wall, half-trodden into the floor, lay a wooden button with its thread still through it.
 
 In the center of the chamber was a table. Not a physical table, but a surface of paused light. Faces moved there only as shifting pattern—no detail, only motion like what she remembered from the Archive's old viewing rooms.
 
@@ -709,7 +709,7 @@ Sera turned the maintenance key over in her fingers, watching the light run alon
 
 Keji did not ask who.
 
-That night, alone, she took out the ribbon.
+That night, alone, she took out the ribbon. Rain had started against the window, soft and irregular, counting to itself.
 
 She had carried it since the editing room and had never once played it end to end. Curators know every way to avoid a clip. She knew hers. She spliced it into the reader and let it run.
 

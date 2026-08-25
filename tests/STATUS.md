@@ -9,13 +9,13 @@
 | chapter_03.md | Chapter 3 — The Limit | 870 | PASS |
 | chapter_04.md | Chapter 4 — The Erased Core | 991 | PASS |
 | chapter_05.md | Chapter 5 — The Choice | 1168 | PASS |
-| chapter_06.md | Chapter 6 — The Limit Opened | 1125 | PASS |
-| chapter_07.md | Chapter 7 — The Table of Light | 992 | PASS |
+| chapter_06.md | Chapter 6 — The Limit Opened | 1144 | PASS |
+| chapter_07.md | Chapter 7 — The Table of Light | 1009 | PASS |
 | chapter_08.md | Chapter 8 — The Ledger | 1430 | PASS |
 | chapter_09.md | Chapter 9 — The Exposed Node | 1035 | PASS |
 | chapter_10.md | Chapter 10 — The Yes and the No | 723 | PASS |
 | chapter_11.md | Chapter 11 — The Amendment | 1055 | PASS |
 
-**Total words:** 11010
+**Total words:** 11046
 
 No findings.
