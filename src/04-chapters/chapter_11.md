@@ -80,7 +80,7 @@ They watched the water for a while, and the watching was enough. The clockwork s
 
 Sera looked out at the sound. "One more thing." Weather-mild. "You're an editor. When did you last read your own archive?"
 
-Keji's good hand went still on the railing.
+Keji's hand went still on the railing.
 
 "Everybody's gets edited some," Sera said. "Yours, by you. His, by him. Mine by nobody, which is its own problem." She hopped down off the piling. "Just asking."
 

@@ -70,7 +70,7 @@ Sera did not speak. She knelt and pressed Keji's shoulder once, and her thumb mo
 
 "This wall will let us back in only from the right side," she said. "The Limit has a shape. We need to follow the shape, not force it."
 
-Keji nodded. Beside the cracked spindle lay the recorder, still red-lit. The voice of the room was inside it now, but not as a full record—a shape, a cadence, a set of instructions.
+Keji nodded. The recorder lay on the stone beside the spindle, which had survived intact—she had set it down, not thrown it. The voice of the room was inside it now, but not as a full record—a shape, a cadence, a set of instructions.
 
 The edge had given her the directive and the child's line—it had refused her more, and taken two fingers for the asking.
 
@@ -78,4 +78,4 @@ The edge had given her the directive and the child's line—it had refused her m
 
 Sera glanced at the wall. "We have the place where it chose."
 
-Keji picked up the recorder with her good hand and looked at the bandaged one. "I went down for all of it," she said. "This is what fits now."
+Keji picked up the recorder. "I went down for all of it," she said. "This is what fits now."
