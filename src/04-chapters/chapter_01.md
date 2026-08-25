@@ -16,7 +16,7 @@ The memory folded shut. Market noise came back.
 
 A woman selling echo-bottles looked up. "You look like you swallowed an unfinished story," she said. She wrapped a bottle in brown paper and handed it to Keji without asking.
 
-Keji didn't smile. She moved through the Drift without speaking. Sera found her at the old quay, where the sound was loudest—the Archive's pulse, the ocean underneath. "You came early," Sera said, sitting against a post that the walls had softened into a chair.
+Keji didn't smile. She moved through the Drift without speaking. The air down here had weight—wet, brackish, alive—and her editing-hall lungs, used to filtered salt and recycled temperature, took three breaths to adjust. Sera found her at the old quay, where the sound was loudest—the Archive's pulse, the ocean underneath. "You came early," Sera said, sitting against a post that the walls had softened into a chair.
 
 "There's a limit to how much smoothing preserves anything," Sera said. She looked toward the water. "There are things the Archive can't or won't carry. They call that place The Limit."
 

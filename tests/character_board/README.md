@@ -53,6 +53,20 @@ violate the internal logic of the beings it manages.
 - Character GAPs feed the editorial board as high-priority items.
 - Character CONFIRMATIONs validate attachment-ledger entries.
 
+## World-experience inventory (added 2026-08-25)
+
+In addition to behavioral authenticity, each character describes their
+SENSORY experience of the world — what the Archive smells like after ten
+years, which sounds they've stopped hearing, where their body hurts, what
+the Drift feels like under bare feet vs through boot soles. This inventory
+is diffed against the manuscript's actual sensory content: if a character's
+lived experience includes details the prose never shows, that's a gap
+between the built world and the inhabited world.
+
+Characters are the only reliable witnesses to their own habitation. The
+author builds rooms; characters tell you whether anyone actually lives in
+them.
+
 ## When to convene
 
 After any pass that changes ≥1 scene involving a board member, and before

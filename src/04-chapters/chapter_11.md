@@ -14,7 +14,7 @@ The first line took four attempts.
 
 "Authorized correction: guardianship record misfiled." She read it back. Clean. Bureaucratic. Exactly the sentence she had built on the stairwell while her fingers throbbed, exactly the sentence Ari would nod at—a sentence whose whole virtue was that nobody would feel it.
 
-She deleted it.
+She deleted it. Her hands kept typing after the screen went blank — muscle memory running corrections on nothing, the way a tongue finds the gap where a tooth used to be.
 
 She had spent the night listening to Ira laugh with her whole chest inside a recording Ira hid in the walls on purpose. Whatever else the morning asked, it did not ask her to begin lying in small, respectable type.
 

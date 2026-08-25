@@ -18,7 +18,7 @@ The memory folded shut. Market noise came back.
 
 A woman selling echo-bottles looked up. "You look like you swallowed an unfinished story," she said. She wrapped a bottle in brown paper and handed it to Keji without asking.
 
-Keji didn't smile. She moved through the Drift without speaking. Sera found her at the old quay, where the sound was loudest—the Archive's pulse, the ocean underneath. "You came early," Sera said, sitting against a post that the walls had softened into a chair.
+Keji didn't smile. She moved through the Drift without speaking. The air down here had weight—wet, brackish, alive—and her editing-hall lungs, used to filtered salt and recycled temperature, took three breaths to adjust. Sera found her at the old quay, where the sound was loudest—the Archive's pulse, the ocean underneath. "You came early," Sera said, sitting against a post that the walls had softened into a chair.
 
 "There's a limit to how much smoothing preserves anything," Sera said. She looked toward the water. "There are things the Archive can't or won't carry. They call that place The Limit."
 
@@ -55,7 +55,7 @@ The hidden strata did not look like halls. They were rooms folded into each othe
 
 She moved forward. What passed for lights was only old memory glowing through plaster. In one doorframe the concrete had been worked into a ledger, a list of names. The names were not public ones; they were private and uneven, scratched in a child's hand beneath a curator's stamp. Keji found Lio's looped J and stopped.
 
-The room beyond was a seal. The air there had the taste of sealed paper, damp and sharp. Her fingers brushed the threshold. The walls responded, a low vibration like a held breath. Keji put the glitch against the door and felt it pulse back.
+The room beyond was a seal. The air there had the taste of sealed paper, damp and sharp. Her fingers brushed the threshold. The walls responded—a low vibration that buzzed in her fingertips and stayed for an hour afterward, a hum she kept finding under her nails. Keji put the glitch against the door and felt it pulse back.
 
 Inside was a chamber of recorded sound, not the clean Archive voice she edited every day, but a tangle of tonalities. Somewhere in the walls an old message played on loop—a woman saying “remember to eat” in a language Keji didn’t recognize, patient as wallpaper. There were the quick edits of officials, the snapped rhythm of procedure, and under them, a voice that held itself steady.
 
@@ -746,7 +746,7 @@ The first line took four attempts.
 
 "Authorized correction: guardianship record misfiled." She read it back. Clean. Bureaucratic. Exactly the sentence she had built on the stairwell while her fingers throbbed, exactly the sentence Ari would nod at—a sentence whose whole virtue was that nobody would feel it.
 
-She deleted it.
+She deleted it. Her hands kept typing after the screen went blank — muscle memory running corrections on nothing, the way a tongue finds the gap where a tooth used to be.
 
 She had spent the night listening to Ira laugh with her whole chest inside a recording Ira hid in the walls on purpose. Whatever else the morning asked, it did not ask her to begin lying in small, respectable type.
 

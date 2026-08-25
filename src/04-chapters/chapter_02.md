@@ -10,7 +10,7 @@ The hidden strata did not look like halls. They were rooms folded into each othe
 
 She moved forward. What passed for lights was only old memory glowing through plaster. In one doorframe the concrete had been worked into a ledger, a list of names. The names were not public ones; they were private and uneven, scratched in a child's hand beneath a curator's stamp. Keji found Lio's looped J and stopped.
 
-The room beyond was a seal. The air there had the taste of sealed paper, damp and sharp. Her fingers brushed the threshold. The walls responded, a low vibration like a held breath. Keji put the glitch against the door and felt it pulse back.
+The room beyond was a seal. The air there had the taste of sealed paper, damp and sharp. Her fingers brushed the threshold. The walls responded—a low vibration that buzzed in her fingertips and stayed for an hour afterward, a hum she kept finding under her nails. Keji put the glitch against the door and felt it pulse back.
 
 Inside was a chamber of recorded sound, not the clean Archive voice she edited every day, but a tangle of tonalities. Somewhere in the walls an old message played on loop—a woman saying “remember to eat” in a language Keji didn’t recognize, patient as wallpaper. There were the quick edits of officials, the snapped rhythm of procedure, and under them, a voice that held itself steady.
 
