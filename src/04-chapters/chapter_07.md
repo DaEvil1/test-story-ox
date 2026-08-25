@@ -44,7 +44,7 @@ She reached into her pocket and closed her hand around the coin. Private sat in 
 
 Sera did not argue. She led the way down a passage that narrowed until the air itself felt thicker, walls layered with old recorder plates, each humming at its own pitch, the low notes reverberating in Keji's chest.
 
-At the end of the passage a chamber opened, unlit—what light there was came up from beneath the floor, from the recordings themselves. The air tasted of rain and dust and the sharp edge of paper that had been folded too many times.
+At the end of the passage a chamber opened, unlit—what light there was came up from beneath the floor, from the recordings themselves. The air tasted of rain and dust and the sharp edge of paper that had been folded too many times. Near the wall, half-trodden into the floor, lay a wooden button with its thread still through it.
 
 In the center of the chamber was a table. Not a physical table, but a surface of paused light. Faces moved there only as shifting pattern—no detail, only motion like what she remembered from the Archive's old viewing rooms.
 

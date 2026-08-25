@@ -28,7 +28,7 @@ Sera was waiting in the Drift when Keji left the hall. The passage there felt wa
 
 "I have something you need to hear," Keji said.
 
-Sera took her word and led the way to a place where the wall was unfinished, where the public script had not yet sealed the memory. The surface there was matte and rough. It resisted the city’s polish.
+Sera took her word and led the way to a place where the wall was unfinished, where the public script had not yet sealed the memory. The surface there was matte and rough. It resisted the city’s polish. On the silt-line at its foot sat a clay cup with hardened resin at the lip—somebody's drink, abandoned mid-shift.
 
 Keji pressed the spindle to the wall. The wire sank a hair. The Archive's hidden layer answered with a sound like a damp cloth being pulled across stone.
 
