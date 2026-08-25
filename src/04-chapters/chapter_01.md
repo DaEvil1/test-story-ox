@@ -8,6 +8,8 @@ She replayed the clip. Muffled, compressed, threaded through a rhythm she almost
 
 Advertisements flutter above archival script in the market; lovers' names breathe through varnished panels. One wall had been scoured clean—no graffiti, no merchant prayers—and someone had painted a child's scrawl across it with a blunt, stubborn hand. The letters were juvenile and crooked, and for a second Keji tasted Lio's smallness behind them.
 
+Two doors down, a girl was pressing a folded scrap into a wall-crack, sealing it with her palm—asking the wall, the children called it—and Keji stepped around her without thinking, the way everyone did.
+
 The memory came whole, unasked: a tidepool at low light, clockwork shells ticking under the skin of the water, impossible little engines. Lio crouched over it with trousers rolled to the knee. "If I whistle, they'll come up," Lio said, deadly serious. Two fingers in the mouth; the whistle cracked and scattered the birds off the rocks. Keji laughed until her sides hurt, and Lio looked up, seawater dripping from both cuffs, triumphant. "Told you."
 
 The memory folded shut. Market noise came back.

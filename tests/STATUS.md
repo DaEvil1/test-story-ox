@@ -4,7 +4,7 @@
 
 | Chapter | Title | Words | Status |
 |---|---|---:|---|
-| chapter_01.md | Chapter 1 — The Fault Line | 656 | PASS |
+| chapter_01.md | Chapter 1 — The Fault Line | 690 | PASS |
 | chapter_02.md | Chapter 2 — The Hidden Layer | 890 | PASS |
 | chapter_03.md | Chapter 3 — The Limit | 870 | PASS |
 | chapter_04.md | Chapter 4 — The Erased Core | 991 | PASS |
@@ -14,8 +14,8 @@
 | chapter_08.md | Chapter 8 — The Ledger | 1304 | PASS |
 | chapter_09.md | Chapter 9 — The Exposed Node | 1035 | PASS |
 | chapter_10.md | Chapter 10 — The Yes and the No | 711 | PASS |
-| chapter_11.md | Chapter 11 — The Amendment | 1040 | PASS |
+| chapter_11.md | Chapter 11 — The Amendment | 1055 | PASS |
 
-**Total words:** 10813
+**Total words:** 10862
 
 No findings.

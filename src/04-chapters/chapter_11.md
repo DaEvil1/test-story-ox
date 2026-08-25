@@ -88,4 +88,4 @@ Keji's good hand went still on the railing.
 
 In the great window by the doors, the sea was coming in, dark and patient, wearing the lamplight into small pieces the way it had worn at the city's edges since before anyone's oldest memory of it.
 
-She walked back through the archive with her steps steady. The coin warmed with each footfall, and somewhere behind her, on a wall that could not be scoured without questions, Lio Nash's name waited for the city to read it aloud.
+She walked back through the archive with her steps steady. The coin warmed with each footfall, and somewhere behind her, on a wall that could not be scoured without questions, Lio Nash's name waited for the city to read it aloud. Somewhere a child was pressing a new question into a crack, waiting for the water.
