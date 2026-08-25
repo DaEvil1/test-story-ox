@@ -54,17 +54,17 @@ Sera's hand touched her arm. "If the wall closes, the node will seal itself agai
 
 Keji lowered the spindle toward the node's edge and did the one thing a curator is for: reached to annotate, to set a small mark of custody on what she had found.
 
-The room refused the mark first. The hidden letters did not splinter this time; they collapsed all at once, like a fist closing over it.
+The room accepted the mark. Gently—not a grant, not a surrender. A hand saying: I see you seeing me.
 
-The recorder already held what mattered. What it did not hold was her hand.
+And the node gave her what she came for: not just the directive, but its whole weight. The institutional voice, the softer objector, the silence where a reason should have been, and beneath all of it, pressed into the seam like a flower someone had hidden from themselves:
 
-The door slammed its seam shut across her wrist—a bar of cold, total pressure—and wrenched free. Pain went up her arm in a white sheet. She heard herself cry out, high and unfamiliar. The spindle dropped and cracked against the stone.
+    THE ONE WHO SIGNS CARRIES IT ALONE.
 
-When she could see again, she was on her knees in the Drift and the wall was solid, smooth, sealed. Its letters had rearranged into a neat line: NO FURTHER.
+Then the wall sealed behind them on the way out, like a lid set down by two hands instead of dropped. NO FURTHER, but quiet about it now—not anger in it, not punishment. More like a hand laying something down.
 
-Her good fist swung before she chose it—knuckles cracking against sealed plaster, once, twice—and the wall took it without a mark, which was worse.
+Sera looked at Keji's spindle still looped on her belt, unused since the stair. "You didn't force."
 
-Two fingers of her left hand hung dull at her side. They would not close. The coin had pressed its edge into her palm so hard she could find the mark by touch.
+"I witnessed." Keji touched nothing else. "That's what it wanted."
 
 Sera did not speak. She knelt and pressed Keji's shoulder once, and her thumb moved in one slow circle there — the only gentle thing in the room. Then she reached into her own pocket. She took out a small key on a thin wire—the kind the Archive used to access maintenance panels.
 

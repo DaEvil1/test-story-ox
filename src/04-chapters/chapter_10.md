@@ -1,6 +1,6 @@
 Chapter 10 — The Yes and the No
 
-The seam remembered her. When Keji set her palm to it the next morning, bandaged hand cradled against her coat, it did not pulse and did not form a word. It held, cool and final, like the far side of a stone.
+The seam remembered her. When Keji set her palm to it the next morning, it did not pulse and did not form a word. It held, cool and final, like the far side of a stone.
 
 "It's done," Sera said behind her. She had brought the maintenance key anyway; it hung from her fingers, pointed at a door that no longer had an inside. "Whatever's in there stopped listening when it took your hand."
 
@@ -42,4 +42,4 @@ She sat with it a long time. Somewhere in that sitting her hands wound the ribbo
 
 The message had been in her pocket through every sealed door.
 
-The two dull fingers ached in their wrapping. Keji turned the coin in her pocket, warm against her good palm, and felt its edge find the mark it had pressed into her other hand. Outside, far below the window, the tide turned and started coming in.
+Keji turned the coin in her pocket, warm against her palm. Outside, far below the window, the tide turned and started coming in.

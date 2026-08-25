@@ -26,9 +26,9 @@ There was no form for a person who had become a ledger entry and then a name aga
 
 Ari crossed the room fast. "That name enters the public index. Every Curator in the city reads it by noon—"
 
-"Then they can come ask me who Lio Nash was." Her good hand stayed flat on the desk. "I'm done writing sentences nobody feels. That was the trade I made for these fingers. Not this."
+"Then they can come ask me who Lio Nash was." Her hand stayed flat on the desk. "I'm done writing sentences nobody feels. That was the trade I made for these fingers. Not this."
 
-He looked at the bandage, then at the screen, and whatever he saw there ended the argument about the name.
+He looked at her hands—both steady now—then at the screen, and whatever he saw there ended the argument about the name.
 
 She kept the machinery anyway. A second document, colder: the correction reduced to what the city could carry without cracking—guardianship misfiled, private ledger retained, access restricted to authorized curators. And beneath the plaque order, where the engraver's instruction belonged, she typed the child's own line instead of an epitaph:
 
@@ -66,7 +66,7 @@ At the door he stopped, the box under his arm. "Order is compassion when the arc
 
 As she left the room she stopped at the private ledger room, one floor down. The ribbon went into the box beside the card—the original, the whole laugh of it—sealed where authorized hands could reach it and hers could not. Her hand stayed flat on the closed lid a moment. Then she went up into the noise of the halls.
 
-Before going out, she found Sera at the old quay, where the sound was loudest. Sera looked at the bandaged hand and did not ask.
+Before going out, she found Sera at the old quay, where the sound was loudest. Sera looked at her hands and did not ask.
 
 "So," she said. "Did you break it or mend it?"
 
