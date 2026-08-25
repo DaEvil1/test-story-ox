@@ -10,7 +10,7 @@ Sera's fingers tapped the console. "So this is the thing. The door is a brick wa
 
 Keji rubbed the back of her neck. "Ira signed it. The child is named in the record. The rest is broken."
 
-Sera did not answer. She traced a line of fresh script on the wall, and the characters shifted under her finger, leaving a bare space that was not empty but held a faint hum.
+Sera let the question sit. She traced a line of fresh script on the wall, and the characters shifted under her finger, leaving a bare space that was not empty but held a faint charge.
 
 "Do you think the child is Lio?" Sera asked.
 
@@ -24,7 +24,7 @@ Down the passage, a woman sat against a breathing wall with an echo-bottle open 
 
 "There are two ways to use this," Sera said. "Take the line back to the public record—let the city know what it erased. Or take the part that can't be public and keep it alive yourself."
 
-Keji's hand tightened around the coin. The metal was warm and slightly damp.
+Keji's hand tightened around the coin. The metal had picked up the day's damp.
 
 "If you make it public," Sera went on, "the people who built that door will feel it. The Limit will close faster. If you keep it private, it can still pulse. It can still be a thing that is not just a ledger entry."
 
@@ -90,4 +90,4 @@ The next step was not to tell the city. It was to find the missing pieces that h
 
 She left the hall with the packet in her hand. Outside, the city had not changed; noise went on, walls kept their taught stories.
 
-But the coin pulsed against her thigh, warm as the memory she'd uncovered.
+But the coin pulsed against her thigh with the same life as the memory she'd uncovered.

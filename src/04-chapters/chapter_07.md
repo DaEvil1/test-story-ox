@@ -38,7 +38,7 @@ Sera's hand came to Keji's shoulder. "It is not asking for permission. It is tel
 
 She stepped back, knee hitting the wall, and the stone carried a cold tremor as if it had been charged.
 
-She reached into her pocket and found the coin, metal warming to her skin. Private sat in her mind, heavy as the metal itself.
+She reached into her pocket and closed her hand around the coin. Private sat in her mind, heavy as the metal itself.
 
 "Then we go to the room itself," she said.
 

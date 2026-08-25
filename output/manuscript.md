@@ -43,7 +43,7 @@ She walked down toward the tides.
 
 Keji held the glitch in her palm until the skin went cold. The strip of memory vibrated there, thin and sharp, as if the Archive itself had put something into her hand it did not want her to keep.
 
-She did not go to the public room. She left the editing hall through a door that no one used in daylight, one under a stairwell where the salt dust lay in ridges. Above, the city hummed regular and distant. Below, the walls were layered with old seals and half-erased scripts that still bled ink when she passed her fingers over them.
+She did not go to the public room. She left the editing hall through a door that no one used in daylight, one under a stairwell where the salt dust lay in ridges. Above, the city kept its distance. Below, the walls were layered with old seals and half-erased scripts that still bled ink when she passed her fingers over them.
 
 No lift anymore. Underfoot the floor shivered, metal stairs becoming the kind of stone that remembers water. Keji followed the pulse under her boots. Around her the passage breathed; palms slid along ridged plaster. The Archive answered in a low, slow knock, not with words but with a cadence she recognized deep in her body.
 
@@ -84,7 +84,7 @@ Ari was at his desk. He did not look up when she came in. He sorted a stack of s
 
 "You went deeper than you should have," he said without looking at her.
 
-Keji did not answer. She stuck the coin into her pocket and felt its warm edge through the fabric. She held the glitch flat on the desk until it stopped humming.
+Keji did not answer. She stuck the coin into her pocket and felt its edge press a small circle through the fabric. She held the glitch flat on the desk until it stopped humming.
 
 He finally met her eyes. "Some doors are not for us. They close because what lies behind them cuts too deep."
 
@@ -134,7 +134,7 @@ Keji's grip closed around the coin in her pocket. It was a thing from the same w
 
 "I have to go where it is not willing to stay," Keji said.
 
-Sera let go of her wrist and stepped aside. In the space she left, the Drift opened into a narrow stair. The walls there were not walls; they were layers of old recorders, each one humming with its own temperature. The stair dipped into a scent of wet stone and paper.
+Sera let go of her wrist and stepped aside. In the space she left, the Drift opened into a narrow stair. The walls there were not walls; they were layers of old recorders, each holding its own temperature like a note someone forgot to release. The stair dipped into a scent of wet stone and paper.
 
 Keji took the first step.
 
@@ -149,7 +149,7 @@ At the bottom, the air had the smell of rain that had never fallen. A door waite
 
 Keji set her palm against the door. Under her skin the surface shivered, script rearranging itself. NO formed first, written in a hand that trembled just enough to be honest. Then FURTHER.
 
-The door did not open; the wall on her left hummed, and something heavy leaned against her lungs until breathing took planning. The door refused her the way the Drift wall had, without words.
+The door did not open; the wall on her left droned low, and something heavy leaned against her lungs until breathing took planning. The door refused her the way the Drift wall had, without words.
 
 She pressed harder, and script blurred—a line slipping through the varnish then vanishing. A name: LIO. The letters were not public. They were private and splayed, the way a child might have written them on a purse with too much force.
 
@@ -159,7 +159,7 @@ Then a sound deeper than a murmur answered the door. It was a series of taps, li
 
 She folded the glitch in her palm and stepped away from the door. The passage she had come through had already begun to fade. The stone above her head seemed to sigh.
 
-In the chamber beyond the door, the memory held itself in a room of listening surfaces. Keji did not see it first. She heard it. A line of language rose out of the air around her, not through speakers but through her own bones. It was a flat, careful voice speaking to a table of faces she did not see.
+In the chamber beyond the door, the memory held itself in a room of listening surfaces. Ears before eyes: a line of language rose out of the air around her, not through speakers but through her own bones. It was a flat, careful voice speaking to a table of faces she did not see.
 
 "Authorize the reset," the voice said. "Preserve the network. Remove the channel. Keep the public smooth."
 
@@ -183,7 +183,7 @@ It was a child's phrase. She heard it as taste in her mouth, quick and bright: "
 
 The voice snapped back into the main track. The chamber's wall made a sound like a lid coming down.
 
-Keji did not move. She let the silence fill the space. Her shoulder pressed against a bracket of stone. She felt the coin and the way it warmed with her pulse.
+Keji did not move. She let the silence fill the space. Her shoulder pressed against a bracket of stone. She felt the coin click once against her knuckle.
 
 When the room unclenched, she reached for the recorder she had brought. She had expected to take a clean clip. The Archive did not give her that. The recording was jagged—fragments, cross-talk, the sound of a line erasing itself.
 
@@ -199,7 +199,7 @@ Keji closed the recorder. Around her the chamber had stopped humming; the door b
 
 She did not push it. She let her hand follow the faint ink beneath the plaster. The ink had been written in a hand that belonged to someone who had been forced to write neat. Her fingers found the seam and the wall shivered. The stair opened.
 
-When she reached the market level, the world seemed brighter than before, not because the sun had changed but because the hidden space had shown her a place the city had tried to keep in shadow. Her palm still held the coin's warmth.
+When she reached the market level, the world seemed brighter than before, not because the sun had changed but because the hidden space had shown her a place the city had tried to keep in shadow. Her palm still cupped the coin.
 
 She could have gone back to Ari. She could have gone to Sera. Instead she went to the Drift first. The wall script there had loosened under her fingers. It pulsed more readily than before.
 
@@ -220,7 +220,7 @@ Sera's fingers tapped the console. "So this is the thing. The door is a brick wa
 
 Keji rubbed the back of her neck. "Ira signed it. The child is named in the record. The rest is broken."
 
-Sera did not answer. She traced a line of fresh script on the wall, and the characters shifted under her finger, leaving a bare space that was not empty but held a faint hum.
+Sera let the question sit. She traced a line of fresh script on the wall, and the characters shifted under her finger, leaving a bare space that was not empty but held a faint charge.
 
 "Do you think the child is Lio?" Sera asked.
 
@@ -234,7 +234,7 @@ Down the passage, a woman sat against a breathing wall with an echo-bottle open 
 
 "There are two ways to use this," Sera said. "Take the line back to the public record—let the city know what it erased. Or take the part that can't be public and keep it alive yourself."
 
-Keji's hand tightened around the coin. The metal was warm and slightly damp.
+Keji's hand tightened around the coin. The metal had picked up the day's damp.
 
 "If you make it public," Sera went on, "the people who built that door will feel it. The Limit will close faster. If you keep it private, it can still pulse. It can still be a thing that is not just a ledger entry."
 
@@ -300,14 +300,14 @@ The next step was not to tell the city. It was to find the missing pieces that h
 
 She left the hall with the packet in her hand. Outside, the city had not changed; noise went on, walls kept their taught stories.
 
-But the coin pulsed against her thigh, warm as the memory she'd uncovered.
+But the coin pulsed against her thigh with the same life as the memory she'd uncovered.
 
 
 ## Chapter 6 — The Limit Opened
 
-Ari's hall was quieter in the afternoon. The seals on his desk were stacked in neat rows, each one a circle of wax and forgotten agreement. Keji set the sealed packet down and let the sound of the room come to her: the rustle of paper, the scratch of a pen, the low hum of walls that had been waiting.
+Ari's hall was quieter in the afternoon. The seals on his desk were stacked in neat rows, each one a circle of wax and forgotten agreement. Keji set the sealed packet down and let the room come to her: the rustle of paper, the scratch of a pen, the low hush of walls that had been waiting.
 
-Ari did not reach for it. He looked at her instead.
+Ari left the packet where it lay. He looked at her instead.
 
 "You wanted the record," he said.
 
@@ -319,7 +319,7 @@ He stood and moved to a shelf. From a restricted drawer he took the spindle she 
 
 Keji watched the way his thumb flexed around the wire. "Then we use it quietly."
 
-Ari unsealed the packet—pages mostly blacked out, only fragments visible: AUTHORIZE RESET. PRESERVE NETWORK. REMOVE CHANNEL. Lio's name jagged in one place, written fast. He laid the fragment on the desk and activated the spindle; the wire hummed once against the paper, and around them the air changed, walls drawing closer.
+Ari unsealed the packet—pages mostly blacked out, only fragments visible: AUTHORIZE RESET. PRESERVE NETWORK. REMOVE CHANNEL. Lio's name jagged in one place, written fast. He laid the fragment on the desk and activated the spindle; the wire sighed once against the paper, and around them the air changed, walls drawing closer.
 
 "This is the edge of the record," Ari said. "Beyond it, the Archive is more careful. The Limit sits right after this."
 
@@ -333,7 +333,7 @@ Sera was waiting in the Drift when Keji left the hall. The passage there felt wa
 
 "I have something you need to hear," Keji said.
 
-Sera did not ask to see the packet. She led Keji to a place where the wall was unfinished, where the public script had not yet sealed the memory. The surface there was matte and rough. It resisted the city’s polish.
+Sera took her word and led the way to a place where the wall was unfinished, where the public script had not yet sealed the memory. The surface there was matte and rough. It resisted the city’s polish.
 
 Keji pressed the spindle to the wall. The wire sank a hair. The Archive's hidden layer answered with a sound like a damp cloth being pulled across stone.
 
@@ -369,7 +369,7 @@ Keji thought of the coin. She thought of the child's looped J and the way her mo
 
 Sera nodded. "Then we follow the refusal."
 
-They turned together. The wall to the left was not a wall at all but a series of thin plates arranged like pages. Each plate hummed at a different pitch. One plate was cooler under Keji's hand. It felt like the side of a stone that had been in the shade.
+They turned together. The wall to the left was not a wall at all but a series of thin plates arranged like pages. Each plate held a different pitch. One plate was cooler under Keji's hand. It felt like the side of a stone that had been in the shade.
 
 She touched it. The glass spindle logged the pulse. The hidden line there was smaller, more jagged. It formed a sentence and broke apart immediately.
 
@@ -391,7 +391,7 @@ She backed away. The spindle hummed in her hand. Sera’s fingers pressed hard a
 
 "You can save that," Sera whispered. "You can keep the private layer. But if you want it in the public record, you have to make the city feel it."
 
-Keji pressed the coin in her pocket until the metal warmed. "Then I make the city feel it in a way it still allows."
+Keji pressed the coin in her pocket until it bit a small line into her thumb. "Then I make the city feel it in a way it still allows."
 
 The wall pulsed again, softer this time. A single sentence appeared in the hidden layer and did not vanish: 
 
@@ -448,7 +448,7 @@ Sera's hand came to Keji's shoulder. "It is not asking for permission. It is tel
 
 She stepped back, knee hitting the wall, and the stone carried a cold tremor as if it had been charged.
 
-She reached into her pocket and found the coin, metal warming to her skin. Private sat in her mind, heavy as the metal itself.
+She reached into her pocket and closed her hand around the coin. Private sat in her mind, heavy as the metal itself.
 
 "Then we go to the room itself," she said.
 
@@ -780,7 +780,7 @@ Keji's throat worked once. She did not reach for the box.
 
 "And you?" he asked quietly. "What do you keep?"
 
-Keji slid the coin from her pocket and set it on the desk beside the seals. The lamp light caught its edge. The coin was warm.
+Keji slid the coin from her pocket and set it on the desk beside the seals. Lamp light caught its edge. The metal had taken the room into itself.
 
 "I keep this," she said. "And one private line."
 

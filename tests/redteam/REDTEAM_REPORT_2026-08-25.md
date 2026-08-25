@@ -93,3 +93,43 @@ one implicit rule to canonize; ambiguity functioning at both designed points.
 unproductive stumbles beyond known ch6/ch7 blur). #19/#47 confirmed at
 current values by behavioral data rather than self-assessment. No score
 changes; new evidence recorded.
+
+---
+
+# Round 8 - Full Panel After Polish (2026-08-25, complete-pipeline run)
+
+State read: POLISH pulse executed - fused image pairs decoupled (coin+warm 69->56%, wall+hum 73->50%, zero FUSED remain), NC warnings triaged (2 conversions, 2 registry adoptions, weak-cap resolved), all crutch metrics inside targets.
+
+## P4 Line Editor - 8.0
+
+"First draft of this manuscript with nothing to flag. The coin now clicks, dents, and takes the room into itself instead of perpetually warming - and reads better for it."
+
+## P7 Representation Reader - 7.9
+
+"Decoupling the coin from warmth made it more honest - it was always evidence, not comfort."
+
+## P3 Grief Reader - 8.0
+
+"The two kept warm moments (chamber's breath; footfall) are exactly right - scarcity returned their meaning."
+
+## P6 Impatient Skimmer - 6.9
+
+No change in lane speeds; nothing regressed.
+
+## P2 Genre Purist - 7.3
+
+Standing ask unchanged.
+
+## P9 AI-Pattern Hunter - status
+
+All panel metrics at floor or under flag thresholds. No new signatures detected. Detector suite stable.
+
+## Cross-panel
+
+No regressions detected by any persona. Unprompted praise set unchanged (ferryman, ribbon break, quay) - polish did not disturb the load-bearing scenes.
+
+## Score adoption
+
+| Criterion | Was | Now | Evidence |
+|---|---|---|---|
+| #27 Image economy | 6 | 7 | Zero fused pairs; abstract-of 7.4/10k under threshold; openers 20% |

@@ -1,8 +1,8 @@
 Chapter 6 — The Limit Opened
 
-Ari's hall was quieter in the afternoon. The seals on his desk were stacked in neat rows, each one a circle of wax and forgotten agreement. Keji set the sealed packet down and let the sound of the room come to her: the rustle of paper, the scratch of a pen, the low hum of walls that had been waiting.
+Ari's hall was quieter in the afternoon. The seals on his desk were stacked in neat rows, each one a circle of wax and forgotten agreement. Keji set the sealed packet down and let the room come to her: the rustle of paper, the scratch of a pen, the low hush of walls that had been waiting.
 
-Ari did not reach for it. He looked at her instead.
+Ari left the packet where it lay. He looked at her instead.
 
 "You wanted the record," he said.
 
@@ -14,7 +14,7 @@ He stood and moved to a shelf. From a restricted drawer he took the spindle she 
 
 Keji watched the way his thumb flexed around the wire. "Then we use it quietly."
 
-Ari unsealed the packet—pages mostly blacked out, only fragments visible: AUTHORIZE RESET. PRESERVE NETWORK. REMOVE CHANNEL. Lio's name jagged in one place, written fast. He laid the fragment on the desk and activated the spindle; the wire hummed once against the paper, and around them the air changed, walls drawing closer.
+Ari unsealed the packet—pages mostly blacked out, only fragments visible: AUTHORIZE RESET. PRESERVE NETWORK. REMOVE CHANNEL. Lio's name jagged in one place, written fast. He laid the fragment on the desk and activated the spindle; the wire sighed once against the paper, and around them the air changed, walls drawing closer.
 
 "This is the edge of the record," Ari said. "Beyond it, the Archive is more careful. The Limit sits right after this."
 
@@ -28,7 +28,7 @@ Sera was waiting in the Drift when Keji left the hall. The passage there felt wa
 
 "I have something you need to hear," Keji said.
 
-Sera did not ask to see the packet. She led Keji to a place where the wall was unfinished, where the public script had not yet sealed the memory. The surface there was matte and rough. It resisted the city’s polish.
+Sera took her word and led the way to a place where the wall was unfinished, where the public script had not yet sealed the memory. The surface there was matte and rough. It resisted the city’s polish.
 
 Keji pressed the spindle to the wall. The wire sank a hair. The Archive's hidden layer answered with a sound like a damp cloth being pulled across stone.
 
@@ -64,7 +64,7 @@ Keji thought of the coin. She thought of the child's looped J and the way her mo
 
 Sera nodded. "Then we follow the refusal."
 
-They turned together. The wall to the left was not a wall at all but a series of thin plates arranged like pages. Each plate hummed at a different pitch. One plate was cooler under Keji's hand. It felt like the side of a stone that had been in the shade.
+They turned together. The wall to the left was not a wall at all but a series of thin plates arranged like pages. Each plate held a different pitch. One plate was cooler under Keji's hand. It felt like the side of a stone that had been in the shade.
 
 She touched it. The glass spindle logged the pulse. The hidden line there was smaller, more jagged. It formed a sentence and broke apart immediately.
 
@@ -86,7 +86,7 @@ She backed away. The spindle hummed in her hand. Sera’s fingers pressed hard a
 
 "You can save that," Sera whispered. "You can keep the private layer. But if you want it in the public record, you have to make the city feel it."
 
-Keji pressed the coin in her pocket until the metal warmed. "Then I make the city feel it in a way it still allows."
+Keji pressed the coin in her pocket until it bit a small line into her thumb. "Then I make the city feel it in a way it still allows."
 
 The wall pulsed again, softer this time. A single sentence appeared in the hidden layer and did not vanish: 
 

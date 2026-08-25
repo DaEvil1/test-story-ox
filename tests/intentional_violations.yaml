@@ -43,3 +43,25 @@ violations:
       affirmative rewrite ("Ari stood in the doorway and watched") loses the
       cooperation; the silence IS the event.
     added: 2026-08-25
+
+  - id: IV-003
+    rule: NC-01
+    file: chapter_02.md
+    pattern: "she did not know if this coin belonged to lio"
+    justification: >
+      The uncertainty is the scene's information — Keji takes the coin
+      WITHOUT ownership, and "anyway" carries the whole decision. An
+      affirmative version ("the coin might be Lio's") states a conclusion she
+      is explicitly refusing to reach this early.
+    added: 2026-08-25
+
+  - id: IV-004
+    rule: NC-01
+    file: chapter_11.md
+    pattern: "she did not mention the hidden room"
+    justification: >
+      The amendment works by enumeration of omissions. Naming what she did
+      not mention IS the content: the reader watches her decline each true
+      thing in order. Affirmative phrasing ("She kept back the hidden room,
+      the child...") converts deliberate restraint into summary.
+    added: 2026-08-25

@@ -2,7 +2,7 @@ Chapter 2 — The Hidden Layer
 
 Keji held the glitch in her palm until the skin went cold. The strip of memory vibrated there, thin and sharp, as if the Archive itself had put something into her hand it did not want her to keep.
 
-She did not go to the public room. She left the editing hall through a door that no one used in daylight, one under a stairwell where the salt dust lay in ridges. Above, the city hummed regular and distant. Below, the walls were layered with old seals and half-erased scripts that still bled ink when she passed her fingers over them.
+She did not go to the public room. She left the editing hall through a door that no one used in daylight, one under a stairwell where the salt dust lay in ridges. Above, the city kept its distance. Below, the walls were layered with old seals and half-erased scripts that still bled ink when she passed her fingers over them.
 
 No lift anymore. Underfoot the floor shivered, metal stairs becoming the kind of stone that remembers water. Keji followed the pulse under her boots. Around her the passage breathed; palms slid along ridged plaster. The Archive answered in a low, slow knock, not with words but with a cadence she recognized deep in her body.
 

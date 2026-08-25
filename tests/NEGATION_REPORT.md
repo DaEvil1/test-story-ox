@@ -10,12 +10,6 @@
   - > She did not mention the hidden room, the child, the name Lio. She did not mention the hidden line that had said keep private.  >>  She wrote the amendment as an administrative correction.
 - **[MEDIUM]** chapter_02.md:27 (negation then contrast-marked sentence)
   - > She did not know if this coin belonged to Lio.
-- **[MEDIUM]** chapter_05.md:11 (negation then contrast-marked sentence)
-  - > Sera did not answer.
-- **[MEDIUM]** chapter_06.md:3 (negation then contrast-marked sentence)
-  - > Ari did not reach for it.
-- **[MEDIUM]** chapter_06.md:29 (negation then contrast-marked sentence)
-  - > Sera did not ask to see the packet.
 - **[WEAK]** chapter_02.md:3 (single negation then same-subject affirmative)
   - > She did not go to the public room.  >>  She left the editing hall through a door that no one used in daylight, one under a stairwell where the salt dust lay in ridges.
 - **[WEAK]** chapter_02.md:11 (single negation then same-subject affirmative)
@@ -27,7 +21,7 @@
 - **[WEAK]** chapter_03.md:5 (single negation then same-subject affirmative)
   - > He did not look up when she came in.  >>  He sorted a stack of seals with deliberate fingers.
 - **[WEAK]** chapter_03.md:7 (single negation then same-subject affirmative)
-  - > Keji did not answer.  >>  She stuck the coin into her pocket and felt its warm edge through the fabric.
+  - > Keji did not answer.  >>  She stuck the coin into her pocket and felt its edge press a small circle through the fabric.
 - **[WEAK]** chapter_03.md:21 (single negation then same-subject affirmative)
   - > He did not say he had once touched it himself.  >>  He turned away and walked to a cabinet.
 - **[WEAK]** chapter_03.md:23 (single negation then same-subject affirmative)
@@ -36,8 +30,6 @@
   - > Sera did not flinch.  >>  She held Keji's wrist.
 - **[WEAK]** chapter_04.md:13 (single negation then same-subject affirmative)
   - > The letters were not public.  >>  They were private and splayed, the way a child might have written them on a purse with too much force.
-- **[WEAK]** chapter_04.md:21 (single negation then same-subject affirmative)
-  - > Keji did not see it first.  >>  She heard it.
 - **[WEAK]** chapter_04.md:33 (single negation then same-subject affirmative)
   - > It was not a voice she knew by shape, but by the way it made the air around it shift.  >>  It said, 
 

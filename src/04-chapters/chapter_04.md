@@ -8,7 +8,7 @@ At the bottom, the air had the smell of rain that had never fallen. A door waite
 
 Keji set her palm against the door. Under her skin the surface shivered, script rearranging itself. NO formed first, written in a hand that trembled just enough to be honest. Then FURTHER.
 
-The door did not open; the wall on her left hummed, and something heavy leaned against her lungs until breathing took planning. The door refused her the way the Drift wall had, without words.
+The door did not open; the wall on her left droned low, and something heavy leaned against her lungs until breathing took planning. The door refused her the way the Drift wall had, without words.
 
 She pressed harder, and script blurred—a line slipping through the varnish then vanishing. A name: LIO. The letters were not public. They were private and splayed, the way a child might have written them on a purse with too much force.
 
@@ -18,7 +18,7 @@ Then a sound deeper than a murmur answered the door. It was a series of taps, li
 
 She folded the glitch in her palm and stepped away from the door. The passage she had come through had already begun to fade. The stone above her head seemed to sigh.
 
-In the chamber beyond the door, the memory held itself in a room of listening surfaces. Keji did not see it first. She heard it. A line of language rose out of the air around her, not through speakers but through her own bones. It was a flat, careful voice speaking to a table of faces she did not see.
+In the chamber beyond the door, the memory held itself in a room of listening surfaces. Ears before eyes: a line of language rose out of the air around her, not through speakers but through her own bones. It was a flat, careful voice speaking to a table of faces she did not see.
 
 "Authorize the reset," the voice said. "Preserve the network. Remove the channel. Keep the public smooth."
 
@@ -42,7 +42,7 @@ It was a child's phrase. She heard it as taste in her mouth, quick and bright: "
 
 The voice snapped back into the main track. The chamber's wall made a sound like a lid coming down.
 
-Keji did not move. She let the silence fill the space. Her shoulder pressed against a bracket of stone. She felt the coin and the way it warmed with her pulse.
+Keji did not move. She let the silence fill the space. Her shoulder pressed against a bracket of stone. She felt the coin click once against her knuckle.
 
 When the room unclenched, she reached for the recorder she had brought. She had expected to take a clean clip. The Archive did not give her that. The recording was jagged—fragments, cross-talk, the sound of a line erasing itself.
 
@@ -58,7 +58,7 @@ Keji closed the recorder. Around her the chamber had stopped humming; the door b
 
 She did not push it. She let her hand follow the faint ink beneath the plaster. The ink had been written in a hand that belonged to someone who had been forced to write neat. Her fingers found the seam and the wall shivered. The stair opened.
 
-When she reached the market level, the world seemed brighter than before, not because the sun had changed but because the hidden space had shown her a place the city had tried to keep in shadow. Her palm still held the coin's warmth.
+When she reached the market level, the world seemed brighter than before, not because the sun had changed but because the hidden space had shown her a place the city had tried to keep in shadow. Her palm still cupped the coin.
 
 She could have gone back to Ari. She could have gone to Sera. Instead she went to the Drift first. The wall script there had loosened under her fingers. It pulsed more readily than before.
 

@@ -6,7 +6,7 @@ Ari was at his desk. He did not look up when she came in. He sorted a stack of s
 
 "You went deeper than you should have," he said without looking at her.
 
-Keji did not answer. She stuck the coin into her pocket and felt its warm edge through the fabric. She held the glitch flat on the desk until it stopped humming.
+Keji did not answer. She stuck the coin into her pocket and felt its edge press a small circle through the fabric. She held the glitch flat on the desk until it stopped humming.
 
 He finally met her eyes. "Some doors are not for us. They close because what lies behind them cuts too deep."
 
@@ -56,6 +56,6 @@ Keji's grip closed around the coin in her pocket. It was a thing from the same w
 
 "I have to go where it is not willing to stay," Keji said.
 
-Sera let go of her wrist and stepped aside. In the space she left, the Drift opened into a narrow stair. The walls there were not walls; they were layers of old recorders, each one humming with its own temperature. The stair dipped into a scent of wet stone and paper.
+Sera let go of her wrist and stepped aside. In the space she left, the Drift opened into a narrow stair. The walls there were not walls; they were layers of old recorders, each holding its own temperature like a note someone forgot to release. The stair dipped into a scent of wet stone and paper.
 
 Keji took the first step.

@@ -56,7 +56,7 @@ Keji's throat worked once. She did not reach for the box.
 
 "And you?" he asked quietly. "What do you keep?"
 
-Keji slid the coin from her pocket and set it on the desk beside the seals. The lamp light caught its edge. The coin was warm.
+Keji slid the coin from her pocket and set it on the desk beside the seals. Lamp light caught its edge. The metal had taken the room into itself.
 
 "I keep this," she said. "And one private line."
 
