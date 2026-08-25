@@ -14,7 +14,9 @@ He laughed when it settled—an old man in a public chair, surprised by his own 
 
 Eleven minutes, all of it. She filed the thread and reached for the next name, and her hands were steady, and she looked at them a moment too long.
 
-On the fourth day she tried the front door. One request, properly filed: provenance review, referenced only by stamp number, no names attached. The reply came back in eleven minutes, polite as a locked gate: RECORD NOT PRESENT IN PUBLIC INDEX. She reshelved the slip, washed her cup, went back to her threads. That evening her terminal greeted her by name when she sat down. It had never done that before.
+On the third morning, Sera vanished. The story reached the editing hall by lunch, wearing desk-clerk gossip for clothes: the Drift woman had walked into the Curators' hall, asked for Ari by name, told the desk — “Tell him the cough is where he still is” — and installed herself on the marble bench to wait. Whatever passed between them upstairs, nobody managed to overhear. But Sera came back out through the market holding her sleeves like they belonged to somebody else.
+
+On the fourth day she tried the front door. One request, properly filed: provenance review, referenced only by stamp number, no names attached. The reply came back in eleven minutes, polite as a locked gate: RECORD NOT PRESENT IN PUBLIC INDEX. She reshelved the slip, washed her cup, went back to her threads. That evening her terminal greeted her by name when she sat down—and below her name, logged that same morning, a second line: SERA — CURATORS' HALL — ELEVEN MINUTES. It had never done that before.
 
 She went to a room beneath the Curators' hall that smelled of old ledger paper and the metal tang of security doors. It was a room she had been in once as a child—once before the Archive learned how to keep secrets from itself.
 
@@ -46,7 +48,7 @@ He did not ask for the contents. He simply stood in the doorway and watched the 
 
 "This is one layer beneath the public wall," Ari said. "One step away from the door. It is a place the Archive does not often let us keep."
 
-He stood there a moment longer, looking at the card instead of her. "When I was young here," he said, not quite to her, "a curator opened a sealed layer to prove a point. The city rerouted his street for a year. Every wall he passed showed him his own worst day, at every hour, in full light." He straightened a stack of slips that did not need straightening. "Order is compassion when the archive is fragile. That phrase was his. I have never decided if he was right."
+He stood there a moment longer, looking at the card instead of her. "When I was young here," he said, not quite to her, "a curator opened a sealed layer to prove a point. The city rerouted his street for a year. Every wall he passed showed him his own worst day, at every hour, in full light." He straightened a stack of slips that did not need straightening. "Order is compassion when the archive is fragile. That phrase was his. I have never decided if he was right. He looked at the card again. "Sera stood where you're standing yesterday," he said. "She wanted to know if the room smelled like courage or like fear.""
 
 Keji turned the card. The ink had dried. The lines were crisp.
 
