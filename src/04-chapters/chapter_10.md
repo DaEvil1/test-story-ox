@@ -14,6 +14,14 @@ Sera knelt beside him, palms out, murmuring nothing in particular until the voic
 
 Keji watched the man gather his fruit one-handed. Twice he stopped, listening for something that had already left. The Curators would fix him. She believed it. She also believed the woman's voice had been real.
 
+At the edge where the Drift becomes the market, Sera stopped walking.
+
+"I need to go away for a while." She unclipped the maintenance key from her belt, looked at it, put it back. "Three weeks. Maybe four. I need to walk until the walls stop talking to me."
+
+"Because of him?"
+
+"Because of all of them." Sera turned toward the market without looking back. "Don't call me unless the building is falling down."
+
 At her rooms, she laid the recorder on the desk and did not play it. She knew what it held: the choice in Ira's cadence, the refusal beneath it, the child's small bright line. And the last pressure of the sealing door—not anger in it, not punishment. More like a hand laying something down. Keep private.
 
 "It showed you the yes and the no," Sera said at the stair that morning.
