@@ -14,7 +14,7 @@ turns:
   - {chapter: 5, expectation: "the record will explain itself", arrival: "redaction as the answer: the child assigned to a private ledger", type: shifted}
   - {chapter: 6, expectation: "the wall will resist everything", arrival: "the hidden layer has a stance of its own and offers terms", type: shifted}
   - {chapter: 7, expectation: "the Limit is impersonal", arrival: "it speaks in Ira's cadence at the table of light", type: shifted}
-  - {chapter: 9, expectation: "reading the node is free, as before", arrival: "it takes two fingers", type: subverted, seed: "'no further' escalations (ch4, ch7)"}
+  - {chapter: 9, expectation: "reading the node is free, as before", arrival: "it accepts her witness and seals gently behind them", type: subverted, seed: "'no further' escalations (ch4, ch7)"}
   - {chapter: 8, expectation: "proper channels are the safe route", arrival: "the index denies the record exists — and her terminal learns her name", type: shifted}
   - {chapter: 10, expectation: "the walls hold whatever answers remain", arrival: "the answer was the ribbon in her pocket — Ira's own recording, cut clean on purpose", type: subverted, seed: "SOMETHING WAS LEFT BEHIND (ch1); the kitchen recordings (ch5)"}
   - {chapter: 10, expectation: "the sealed door is the loss", arrival: "the Drift burst shows what the Limit is FOR", type: shifted}

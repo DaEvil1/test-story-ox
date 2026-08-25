@@ -196,9 +196,9 @@ scenes:
   - {id: ch09-s03, chapter: 9, title: the sealing & the price,
      goal: annotate the fragment — set a curator's mark of custody,
      new_info: ["the room refuses her curator's mark before refusing her hand",
-                "the Archive extracts a price for forcing the node"],
+                "the node rewards witnessing over forcing"],
      value_change: no-and,
-     cost_paid: "two fingers crushed numb — permanent",
+     cost_paid: "witness-burden: the full argument freely given; she carries it alone now",
      irreversible: true,
      opponent_pressure: limit, stakes_scope: personal}
 

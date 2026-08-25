@@ -109,7 +109,7 @@ registered new information. Mark each prediction **hit**, **miss**, or
 - Sera's maintenance key opens the right side
 - the erasure had internal opposition: a voice argued against it and was overruled
 - the room refuses her curator's mark before refusing her hand
-- the Archive extracts a price for forcing the node
+- the node rewards witnessing over forcing
 
 ## Boundary ch9 -> ch10
 

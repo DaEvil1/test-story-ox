@@ -170,6 +170,9 @@
 - **?:** "Lio."
 - **?:** "No further."
 - **?:** "If the wall closes, the node will seal itself again. Take what you can now."
+- **?:** "You didn't force."
+- **?:** "I witnessed."
+- **?:** "That's what it wanted."
 - **she:** "This wall will let us back in only from the right side,"
 - **she:** "The Limit has a shape. We need to follow the shape, not force it."
 - **she:** "We have the node,"
@@ -229,4 +232,4 @@
 - **Keji:** "I know,"
 
 ---
-**Total lines:** 193
+**Total lines:** 196

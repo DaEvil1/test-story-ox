@@ -652,17 +652,17 @@ Sera's hand touched her arm. "If the wall closes, the node will seal itself agai
 
 Keji lowered the spindle toward the node's edge and did the one thing a curator is for: reached to annotate, to set a small mark of custody on what she had found.
 
-The room refused the mark first. The hidden letters did not splinter this time; they collapsed all at once, like a fist closing over it.
+The room accepted the mark. Gently—not a grant, not a surrender. A hand saying: I see you seeing me.
 
-The recorder already held what mattered. What it did not hold was her hand.
+And the node gave her what she came for: not just the directive, but its whole weight. The institutional voice, the softer objector, the silence where a reason should have been, and beneath all of it, pressed into the seam like a flower someone had hidden from themselves:
 
-The door slammed its seam shut across her wrist—a bar of cold, total pressure—and wrenched free. Pain went up her arm in a white sheet. She heard herself cry out, high and unfamiliar. The spindle dropped and cracked against the stone.
+    THE ONE WHO SIGNS CARRIES IT ALONE.
 
-When she could see again, she was on her knees in the Drift and the wall was solid, smooth, sealed. Its letters had rearranged into a neat line: NO FURTHER.
+Then the wall sealed behind them on the way out, like a lid set down by two hands instead of dropped. NO FURTHER, but quiet about it now—not anger in it, not punishment. More like a hand laying something down.
 
-Her good fist swung before she chose it—knuckles cracking against sealed plaster, once, twice—and the wall took it without a mark, which was worse.
+Sera looked at Keji's spindle still looped on her belt, unused since the stair. "You didn't force."
 
-Two fingers of her left hand hung dull at her side. They would not close. The coin had pressed its edge into her palm so hard she could find the mark by touch.
+"I witnessed." Keji touched nothing else. "That's what it wanted."
 
 Sera did not speak. She knelt and pressed Keji's shoulder once, and her thumb moved in one slow circle there — the only gentle thing in the room. Then she reached into her own pocket. She took out a small key on a thin wire—the kind the Archive used to access maintenance panels.
 
@@ -681,7 +681,7 @@ Keji picked up the recorder with her good hand and looked at the bandaged one. "
 
 ## Chapter 10 — The Yes and the No
 
-The seam remembered her. When Keji set her palm to it the next morning, bandaged hand cradled against her coat, it did not pulse and did not form a word. It held, cool and final, like the far side of a stone.
+The seam remembered her. When Keji set her palm to it the next morning, it did not pulse and did not form a word. It held, cool and final, like the far side of a stone.
 
 "It's done," Sera said behind her. She had brought the maintenance key anyway; it hung from her fingers, pointed at a door that no longer had an inside. "Whatever's in there stopped listening when it took your hand."
 
@@ -723,7 +723,7 @@ She sat with it a long time. Somewhere in that sitting her hands wound the ribbo
 
 The message had been in her pocket through every sealed door.
 
-The two dull fingers ached in their wrapping. Keji turned the coin in her pocket, warm against her good palm, and felt its edge find the mark it had pressed into her other hand. Outside, far below the window, the tide turned and started coming in.
+Keji turned the coin in her pocket, warm against her palm. Outside, far below the window, the tide turned and started coming in.
 
 
 ## Chapter 11 — The Amendment
@@ -754,9 +754,9 @@ There was no form for a person who had become a ledger entry and then a name aga
 
 Ari crossed the room fast. "That name enters the public index. Every Curator in the city reads it by noon—"
 
-"Then they can come ask me who Lio Nash was." Her good hand stayed flat on the desk. "I'm done writing sentences nobody feels. That was the trade I made for these fingers. Not this."
+"Then they can come ask me who Lio Nash was." Her hand stayed flat on the desk. "I'm done writing sentences nobody feels. That was the trade I made for these fingers. Not this."
 
-He looked at the bandage, then at the screen, and whatever he saw there ended the argument about the name.
+He looked at her hands—both steady now—then at the screen, and whatever he saw there ended the argument about the name.
 
 She kept the machinery anyway. A second document, colder: the correction reduced to what the city could carry without cracking—guardianship misfiled, private ledger retained, access restricted to authorized curators. And beneath the plaque order, where the engraver's instruction belonged, she typed the child's own line instead of an epitaph:
 
@@ -794,7 +794,7 @@ At the door he stopped, the box under his arm. "Order is compassion when the arc
 
 As she left the room she stopped at the private ledger room, one floor down. The ribbon went into the box beside the card—the original, the whole laugh of it—sealed where authorized hands could reach it and hers could not. Her hand stayed flat on the closed lid a moment. Then she went up into the noise of the halls.
 
-Before going out, she found Sera at the old quay, where the sound was loudest. Sera looked at the bandaged hand and did not ask.
+Before going out, she found Sera at the old quay, where the sound was loudest. Sera looked at her hands and did not ask.
 
 "So," she said. "Did you break it or mend it?"
 

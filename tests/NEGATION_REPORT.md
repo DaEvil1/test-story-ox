@@ -77,6 +77,6 @@
 - **[WEAK]** chapter_11.md:7 (single negation then same-subject affirmative)
   - > He did not come closer.  >>  "If you write anything here," he said, "you are not only changing a sentence.
 - **[WEAK]** chapter_11.md:29 (single negation then same-subject affirmative)
-  - > Not this."  >>  He looked at the bandage, then at the screen, and whatever he saw there ended the argument about the name.
+  - > Not this."  >>  He looked at her hands—both steady now—then at the screen, and whatever he saw there ended the argument about the name.
 - **[WEAK]** chapter_11.md:53 (single negation then same-subject affirmative)
   - > She did not reach for the box.  >>  he asked quietly.

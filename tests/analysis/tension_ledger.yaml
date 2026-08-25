@@ -36,7 +36,7 @@ scenes:
   - {id: ch08-s02, tension: 6, feeling: dread}
   - {id: ch09-s01, tension: 6, feeling: anticipation}
   - {id: ch09-s02, tension: 7, feeling: tension}
-  - {id: ch09-s03, tension: 9, feeling: pain}
+  - {id: ch09-s03, tension: 9, feeling: awe}
   - {id: ch10-s01, tension: 5, feeling: grief}
   - {id: ch10-s02, tension: 7, feeling: awe}
   - {id: ch10-s03, tension: 4, feeling: grief}
