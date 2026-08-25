@@ -6,6 +6,8 @@
   - > Keji did not look up. He did not ask for the contents.  >>  He simply stood in the doorway and watched the card, the coin, the lamp.
 - **[MEDIUM]** chapter_02.md:27 (negation then contrast-marked sentence)
   - > She did not know if this coin belonged to Lio.
+- **[WEAK]** chapter_01.md:31 (single negation then same-subject affirmative)
+  - > Ari did not look at it.  >>  She noticed that he did not look at it.
 - **[WEAK]** chapter_02.md:3 (single negation then same-subject affirmative)
   - > She did not go to the public room.  >>  She left the editing hall through a door that no one used in daylight, one under a stairwell where the salt dust lay in ridges.
 - **[WEAK]** chapter_02.md:11 (single negation then same-subject affirmative)

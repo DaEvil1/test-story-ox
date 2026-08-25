@@ -187,3 +187,24 @@ State read: three cycle-2 experiments landed (ch2 voice, senior-curator agency, 
 | P8 aloud | 7.7 | "'Remember to eat' in an unrecognized language, patient as wallpaper - I want to say that sentence out loud just to feel how it sits." |
 
 **REDTEAM_PANEL_SCORE: 7.7** (unchanged from prior round)
+
+---
+
+# Round 10 - Full Panel After Character Board Fixes (2026-08-25)
+
+State read: two GAP fixes landed (Ari cabinet proximity ch1; Keji involuntary reader-drop ch10). 11,102 words.
+
+## Panel holistic scores
+
+| Persona | Score | One-line |
+|---|---|---|
+| P1 critic | 7.4 | "The cabinet beat does what great first-chapter details do: it means nothing yet." |
+| P2 purist | 7.4 | "The world is accumulating residents who exist independent of Keji. Good sign." |
+| P3 grief | 8.2 | "The ribbon winding tighter than good IS the break. She does not need to smash anything." |
+| P4 lines | 8.0 | "Opener dominance below 20% for the first time. Stdev approaching 7." |
+| P5 continuity | 7.9 | "All object chains reconcile. Cabinet planted early pays off naturally in ch3." |
+| P6 skimmer | 7.1 | "No regression; ch1 cabinet beat adds texture without slowing entry." |
+| P7 representation | 8.0 | "The cabinet beat gives Ari physicality beyond dialogue - his body near objects tells us what words wont." |
+| P8 aloud | 7.6 | "Reader-fall sentence has good breath rhythm. Cabinet line wants one more syllable somewhere." |
+
+**REDTEAM_PANEL_SCORE: 7.7** (stable)

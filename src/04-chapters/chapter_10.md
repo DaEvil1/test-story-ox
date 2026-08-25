@@ -40,6 +40,8 @@ The ribbon ended there. Not damaged. Ended—cut clean, the way Ira cut sentence
 
 She sat with it a long time. Somewhere in that sitting her hands wound the ribbon around her fingers—once, twice, tighter than good, the caps of her nails going white. She did not remember deciding to. She unwound it slowly, the way you ease a knot you cannot afford to lose, then put her hands flat on the table until they were hers again.
 
+The reader slid sideways off the desk edge. She let it fall.
+
 The message had been in her pocket through every sealed door.
 
 Keji turned the coin in her pocket, warm against her palm. Outside, far below the window, the tide turned and started coming in.

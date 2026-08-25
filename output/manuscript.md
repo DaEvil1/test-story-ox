@@ -30,6 +30,8 @@ At the Curators' hall, Ari looked up slowly. When she said Ira's name, his hands
 
 Keji did not swallow. The words sat in her throat.
 
+Behind his desk, a cabinet stood against the wall—tall, dark, the kind of furniture that remembers what is put inside it. Ari did not look at it. She noticed that he did not look at it.
+
 At home, packets of Lio's handwriting arrived in fragments—postcards, half-practiced signatures on a receipt—things the Archive kept for the family. Keji aligned them the way a conservator aligns torn pages: the curves, the slants, the accidental loops. The child's scrawl on the market wall matched a crooked loop in her files. The same loop. The same hand. Her own signature from that winter had drifted too — the K closing looser than her hand remembered making it. Signatures do that. She filed the thought with the rest.
 
 Late, she sat at the window and listened to the Archive. It pulsed. She felt it in the floor, in her ribs. In the silence, Ira's voice: the cadence, the catch. Small mercies offered under pressure.
@@ -720,6 +722,8 @@ Kitchen sounds. A stripe of morning light across a table—you can hear sun if t
 The ribbon ended there. Not damaged. Ended—cut clean, the way Ira cut sentences when the rest was dangerous.
 
 She sat with it a long time. Somewhere in that sitting her hands wound the ribbon around her fingers—once, twice, tighter than good, the caps of her nails going white. She did not remember deciding to. She unwound it slowly, the way you ease a knot you cannot afford to lose, then put her hands flat on the table until they were hers again.
+
+The reader slid sideways off the desk edge. She let it fall.
 
 The message had been in her pocket through every sealed door.
 
