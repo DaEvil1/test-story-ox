@@ -32,3 +32,13 @@ question: What if Ira never left - only disappeared into the uncurated city?
 
 ## 2026-08-25 - ending-gestures fork resolved
 BOTH (name + engraved line) won across three lenses; incumbent confirmed. VOICE-ONLY variant contained one usable aphorism-adjacent line, discarded with the variant.
+
+## 2026-08-25 — harvested from [20260825-017] someone-remembers (wild)
+question: Is Lio's erasure private or did someone else remember?
+- neighbor who plays tiles also remembered Lio and kept her chalk
+- 'they made the building feel watched-over'
+
+## 2026-08-25 — harvested from [20260825-018] hall-stops (dive)
+question: What happens when curation stops for one day?
+- collective forced rest: every curator sitting at inert stations until somebody laughs
+- drawings on terminals - small private unfiled creative acts

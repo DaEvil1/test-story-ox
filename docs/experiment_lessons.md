@@ -45,3 +45,21 @@ post-mortems to avoid repeating mistakes and to compound discoveries.
 
 ### Rules updated
 - None. Infrastructure freeze holding. All changes were prose-level.
+
+
+### Cycle 1.5 — deferred/harvested experiments (ari-goes-first, someone-remembers, hall-stops)
+
+Three probes showed genuine life but weren't ready for full integration.
+Key discoveries preserved in the buffer and experiment metadata:
+
+- **The six-weeks date**: Ari's cabinet folder proves erasure was procedural
+  six weeks BEFORE Lio disappeared. This reframes the entire mystery from
+  "what happened to one child" to "what system was already in place."
+- **The neighbor who kept Lio's chalk**: grief is communal, not just
+  personal. Other people remembered Lio independently of Keji.
+- **Collective forced rest**: when curation stops for one day, curators
+  draw pictures on their terminals — private creative acts the system
+  normally suppresses.
+
+Lesson: DEFER is not failure. Some discoveries need to sit before they're
+ready to integrate. The buffer exists precisely for this.
