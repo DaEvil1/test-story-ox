@@ -264,13 +264,52 @@ def main() -> int:
         out += [f"**Flagged:** {', '.join(flagged_sig)} — consider rule adoption "
                 "(regression protocol applies).", ""]
 
+    # 3e. Atmosphere panel (owned by C6 Mood Reader, adopted 2026-08-25)
+    ATMOSPHERE_LEXICONS = {
+        "smell/taste": ["smell", "smelled", "scent", "tasted", "taste",
+                        "sour", "stale", "reek", "brine"],
+        "light/shadow": ["light", "lamplight", "glow", "glowed", "pale",
+                         "shadow", "shadows", "darkness", "sun", "sunlight",
+                         "dawn", "dusk", "bright", "dim"],
+        "weather/air": ["rain", "fog", "mist", "wind", "storm", "weather"],
+        "temperature": ["warm", "warmth", "warmed", "cold", "colder", "cool",
+                        "chill", "chilled", "heat", "hot", "damp"],
+        "sound": ["hum", "hums", "hummed", "humming", "echo", "echoed",
+                  "silence", "quiet", "noise", "click", "knock", "rattle",
+                  "whispered", "thrum", "thrummed"],
+    }
+    out += ["## Atmosphere panel (C6 mood reader)", "",
+            "| Chapter | smell | light | weather | temp | sound | Total | Note |",
+            "|---|---:|---:|---:|---:|---:|---:|---|"]
+    airless = []
+    for name in texts:
+        toks = tokens(texts[name])
+        counts = {}
+        for cat, ws in ATMOSPHERE_LEXICONS.items():
+            counts[cat] = sum(toks.count(w) for w in ws)
+        total = sum(counts.values())
+        missing = [c for c, v in counts.items() if v == 0]
+        note = ""
+        if total < 6 or len(missing) >= 3:
+            note = "**AIRLESS?**"
+            airless.append(name)
+        cells = " | ".join(str(counts[c]) for c in ATMOSPHERE_LEXICONS)
+        out.append(f"| {name} | {cells} | {total} | {note} |")
+    out += ["", f"Airless-flagged chapters: "
+            f"{', '.join(airless) if airless else 'none'}", ""]
+
     # 4. Dialogue share per chapter
     out += ["## Dialogue share", "", "| Chapter | Dialogue % |", "|---|---:|"]
     for name, text in texts.items():
         quoted = sum(len(m) for m in DIALOGUE_RE.findall(text))
         pct = quoted * 100 / max(len(text), 1)
         out.append(f"| {name} | {pct:.0f}% |")
-    quoted_total = sum(len(m) for m in DIALOGUE_RE.findall(corpus))
+    # Per-file sum, never over the joined corpus: one unpaired quote would
+    # otherwise bleed regex matches across chapter boundaries.
+    quoted_total = sum(
+        sum(len(m.group(0)) for m in DIALOGUE_RE.finditer(text))
+        for text in texts.values()
+    )
     out += [f"| **corpus** | **{quoted_total * 100 / max(len(corpus), 1):.0f}%** |", ""]
 
     # 5. Speaker attribution counts

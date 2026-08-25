@@ -28,7 +28,7 @@ Sera turned the maintenance key over in her fingers, watching the light run alon
 
 Keji did not ask who.
 
-That night, alone, she took out the ribbon.
+That night, alone, she took out the ribbon. Rain had started against the window, soft and irregular, counting to itself.
 
 She had carried it since the editing room and had never once played it end to end. Curators know every way to avoid a clip. She knew hers. She spliced it into the reader and let it run.
 
