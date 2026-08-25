@@ -26,6 +26,8 @@ She stood. The Drift was quiet enough that even the low hum of memory felt loud.
 
 Keji's hand tightened around the coin. The metal had picked up the day's damp.
 
+She thought of her editing queue upstairs: forty open cases, each one a life waiting for her hands to make it bearable. She had never questioned whether bearable was the same as true.
+
 "If you make it public," Sera went on, "the people who built that door will feel it. The Limit will close faster. If you keep it private, it can still pulse. It can still be a thing that is not just a ledger entry."
 
 Keji thought of the command line in the hidden chamber. AUTHORIZE RESET. REMOVE CHANNEL. PRESERVE NETWORK. She thought of a child writing a line that meant everything and nothing at once. She thought of the wall that had said NO FURTHER.

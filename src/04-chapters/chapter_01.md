@@ -1,6 +1,6 @@
 Chapter 1 — The Fault Line
 
-The editing room smelled of metal and salt—always salt—because the Archive fed from the ocean and the ocean fed back its old weather as a low, ceremonial taste. Keji worked through threads of memory: a laugh, a winter morning, a child's thumbprint. She smoothed and stitched, her hands moving in the rhythm she knew. Most days were like this. Most days she filed the work and clocked out. Most days the edited lives came back at her from the city's walls smooth and coherent and emptied.
+The editing room smelled of metal and salt—always salt—because the Archive fed from the ocean and the ocean fed back its old weather as a low, ceremonial taste. Keji worked through threads of memory: a laugh, a winter morning, a child's thumbprint. She smoothed and stitched, her hands moving in the rhythm she knew. A stutter pulled from a wedding vow. A night terror lifted from a five-year-old's sleep because the parents asked, because the parents always ask. Most days were like this. Most days she filed the work and clocked out. Most days the edited lives came back at her from the city's walls smooth and coherent and emptied.
 
 Today, a ribbon thrummed under her fingers that refused to settle. When she tugged it, the room rearranged itself—her terminal folded into a shape she'd never programmed, the light pooling at odd angles. Three streets over, a water-seller would be finding her own small wrongness by now; the Archive did not glitch for one person. On the strand, a sentence she did not remember writing: SOMETHING WAS LEFT BEHIND.
 

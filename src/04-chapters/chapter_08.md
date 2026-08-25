@@ -14,6 +14,24 @@ He laughed when it settled—an old man in a public chair, surprised by his own 
 
 Eleven minutes, all of it. She filed the thread and reached for the next name, and her hands were steady, and she looked at them a moment too long.
 
+These same hands had smoothed a winter morning into nothing three weeks ago. Had taken a fight between strangers and made it disappear so cleanly the strangers themselves forgot they had ever been angry. Good work, the kind the hall praised. Erasure so precise it felt like kindness.
+
+She wondered how many Lios she had filed without reading the label.
+
+She pulled her own completed-edit log before the hall opened. Curators kept records—not because the Archive required them but because good editors tracked their work the way surgeons tracked incisions.
+
+Forty-one entries in the last quarter alone. She read every one.
+
+Entry 12: a man whose stutter had been smoothed to clarity at his employer's written request. The edit was clean; his voice emerged unbroken. He had sent flowers.
+
+Entry 17: a girl of six whose recurring dream of drowning was lifted because the dream made her afraid of water and her mother was tired. Clean. Kind. The girl would grow up never knowing she had once been haunted by something deep enough to shape her sleep.
+
+Entry 23: a widow whose grief had been compressed from two years to four months because her son was getting married and the family wanted joy at the wedding, not absence wearing its coat.
+
+Each one signed off by a senior curator. Each one performed with skill. Each one a small erasure dressed in mercy's clothing, and each one hers.
+
+She closed the log. Her hands were steady. That was the part she couldn't stop looking at: how steady they were. How easy the craft still felt, even here, even now, even after everything the walls had shown her. The hands didn't care what they held. They only knew how to smooth.
+
 On the third morning, Sera vanished. The story reached the editing hall by lunch, wearing desk-clerk gossip for clothes: the Drift woman had walked into the Curators' hall, asked for Ari by name, told the desk — “Tell him the cough is where he still is” — and installed herself on the marble bench to wait. Whatever passed between them upstairs, nobody managed to overhear. But Sera came back out through the market holding her sleeves like they belonged to somebody else.
 
 On the fourth day she tried the front door. One request, properly filed: provenance review, referenced only by stamp number, no names attached. The reply came back in eleven minutes, polite as a locked gate: RECORD NOT PRESENT IN PUBLIC INDEX. She reshelved the slip, washed her cup, went back to her threads. That evening her terminal greeted her by name when she sat down—and below her name, logged that same morning, a second line: SERA — CURATORS' HALL — ELEVEN MINUTES. It had never done that before.

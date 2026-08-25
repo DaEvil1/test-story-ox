@@ -16,6 +16,8 @@ The first line took four attempts.
 
 She deleted it. Her hands kept typing after the screen went blank — muscle memory running corrections on nothing, the way a tongue finds the gap where a tooth used to be.
 
+Forty-one entries. She had signed every one.
+
 She had spent the night listening to Ira laugh with her whole chest inside a recording Ira hid in the walls on purpose. Whatever else the morning asked, it did not ask her to begin lying in small, respectable type.
 
 So she wrote, small and unfileable, on the line meant for the correction:

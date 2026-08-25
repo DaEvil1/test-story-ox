@@ -74,7 +74,7 @@ Then the table's surface flickered, and another line formed below the first:
 
 The Limit had spoken in a human rhythm. It did not ask. It ordered. The second line was not a plea. It was a boundary.
 
-She pressed her palm to the table of light. The air around her thickened. The surface blurred. She could feel the record wanting to close.
+She pressed her palm to the table of light. The air around her thickened. The surface blurred. She could feel the record wanting to close. Every smooth wall she had ever walked past was a sentence somebody had finished having.
 
 She reached for the coin in her pocket and set it on the table's edge. The metal touched the surface. The light around it shifted. The coin did not belong to the record, but it made the contact real.
 

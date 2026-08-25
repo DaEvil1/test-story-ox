@@ -2,7 +2,7 @@
 
 ## Chapter 1 — The Fault Line
 
-The editing room smelled of metal and salt—always salt—because the Archive fed from the ocean and the ocean fed back its old weather as a low, ceremonial taste. Keji worked through threads of memory: a laugh, a winter morning, a child's thumbprint. She smoothed and stitched, her hands moving in the rhythm she knew. Most days were like this. Most days she filed the work and clocked out. Most days the edited lives came back at her from the city's walls smooth and coherent and emptied.
+The editing room smelled of metal and salt—always salt—because the Archive fed from the ocean and the ocean fed back its old weather as a low, ceremonial taste. Keji worked through threads of memory: a laugh, a winter morning, a child's thumbprint. She smoothed and stitched, her hands moving in the rhythm she knew. A stutter pulled from a wedding vow. A night terror lifted from a five-year-old's sleep because the parents asked, because the parents always ask. Most days were like this. Most days she filed the work and clocked out. Most days the edited lives came back at her from the city's walls smooth and coherent and emptied.
 
 Today, a ribbon thrummed under her fingers that refused to settle. When she tugged it, the room rearranged itself—her terminal folded into a shape she'd never programmed, the light pooling at odd angles. Three streets over, a water-seller would be finding her own small wrongness by now; the Archive did not glitch for one person. On the strand, a sentence she did not remember writing: SOMETHING WAS LEFT BEHIND.
 
@@ -239,6 +239,8 @@ She stood. The Drift was quiet enough that even the low hum of memory felt loud.
 "There are two ways to use this," Sera said. "Take the line back to the public record—let the city know what it erased. Or take the part that can't be public and keep it alive yourself."
 
 Keji's hand tightened around the coin. The metal had picked up the day's damp.
+
+She thought of her editing queue upstairs: forty open cases, each one a life waiting for her hands to make it bearable. She had never questioned whether bearable was the same as true.
 
 "If you make it public," Sera went on, "the people who built that door will feel it. The Limit will close faster. If you keep it private, it can still pulse. It can still be a thing that is not just a ledger entry."
 
@@ -488,7 +490,7 @@ Then the table's surface flickered, and another line formed below the first:
 
 The Limit had spoken in a human rhythm. It did not ask. It ordered. The second line was not a plea. It was a boundary.
 
-She pressed her palm to the table of light. The air around her thickened. The surface blurred. She could feel the record wanting to close.
+She pressed her palm to the table of light. The air around her thickened. The surface blurred. She could feel the record wanting to close. Every smooth wall she had ever walked past was a sentence somebody had finished having.
 
 She reached for the coin in her pocket and set it on the table's edge. The metal touched the surface. The light around it shifted. The coin did not belong to the record, but it made the contact real.
 
@@ -530,6 +532,24 @@ She worked it the way she had been taught and the way she had taught others: fou
 He laughed when it settled—an old man in a public chair, surprised by his own mouth. He thanked her twice and called her little in the island way, and went out into the market carrying his own weather.
 
 Eleven minutes, all of it. She filed the thread and reached for the next name, and her hands were steady, and she looked at them a moment too long.
+
+These same hands had smoothed a winter morning into nothing three weeks ago. Had taken a fight between strangers and made it disappear so cleanly the strangers themselves forgot they had ever been angry. Good work, the kind the hall praised. Erasure so precise it felt like kindness.
+
+She wondered how many Lios she had filed without reading the label.
+
+She pulled her own completed-edit log before the hall opened. Curators kept records—not because the Archive required them but because good editors tracked their work the way surgeons tracked incisions.
+
+Forty-one entries in the last quarter alone. She read every one.
+
+Entry 12: a man whose stutter had been smoothed to clarity at his employer's written request. The edit was clean; his voice emerged unbroken. He had sent flowers.
+
+Entry 17: a girl of six whose recurring dream of drowning was lifted because the dream made her afraid of water and her mother was tired. Clean. Kind. The girl would grow up never knowing she had once been haunted by something deep enough to shape her sleep.
+
+Entry 23: a widow whose grief had been compressed from two years to four months because her son was getting married and the family wanted joy at the wedding, not absence wearing its coat.
+
+Each one signed off by a senior curator. Each one performed with skill. Each one a small erasure dressed in mercy's clothing, and each one hers.
+
+She closed the log. Her hands were steady. That was the part she couldn't stop looking at: how steady they were. How easy the craft still felt, even here, even now, even after everything the walls had shown her. The hands didn't care what they held. They only knew how to smooth.
 
 On the third morning, Sera vanished. The story reached the editing hall by lunch, wearing desk-clerk gossip for clothes: the Drift woman had walked into the Curators' hall, asked for Ari by name, told the desk — “Tell him the cough is where he still is” — and installed herself on the marble bench to wait. Whatever passed between them upstairs, nobody managed to overhear. But Sera came back out through the market holding her sleeves like they belonged to somebody else.
 
@@ -747,6 +767,8 @@ The first line took four attempts.
 "Authorized correction: guardianship record misfiled." She read it back. Clean. Bureaucratic. Exactly the sentence she had built on the stairwell while her fingers throbbed, exactly the sentence Ari would nod at—a sentence whose whole virtue was that nobody would feel it.
 
 She deleted it. Her hands kept typing after the screen went blank — muscle memory running corrections on nothing, the way a tongue finds the gap where a tooth used to be.
+
+Forty-one entries. She had signed every one.
 
 She had spent the night listening to Ira laugh with her whole chest inside a recording Ira hid in the walls on purpose. Whatever else the morning asked, it did not ask her to begin lying in small, respectable type.
 
