@@ -48,7 +48,7 @@ He stood there a moment longer. Then he left—to file his protest, or to stand 
 
 When he came back, he carried his box of seals. Lighter now. She could hear there was almost nothing in it.
 
-"The council's senior curator brought these down herself," he said. "Someone read the plaque order and drew a line back to my cabinet." He set the box down without looking at it. "Keep the private ledger well. I am apparently done keeping things."
+"Madam Oyelaran brought these down herself while you were saving your amendment," he said. "She read the plaque order twice—once as policy, once as a mother, I think. Then she asked for my seals." He set the box down without looking at it. "Keep the private ledger well. She let me keep that much."
 
 Keji's throat worked once. She did not reach for the box.
 
