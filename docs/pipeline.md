@@ -7,10 +7,20 @@ requires a `decisions.log` entry.
 ## The loop
 
 ```
-            ┌─────────────────────────────────────────────┐
-            │  DRAFT / REVISE (src/04-chapters/)          │
-            └──────────────────┬──────────────────────────┘
-                               ▼
+                ┌────────────────────────────┐
+                │  ORIENT / CREATIVE PULSE   │
+                │  What does the story want  │
+                │  right now?                │
+                └──────────┬─────────────────┘
+                           │
+          CONTINUE / POLISH│         │ EXPLORE (curiosity or stuck)
+                           ▼         ▼
+   ┌──────────────────────────┐   ┌────────────────────────────────┐
+   │ DRAFT / REVISE           │   │ EXPERIMENT BRANCH (worktree)   │
+   │ (src/04-chapters/)       │   │ PROBE → INCUBATE → CANDIDATE   │
+   └──────────┬───────────────┘   │ QA suspended until CANDIDATE   │
+              │                   └──────────┬─────────────────────┘
+              ▼                              ▼
    ┌──────────────────── QUANTITATIVE GATE ─────────────────────┐
    │ 1. python tools/check_story.py --report tests/STATUS.md    │
    │    prose rules · frequency caps · negation-contrast ·      │
@@ -36,16 +46,35 @@ requires a `decisions.log` entry.
    └──────────────────┬─────────────────────────────────────────┘
                      ▼
    ┌──────────────────── QUALITATIVE LAYER ────────────────────┐
-   │ Red-team rounds (tests/redteam/personas.md, 8 personas)    │
-   │  -> REDTEAM_REPORT_*.md                                    │
-   │  -> synthesis doc when direction is needed                 │
+   │ Red-team rounds (tests/redteam/personas.md — panel P1–P9,  │
+   │ plus standing readers P10 memory / P11 reconstructionist)  │
+   │  -> REDTEAM_REPORT_*.md + REDTEAM_PANEL_SCORE              │
+   │ Council of Readers sessions (tests/council/, C1–C5)        │
+   │  -> COUNCIL_SCORE                                           │
+   │ Integrator triage of all feedback (TAKE/ADAPT/DISCARD/DEFER)│
    │ Rubric re-score (docs/story_craft_criteria.md, 50 items)   │
    │  -> scores_current.yaml + scores_history.yaml snapshot     │
-   │  -> pillar report (tools/pillar_report.py -> PILLARS.md)   │
+   │  -> pillar report (tests/PILLARS.md)                       │
    └──────────────────┬─────────────────────────────────────────┘
                      ▼
         docs/decisions.log entry → commit → push
 ```
+
+
+## Comparison horizons (pairwise second question is horizon-aware)
+
+| Candidate type | Second question |
+|---|---|
+| Unfinished middle chapter | "Which creates the more promising road ahead?" |
+| Ending / final chapter | "Which leaves the stronger residue — more inevitable-yet-surprising as a WHOLE story?" |
+| Line revision | "Which is better prose in context?" |
+| Structural branch | Both: present quality AND future possibility |
+
+For structural CANDIDATE merges, counterbalance ballots or add one
+reversed-order consistency judge; position bias does not vanish because
+assignment is random. Broad style passes (many small edits across chapters)
+require representative-chapter OLD/NEW comparisons before landing —
+"metrics improved" and "writing improved" are different claims.
 
 ## Cadence
 

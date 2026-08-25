@@ -12,3 +12,12 @@ question: What game do Archive-city children play, and what does it teach them a
 - children's game 'asking the wall' — questions pressed into wall-cracks before the tide, returned lines are answers
 - harvested plant: Lio's ch1 scrawl sat on a scoured (deaf) wall — an erased question; usable in one future line without retcon
 - 'gifts are a little frightening' rhymes with ch8 terminal greeting (attention as menace)
+
+
+## 2026-08-25 - harvested from external review (alpha_ox_framework_review_2026-08-25.md)
+fork candidate for ch11 ending, IF an itch ever develops there: BOTH vs NAME-ONLY vs VOICE-ONLY.
+Current text uses BOTH gestures (public name + engraved child's words on stone).
+Review asks whether two truth-smuggling acts double the underline or enrich it.
+Also flagged as probe-prose to scrutinize next polish: "I'm done writing sentences
+nobody feels. That's the trade I made for these fingers." - lucid dialogue; consider
+whether the second sentence over-explains the first.

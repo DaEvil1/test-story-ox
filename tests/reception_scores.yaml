@@ -1,4 +1,9 @@
 # Reception Scores (append-only)
+# SENSOR LANGUAGE: these are calibrated instrument readings from simulated
+# readers (one underlying model, correlated blind spots). They track MOVEMENT
+# and DIVERGENCE over time. They are not evidence about real human readers.
+
+# Reception Scores (append-only)
 # Two qualitative signals, both 1-10 means:
 #   redteam_panel_score — mean of P1-P8 holistic "how good was it to read"
 #   council_score       - mean of Council of Readers session scores

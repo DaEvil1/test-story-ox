@@ -4,6 +4,14 @@ This project treats writing as software development with iterative phases and qu
 
 ## Phases
 
+The project runs as a **creative search system**, not a linear plan: every
+session opens with an Orient/Creative Pulse (see docs/pipeline.md) that
+chooses between consolidation (continue/polish under the full verification
+stack) and exploration (experiment branches via git worktrees — dive, fork,
+rewrite, veto, mutation, zero-base, wild). The phases below describe the
+consolidation track; exploration runs whenever curiosity or stuckness says
+so, per docs/pipeline.md "Experiment Lifecycle."
+
 1. Inception
    - Define core concept, setting, and philosophical stakes.
    - Draft initial character sketches.

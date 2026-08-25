@@ -18,7 +18,9 @@
 
 ## Implementation
 - Write chapters in `src/04-chapters/`
-- Use `drafts/` for branch experiments and cut material
+- Branch experiments live in git worktrees via `python tools/experiment.py`
+  (see docs/pipeline.md, "Experiment Lifecycle"); `drafts/` holds cut
+  material, the discovery buffer, and probe archives
 - After each drafting session, run `python tools/check_story.py` and fix or triage findings
 - When a new violation pattern appears, add it to `tests/automated/rules.yaml` (regression protocol)
 - Keep `src/01-world/canon.md` in sync with anything a chapter establishes
