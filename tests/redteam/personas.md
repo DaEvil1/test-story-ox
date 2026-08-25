@@ -1,9 +1,18 @@
-# Red-Team Protocol
+# Red-Team Panel
 
-Adversarial cold-read review. Three personas, each instructed to argue the
+Adversarial cold-read review. Three-to-nine personas, each instructed to argue the
 story FAILS from a distinct angle, then report honestly where they couldn't.
 Purpose: de-bias scoring (the primary reviewer also writes the fixes) and
 test the real 8+ criterion — **unprompted praise of specific scenes**.
+
+## Panel score duty
+
+Every round, each holistic persona (P1–P8; P9 is a detector and exempt)
+also gives ONE number: **overall experience, 1–10** — "how good was it to
+read," not compliance with any rubric. The mean is the
+**REDTEAM_PANEL_SCORE**, tracked in `tests/reception_scores.yaml`. This is
+the qualitative-experience signal; the 50-criterion rubric remains a
+diagnostic dashboard and never overrides it.
 
 ## Personas
 

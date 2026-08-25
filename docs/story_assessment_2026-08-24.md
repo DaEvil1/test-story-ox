@@ -2,6 +2,13 @@
 
 > Updated twice same day. Current: **raw 7.40 / system-adjusted 7.21**
 > (final section: "Voice & Residue" round).
+>
+> 2026-08-25 addition: qualitative reception signals now tracked separately
+> from the rubric — **red-team panel score 7.6**, **Council of Readers score
+> 8.0** (`tests/reception_scores.yaml`, first Council session
+> `tests/council/COUNCIL_REPORT_2026-08-25.md`). Feedback triage with
+> explicit TAKE/ADAPT/DISCARD/DEFER verdicts:
+> `docs/integrator_triage_2026-08-25.md`.
 
 Full re-score against `docs/story_craft_criteria.md` (50 criteria). Supersedes
 `story_assessment_2026-08-21.md` as the current-state record; that file

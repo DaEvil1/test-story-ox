@@ -4,8 +4,12 @@
 
 meta:
   revision: 10
-  date: 2026-08-21
+  date: 2026-08-25
   overall_raw: 7.42
+qualitative:
+  redteam_panel_score: 7.6   # mean of P1-P8 holistic experience, tests/reception_scores.yaml
+  council_score: 8.0         # Council of Readers mean, first session
+  note: qualitative signals are tracked separately from the rubric dashboard
 
 scores:
   1: 7

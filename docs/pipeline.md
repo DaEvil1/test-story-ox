@@ -232,6 +232,34 @@ This is architectural review, not criticism. Refactoring assumes the design;
 the audit asks whether the design should exist. Results are dated files in
 `docs/zero_base_audit_*.md`; any harvested seeds go to the discovery buffer.
 
+## The Integrator & the instinct filter (adopted 2026-08-25)
+
+Feedback is not instruction. Red-team findings and Council responses are
+*testimony*; the **Integrator mode** (author context: canon, intent,
+coupling map, full history) decides what takes power. Every substantive
+piece of feedback gets one of four verdicts, recorded in
+`docs/integrator_triage_*.md`:
+
+- **TAKE** — aligns with intent, cost understood, survives the questions below
+- **ADAPT** — true observation, wrong prescription; fix it another way
+- **DISCARD** — conflicts with what the book is; discarding is legitimate and logged
+- **DEFER** — real, but belongs to a later pass or sequel space
+
+The instinct is not a checklist, but five questions asked honestly:
+
+1. Does accepting make the story more *itself*, or more generic?
+2. Is this about the text, or about the reader's unrelated preference?
+3. What does the fix break? (coupling map — nothing is free)
+4. Would the change survive blind pairwise judging against what exists?
+5. **The stranger-version test:** is the flaw everyone identifies actually
+   the book?
+
+Precedent: "add an ontological test of The Limit" (P2, three rounds) →
+DISCARD — the ask conflicts with designed ambiguity that behavioral reader
+data shows functioning. "Keji needs a life outside the quest" (P7) → TAKE.
+Discarded feedback stays in the triage log; instincts get re-checked at
+zero-based audits, because sometimes the discarded thing was right later.
+
 ## Consequence discipline
 
 After canonizing a discovery: implement the **unavoidable** consequences; be

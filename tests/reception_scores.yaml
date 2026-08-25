@@ -1,0 +1,30 @@
+# Reception Scores (append-only)
+# Two qualitative signals, both 1-10 means:
+#   redteam_panel_score — mean of P1-P8 holistic "how good was it to read"
+#   council_score       - mean of Council of Readers session scores
+# Rubric raw/adjusted live in tests/analysis/scores_current.yaml + history.
+
+sessions:
+  - date: 2026-08-25
+    revision: r10 text
+    redteam_panel:
+      P1: 7.3
+      P2: 7.3
+      P3: 8.0
+      P4: 8.0
+      P5: 7.8
+      P6: 6.9
+      P7: 7.9
+      P8: 7.6
+      score: 7.6
+    council:
+      C1_literary: 8
+      C2_specfic: 7
+      C3_bookclub: 8
+      C4_grief: 9
+      C5_rereader: 8
+      score: 8.0
+    notes: >
+      First joint convening. Council > panel by 0.4: target audiences rate
+      reach higher than adversarial critics rate defect-freedom. C2 vs C4/C5
+      divergence on the ending = designed tension functioning.
