@@ -23,17 +23,39 @@ import yaml
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 PW_DIR = REPO_ROOT / "tests" / "pairwise"
-GIT_META = REPO_ROOT / ".git" / "pairwise"
+
+
+def _git_meta() -> Path:
+    """Shared metadata dir (works from any worktree)."""
+    r = subprocess.run(
+        ["git", "rev-parse", "--git-common-dir"],
+        cwd=Path.cwd(), capture_output=True, text=True,
+    )
+    d = r.stdout.strip() or ".git"
+    return Path(d).resolve() / "pairwise"
 
 
 def load_meta(pid: str) -> dict:
-    p = GIT_META / f"{pid}.yaml"
+    p = _git_meta() / f"{pid}.yaml"
     return yaml.safe_load(p.read_text(encoding="utf-8"))
 
 
 def save_meta(pid: str, meta: dict) -> None:
-    GIT_META.mkdir(parents=True, exist_ok=True)
-    (GIT_META / f"{pid}.yaml").write_text(
+    d = _git_meta()
+    d.mkdir(parents=True, exist_ok=True)
+    (d / f"{pid}.yaml").write_text(
+        yaml.safe_dump(meta, sort_keys=False, allow_unicode=True), encoding="utf-8")
+
+
+def load_meta(pid: str) -> dict:
+    p = _git_meta() / f"{pid}.yaml"
+    return yaml.safe_load(p.read_text(encoding="utf-8"))
+
+
+def save_meta(pid: str, meta: dict) -> None:
+    d = _git_meta()
+    d.mkdir(parents=True, exist_ok=True)
+    (d / f"{pid}.yaml").write_text(
         yaml.safe_dump(meta, sort_keys=False, allow_unicode=True), encoding="utf-8")
 
 
@@ -106,7 +128,7 @@ def cmd_clean(args):
                        capture_output=True, text=True)
         import shutil
         shutil.rmtree(out_dir, ignore_errors=True)
-    (GIT_META / f"{args.id}.yaml").unlink(missing_ok=True)
+    (_git_meta() / f"{args.id}.yaml").unlink(missing_ok=True)
     print(f"[{args.id}] cleaned.")
 
 

@@ -145,7 +145,9 @@ Nontrivial revisions and CANDIDATEs go to **3 fresh judge contexts**:
 manuscripts anonymized as A/B with randomized order and randomized file
 assignment; judges know neither which is main nor why the branch exists.
 Two questions: *Which is better now?* and *Which creates the more promising
-road ahead?* Majority-preference for OLD reverts the change.
+road ahead?* Majority-preference for OLD reverts the change. Ballot
+integrity: judges record preference plus free-text reaction only — attempting
+to identify provenance voids the ballot (round H16 annulled for this).
 
 ## Epistemic modes
 
