@@ -28,7 +28,7 @@ At the Curators' hall, Ari looked up slowly. When she said Ira's name, his hands
 
 Keji did not swallow. The words sat in her throat.
 
-At home, packets of Lio's handwriting arrived in fragments—postcards, half-practiced signatures on a receipt—things the Archive kept for the family. Keji aligned them the way a conservator aligns torn pages: the curves, the slants, the accidental loops. The child's scrawl on the market wall matched a crooked loop in her files. The same loop. The same hand.
+At home, packets of Lio's handwriting arrived in fragments—postcards, half-practiced signatures on a receipt—things the Archive kept for the family. Keji aligned them the way a conservator aligns torn pages: the curves, the slants, the accidental loops. The child's scrawl on the market wall matched a crooked loop in her files. The same loop. The same hand. Her own signature from that winter had drifted too — the K closing looser than her hand remembered making it. Signatures do that. She filed the thought with the rest.
 
 Late, she sat at the window and listened to the Archive. It pulsed. She felt it in the floor, in her ribs. In the silence, Ira's voice: the cadence, the catch. Small mercies offered under pressure.
 
