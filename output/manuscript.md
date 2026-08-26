@@ -531,6 +531,12 @@ She worked it the way she had been taught and the way she had taught others: fou
 
 He laughed when it settled—an old man in a public chair, surprised by his own mouth. He thanked her twice and called her little in the island way, and went out into the market carrying his own weather.
 
+Three days later he came back. Not complaining — worse. Grateful. He took her hand and said: "I hear her when I sleep now. Just the breathing. You didn't take that part." He squeezed her fingers. "Thank you for leaving the breathing."
+
+She hadn't left it. She had tried to remove it with the rest and the thread had resisted, the way some threads do when the memory is too deep in the body to untangle without tearing something. She had told herself it was a limitation of technique.
+
+It was also, she realized now, a mercy she hadn't chosen.
+
 Eleven minutes, all of it. She filed the thread and reached for the next name, and her hands were steady, and she looked at them a moment too long.
 
 These same hands had smoothed a winter morning into nothing three weeks ago. Had taken a fight between strangers and made it disappear so cleanly the strangers themselves forgot they had ever been angry. Good work, the kind the hall praised. Erasure so precise it felt like kindness.
@@ -832,6 +838,12 @@ Ari studied the coin, then the screen. "Then the city will have its correction. 
 She stood. The coin went back into her pocket, warm from the lamp. Enough.
 
 At the door he stopped, the box under his arm. "Order is compassion when the archive is fragile," he said, the way you set down something carried a long time. "I finally decided." He did not say what he had decided.
+
+She stood to leave, then paused at the terminal by the entrance. A new message had arrived while Ari was speaking:
+
+Someone outside the hall had recognized the name Lio Nash from before the erasure. They were asking questions.
+
+She read it twice, put the terminal down, and picked up the coin.
 
 As she left the room she stopped at the private ledger room, one floor down. The ribbon went into the box beside the card—the original, the whole laugh of it—sealed where authorized hands could reach it and hers could not. Her hand stayed flat on the closed lid a moment. Then she went up into the noise of the halls.
 
