@@ -57,7 +57,7 @@ She moved forward. What passed for lights was only old memory glowing through pl
 
 The room beyond was a seal. The air there had the taste of sealed paper, damp and sharp. Her fingers brushed the threshold. The walls responded—a low vibration that buzzed in her fingertips and stayed for an hour afterward, a hum she kept finding under her nails. Keji put the glitch against the door and felt it pulse back.
 
-Inside was a chamber of recorded sound, not the clean Archive voice she edited every day, but a tangle of tonalities. Somewhere in the walls an old message played on loop—a woman saying “remember to eat” in a language Keji didn’t recognize, patient as wallpaper. There were the quick edits of officials, the snapped rhythm of procedure, and under them, a voice that held itself steady.
+Inside was a chamber of recorded sound, not the clean Archive voice she edited every day, but a tangle of tonalities. Somewhere in the walls an old message played on loop—a woman saying "remember to eat" in a language Keji didn't recognize, patient as wallpaper. There were the quick edits of officials, the snapped rhythm of procedure, and under them, a voice that held itself steady.
 
 The wall itself kept the memory. She pressed her palm flat, and the sound rose in her head without speakers. The first thing she heard was a line of instruction meant for other ears; it was precise enough to make her spine prickle. The second thing was a name, written not in the voice but in the way the walls flickered: LIO.
 
@@ -112,7 +112,7 @@ She left the hall with the glitch back in her sleeve, the coin in her pocket, an
 
 Sera met her at the edge of the Drift, where the stone had been worn by hands and names. She leaned against a wall that breathed slow. "You found something," she said.
 
-Keji tapped the pocket with her thumb. "A seal. A child’s loop. A voice."
+Keji tapped the pocket with her thumb. "A seal. A child's loop. A voice."
 
 Sera's grin went flat for a moment. "Good. A suspicion's nothing. Something you can touch—that's a thing."
 
@@ -339,7 +339,7 @@ Sera was waiting in the Drift when Keji left the hall. The passage there felt wa
 
 "I have something you need to hear," Keji said.
 
-Sera took her word and led the way to a place where the wall was unfinished, where the public script had not yet sealed the memory. The surface there was matte and rough. It resisted the city’s polish. On the silt-line at its foot sat a clay cup with hardened resin at the lip—somebody's drink, abandoned mid-shift.
+Sera took her word and led the way to a place where the wall was unfinished, where the public script had not yet sealed the memory. The surface there was matte and rough. It resisted the city's polish. On the silt-line at its foot sat a clay cup with hardened resin at the lip—somebody's drink, abandoned mid-shift.
 
 Keji pressed the spindle to the wall. The wire sank a hair. The Archive's hidden layer answered with a sound like a damp cloth being pulled across stone.
 
@@ -387,13 +387,13 @@ Sera moved next to her. "This is where it hurts. This is where they chose to hid
 
 She closed her eyes. The plaster under her palm changed temperature. For a moment, the phrase shifted into the shape of a hand moving away. Then it stilled.
 
-The hidden layer beneath the wall was not content to stay hidden. It reached out with fragments: an apology scratched into a line, the shimmer of a child’s laugh, a man's breath held too long.
+The hidden layer beneath the wall was not content to stay hidden. It reached out with fragments: an apology scratched into a line, the shimmer of a child's laugh, a man's breath held too long.
 
 She opened her eyes. She saw the last fragment clearly now: LIO. The letters were not black. They were a pale, pulsing outline.
 
 The wall's refusal became louder. It was not words now. It was the pressure in the floor, the slight pull at her boots.
 
-She backed away. The spindle hummed in her hand. Sera’s fingers pressed hard against the plaster.
+She backed away. The spindle hummed in her hand. Sera's fingers pressed hard against the plaster.
 
 "You can save that," Sera whispered. "You can keep the private layer. But if you want it in the public record, you have to make the city feel it."
 
@@ -557,7 +557,7 @@ Each one signed off by a senior curator. Each one performed with skill. Each one
 
 She closed the log. Her hands were steady. That was the part she couldn't stop looking at: how steady they were. How easy the craft still felt, even here, even now, even after everything the walls had shown her. The hands didn't care what they held. They only knew how to smooth.
 
-On the third morning, Sera vanished. The story reached the editing hall by lunch, wearing desk-clerk gossip for clothes: the Drift woman had walked into the Curators' hall, asked for Ari by name, told the desk — “Tell him the cough is where he still is” — and installed herself on the marble bench to wait. Whatever passed between them upstairs, nobody managed to overhear. But Sera came back out through the market holding her sleeves like they belonged to somebody else.
+On the third morning, Sera vanished. The story reached the editing hall by lunch, wearing desk-clerk gossip for clothes: the Drift woman had walked into the Curators' hall, asked for Ari by name, told the desk — "Tell him the cough is where he still is" — and installed herself on the marble bench to wait. Whatever passed between them upstairs, nobody managed to overhear. But Sera came back out through the market holding her sleeves like they belonged to somebody else.
 
 On the fourth day she tried the front door. One request, properly filed: provenance review, referenced only by stamp number, no names attached. The reply came back in eleven minutes, polite as a locked gate: RECORD NOT PRESENT IN PUBLIC INDEX. She reshelved the slip, washed her cup, went back to her threads. That evening her terminal greeted her by name when she sat down—and below her name, logged that same morning, a second line: SERA — CURATORS' HALL — ELEVEN MINUTES. It had never done that before.
 

@@ -137,6 +137,8 @@
 
 ## Chapter 08
 
+- **?:** "I hear her when I sleep now. Just the breathing. You didn't take that part."
+- **?:** "Thank you for leaving the breathing."
 - **?:** "Tell him the cough is where he still is"
 - **he:** "You made a private ledger,"
 - **he:** "Yes."
@@ -144,7 +146,9 @@
 - **Ari:** "One step away from the door. It is a place the Archive does not often let us keep."
 - **he:** "When I was young here,"
 - **he:** "a curator opened a sealed layer to prove a point. The city rerouted his street for a year. Every wall he passed showed him his own worst day, at every hour, in full light."
-- **he:** "Order is compassion when the archive is fragile. That phrase was his. I have never decided if he was right. He looked at the card again. "
+- **he:** "Order is compassion when the archive is fragile. That phrase was his. I have never decided if he was right.
+
+The lamp buzzed once and stopped. He looked at the card again. "
 - **he:** " he said. "
 - **he:** ""
 - **she:** "If someone finds this,"
@@ -191,7 +195,7 @@
 - **?:** "Three weeks. Maybe four. I need to walk until the walls stop talking to me."
 - **?:** "Because of him?"
 - **?:** "Because of all of them."
-- **?:** "Don't call me unless the building is falling down."
+- **She:** "Don't call me unless the building is falling down."
 - **Sera:** "It showed you the yes and the no,"
 - **Sera:** "It showed me how the choice was held,"
 - **Sera:** "One hand signing. One voice objecting. A lighthouse sketched beside the signature."
@@ -228,4 +232,4 @@
 - **?:** "When did you last read your own archive?"
 
 ---
-**Total lines:** 192
+**Total lines:** 194

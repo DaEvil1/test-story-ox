@@ -30,7 +30,7 @@ She left the hall with the glitch back in her sleeve, the coin in her pocket, an
 
 Sera met her at the edge of the Drift, where the stone had been worn by hands and names. She leaned against a wall that breathed slow. "You found something," she said.
 
-Keji tapped the pocket with her thumb. "A seal. A child’s loop. A voice."
+Keji tapped the pocket with her thumb. "A seal. A child's loop. A voice."
 
 Sera's grin went flat for a moment. "Good. A suspicion's nothing. Something you can touch—that's a thing."
 

@@ -2,7 +2,7 @@
 
 <!-- tools/detect_negation_contrast.py v2 — not part of the checker yet. -->
 
-- **[STRONG]** chapter_08.md:61 (2 negations then affirmative)
+- **[STRONG]** chapter_08.md:67 (2 negations then affirmative)
   - > Keji did not look up. He did not ask for the contents.  >>  He simply stood in the doorway and watched the card, the coin, the lamp.
 - **[MEDIUM]** chapter_02.md:27 (negation then contrast-marked sentence)
   - > She did not know if this coin belonged to Lio.
@@ -64,9 +64,9 @@
   - > It did not ask.  >>  It ordered.
 - **[WEAK]** chapter_08.md:3 (single negation then same-subject affirmative)
   - > She did not put the hidden record on a wall or let the city press its weight into it.  >>  She held it in a private packet and in the coin in her pocket.
-- **[WEAK]** chapter_08.md:85 (single negation then same-subject affirmative)
+- **[WEAK]** chapter_08.md:93 (single negation then same-subject affirmative)
   - > Keji did not disagree.  >>  She folded the card and slid it into the box of private slips.
-- **[WEAK]** chapter_08.md:89 (single negation then same-subject affirmative)
+- **[WEAK]** chapter_08.md:97 (single negation then same-subject affirmative)
   - > Ari did not answer.  >>  He left the room without sealing the door.
 - **[WEAK]** chapter_09.md:15 (single negation then same-subject affirmative)
   - > She did not move too fast; walls resist quick hands.  >>  She let the letters settle under the glass, following them with her eyes.
@@ -82,3 +82,5 @@
   - > Not this."  >>  He looked at her hands—both steady now—then at the screen, and whatever he saw there ended the argument about the name.
 - **[WEAK]** chapter_11.md:55 (single negation then same-subject affirmative)
   - > She did not reach for the box.  >>  he asked quietly.
+- **[WEAK]** chapter_11.md:67 (single negation then same-subject affirmative)
+  - > He did not say what he had decided.  >>  She stood to leave, then paused at the terminal by the entrance.

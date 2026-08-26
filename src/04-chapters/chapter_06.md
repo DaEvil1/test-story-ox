@@ -28,7 +28,7 @@ Sera was waiting in the Drift when Keji left the hall. The passage there felt wa
 
 "I have something you need to hear," Keji said.
 
-Sera took her word and led the way to a place where the wall was unfinished, where the public script had not yet sealed the memory. The surface there was matte and rough. It resisted the city’s polish. On the silt-line at its foot sat a clay cup with hardened resin at the lip—somebody's drink, abandoned mid-shift.
+Sera took her word and led the way to a place where the wall was unfinished, where the public script had not yet sealed the memory. The surface there was matte and rough. It resisted the city's polish. On the silt-line at its foot sat a clay cup with hardened resin at the lip—somebody's drink, abandoned mid-shift.
 
 Keji pressed the spindle to the wall. The wire sank a hair. The Archive's hidden layer answered with a sound like a damp cloth being pulled across stone.
 
@@ -76,13 +76,13 @@ Sera moved next to her. "This is where it hurts. This is where they chose to hid
 
 She closed her eyes. The plaster under her palm changed temperature. For a moment, the phrase shifted into the shape of a hand moving away. Then it stilled.
 
-The hidden layer beneath the wall was not content to stay hidden. It reached out with fragments: an apology scratched into a line, the shimmer of a child’s laugh, a man's breath held too long.
+The hidden layer beneath the wall was not content to stay hidden. It reached out with fragments: an apology scratched into a line, the shimmer of a child's laugh, a man's breath held too long.
 
 She opened her eyes. She saw the last fragment clearly now: LIO. The letters were not black. They were a pale, pulsing outline.
 
 The wall's refusal became louder. It was not words now. It was the pressure in the floor, the slight pull at her boots.
 
-She backed away. The spindle hummed in her hand. Sera’s fingers pressed hard against the plaster.
+She backed away. The spindle hummed in her hand. Sera's fingers pressed hard against the plaster.
 
 "You can save that," Sera whispered. "You can keep the private layer. But if you want it in the public record, you have to make the city feel it."
 
