@@ -66,6 +66,12 @@ She stood. The coin went back into her pocket, warm from the lamp. Enough.
 
 At the door he stopped, the box under his arm. "Order is compassion when the archive is fragile," he said, the way you set down something carried a long time. "I finally decided." He did not say what he had decided.
 
+She stood to leave, then paused at the terminal by the entrance. A new message had arrived while Ari was speaking:
+
+Someone outside the hall had recognized the name Lio Nash from before the erasure. They were asking questions.
+
+She read it twice, put the terminal down, and picked up the coin.
+
 As she left the room she stopped at the private ledger room, one floor down. The ribbon went into the box beside the card—the original, the whole laugh of it—sealed where authorized hands could reach it and hers could not. Her hand stayed flat on the closed lid a moment. Then she went up into the noise of the halls.
 
 The old quay was empty. Sera was still walking somewhere past the fish-market with walls talking to her on every side, and the absence had a shape — a space at the railing where she would have been leaning, a silence where "Crooked holds" would have gone.

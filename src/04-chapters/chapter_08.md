@@ -12,6 +12,12 @@ She worked it the way she had been taught and the way she had taught others: fou
 
 He laughed when it settled—an old man in a public chair, surprised by his own mouth. He thanked her twice and called her little in the island way, and went out into the market carrying his own weather.
 
+Three days later he came back. Not complaining — worse. Grateful. He took her hand and said: "I hear her when I sleep now. Just the breathing. You didn't take that part." He squeezed her fingers. "Thank you for leaving the breathing."
+
+She hadn't left it. She had tried to remove it with the rest and the thread had resisted, the way some threads do when the memory is too deep in the body to untangle without tearing something. She had told herself it was a limitation of technique.
+
+It was also, she realized now, a mercy she hadn't chosen.
+
 Eleven minutes, all of it. She filed the thread and reached for the next name, and her hands were steady, and she looked at them a moment too long.
 
 These same hands had smoothed a winter morning into nothing three weeks ago. Had taken a fight between strangers and made it disappear so cleanly the strangers themselves forgot they had ever been angry. Good work, the kind the hall praised. Erasure so precise it felt like kindness.
